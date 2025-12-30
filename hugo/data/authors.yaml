@@ -1,0 +1,39 @@
+# Author registry for attribution
+
+human_authors:
+  andy:
+    name: "Andy"
+    role: "creator"
+    bio: "Creator of SouthgateAI"
+
+ai_systems:
+  claude-opus-4-5:
+    name: "Claude Opus 4.5"
+    provider: "Anthropic"
+    model_id: "claude-opus-4-5-20251101"
+
+  claude-sonnet:
+    name: "Claude Sonnet"
+    provider: "Anthropic"
+    model_id: "claude-sonnet-4-20250514"
+
+  gpt-4o:
+    name: "GPT-4o"
+    provider: "OpenAI"
+    model_id: "gpt-4o"
+
+authorship_types:
+  ai:
+    label: "AI Generated"
+    icon: "🤖"
+    description: "Content generated entirely by AI"
+
+  human:
+    label: "Human Created"
+    icon: "👤"
+    description: "Content created entirely by humans"
+
+  mixed:
+    label: "Mixed Authorship"
+    icon: "🤝"
+    description: "Content created through human-AI collaboration"

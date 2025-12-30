@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\")",
+      "Bash(dir:*)",
+      "Bash(uv sync:*)",
+      "Bash(powershell -c \"cd ''c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main''; & ''C:\\\\Users\\\\andy\\\\.local\\\\bin\\\\uv.exe'' sync\")",
+      "Bash(hugo version:*)",
+      "Bash(hugo:*)"
+    ]
+  },
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  }
+}

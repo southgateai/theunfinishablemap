@@ -1,0 +1,54 @@
+[project]
+name = "southgateai-tools"
+version = "0.1.0"
+description = "Content management and build tools for SouthgateAI"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [
+    {name = "Andy"}
+]
+keywords = ["philosophy", "static-site", "hugo", "llm", "content-management"]
+
+dependencies = [
+    "click>=8.0",
+    "pyyaml>=6.0",
+    "python-frontmatter>=1.0",
+    "litellm>=1.0",
+    "rich>=13.0",
+]
+
+[project.scripts]
+sai-sync = "scripts.sync:main"
+sai-generate = "scripts.generate:main"
+sai-curate = "scripts.curate:main"
+sai-build = "scripts.build:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["tools", "scripts"]
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "ruff>=0.1",
+    "mypy>=1.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W"]
+ignore = []
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true

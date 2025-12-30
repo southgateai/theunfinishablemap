@@ -1,0 +1,17 @@
+# Core philosophical concepts registry
+# Used for taxonomy and cross-referencing
+
+concepts:
+  meaning:
+    name: "Meaning"
+    description: "Placeholder description"
+    category: "metaphysics"
+
+  existentialism:
+    name: "Existentialism"
+    description: "Placeholder description"
+    category: "movements"
+
+categories:
+  metaphysics: "Placeholder category"
+  movements: "Placeholder category"

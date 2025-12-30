@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ with .Description }}
+<p>{{ . }}</p>
+{{ end }}
+
+{{ .Content }}
+
+<ul>
+{{ range .Pages }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Params.authorship }}
+            <span class="authorship-badge authorship-{{ .type }}">
+                {{ if eq .type "ai" }}🤖{{ else if eq .type "human" }}👤{{ else }}🤝{{ end }}
+            </span>
+        {{ end }}
+    </li>
+{{ end }}
+</ul>
+{{ end }}

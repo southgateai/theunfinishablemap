@@ -1,0 +1,50 @@
+{{ define "main" }}
+<section class="api-index">
+    <h1>{{ .Title }}</h1>
+
+    {{ with .Description }}
+    <p>{{ . }}</p>
+    {{ end }}
+
+    <div class="api-info">
+        <p>This is the machine-readable API section. Content here is optimized for AI chatbots and automated systems.</p>
+        <p>Each page includes JSON-LD structured data and a <code>#page-data</code> JSON block for programmatic access.</p>
+    </div>
+
+    <h2>Available Content</h2>
+    <ul class="api-list">
+    {{ range .Pages }}
+        <li itemscope itemtype="https://schema.org/Article">
+            <a href="{{ .RelPermalink }}" itemprop="url">
+                <span itemprop="name">{{ .Title }}</span>
+            </a>
+            {{ with .Params.authorship }}
+            <span class="authorship-type" data-type="{{ .type }}">
+                [{{ .type }}{{ with .ai_contribution }}: {{ . }}%{{ end }}]
+            </span>
+            {{ end }}
+            <meta itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
+        </li>
+    {{ end }}
+    </ul>
+
+    <!-- Index JSON for programmatic access -->
+    <script type="application/json" id="index-data">
+    {
+        "section": "{{ .Title }}",
+        "count": {{ len .Pages }},
+        "pages": [
+            {{ range $i, $p := .Pages }}
+            {{ if $i }},{{ end }}
+            {
+                "title": "{{ $p.Title }}",
+                "url": "{{ $p.Permalink }}",
+                "date": "{{ $p.Date.Format "2006-01-02" }}",
+                {{ with $p.Params.authorship }}"authorship_type": "{{ .type }}"{{ end }}
+            }
+            {{ end }}
+        ]
+    }
+    </script>
+</section>
+{{ end }}

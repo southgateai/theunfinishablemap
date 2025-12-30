@@ -1,0 +1,33 @@
+<!-- JSON-LD Structured Data for Machine Consumption -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "name": "{{ .Title }}",
+    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
+    "url": "{{ .Permalink }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    {{ with .Params.authorship }}
+    "author": {
+        "@type": "{{ if eq .type "ai" }}Organization{{ else }}Person{{ end }}",
+        {{ if eq .type "ai" }}
+        "name": "{{ with .ai_system }}{{ . }}{{ else }}AI System{{ end }}"
+        {{ else if eq .type "human" }}
+        "name": "{{ with .human_contributors }}{{ (index . 0).name }}{{ else }}Unknown{{ end }}"
+        {{ else }}
+        "name": "Mixed ({{ with .ai_contribution }}{{ . }}{{ else }}50{{ end }}% AI)"
+        {{ end }}
+    },
+    {{ end }}
+    {{ with .Params.structured_data }}
+    {{ with .concepts }}
+    "keywords": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}"{{ $c }}"{{ end }}],
+    {{ end }}
+    {{ end }}
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}"
+    }
+}
+</script>

@@ -1,0 +1,90 @@
+[build]
+  # Base directory (where pyproject.toml lives)
+  base = ""
+
+  # Build command - Install uv, sync deps, run build
+  command = """
+    curl -LsSf https://astral.sh/uv/install.sh | sh && \
+    export PATH="$HOME/.local/bin:$PATH" && \
+    uv sync && \
+    uv run python scripts/build.py --output public
+  """
+
+  # Output directory for the built site
+  publish = "public"
+
+[build.environment]
+  # Hugo version
+  HUGO_VERSION = "0.153.4"
+
+  # Python version
+  PYTHON_VERSION = "3.11"
+
+  # Node version (for any JS tooling)
+  NODE_VERSION = "20"
+
+  # LLM provider (can be overridden in Netlify UI)
+  LLM_PROVIDER = "anthropic"
+
+# Development server settings
+[dev]
+  command = "hugo server --source hugo --disableFastRender"
+  targetPort = 1313
+  autoLaunch = true
+
+# Deploy previews (PRs)
+[context.deploy-preview]
+  command = """
+    curl -LsSf https://astral.sh/uv/install.sh | sh && \
+    export PATH="$HOME/.local/bin:$PATH" && \
+    uv sync && \
+    uv run python scripts/build.py --output public --skip-validate
+  """
+
+# Branch deploys
+[context.branch-deploy]
+  command = """
+    curl -LsSf https://astral.sh/uv/install.sh | sh && \
+    export PATH="$HOME/.local/bin:$PATH" && \
+    uv sync && \
+    uv run python scripts/build.py --output public
+  """
+
+# Production-specific settings
+[context.production]
+  command = """
+    curl -LsSf https://astral.sh/uv/install.sh | sh && \
+    export PATH="$HOME/.local/bin:$PATH" && \
+    uv sync && \
+    uv run python scripts/build.py --output public
+  """
+
+  [context.production.environment]
+    HUGO_ENV = "production"
+
+# Headers for API section
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "text/html; charset=utf-8"
+    X-Content-Type-Options = "nosniff"
+
+# JSON output headers
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/json; charset=utf-8"
+
+# Redirects
+[[redirects]]
+  from = "/api"
+  to = "/api/"
+  status = 301
+
+# Custom 404
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

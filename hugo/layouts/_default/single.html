@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+
+    {{ if .Site.Params.showAuthorship }}
+        {{ partial "authorship.html" . }}
+    {{ end }}
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+
+    {{ with .Params.structured_data }}
+        {{ if .concepts }}
+        <div class="concepts">
+            <strong>Related concepts:</strong>
+            {{ range .concepts }}
+            <a href="/concepts/{{ . | urlize }}/">{{ . }}</a>{{ if not (eq . (index $.Params.structured_data.concepts (sub (len $.Params.structured_data.concepts) 1))) }}, {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+    {{ end }}
+</article>
+{{ end }}

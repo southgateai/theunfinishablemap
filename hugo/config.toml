@@ -1,0 +1,60 @@
+baseURL = "https://southgateai.netlify.app/"
+languageCode = "en-us"
+title = "SouthgateAI - Philosophy & Meaning"
+
+# Content directory
+contentDir = "content"
+
+# Build settings
+buildDrafts = false
+buildFuture = false
+
+# Taxonomies
+[taxonomies]
+  topic = "topics"
+  concept = "concepts"
+
+# Output formats
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+  page = ["HTML", "JSON"]
+
+# Custom output format for API
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Params
+[params]
+  description = "An opinionated resource about philosophy and the meaning of life"
+  author = "SouthgateAI"
+
+  # Authorship display
+  showAuthorship = true
+
+  # API section path
+  apiPath = "/api/"
+
+# Menu
+[menu]
+  [[menu.main]]
+    name = "Topics"
+    url = "/topics/"
+    weight = 1
+  [[menu.main]]
+    name = "Concepts"
+    url = "/concepts/"
+    weight = 2
+  [[menu.main]]
+    name = "API"
+    url = "/api/"
+    weight = 3

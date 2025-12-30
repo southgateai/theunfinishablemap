@@ -1,0 +1,22 @@
+{{ with .Params.authorship }}
+<div class="authorship authorship-{{ .type }}">
+    {{ if eq .type "ai" }}
+        <strong>AI Generated</strong>
+        {{ with .ai_system }} by {{ . }}{{ end }}
+        {{ with .generated_date }} on {{ . }}{{ end }}
+    {{ else if eq .type "human" }}
+        <strong>Human Created</strong>
+        {{ with .human_contributors }}
+            by {{ range $i, $c := . }}{{ if $i }}, {{ end }}{{ $c.name }}{{ with $c.role }} ({{ . }}){{ end }}{{ end }}
+        {{ end }}
+    {{ else if eq .type "mixed" }}
+        <strong>Mixed Authorship</strong>
+        {{ with .ai_contribution }}({{ . }}% AI){{ end }}
+        {{ with .human_contributors }}
+            - Human contributors: {{ range $i, $c := . }}{{ if $i }}, {{ end }}{{ $c.name }}{{ with $c.role }} ({{ . }}){{ end }}{{ end }}
+        {{ end }}
+        {{ with .ai_system }}<br>AI: {{ . }}{{ end }}
+    {{ end }}
+    {{ with .last_curated }}<br><small>Last curated: {{ . }}</small>{{ end }}
+</div>
+{{ end }}

@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Hugo
+/public/
+/hugo/resources/
+hugo/.hugo_build.lock
+
+# Obsidian internal files (keep .obsidian for settings)
+obsidian/.obsidian/workspace.json
+obsidian/.obsidian/workspaces.json
+obsidian/.trash/
+
+# Generated content (synced from Obsidian)
+# Uncomment if you want to track Hugo content separately
+# hugo/content/topics/
+# hugo/content/concepts/
+
+# API keys and secrets
+.env.local
+.env.*.local
+secrets.yaml
