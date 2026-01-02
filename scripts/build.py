@@ -71,13 +71,13 @@ def main(
 
     # Step 1: Sync Obsidian → Hugo
     if not skip_sync:
-        console.print("[bold]Step 1:[/bold] Syncing Obsidian → Hugo")
+        console.print("[bold]Step 1:[/bold] Syncing Obsidian -> Hugo")
         with console.status("Syncing..."):
             converted = convert_obsidian_to_hugo(
                 obsidian_path=obsidian,
                 hugo_content_path=content_dir,
             )
-        console.print(f"  [green]✓[/green] Synced {len(converted)} files\n")
+        console.print(f"  [green]Done[/green] Synced {len(converted)} files\n")
     else:
         console.print("[dim]Step 1: Skipped Obsidian sync[/dim]\n")
 
@@ -89,13 +89,13 @@ def main(
 
         if results["invalid"] > 0:
             console.print(
-                f"  [red]✗[/red] {results['invalid']} invalid files "
+                f"  [red]FAIL[/red] {results['invalid']} invalid files "
                 f"({results['valid']} valid)\n"
             )
             # Don't fail the build, just warn
         else:
             console.print(
-                f"  [green]✓[/green] All {results['valid']} files valid\n"
+                f"  [green]Done[/green] All {results['valid']} files valid\n"
             )
     else:
         console.print("[dim]Step 2: Skipped validation[/dim]\n")
@@ -104,7 +104,7 @@ def main(
     console.print("[bold]Step 3:[/bold] Syncing API content")
     with console.status("Syncing API..."):
         api_files = sync_api_content(content_dir, api_dir)
-    console.print(f"  [green]✓[/green] Synced {len(api_files)} API files\n")
+    console.print(f"  [green]Done[/green] Synced {len(api_files)} API files\n")
 
     # Step 4: Build Hugo site
     if not skip_hugo:
@@ -118,11 +118,11 @@ def main(
                 text=True,
             )
             if result.returncode != 0:
-                console.print("  [red]✗[/red] Hugo not found")
+                console.print("  [red]FAIL[/red] Hugo not found")
                 console.print("  Install Hugo: https://gohugo.io/installation/")
                 sys.exit(1)
         except FileNotFoundError:
-            console.print("  [red]✗[/red] Hugo not installed")
+            console.print("  [red]FAIL[/red] Hugo not installed")
             console.print("  Install Hugo: https://gohugo.io/installation/")
             sys.exit(1)
 
@@ -140,11 +140,11 @@ def main(
             )
 
         if result.returncode != 0:
-            console.print(f"  [red]✗[/red] Hugo build failed")
+            console.print("  [red]FAIL[/red] Hugo build failed")
             console.print(result.stderr)
             sys.exit(1)
 
-        console.print(f"  [green]✓[/green] Built to {output}\n")
+        console.print(f"  [green]Done[/green] Built to {output}\n")
     else:
         console.print("[dim]Step 4: Skipped Hugo build[/dim]\n")
 

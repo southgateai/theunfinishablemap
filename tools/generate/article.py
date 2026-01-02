@@ -137,25 +137,24 @@ def build_article(
 ) -> str:
     """Build article with frontmatter."""
     post = frontmatter.Post(content)
+    today = datetime.date.today().isoformat()
 
-    # Set frontmatter
+    # Set frontmatter (flat schema)
     post.metadata = {
         "title": topic,
-        "date": datetime.date.today().isoformat(),
+        "created": today,
+        "modified": today,
+        "human_modified": None,
+        "ai_modified": datetime.datetime.now().isoformat(),
         "draft": True,  # Generated content starts as draft
         "topics": [],
-        "authorship": {
-            "type": "ai",
-            "ai_contribution": 100,
-            "human_contributors": [],
-            "ai_system": client.model,
-            "generated_date": datetime.date.today().isoformat(),
-            "last_curated": None,
-        },
-        "structured_data": {
-            "concepts": concepts,
-            "related_articles": [],
-        },
+        "concepts": concepts,
+        "related_articles": [],
+        "ai_contribution": 100,
+        "author": None,
+        "ai_system": client.model,
+        "ai_generated_date": today,
+        "last_curated": None,
     }
 
     return frontmatter.dumps(post)

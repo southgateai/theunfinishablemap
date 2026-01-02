@@ -6,20 +6,14 @@ human_modified: {{date}}
 ai_modified:
 draft: true
 topics: []
+concepts: []
+related_articles: []
 
-authorship:
-  type: "human"
-  ai_contribution: 0
-  human_contributors:
-    - name: "{{author}}"
-      role: "author"
-  ai_system: null
-  generated_date: null
-  last_curated: null
-
-structured_data:
-  concepts: []
-  related_articles: []
+ai_contribution: 0
+author: "{{author}}"
+ai_system:
+ai_generated_date:
+last_curated:
 ---
 
 ## Overview

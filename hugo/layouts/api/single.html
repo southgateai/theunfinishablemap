@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{- $ai := .Params.ai_contribution | default 0 -}}
+{{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
 <article itemscope itemtype="https://schema.org/Article" class="api-content">
     <header>
         <h1 itemprop="name">{{ .Title }}</h1>
@@ -6,29 +8,26 @@
         <meta itemprop="dateModified" content="{{ .Lastmod.Format "2006-01-02" }}">
     </header>
 
-    {{ with .Params.authorship }}
-    <div class="authorship-metadata" itemprop="author" itemscope itemtype="https://schema.org/{{ if eq .type "ai" }}Organization{{ else }}Person{{ end }}">
+    <div class="authorship-metadata" itemprop="author" itemscope itemtype="https://schema.org/{{ if eq $type "ai" }}Organization{{ else }}Person{{ end }}">
         <span itemprop="name">
-            {{ if eq .type "ai" }}
-                {{ with .ai_system }}{{ . }}{{ else }}AI System{{ end }}
-            {{ else if eq .type "human" }}
-                {{ with .human_contributors }}{{ (index . 0).name }}{{ end }}
+            {{ if eq $type "ai" }}
+                {{ with .Params.ai_system }}{{ . }}{{ else }}AI System{{ end }}
+            {{ else if eq $type "human" }}
+                {{ with .Params.author }}{{ . }}{{ else }}Unknown{{ end }}
             {{ else }}
-                Mixed ({{ with .ai_contribution }}{{ . }}{{ else }}50{{ end }}% AI)
+                Mixed ({{ $ai }}% AI)
             {{ end }}
         </span>
-        <meta itemprop="authorType" content="{{ .type }}">
-        {{ with .ai_contribution }}<meta itemprop="aiContribution" content="{{ . }}">{{ end }}
+        <meta itemprop="authorType" content="{{ $type }}">
+        {{ if $ai }}<meta itemprop="aiContribution" content="{{ $ai }}">{{ end }}
     </div>
-    {{ end }}
 
     <div itemprop="articleBody" class="content">
         {{ .Content }}
     </div>
 
-    {{ with .Params.structured_data }}
     <footer class="structured-data">
-        {{ with .concepts }}
+        {{ with .Params.concepts }}
         <div class="concepts">
             <strong>Concepts:</strong>
             <ul itemprop="keywords">
@@ -39,7 +38,7 @@
         </div>
         {{ end }}
 
-        {{ with .related_articles }}
+        {{ with .Params.related_articles }}
         <div class="related">
             <strong>Related:</strong>
             <ul>
@@ -50,7 +49,6 @@
         </div>
         {{ end }}
     </footer>
-    {{ end }}
 </article>
 
 <!-- Raw JSON for programmatic access -->
@@ -60,21 +58,12 @@
     "url": "{{ .Permalink }}",
     "date": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "lastmod": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-    {{ with .Params.authorship }}
-    "authorship": {
-        "type": "{{ .type }}",
-        {{ with .ai_contribution }}"ai_contribution": {{ . }},{{ end }}
-        {{ with .ai_system }}"ai_system": "{{ . }}",{{ end }}
-        {{ with .human_contributors }}"human_contributors": [{{ range $i, $c := . }}{{ if $i }},{{ end }}{"name": "{{ $c.name }}", "role": "{{ $c.role }}"}{{ end }}],{{ end }}
-        {{ with .last_curated }}"last_curated": "{{ . }}"{{ end }}
-    },
-    {{ end }}
-    {{ with .Params.structured_data }}
-    "structured_data": {
-        {{ with .concepts }}"concepts": [{{ range $i, $c := . }}{{ if $i }},{{ end }}"{{ $c }}"{{ end }}],{{ end }}
-        {{ with .related_articles }}"related_articles": [{{ range $i, $a := . }}{{ if $i }},{{ end }}"{{ $a }}"{{ end }}]{{ end }}
-    },
-    {{ end }}
+    "ai_contribution": {{ $ai }},
+    {{ with .Params.author }}"author": "{{ . }}",{{ end }}
+    {{ with .Params.ai_system }}"ai_system": "{{ . }}",{{ end }}
+    {{ with .Params.last_curated }}"last_curated": "{{ . }}",{{ end }}
+    {{ with .Params.concepts }}"concepts": [{{ range $i, $c := . }}{{ if $i }},{{ end }}"{{ $c }}"{{ end }}],{{ end }}
+    {{ with .Params.related_articles }}"related_articles": [{{ range $i, $a := . }}{{ if $i }},{{ end }}"{{ $a }}"{{ end }}],{{ end }}
     "content_length": {{ len .Content }}
 }
 </script>

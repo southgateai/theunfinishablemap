@@ -21,13 +21,17 @@ def _is_valid_timestamp(value: Union[str, datetime, None]) -> bool:
 
 
 # Required frontmatter fields
-REQUIRED_FIELDS = ["title", "authorship"]
+REQUIRED_FIELDS = ["title"]
 
-# Required authorship fields
-REQUIRED_AUTHORSHIP = ["type"]
 
-# Valid authorship types
-VALID_AUTHORSHIP_TYPES = ["ai", "human", "mixed"]
+def get_authorship_type(ai_contribution: int) -> str:
+    """Derive authorship type from ai_contribution percentage."""
+    if ai_contribution == 0:
+        return "human"
+    elif ai_contribution == 100:
+        return "ai"
+    else:
+        return "mixed"
 
 
 def validate_frontmatter(
@@ -66,52 +70,33 @@ def validate_frontmatter(
             result["valid"] = False
             result["errors"].append(f"Missing required field: {field}")
 
-    # Validate authorship if present
-    if "authorship" in metadata:
-        authorship = metadata["authorship"]
+    # Validate ai_contribution if present
+    ai_contribution = metadata.get("ai_contribution")
+    if ai_contribution is not None:
+        if not isinstance(ai_contribution, (int, float)):
+            result["errors"].append("ai_contribution must be a number")
+            result["valid"] = False
+        elif not (0 <= ai_contribution <= 100):
+            result["errors"].append("ai_contribution must be between 0 and 100")
+            result["valid"] = False
+        else:
+            # Derive type and validate consistency
+            authorship_type = get_authorship_type(int(ai_contribution))
 
-        for field in REQUIRED_AUTHORSHIP:
-            if field not in authorship:
-                result["valid"] = False
-                result["errors"].append(f"Missing authorship field: {field}")
+            if authorship_type == "ai":
+                if not metadata.get("ai_system"):
+                    result["warnings"].append(
+                        "AI-authored content (ai_contribution=100) should specify ai_system"
+                    )
 
-        if "type" in authorship:
-            if authorship["type"] not in VALID_AUTHORSHIP_TYPES:
-                result["valid"] = False
-                result["errors"].append(
-                    f"Invalid authorship type: {authorship['type']}. "
-                    f"Must be one of: {', '.join(VALID_AUTHORSHIP_TYPES)}"
-                )
-
-        # Check consistency
-        if authorship.get("type") == "ai":
-            if authorship.get("ai_contribution", 100) != 100:
-                result["warnings"].append(
-                    "AI-authored content should have ai_contribution: 100"
-                )
-            if not authorship.get("ai_system"):
-                result["warnings"].append(
-                    "AI-authored content should specify ai_system"
-                )
-
-        elif authorship.get("type") == "human":
-            if authorship.get("ai_contribution", 0) != 0:
-                result["warnings"].append(
-                    "Human-authored content should have ai_contribution: 0"
-                )
-            if not authorship.get("human_contributors"):
-                result["warnings"].append(
-                    "Human-authored content should list contributors"
-                )
-
-        elif authorship.get("type") == "mixed":
-            if not authorship.get("ai_contribution"):
-                result["warnings"].append(
-                    "Mixed authorship should specify ai_contribution percentage"
-                )
+            elif authorship_type == "human":
+                if not metadata.get("author"):
+                    result["warnings"].append(
+                        "Human-authored content should specify author"
+                    )
 
     # Validate timestamp fields if present
-    for field in ["human_modified", "ai_modified"]:
+    for field in ["human_modified", "ai_modified", "ai_generated_date", "last_curated"]:
         if field in metadata and metadata[field]:
             if not _is_valid_timestamp(metadata[field]):
                 result["warnings"].append(
@@ -120,10 +105,10 @@ def validate_frontmatter(
 
     # Check optional but recommended fields
     if strict:
-        if "date" not in metadata:
-            result["warnings"].append("Missing recommended field: date")
-        if "structured_data" not in metadata:
-            result["warnings"].append("Missing recommended field: structured_data")
+        if "created" not in metadata:
+            result["warnings"].append("Missing recommended field: created")
+        if "concepts" not in metadata:
+            result["warnings"].append("Missing recommended field: concepts")
 
     # Check content
     if not post.content.strip():
@@ -185,7 +170,7 @@ def fix_frontmatter(
     Returns:
         True if file was modified
     """
-    import datetime
+    import datetime as dt
 
     defaults = defaults or {}
 
@@ -203,37 +188,26 @@ def fix_frontmatter(
         )
         modified = True
 
-    # Add missing date
-    if "date" not in post.metadata:
-        post.metadata["date"] = defaults.get(
-            "date", datetime.date.today().isoformat()
+    # Add missing created date
+    if "created" not in post.metadata:
+        post.metadata["created"] = defaults.get(
+            "created", dt.date.today().isoformat()
         )
         modified = True
 
-    # Add missing authorship
-    if "authorship" not in post.metadata:
-        post.metadata["authorship"] = defaults.get(
-            "authorship",
-            {
-                "type": "human",
-                "ai_contribution": 0,
-                "human_contributors": [],
-                "ai_system": None,
-                "generated_date": None,
-                "last_curated": None,
-            },
-        )
+    # Add missing ai_contribution (default to human)
+    if "ai_contribution" not in post.metadata:
+        post.metadata["ai_contribution"] = defaults.get("ai_contribution", 0)
         modified = True
 
-    # Add missing structured_data
-    if "structured_data" not in post.metadata:
-        post.metadata["structured_data"] = defaults.get(
-            "structured_data",
-            {
-                "concepts": [],
-                "related_articles": [],
-            },
-        )
+    # Add missing concepts
+    if "concepts" not in post.metadata:
+        post.metadata["concepts"] = defaults.get("concepts", [])
+        modified = True
+
+    # Add missing related_articles
+    if "related_articles" not in post.metadata:
+        post.metadata["related_articles"] = defaults.get("related_articles", [])
         modified = True
 
     if modified:

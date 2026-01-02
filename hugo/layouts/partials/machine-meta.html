@@ -1,4 +1,6 @@
 <!-- JSON-LD Structured Data for Machine Consumption -->
+{{- $ai := .Params.ai_contribution | default 0 -}}
+{{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -8,22 +10,18 @@
     "url": "{{ .Permalink }}",
     "datePublished": "{{ .Date.Format "2006-01-02" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-    {{ with .Params.authorship }}
     "author": {
-        "@type": "{{ if eq .type "ai" }}Organization{{ else }}Person{{ end }}",
-        {{ if eq .type "ai" }}
-        "name": "{{ with .ai_system }}{{ . }}{{ else }}AI System{{ end }}"
-        {{ else if eq .type "human" }}
-        "name": "{{ with .human_contributors }}{{ (index . 0).name }}{{ else }}Unknown{{ end }}"
+        "@type": "{{ if eq $type "ai" }}Organization{{ else }}Person{{ end }}",
+        {{ if eq $type "ai" }}
+        "name": "{{ with .Params.ai_system }}{{ . }}{{ else }}AI System{{ end }}"
+        {{ else if eq $type "human" }}
+        "name": "{{ with .Params.author }}{{ . }}{{ else }}Unknown{{ end }}"
         {{ else }}
-        "name": "Mixed ({{ with .ai_contribution }}{{ . }}{{ else }}50{{ end }}% AI)"
+        "name": "Mixed ({{ $ai }}% AI)"
         {{ end }}
     },
-    {{ end }}
-    {{ with .Params.structured_data }}
-    {{ with .concepts }}
+    {{ with .Params.concepts }}
     "keywords": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}"{{ $c }}"{{ end }}],
-    {{ end }}
     {{ end }}
     "publisher": {
         "@type": "Organization",

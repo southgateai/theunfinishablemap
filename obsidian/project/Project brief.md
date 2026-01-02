@@ -2,22 +2,17 @@
 title: Project brief
 created: 2026-01-01
 modified: 2026-01-01T14:51:17+03:00
-human_modified: 2026-01-02T14:15:40+03:00
+human_modified: 2026-01-02T14:36:26+03:00
 ai_modified:
 draft: true
 topics: []
-authorship:
-  type: human
-  ai_contribution: 0
-  human_contributors:
-    - name: Andy Southgate
-      role: author
-  ai_system:
-  generated_date:
-  last_curated:
-structured_data:
-  concepts: []
-  related_articles: []
+concepts: []
+related_articles: []
+ai_contribution: 0
+author: Andy Southgate
+ai_system:
+ai_generated_date:
+last_curated:
 ---
 ## Aim
 

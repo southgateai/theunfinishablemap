@@ -9,10 +9,8 @@ contentDir = "content"
 buildDrafts = false
 buildFuture = false
 
-# Taxonomies
+# Disable default taxonomies (using regular sections instead)
 [taxonomies]
-  topic = "topics"
-  concept = "concepts"
 
 # Output formats
 [outputs]

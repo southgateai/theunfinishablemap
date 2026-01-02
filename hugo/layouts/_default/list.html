@@ -9,13 +9,13 @@
 
 <ul>
 {{ range .Pages }}
+    {{- $ai := .Params.ai_contribution | default 0 -}}
+    {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
     <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{ with .Params.authorship }}
-            <span class="authorship-badge authorship-{{ .type }}">
-                {{ if eq .type "ai" }}🤖{{ else if eq .type "human" }}👤{{ else }}🤝{{ end }}
-            </span>
-        {{ end }}
+        <span class="authorship-badge authorship-{{ $type }}">
+            {{ if eq $type "ai" }}🤖{{ else if eq $type "human" }}👤{{ else }}🤝{{ end }}
+        </span>
     </li>
 {{ end }}
 </ul>

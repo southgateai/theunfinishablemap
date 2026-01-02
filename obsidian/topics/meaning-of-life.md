@@ -6,20 +6,14 @@ human_modified: 2025-12-30
 ai_modified:
 draft: false
 topics: ["existentialism", "philosophy-of-life"]
+concepts: ["meaning", "purpose", "existentialism"]
+related_articles: []
 
-authorship:
-  type: "human"
-  ai_contribution: 0
-  human_contributors:
-    - name: "Andy"
-      role: "author"
-  ai_system: null
-  generated_date: null
-  last_curated: null
-
-structured_data:
-  concepts: ["meaning", "purpose", "existentialism"]
-  related_articles: []
+ai_contribution: 0
+author: "Andy"
+ai_system:
+ai_generated_date:
+last_curated:
 ---
 
 Placeholder content.

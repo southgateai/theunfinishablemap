@@ -14,15 +14,15 @@
     <h2>Available Content</h2>
     <ul class="api-list">
     {{ range .Pages }}
+        {{- $ai := .Params.ai_contribution | default 0 -}}
+        {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
         <li itemscope itemtype="https://schema.org/Article">
             <a href="{{ .RelPermalink }}" itemprop="url">
                 <span itemprop="name">{{ .Title }}</span>
             </a>
-            {{ with .Params.authorship }}
-            <span class="authorship-type" data-type="{{ .type }}">
-                [{{ .type }}{{ with .ai_contribution }}: {{ . }}%{{ end }}]
+            <span class="authorship-type" data-type="{{ $type }}">
+                [{{ $type }}{{ if and (ne $ai 0) (ne $ai 100) }}: {{ $ai }}%{{ end }}]
             </span>
-            {{ end }}
             <meta itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
         </li>
     {{ end }}
@@ -35,12 +35,15 @@
         "count": {{ len .Pages }},
         "pages": [
             {{ range $i, $p := .Pages }}
+            {{- $ai := $p.Params.ai_contribution | default 0 -}}
+            {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
             {{ if $i }},{{ end }}
             {
                 "title": "{{ $p.Title }}",
                 "url": "{{ $p.Permalink }}",
                 "date": "{{ $p.Date.Format "2006-01-02" }}",
-                {{ with $p.Params.authorship }}"authorship_type": "{{ .type }}"{{ end }}
+                "authorship_type": "{{ $type }}",
+                "ai_contribution": {{ $ai }}
             }
             {{ end }}
         ]

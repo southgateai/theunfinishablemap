@@ -80,29 +80,24 @@ def convert_file(source_path: Path) -> str:
         post.metadata["title"] = source_path.stem.replace("-", " ").title()
 
     if "date" not in post.metadata:
-        # Use file modification time
-        import datetime
+        # Use 'modified' from frontmatter if available, otherwise file modification time
+        if "modified" in post.metadata:
+            post.metadata["date"] = post.metadata["modified"]
+        else:
+            import datetime
 
-        mtime = source_path.stat().st_mtime
-        post.metadata["date"] = datetime.datetime.fromtimestamp(mtime).isoformat()
+            mtime = source_path.stat().st_mtime
+            post.metadata["date"] = datetime.date.fromtimestamp(mtime).isoformat()
 
-    # Ensure authorship metadata exists
-    if "authorship" not in post.metadata:
-        post.metadata["authorship"] = {
-            "type": "human",
-            "ai_contribution": 0,
-            "human_contributors": [],
-            "ai_system": None,
-            "generated_date": None,
-            "last_curated": None,
-        }
+    # Ensure authorship metadata exists (flat schema)
+    if "ai_contribution" not in post.metadata:
+        post.metadata["ai_contribution"] = 0
 
-    # Ensure structured_data exists
-    if "structured_data" not in post.metadata:
-        post.metadata["structured_data"] = {
-            "concepts": [],
-            "related_articles": [],
-        }
+    # Ensure content metadata exists (flat schema)
+    if "concepts" not in post.metadata:
+        post.metadata["concepts"] = []
+    if "related_articles" not in post.metadata:
+        post.metadata["related_articles"] = []
 
     # Convert content
     content = post.content

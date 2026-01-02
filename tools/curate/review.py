@@ -135,14 +135,16 @@ voice and core arguments. Return only the improved content (no frontmatter)."""
     # Update the content
     post.content = response.content
 
-    # Update curation metadata
+    # Update curation metadata (flat schema)
     import datetime
 
-    if "authorship" in post.metadata:
-        post.metadata["authorship"]["last_curated"] = datetime.date.today().isoformat()
-        if post.metadata["authorship"]["type"] == "human":
-            post.metadata["authorship"]["type"] = "mixed"
-            post.metadata["authorship"]["ai_contribution"] = 20
+    post.metadata["last_curated"] = datetime.date.today().isoformat()
+    post.metadata["ai_modified"] = datetime.datetime.now().isoformat()
+
+    # If was pure human content, mark as mixed after AI curation
+    ai_contribution = post.metadata.get("ai_contribution", 0)
+    if ai_contribution == 0:
+        post.metadata["ai_contribution"] = 20
 
     result = frontmatter.dumps(post)
 
