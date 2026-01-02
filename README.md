@@ -5,15 +5,17 @@ An opinionated resource about philosophy and the meaning of life.
 ## Overview
 
 SouthgateAI serves content in two modes:
-- **Human-browsable** (`/`) - Traditional website experience
-- **Machine-readable** (`/api/`) - Structured content for AI chatbots
+- **Human-browsable** (`/`) - Traditional website with Pico CSS
+- **Machine-readable** (`/api/`) - Structured JSON-LD content for AI chatbots
+
+The project combines human insight with AI-assisted research to build a self-consistent picture of the nature and meaning of life.
 
 ## Technology Stack
 
-- **Content Authoring**: Obsidian
+- **Content Authoring**: Obsidian (with Frontmatter Modified Date plugin)
 - **Static Site Generator**: Hugo
-- **Build Tooling**: Python
-- **LLM Providers**: Anthropic Claude, OpenAI (configurable)
+- **Build Tooling**: Python (uv)
+- **LLM Providers**: Anthropic Claude, OpenAI (via LiteLLM)
 - **Hosting**: Netlify
 
 ## Project Structure
@@ -23,18 +25,21 @@ southgateai-main/
 ├── obsidian/           # Primary content source (Obsidian vault)
 │   ├── topics/         # Philosophical topics
 │   ├── concepts/       # Core concepts
-│   ├── drafts/         # Work in progress
+│   ├── project/        # Project documentation
 │   └── templates/      # Obsidian templates
 ├── hugo/               # Hugo static site
 │   ├── content/        # Synced from Obsidian
+│   │   └── api/        # Machine-readable mirrors
 │   ├── layouts/        # HTML templates
 │   └── data/           # Structured data (YAML)
-├── tools/              # Python tooling
-│   ├── sync/           # Obsidian → Hugo sync
-│   ├── llm/            # LLM provider abstraction
-│   ├── generate/       # Content generation
-│   └── curate/         # Content curation
-└── scripts/            # CLI entry points
+├── tools/              # Python library modules
+│   ├── sync/           # Obsidian -> Hugo conversion
+│   ├── llm/            # LiteLLM client wrapper
+│   ├── generate/       # AI content generation
+│   ├── curate/         # Validation, review, crosslinks
+│   └── build/          # API content sync
+├── scripts/            # CLI entry points
+└── CLAUDE.md           # Claude Code project documentation
 ```
 
 ## Quick Start
@@ -49,7 +54,7 @@ southgateai-main/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/southgateai-main.git
+git clone https://github.com/southgateai/southgateai-main.git
 cd southgateai-main
 
 # Install uv (if not already installed)
@@ -96,22 +101,38 @@ uv run python scripts/build.py
 
 ## Content Authorship
 
-All content is marked with authorship metadata:
+All content uses a flat frontmatter schema with authorship tracking:
 
-- **AI Generated** (`type: ai`) - Created entirely by LLM
-- **Human Created** (`type: human`) - Written by humans
-- **Mixed** (`type: mixed`) - Collaborative human-AI content
+- **Human** (`ai_contribution: 0`) - Created entirely by humans
+- **AI** (`ai_contribution: 100`) - Generated entirely by LLM
+- **Mixed** (`ai_contribution: 1-99`) - Collaborative human-AI content
 
 Frontmatter example:
 ```yaml
-authorship:
-  type: "mixed"
-  ai_contribution: 30
-  human_contributors:
-    - name: "Andy"
-      role: "author"
-  ai_system: "claude-opus-4.5"
+---
+title: "Article Title"
+created: 2026-01-01
+modified: 2026-01-01
+human_modified: 2026-01-01
+ai_modified: null
+draft: false
+topics: []
+concepts: []
+related_articles: []
+
+ai_contribution: 0
+author: "Andy"
+ai_system: null
+ai_generated_date: null
+last_curated: null
+---
 ```
+
+### Git Commit Attribution
+
+The `scripts/commit_obsidian.py` script creates separate commits for human and AI edits:
+- Human edits: Uses configured git user
+- AI edits: Uses "southgate.ai Agent <agent@southgate.ai>"
 
 ## Deployment
 

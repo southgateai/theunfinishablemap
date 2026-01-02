@@ -1,19 +1,21 @@
 ---
-title: Project brief
-created: 2026-01-01
-modified: 2026-01-01T14:51:17+03:00
-human_modified: 2026-01-02T14:36:26+03:00
-ai_modified:
-draft: true
-topics: []
-concepts: []
-related_articles: []
 ai_contribution: 0
+ai_generated_date: null
+ai_modified: null
+ai_system: null
 author: Andy Southgate
-ai_system:
-ai_generated_date:
-last_curated:
+concepts: []
+created: 2026-01-01
+date: &id001 2026-01-01 14:51:17+03:00
+draft: false
+human_modified: 2026-01-02 14:36:26+03:00
+last_curated: null
+modified: *id001
+related_articles: []
+title: Project brief
+topics: []
 ---
+
 ## Aim
 
 The aim of this project is to form a self-consistent picture of the nature and meaning of life.  Is will not create a balanced picture saying it might be this, it might be this; it will for a single best-guess picture.  For convenience of language, this will be expressed as if fact.
@@ -30,4 +32,4 @@ The outputs of the project will be:
 
 *  A static web site designed for search by LLM-based tools.  This is the primary output and users are expect to query the site by referring their chat system to it (ChatGPT, Clause, Gemini, Grok) and making queries in their chat system.
 * A static web site designed for human browsing and review.
-* Project content and history in Git format. [https://github.com/southgateai/southgateai-main](Github)
+* Project content and history in Git format. [Github](https://github.com/southgateai/southgateai-main)

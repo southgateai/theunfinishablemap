@@ -53,6 +53,10 @@ buildFuture = false
     url = "/concepts/"
     weight = 2
   [[menu.main]]
+    name = "Project"
+    url = "/project/"
+    weight = 3
+  [[menu.main]]
     name = "API"
     url = "/api/"
-    weight = 3
+    weight = 4

@@ -31,7 +31,7 @@ def convert_obsidian_to_hugo(
     converted_files: list[Path] = []
 
     # Directories to sync (exclude .obsidian, drafts if configured)
-    sync_dirs = ["topics", "concepts"]
+    sync_dirs = ["topics", "concepts", "project"]
 
     for sync_dir in sync_dirs:
         source_dir = obsidian_path / sync_dir
