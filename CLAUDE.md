@@ -4,9 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-SouthgateAI is a philosophical content platform that serves content in two modes:
-- **Human-browsable** (`/`) - Traditional website via Hugo with Pico CSS
-- **Machine-readable** (`/api/`) - Structured JSON-LD content for AI chatbots
+SouthgateAI is a philosophical content platform built with Hugo and Pico CSS.
 
 **Data flow:** Obsidian vault → Python sync tools → Hugo content → Static site (Netlify)
 
@@ -53,7 +51,6 @@ obsidian/           # Primary content source (Obsidian vault)
 
 hugo/               # Static site generator
 ├── content/        # Synced from Obsidian
-│   └── api/        # Machine-readable mirrors
 ├── layouts/        # HTML templates
 └── data/           # YAML data files
 
@@ -61,8 +58,7 @@ tools/              # Python library modules
 ├── sync/           # Obsidian → Hugo conversion
 ├── llm/            # LiteLLM client wrapper
 ├── generate/       # AI content generation
-├── curate/         # Validation, review, crosslinks
-└── build/          # API content sync
+└── curate/         # Validation, review, crosslinks
 
 scripts/            # CLI entry points (thin wrappers calling tools/)
 ```

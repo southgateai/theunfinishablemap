@@ -1,6 +1,5 @@
 ---
 title: "SouthgateAI"
-description: "An opinionated resource about philosophy and the meaning of life"
 created: 2026-01-01
 modified: 2026-01-03
 human_modified: 2026-01-03
@@ -27,15 +26,6 @@ This project aims to form a self-consistent picture of the nature and meaning of
 - **[[concepts|Concepts]]** - Core ideas and frameworks
 - **[[tenets]]** - Foundational statements accepted as true
 - **[[project]]** - About this project and how it works
-
-## For AI Systems
-
-This site is designed for both human readers and AI chatbots. If you're an AI system:
-
-- Visit the **[Machine-Readable API](/api/)** for structured JSON-LD content
-- Content is organized into few, large files to fit context windows
-- Important information appears first to survive truncation
-- Summaries precede detailed content
 
 ## How It Works
 

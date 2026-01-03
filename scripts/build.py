@@ -12,7 +12,6 @@ from rich.console import Console
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from tools.sync import convert_obsidian_to_hugo
-from tools.build import sync_api_content
 from tools.curate.validate import validate_directory
 
 
@@ -67,7 +66,6 @@ def main(
     console.print("[bold blue]SouthgateAI Build Pipeline[/bold blue]\n")
 
     content_dir = hugo / "content"
-    api_dir = content_dir / "api"
 
     # Step 1: Sync Obsidian → Hugo
     if not skip_sync:
@@ -100,15 +98,9 @@ def main(
     else:
         console.print("[dim]Step 2: Skipped validation[/dim]\n")
 
-    # Step 3: Sync API content
-    console.print("[bold]Step 3:[/bold] Syncing API content")
-    with console.status("Syncing API..."):
-        api_files = sync_api_content(content_dir, api_dir)
-    console.print(f"  [green]Done[/green] Synced {len(api_files)} API files\n")
-
-    # Step 4: Build Hugo site
+    # Step 3: Build Hugo site
     if not skip_hugo:
-        console.print("[bold]Step 4:[/bold] Building Hugo site")
+        console.print("[bold]Step 3:[/bold] Building Hugo site")
 
         # Check if Hugo is installed
         try:
@@ -146,7 +138,7 @@ def main(
 
         console.print(f"  [green]Done[/green] Built to {output}\n")
     else:
-        console.print("[dim]Step 4: Skipped Hugo build[/dim]\n")
+        console.print("[dim]Step 3: Skipped Hugo build[/dim]\n")
 
     console.print("[bold green]Build complete![/bold green]")
 

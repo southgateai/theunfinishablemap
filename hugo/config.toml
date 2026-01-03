@@ -12,19 +12,6 @@ buildFuture = false
 # Disable default taxonomies (using regular sections instead)
 [taxonomies]
 
-# Output formats
-[outputs]
-  home = ["HTML", "JSON"]
-  section = ["HTML", "JSON"]
-  page = ["HTML", "JSON"]
-
-# Custom output format for API
-[outputFormats]
-  [outputFormats.JSON]
-    mediaType = "application/json"
-    baseName = "index"
-    isPlainText = true
-
 # Markup settings
 [markup]
   [markup.goldmark]
@@ -38,9 +25,6 @@ buildFuture = false
 
   # Authorship display
   showAuthorship = true
-
-  # API section path
-  apiPath = "/api/"
 
 # Menu
 [menu]
@@ -60,7 +44,3 @@ buildFuture = false
     name = "Tenets"
     url = "/tenets/"
     weight = 4
-  [[menu.main]]
-    name = "API"
-    url = "/api/"
-    weight = 5
