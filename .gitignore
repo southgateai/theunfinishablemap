@@ -229,3 +229,6 @@ secrets.yaml
 
 # VSCode workspace files
 *.code-workspace
+
+# Windows device names (not real files)
+nul
