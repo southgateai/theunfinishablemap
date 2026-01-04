@@ -1,7 +1,7 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-04 00:00:00+00:00
+ai_modified: 2026-01-04 16:10:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -27,14 +27,27 @@ There is more than just matter involved in reality. <span id="dualism"></span>
 
 **Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely epiphenomenal or illusory.
 
-## Quantum Wu
+## Minimal Quantum Interaction
 
-The minimal quantum interaction required for the non-physical to influence the physical. <span id="quantum-wu"></span>
-**Definition:** "Wu" (from Chinese 無, meaning "nothing" or "absence") refers here to the smallest possible deviation from standard quantum mechanics that would allow a non-physical aspect of reality to bias quantum outcomes without injecting energy or violating conservation laws.
+The smallest possible non-physical influence on physical outcomes. <span id="minimal-quantum-interaction"></span>
+**Definition:** If consciousness can influence the physical world, it must do so at the quantum level—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws. This tenet commits to the *minimal* such interaction: the smallest deviation from standard quantum mechanics that could permit mind-matter causation.
 
-**Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimal wu says: assume the smallest intervention necessary, not more.
+**Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more.
+
+**Not to be confused with:** "Quantum woo" or "quantum mysticism"—pseudoscientific claims that misappropriate quantum mechanics terminology to justify New Age beliefs, parapsychology, or magical thinking. This tenet is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism.
 
 **Rules out:** Uncontrolled psychokinesis, energy injection by mind, and any interaction that would be empirically detectable under current experimental precision.
+
+## Bidirectional Interaction
+
+Consciousness is not a passive observer—it causally influences the physical world. <span id="bidirectional-interaction"></span>
+**Definition:** If we can speak, write, or otherwise report our conscious experiences, then information about consciousness must flow into the physical domain. This requires a mechanism by which the non-physical influences physical outcomes. The proposed mechanism: consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain toward patterns that express its content.
+
+**Rationale:** The very fact that we discuss consciousness proves it is not epiphenomenal. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself is evidence of downward causation.
+
+**Analogy:** Just as radioactive decay "chooses" whether Schrödinger's cat lives or dies by collapsing a superposition, consciousness may "choose" which of many superposed neural firing patterns becomes actual. The brain presents options; the mind selects.
+
+**Rules out:** Pure epiphenomenalism, parallelism without interaction, and any view where consciousness is merely along for the ride.
 
 ## No Many Worlds
 
@@ -44,3 +57,18 @@ The many-worlds interpretation of quantum mechanics is rejected. <span id="no-ma
 **Rationale:** Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful.
 
 **Rules out:** Interpretations that treat all quantum branches as equally real, and approaches that dismiss indexical identity as meaningless.
+
+## Occam's Razor Has Limits
+
+Simplicity is not a reliable guide to truth when knowledge is incomplete. <span id="occams-limits"></span>
+**Definition:** Occam's Razor—the principle that simpler explanations should be preferred—is a useful heuristic but not a law of nature. It fails when we lack the concepts or data to recognize what is actually simple, and it has repeatedly pointed away from truth in the history of science.
+
+**Historical counterexamples:**
+- *Heliocentrism* initially required more epicycles than geocentrism to match observations. The "simpler" Earth-centered model was wrong.
+- *Atomic theory* posited invisible entities when continuous matter seemed simpler. Atoms were real.
+- *Quantum mechanics* replaced deterministic simplicity with probability amplitudes, superposition, and entanglement.
+- *General relativity* curved spacetime itself rather than keeping flat space with forces—vastly more complex, yet correct.
+
+**Rationale:** When confronting the hard problem of consciousness, we face a domain where our conceptual tools may be fundamentally inadequate. Dismissing dualism because materialism seems "simpler" assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight.
+
+**Rules out:** Using parsimony as a decisive argument against dualism, and treating Occam's Razor as anything more than a defeasible heuristic.
