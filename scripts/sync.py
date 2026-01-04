@@ -50,7 +50,7 @@ def main(
     dry_run: bool,
 ) -> None:
     """Sync Obsidian vault content to Hugo."""
-    console.print(f"[bold]Syncing Obsidian → Hugo[/bold]")
+    console.print("[bold]Syncing Obsidian -> Hugo[/bold]")
     console.print(f"  Source: {obsidian.absolute()}")
     console.print(f"  Target: {hugo.absolute()}")
 
@@ -70,7 +70,7 @@ def main(
         table.add_column("Status", style="green")
 
         for path in converted:
-            table.add_row(str(path.relative_to(hugo)), "✓" if not dry_run else "pending")
+            table.add_row(str(path.relative_to(hugo)), "ok" if not dry_run else "pending")
 
         console.print(table)
     else:

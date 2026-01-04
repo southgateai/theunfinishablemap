@@ -1,19 +1,18 @@
 ---
-ai_contribution: 100
-ai_generated_date: 2026-01-04
-ai_modified: 2026-01-04 00:00:00+00:00
-ai_system: claude-opus-4-5-20251101
-author: null
-concepts: []
+title: "Topics Compendium"
 created: 2026-01-04
-date: &id001 2026-01-04
+modified: 2026-01-04
+human_modified:
+ai_modified: 2026-01-04T00:00:00+00:00
 draft: false
-human_modified: null
-last_curated: null
-modified: *id001
-related_articles: []
-title: Topics Compendium
 topics: []
+concepts: []
+related_articles: []
+ai_contribution: 100
+author:
+ai_system: claude-opus-4-5-20251101
+ai_generated_date: 2026-01-04
+last_curated:
 ---
 
 This page provides a consolidated overview of all topics explored on this site. It is designed for efficient reading by both humans and LLM-based tools.
@@ -26,4 +25,4 @@ The central question of the site. What makes a life meaningful? Is meaning disco
 
 **Related concepts:** meaning, purpose, existentialism
 
-**Link:** [meaning-of-life](/topics/meaning-of-life/)
+**Link:** [[meaning-of-life]]

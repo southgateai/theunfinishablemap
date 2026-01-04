@@ -1,7 +1,7 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: null
+ai_modified: 2026-01-04 00:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -16,14 +16,31 @@ title: Tenets
 topics: []
 ---
 
-This file lists tenets.  Each has a short name used to refer to it in backlinks.
+These are the foundational commitments that constrain all content on this site. They are not proven—they are chosen starting points that shape the exploration.
 
 ## Dualism
 
-This is shorthand for there being more than just matter involved. <span id="dualism"></span>
+There is more than just matter involved in reality. <span id="dualism"></span>
+**Definition:** Dualism here means that consciousness (or mind, or experience) is not reducible to physical processes. There exists something beyond the material—whether substance, property, or aspect—that cannot be fully explained by physics alone.
+
+**Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious.
+
+**Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely epiphenomenal or illusory.
+
 ## Quantum Wu
 
-The minimal quantum wu to allow the dual ([Tenets](/tenets/#dualism)) part to interact with the material world. <span id="quantum-wu"></span>
+The minimal quantum interaction required for the non-physical to influence the physical. <span id="quantum-wu"></span>
+**Definition:** "Wu" (from Chinese 無, meaning "nothing" or "absence") refers here to the smallest possible deviation from standard quantum mechanics that would allow a non-physical aspect of reality to bias quantum outcomes without injecting energy or violating conservation laws.
+
+**Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimal wu says: assume the smallest intervention necessary, not more.
+
+**Rules out:** Uncontrolled psychokinesis, energy injection by mind, and any interaction that would be empirically detectable under current experimental precision.
+
 ## No Many Worlds
 
-Many world is rejected due to the vast proliferation of worlds and the difficulty in breaking symmetry (why am I this person and not another?). <span id="no-many-worlds"></span>
+The many-worlds interpretation of quantum mechanics is rejected. <span id="no-many-worlds"></span>
+**Definition:** Many-worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real.
+
+**Rationale:** Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful.
+
+**Rules out:** Interpretations that treat all quantum branches as equally real, and approaches that dismiss indexical identity as meaningless.

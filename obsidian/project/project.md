@@ -2,8 +2,8 @@
 title: The Unfinishable Map Project
 created: 2026-01-03
 modified: 2026-01-03
-human_modified: 2026-01-04T17:45:50+03:00
-ai_modified: 2026-01-03T00:00:00+00:00
+human_modified: 2026-01-04T19:24:17+03:00
+ai_modified: 2026-01-04T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -34,6 +34,8 @@ flowchart LR
     D --> E[Static Site]
     E --> F[Netlify]
 ```
+
+**Reading the diagram:** Content originates in the Obsidian vault as Markdown files. Python sync tools convert Obsidian-style wikilinks to standard Markdown links and copy files to Hugo's content directory. Hugo then builds HTML pages from this content. The resulting static site is deployed to Netlify for hosting.
 
 ## Project Structure
 

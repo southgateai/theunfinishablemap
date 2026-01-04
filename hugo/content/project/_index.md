@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-01-03 00:00:00+00:00
+ai_modified: 2026-01-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-03
 date: &id001 2026-01-03
 draft: false
-human_modified: 2026-01-04 17:45:50+03:00
+human_modified: 2026-01-04 19:24:17+03:00
 last_curated: null
 modified: *id001
 related_articles:
@@ -35,6 +35,8 @@ flowchart LR
     D --> E[Static Site]
     E --> F[Netlify]
 ```
+
+**Reading the diagram:** Content originates in the Obsidian vault as Markdown files. Python sync tools convert Obsidian-style wikilinks to standard Markdown links and copy files to Hugo's content directory. Hugo then builds HTML pages from this content. The resulting static site is deployed to Netlify for hosting.
 
 ## Project Structure
 
