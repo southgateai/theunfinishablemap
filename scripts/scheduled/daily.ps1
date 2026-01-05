@@ -40,9 +40,27 @@ if ($DryRun) {
 }
 
 try {
+    # Build prompt based on task - skills don't work in non-interactive mode
+    $prompt = switch ($Task) {
+        "validate-all" {
+@"
+Execute the validate-all skill. Read .claude/skills/validate-all/SKILL.md for full instructions.
+
+Summary:
+1. Run: uv run python scripts/curate.py validate hugo/content/ --strict
+2. Check for orphaned content (no inbound links)
+3. Check for stale drafts (draft=true older than 30 days)
+4. Log results to obsidian/project/changelog.md
+"@
+        }
+        default {
+            "Execute the $Task task"
+        }
+    }
+
     # Run the task
     $startTime = Get-Date
-    $result = & $ClaudePath -p "/$Task" --output-format json --max-turns 10 2>&1
+    $result = & $ClaudePath -p $prompt --output-format json --max-turns 10 2>&1
     $endTime = Get-Date
     $duration = $endTime - $startTime
 

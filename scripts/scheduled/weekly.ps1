@@ -47,9 +47,72 @@ try {
         $allowedTools += ",WebSearch"
     }
 
+    # Build prompt based on task - skills don't work in non-interactive mode
+    # so we include the full instructions
+    $dateStr = Get-Date -Format 'yyyy-MM-dd'
+    $prompt = switch ($Task) {
+        "work-todo" {
+@"
+Execute the work-todo skill. Read .claude/skills/work-todo/SKILL.md for full instructions.
+
+Summary:
+1. Read obsidian/project/todo.md
+2. Select the highest priority pending task (P0 > P1 > P2 > P3)
+3. Execute it based on type (expand-topic, research-topic, refine-draft, etc.)
+4. Update todo.md to mark task complete
+5. Log to obsidian/project/changelog.md
+6. Do NOT commit - the script handles commits
+"@
+        }
+        "refine-draft" {
+@"
+Execute the refine-draft skill. Read .claude/skills/refine-draft/SKILL.md for full instructions.
+
+Summary:
+1. Find the oldest draft content in obsidian/
+2. Review and improve the content
+3. Update ai_modified timestamp in frontmatter
+4. Keep draft: true (human must approve)
+5. Log to obsidian/project/changelog.md
+"@
+        }
+        "pessimistic-review" {
+@"
+Execute the pessimistic-review skill. Read .claude/skills/pessimistic-review/SKILL.md for full instructions.
+
+Summary:
+1. Review all non-draft content in obsidian/topics/, concepts/, tenets/
+2. Analyze from critic perspectives (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna)
+3. Find logical gaps, unsupported claims, contradictions
+4. Create report at obsidian/project/reviews/pessimistic-$dateStr.md
+5. Add actionable items to todo.md
+6. Log to changelog.md
+"@
+        }
+        "optimistic-review" {
+@"
+Execute the optimistic-review skill. Read .claude/skills/optimistic-review/SKILL.md for full instructions.
+
+Summary:
+1. Review all non-draft content in obsidian/topics/, concepts/, tenets/
+2. Analyze from sympathetic perspectives (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn)
+3. Identify strengths and expansion opportunities
+4. Create report at obsidian/project/reviews/optimistic-$dateStr.md
+5. Add suggested topics to todo.md
+6. Log to changelog.md
+"@
+        }
+        "crosslink" {
+            "Run: uv run python scripts/curate.py crosslink hugo/content/ --apply"
+        }
+        default {
+            "Execute the $Task task"
+        }
+    }
+
     # Run the task
     $startTime = Get-Date
-    $result = & $ClaudePath -p "/$Task" --output-format json --max-turns $MaxTurns --allowedTools $allowedTools 2>&1
+    $result = & $ClaudePath -p $prompt --output-format json --max-turns $MaxTurns --allowedTools $allowedTools 2>&1
     $endTime = Get-Date
     $duration = $endTime - $startTime
 

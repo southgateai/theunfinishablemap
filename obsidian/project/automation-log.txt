@@ -12,3 +12,7 @@
 2026-01-05 14:50:30 - Weekly automation complete
 2026-01-05 14:56:35 - Starting weekly automation: work-todo
 2026-01-05 14:56:35 - Task completed - Duration: 0.03667127m, Cost: unknown
+2026-01-05 14:56:35 - Changes committed: chore(auto): Weekly work-todo (Monday) - 2026-01-05
+2026-01-05 14:56:35 - Weekly automation complete
+2026-01-05 14:59:40 - Starting weekly automation: work-todo
+2026-01-05 14:59:40 - Task completed - Duration: 1.82770852m, Cost: unknown
