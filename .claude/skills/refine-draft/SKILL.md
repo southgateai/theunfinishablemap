@@ -114,7 +114,7 @@ If significant issues remain, create a new todo:
 
 ### 8. Log to Changelog
 
-Append to `obsidian/project/changelog.md`:
+Append to `obsidian/workflow/changelog.md`:
 ```markdown
 ### HH:MM - refine-draft
 - **Status**: Success

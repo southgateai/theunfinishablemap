@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build pipeline for SouthgateAI."""
+"""Build pipeline for The Unfinishable Map."""
 
 import subprocess
 import sys
@@ -63,7 +63,7 @@ def main(
     output: Path,
 ) -> None:
     """Run the full build pipeline."""
-    console.print("[bold blue]SouthgateAI Build Pipeline[/bold blue]\n")
+    console.print("[bold blue]The Unfinishable Map Build Pipeline[/bold blue]\n")
 
     content_dir = hugo / "content"
 

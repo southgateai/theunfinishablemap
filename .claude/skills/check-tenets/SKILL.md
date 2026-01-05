@@ -70,7 +70,7 @@ For each potential conflict, classify severity:
 
 ### 4. Generate Report
 
-Create a report at `obsidian/project/reviews/tenet-check-YYYY-MM-DD.md`:
+Create a report at `obsidian/workflow/reviews/tenet-check-YYYY-MM-DD.md`:
 
 ```markdown
 ---
@@ -117,7 +117,7 @@ ai_system: [current model]
 
 ### 5. Log to Changelog
 
-Append summary to `obsidian/project/changelog.md`.
+Append summary to `obsidian/workflow/changelog.md`.
 
 ## Important
 

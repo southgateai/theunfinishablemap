@@ -10,7 +10,7 @@ from ..llm import get_client, LLMClient
 
 
 # Default system prompt for article generation
-SYSTEM_PROMPT = """You are a thoughtful philosopher and writer creating content for SouthgateAI,
+SYSTEM_PROMPT = """You are a thoughtful philosopher and writer creating content for The Unfinishable Map,
 an opinionated resource about philosophy and the meaning of life.
 
 Your writing should be:

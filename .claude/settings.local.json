@@ -24,7 +24,9 @@
       "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" status --porcelain obsidian)",
       "Bash(xxd:*)",
       "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" status --porcelain obsidian/tenets/)",
-      "Bash(git -C:*)"
+      "Bash(git -C:*)",
+      "Edit(.claude/skills/**)",
+      "Write(.claude/skills/**)"
     ]
   }
 }

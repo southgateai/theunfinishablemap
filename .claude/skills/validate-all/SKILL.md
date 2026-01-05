@@ -5,7 +5,7 @@ description: Run comprehensive validation on all site content. Use for daily hea
 
 # Validate All Content
 
-Run comprehensive validation checks on the SouthgateAI site content.
+Run comprehensive validation checks on The Unfinishable Map site content.
 
 ## When to Use
 
@@ -51,7 +51,7 @@ Find draft content older than 30 days:
 
 ### 5. Log Results
 
-Append results to `obsidian/project/changelog.md` with:
+Append results to `obsidian/workflow/changelog.md` with:
 - Timestamp
 - Status (Success/Warnings/Errors)
 - Count of files validated

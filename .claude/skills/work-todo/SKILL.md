@@ -15,17 +15,35 @@ Orchestrator skill that picks the highest priority task from the queue and execu
 
 ## Instructions
 
-### 1. Read the Todo Queue
+### 1. Process Todo Queue
 
-Read `obsidian/project/todo.md` and parse the active tasks.
+Run the todo processor script to handle vetoed items and get the next task:
 
-### 2. Select Task
+```bash
+uv run python scripts/process_todo.py process --json
+```
 
-Choose the highest priority non-blocked task:
+This script:
+1. Finds any tasks tagged with `#veto` in the Active Tasks section
+2. Moves them to the Vetoed Tasks section (removing the tag)
+3. Returns the highest priority pending task
 
-1. **Priority order**: P0 > P1 > P2 > P3
-2. **Within same priority**: Oldest first (by position in file)
-3. **Skip if blocked**: Check `Blocked-by` field
+The output is JSON:
+```json
+{
+  "modified": true,
+  "vetoed": [{"title": "...", "priority": 2, ...}],
+  "next_task": {"title": "...", "priority": 1, "type": "expand-topic", ...}
+}
+```
+
+If `next_task` is `null`, there are no pending tasks.
+
+### 2. Check for Work
+
+If `next_task` is `null`:
+- Log to changelog that no tasks were available
+- Exit without error
 
 ### 3. Execute Based on Type
 
@@ -55,7 +73,7 @@ Execute the task directly based on its description.
 
 ### 4. Update Todo Queue
 
-After task completion, update `obsidian/project/todo.md`:
+After task completion, update `obsidian/workflow/todo.md`:
 
 Move the task from "Active Tasks" to "Completed Tasks":
 
@@ -82,7 +100,7 @@ Add new tasks to the Active Tasks section with appropriate priority:
 
 ### 6. Log to Changelog
 
-Append to `obsidian/project/changelog.md`:
+Append to `obsidian/workflow/changelog.md`:
 ```markdown
 ### HH:MM - work-todo
 - **Status**: Success/Partial/Failed
@@ -110,11 +128,9 @@ Type: [type]
 - Tasks with `Status: in-progress` (already being worked)
 - Tasks with `Status: blocked`
 - Tasks with unmet `Blocked-by` dependencies
+- Tasks in the Vetoed Tasks section
 
-### Prefer
-- P0 tasks (urgent)
-- Tasks that unblock other tasks
-- Tasks aligned with current content gaps
+Note: The `process_todo.py` script handles task selection automatically. It skips blocked/in-progress tasks and returns the highest priority pending task.
 
 ### Limit
 - Only execute ONE task per invocation

@@ -1,4 +1,4 @@
-# SouthgateAI
+# The Unfinishable Map
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/780f160a-d86e-4dd8-82d3-1798975d8948/deploy-status)](https://app.netlify.com/projects/southgateai-primary/deploys)
 
@@ -8,7 +8,7 @@ An opinionated resource about philosophy and the meaning of life.
 
 ## Overview
 
-SouthgateAI serves content in two modes:
+The Unfinishable Map serves content in two modes:
 - **Human-browsable** (`/`) - Traditional website with Pico CSS
 - **Machine-readable** (`/api/`) - Structured JSON-LD content for AI chatbots
 

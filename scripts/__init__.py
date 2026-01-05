@@ -1,1 +1,1 @@
-"""CLI scripts for SouthgateAI."""
+"""CLI scripts for The Unfinishable Map."""

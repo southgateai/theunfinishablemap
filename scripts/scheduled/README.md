@@ -73,7 +73,7 @@ These PowerShell scripts are designed to run via Windows Task Scheduler for auto
 
 ## Logs
 
-All scripts log to `obsidian/project/automation-log.txt`.
+All scripts log to `obsidian/workflow/automation-log.txt`.
 
 ## Cost Tracking
 

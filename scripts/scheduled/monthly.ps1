@@ -1,18 +1,18 @@
-# Monthly automation script for SouthgateAI
-# Runs: check-tenets, progress-report, research-gaps
+# Monthly automation script for The Unfinishable Map
+# Runs: check-tenets, progress-report
 # Schedule: 1st and 15th of month via Windows Task Scheduler
 
 param(
     [switch]$DryRun,
-    [ValidateSet("check-tenets", "progress-report", "research-gaps")]
+    [ValidateSet("check-tenets", "progress-report")]
     [string]$Task = "check-tenets",
-    [int]$MaxTurns = 15
+    [int]$MaxTurns = 20
 )
 
 $ErrorActionPreference = "Stop"
 $ProjectRoot = "c:\Users\andy\Documents\sai\southgateai-main"
-$ClaudePath = "C:\Users\andy\.local\bin\claude.exe"
-$LogFile = "$ProjectRoot\obsidian\project\automation-log.txt"
+$UvPath = "C:\Users\andy\.local\bin\uv.exe"
+$LogFile = "$ProjectRoot\obsidian\workflow\automation-log.txt"
 $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
 Set-Location $ProjectRoot
@@ -24,77 +24,28 @@ function Write-Log {
     Add-Content -Path $LogFile -Value $LogEntry
 }
 
-function Get-Cost {
-    param($JsonResult)
-    if ($JsonResult.cost_usd) {
-        return $JsonResult.cost_usd
-    }
-    return "unknown"
-}
-
 Write-Log "Starting monthly automation: $Task"
 
 if ($DryRun) {
     Write-Log "DRY RUN - No changes will be made"
-    Write-Host "Would run: $ClaudePath -p `"/$Task`" --output-format json --max-turns $MaxTurns"
+    & $UvPath run python scripts/run_workflow.py $Task --dry-run
     exit 0
 }
 
 try {
-    # Determine allowed tools based on task
-    $allowedTools = "Bash,Read,Glob,Grep,Edit,Write"
-    if ($Task -eq "research-gaps") {
-        $allowedTools += ",WebSearch"
+    # Run the workflow executor
+    & $UvPath run python scripts/run_workflow.py $Task --commit --max-turns $MaxTurns
+    $exitCode = $LASTEXITCODE
+
+    if ($exitCode -eq 0) {
+        Write-Log "Task completed successfully"
     }
-
-    # Build the prompt based on task
-    $prompt = "/$Task"
-    if ($Task -eq "progress-report") {
-        # Progress report is a special prompt, not a skill
-        $prompt = @"
-Generate a progress report for the SouthgateAI compendium.
-
-Analyze:
-1. Content coverage - what topics/concepts exist vs what's needed
-2. Draft status - how many drafts await review
-3. Quality - recent review findings
-4. Tenet alignment - any concerns
-5. Next priorities - what should be worked on
-
-Output to obsidian/project/reviews/progress-report-$(Get-Date -Format 'yyyy-MM-dd').md
-"@
-    }
-
-    # Run the task
-    $startTime = Get-Date
-    $result = & $ClaudePath -p $prompt --output-format json --max-turns $MaxTurns --allowedTools $allowedTools 2>&1
-    $endTime = Get-Date
-    $duration = $endTime - $startTime
-
-    # Try to parse JSON result
-    try {
-        $jsonResult = $result | ConvertFrom-Json
-        $cost = Get-Cost $jsonResult
-        Write-Log "Task completed - Duration: $($duration.TotalMinutes)m, Cost: $cost"
-    }
-    catch {
-        Write-Log "Task completed - Duration: $($duration.TotalMinutes)m (could not parse cost)"
-    }
-
-    # Stage any changes
-    git add -A
-
-    # Check if there are changes to commit
-    git diff --staged --quiet
-    $hasChanges = $LASTEXITCODE -ne 0
-
-    if ($hasChanges) {
-        $commitMsg = "chore(auto): Monthly $Task - $(Get-Date -Format 'yyyy-MM-dd')"
-        git commit -m $commitMsg --author="southgate.ai Agent <agent@southgate.ai>"
-        Write-Log "Changes committed: $commitMsg"
+    elseif ($exitCode -eq 2) {
+        Write-Log "Task hit max turns limit"
     }
     else {
-        Write-Log "No changes to commit"
+        Write-Log "Task failed with exit code $exitCode"
+        exit $exitCode
     }
 }
 catch {

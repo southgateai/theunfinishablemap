@@ -2,15 +2,15 @@
 title: AI Automation System
 created: 2026-01-05
 modified: 2026-01-05
-human_modified: 2026-01-05T15:18:57+03:00
+human_modified: 2026-01-05T16:59:45+03:00
 ai_modified: 2026-01-05T17:30:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
   - "[[project]]"
-  - "[[todo]]"
-  - "[[changelog]]"
+  - "[[workflow/todo]]"
+  - "[[workflow/changelog]]"
 ai_contribution: 100
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101

@@ -1,4 +1,4 @@
-# AI Content Automation for SouthgateAI
+# AI Content Automation for The Unfinishable Map
 #
 # This workflow runs Claude Code to perform automated content tasks.
 # All content changes are created as drafts for human review.
@@ -131,7 +131,7 @@ jobs:
           elif [ "$TASK" = "progress-report" ]; then
             # Progress report is a special prompt
             cat << 'EOF' > /tmp/prompt.txt
-          Generate a progress report for the SouthgateAI compendium.
+          Generate a progress report for The Unfinishable Map compendium.
 
           Analyze:
           1. Content coverage - what topics/concepts exist vs what's needed
@@ -140,7 +140,7 @@ jobs:
           4. Tenet alignment - any concerns
           5. Next priorities - what should be worked on
 
-          Output to obsidian/project/reviews/progress-report-$(date +%Y-%m-%d).md
+          Output to obsidian/workflow/reviews/progress-report-$(date +%Y-%m-%d).md
           EOF
             PROMPT=$(cat /tmp/prompt.txt)
             echo "prompt<<EOF" >> $GITHUB_OUTPUT
@@ -203,9 +203,9 @@ jobs:
           echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
 
-          if [ -f obsidian/project/changelog.md ]; then
+          if [ -f obsidian/workflow/changelog.md ]; then
             echo "### Recent Changelog" >> $GITHUB_STEP_SUMMARY
             echo '```' >> $GITHUB_STEP_SUMMARY
-            tail -30 obsidian/project/changelog.md >> $GITHUB_STEP_SUMMARY
+            tail -30 obsidian/workflow/changelog.md >> $GITHUB_STEP_SUMMARY
             echo '```' >> $GITHUB_STEP_SUMMARY
           fi

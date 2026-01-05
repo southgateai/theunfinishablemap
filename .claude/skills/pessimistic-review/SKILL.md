@@ -22,7 +22,7 @@ If a specific file is provided, review that file.
 
 Otherwise, select content using this priority:
 1. Files with `draft: true` (drafts need review before publishing)
-2. Files not yet reviewed (check `obsidian/project/reviews/` for existing reviews)
+2. Files not yet reviewed (check `obsidian/workflow/reviews/` for existing reviews)
 3. Oldest content by `modified` date
 
 ### 2. Multi-Perspective Critical Analysis
@@ -93,7 +93,7 @@ Also check for:
 
 ### 3. Generate Report
 
-Create a report at `obsidian/project/reviews/pessimistic-YYYY-MM-DD.md`:
+Create a report at `obsidian/workflow/reviews/pessimistic-YYYY-MM-DD.md`:
 
 ```markdown
 ---
@@ -168,7 +168,7 @@ Despite criticisms, note what works well to preserve during revisions.
 
 ### 4. Add Actionable Items
 
-If significant issues are found, add tasks to `obsidian/project/todo.md`:
+If significant issues are found, add tasks to `obsidian/workflow/todo.md`:
 
 ```markdown
 ### P2: Address gaps in [filename]
@@ -179,7 +179,7 @@ If significant issues are found, add tasks to `obsidian/project/todo.md`:
 
 ### 5. Log to Changelog
 
-Append summary to `obsidian/project/changelog.md`.
+Append summary to `obsidian/workflow/changelog.md`.
 
 ## Important
 

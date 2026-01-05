@@ -1,7 +1,7 @@
 [project]
 name = "southgateai-tools"
 version = "0.1.0"
-description = "Content management and build tools for SouthgateAI"
+description = "Content management and build tools for The Unfinishable Map"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"

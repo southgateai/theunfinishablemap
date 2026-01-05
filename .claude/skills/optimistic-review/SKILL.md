@@ -107,7 +107,7 @@ Identify opportunities for:
 
 ### 4. Generate Report
 
-Create a report at `obsidian/project/reviews/optimistic-YYYY-MM-DD.md`:
+Create a report at `obsidian/workflow/reviews/optimistic-YYYY-MM-DD.md`:
 
 ```markdown
 ---
@@ -185,7 +185,7 @@ ai_system: [current model]
 
 ### 5. Add Suggested Tasks
 
-Add expansion opportunities to `obsidian/project/todo.md` as P3 (low priority, needs human approval):
+Add expansion opportunities to `obsidian/workflow/todo.md` as P3 (low priority, needs human approval):
 
 ```markdown
 ### P3: Write article on [suggested topic]
@@ -196,7 +196,7 @@ Add expansion opportunities to `obsidian/project/todo.md` as P3 (low priority, n
 
 ### 6. Log to Changelog
 
-Append summary to `obsidian/project/changelog.md`.
+Append summary to `obsidian/workflow/changelog.md`.
 
 ## Important
 

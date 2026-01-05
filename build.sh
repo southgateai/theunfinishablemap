@@ -1,5 +1,5 @@
 #!/bin/bash
-# Netlify build script for SouthgateAI
+# Netlify build script for The Unfinishable Map
 
 set -e
 

@@ -21,7 +21,7 @@ buildFuture = false
 # Params
 [params]
   description = "An opinionated resource about philosophy and the meaning of life"
-  author = "SouthgateAI"
+  author = "The Unfinishable Map"
 
   # Authorship display
   showAuthorship = true

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-SouthgateAI is a philosophical content platform built with Hugo and Pico CSS.
+The Unfinishable Map is a philosophical content platform built with Hugo and Pico CSS.
 
 **Data flow:** Obsidian vault → Python sync tools → Hugo content → Static site (Netlify)
 
@@ -47,7 +47,8 @@ obsidian/           # Primary content source (Obsidian vault)
 ├── topics/         # Philosophical topics
 ├── concepts/       # Core concepts
 ├── templates/      # Obsidian templates
-└── project/        # Project documentation
+├── project/        # Project documentation
+└── workflow/       # AI automation (todo, changelog, reviews, research)
 
 hugo/               # Static site generator
 ├── content/        # Synced from Obsidian
@@ -127,21 +128,21 @@ The project includes scheduled AI automation for content development. All AI-gen
 | `/check-tenets` | Verify content aligns with 5 foundational tenets | No (reports only) |
 | `/pessimistic-review` | Find logical gaps, unsupported claims, counterarguments | No (reports only) |
 | `/optimistic-review` | Find strengths, expansion opportunities | No (reports only) |
-| `/research-topic [topic]` | Web research, outputs notes to `project/research/` | No (research notes only) |
+| `/research-topic [topic]` | Web research, outputs notes to `workflow/research/` | No (research notes only) |
 | `/expand-topic [topic]` | Generate new article (always `draft: true`) | Yes (creates drafts) |
 | `/refine-draft [file]` | Improve existing draft content | Yes (keeps as draft) |
 | `/work-todo` | Execute highest priority task from queue | Depends on task |
 
 ### Task Queue
 
-Tasks are managed in `obsidian/project/todo.md`:
+Tasks are managed in `obsidian/workflow/todo.md`:
 - P0 (urgent) → P3 (nice to have)
 - Human prioritizes; AI executes
 - All content changes create drafts
 
 ### Changelog
 
-AI activity is logged to `obsidian/project/changelog.md` with:
+AI activity is logged to `obsidian/workflow/changelog.md` with:
 - Timestamp, task name, status
 - Duration, cost estimate
 - Output files, commit hash

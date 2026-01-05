@@ -2,7 +2,7 @@
 title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
-human_modified: 2026-01-05
+human_modified: 2026-01-05T17:33:21+03:00
 ai_modified: 2026-01-05T15:00:16+03:00
 draft: false
 topics: []
@@ -18,6 +18,15 @@ last_curated:
 ---
 
 This is the task queue for AI automation. The human reviews and prioritizes tasks; the AI executes them.
+
+## How to Edit This List
+
+- **Promote**: Change `P3` to `P1`, etc.
+- **Demote**: Change `P1` to `P3`, etc.
+- **Veto**: Add `#veto` anywhere in the task heading (e.g., `### P2: Task name #veto`)
+- **Add reason**: Optionally add `- **Veto reason**: [why]` before vetoing
+
+Vetoed items are moved automatically to the Vetoed Tasks section on the next `/work-todo` run.
 
 ## Priority Levels
 
@@ -89,3 +98,7 @@ This is the task queue for AI automation. The human reviews and prioritizes task
 - **Type**: optimistic-review
 - **Result**: Strengths identified, 6 expansion opportunities suggested
 - **Output**: `reviews/optimistic-2026-01-05.md`
+
+## Vetoed Tasks
+
+Ideas that were considered and rejected. The AI will not re-propose these.
