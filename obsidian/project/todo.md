@@ -28,6 +28,16 @@ This is the task queue for AI automation. The human reviews and prioritizes task
 
 ## Active Tasks
 
+### P0: Fix placeholder pages published as non-draft
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found meaning-of-life.md, existentialism.md, nihilism.md are published with only "Placeholder content". Either set draft:true or add real content. See pessimistic-2026-01-05.md
+
+### P1: Address Bidirectional Interaction circularity concern
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the argument may be circular. Strengthen by addressing epiphenomenalist response. See pessimistic-2026-01-05.md
+
 ### P1: Write article on the hard problem of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -70,4 +80,12 @@ This is the task queue for AI automation. The human reviews and prioritizes task
 
 ## Completed Tasks
 
-*No tasks completed yet.*
+### ✓ 2026-01-05: Pessimistic review of all content
+- **Type**: pessimistic-review
+- **Result**: 4 critical/medium issues found, report generated
+- **Output**: `reviews/pessimistic-2026-01-05.md`
+
+### ✓ 2026-01-05: Optimistic review of all content
+- **Type**: optimistic-review
+- **Result**: Strengths identified, 6 expansion opportunities suggested
+- **Output**: `reviews/optimistic-2026-01-05.md`
