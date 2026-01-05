@@ -11,6 +11,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 $ProjectRoot = "c:\Users\andy\Documents\sai\southgateai-main"
+$ClaudePath = "C:\Users\andy\.local\bin\claude.exe"
 $LogFile = "$ProjectRoot\obsidian\project\automation-log.txt"
 $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
@@ -35,7 +36,7 @@ Write-Log "Starting weekly automation: $Task"
 
 if ($DryRun) {
     Write-Log "DRY RUN - No changes will be made"
-    Write-Host "Would run: claude -p `"/$Task`" --output-format json --max-turns $MaxTurns"
+    Write-Host "Would run: $ClaudePath -p `"/$Task`" --output-format json --max-turns $MaxTurns"
     exit 0
 }
 
@@ -48,7 +49,7 @@ try {
 
     # Run the task
     $startTime = Get-Date
-    $result = claude -p "/$Task" --output-format json --max-turns $MaxTurns --allowedTools $allowedTools 2>&1
+    $result = & $ClaudePath -p "/$Task" --output-format json --max-turns $MaxTurns --allowedTools $allowedTools 2>&1
     $endTime = Get-Date
     $duration = $endTime - $startTime
 
@@ -66,7 +67,8 @@ try {
     git add -A
 
     # Check if there are changes to commit
-    $hasChanges = git diff --staged --quiet; $LASTEXITCODE -ne 0
+    git diff --staged --quiet
+    $hasChanges = $LASTEXITCODE -ne 0
 
     if ($hasChanges) {
         $dayOfWeek = (Get-Date).DayOfWeek

@@ -1,0 +1,8 @@
+2026-01-05 14:41:29 - Starting daily automation: validate-all
+2026-01-05 14:41:29 - DRY RUN - No changes will be made
+2026-01-05 14:41:38 - Starting daily automation: validate-all
+2026-01-05 14:41:38 - ERROR: The term 'claude' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-01-05 14:46:13 - Starting daily automation: validate-all
+2026-01-05 14:46:13 - Task completed - Duration: 4.0070123s, Cost: unknown
+2026-01-05 14:46:13 - No changes to commit
+2026-01-05 14:46:13 - Daily automation complete
