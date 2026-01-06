@@ -31,7 +31,7 @@ def convert_obsidian_to_hugo(
     converted_files: list[Path] = []
 
     # Directories to sync (exclude .obsidian, drafts if configured)
-    sync_dirs = ["topics", "concepts", "project", "tenets"]
+    sync_dirs = ["topics", "concepts", "project", "tenets", "questions", "arguments"]
 
     # Build content index for wikilink resolution
     content_index = build_content_index(obsidian_path, sync_dirs, exclude_drafts)

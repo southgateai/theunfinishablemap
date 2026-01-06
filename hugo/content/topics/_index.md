@@ -1,29 +1,21 @@
 ---
-ai_contribution: 100
-ai_generated_date: 2026-01-04
-ai_modified: 2026-01-04 00:00:00+00:00
-ai_system: claude-opus-4-5-20251101
-author: null
+ai_contribution: 0
+ai_generated_date: null
+ai_modified: null
+ai_system: null
+author: Andy Southgate
 concepts: []
-created: 2026-01-04
-date: &id001 2026-01-04
+created: 2026-01-06
+date: &id001 2026-01-06
 draft: false
-human_modified: null
+human_modified: 2026-01-06
 last_curated: null
 modified: *id001
 related_articles: []
-title: Topics Compendium
+title: Topics
 topics: []
 ---
 
-This page provides a consolidated overview of all topics explored on this site. It is designed for efficient reading by both humans and LLM-based tools.
+This section will contain deep dives into philosophical topics explored on this site.
 
-## The Meaning of Life
-
-The central question of the site. What makes a life meaningful? Is meaning discovered or created? How do the tenets (dualism, quantum wu, rejection of many-worlds) bear on this question?
-
-**Status:** Placeholder - awaiting human authorship.
-
-**Related concepts:** meaning, purpose, existentialism
-
-**Link:** [meaning-of-life](/topics/meaning-of-life/)
+Topics are extended explorations of specific questions or themes, drawing on the foundational tenets and related concepts.
