@@ -73,19 +73,6 @@ The scheduled scripts in `scripts/scheduled/` call the workflow executor:
 .\scripts\scheduled\weekly.ps1 -Task work-todo
 ```
 
-## Schedule
-
-| Frequency | Task | Purpose |
-|-----------|------|---------|
-| Daily 2AM | `validate-all` | Health check |
-| Mon/Thu 3AM | `work-todo` | Content development |
-| Tue 3AM | `refine-draft` | Quality improvement |
-| Wed 3AM | Crosslink generation | Content relationships |
-| Fri 3AM | `pessimistic-review` | Find weaknesses |
-| Sat 3AM | `optimistic-review` | Find opportunities |
-| 1st of month | Progress report | Strategic assessment |
-| 15th of month | `check-tenets` | Alignment verification |
-
 ## Execution Format
 
 Each workflow execution logs:
