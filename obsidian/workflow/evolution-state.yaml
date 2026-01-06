@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-06T14:00:00+00:00
-session_count: 0
+last_updated: 2026-01-06T20:20:00+00:00
+session_count: 2
 
 # Last run timestamps for maintenance tasks
 last_runs:
-  validate-all: null
+  validate-all: 2026-01-06T17:30:00+00:00
   pessimistic-review: 2026-01-05T03:00:00+00:00
   optimistic-review: 2026-01-05T03:00:00+00:00
-  check-tenets: null
-  check-links: null
+  check-tenets: 2026-01-06T20:00:00+00:00
+  check-links: 2026-01-06T19:55:00+00:00
   crosslink: null
 
 # How often each task should run (days)
@@ -34,8 +34,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 11
-  published_files: 11
+  total_files: 19
+  published_files: 12
   draft_files: 0
   placeholder_files: 2  # topics and concepts are empty
 
@@ -54,12 +54,12 @@ progress:
   arguments_written: 1
   questions_written: 1
   research_notes: 1
-  reviews_completed: 2
+  reviews_completed: 4  # +2 from this session (check-tenets, check-links)
 
 # Quality metrics (from last pessimistic review)
 quality:
   critical_issues: 0
-  medium_issues: 0
+  medium_issues: 0  # Reduced from before - circularity concern addressed
   low_issues: 0
 
 # Failed task tracking (title -> retry_count)
@@ -67,4 +67,20 @@ quality:
 failed_tasks: {}
 
 # Recent task history for learning
-recent_tasks: []
+recent_tasks:
+  - task: check-links
+    date: 2026-01-06
+    result: success
+    session: 2
+  - task: check-tenets
+    date: 2026-01-06
+    result: success
+    session: 2
+  - task: refine-draft (circularity concern)
+    date: 2026-01-06
+    result: success
+    session: 2
+  - task: validate-all
+    date: 2026-01-06
+    result: success
+    session: 1

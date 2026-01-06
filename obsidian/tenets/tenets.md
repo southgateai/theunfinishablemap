@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T17:18:31+03:00
-ai_modified: 2026-01-04T16:10:00+00:00
+ai_modified: 2026-01-06T20:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -44,7 +44,11 @@ Consciousness is not a passive observer—it causally influences the physical wo
 
 **Definition:** If we can speak, write, or otherwise report our conscious experiences, then information about consciousness must flow into the physical domain. This requires a mechanism by which the non-physical influences physical outcomes. The proposed mechanism: consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain toward patterns that express its content.
 
-**Rationale:** The very fact that we discuss consciousness proves it is not epiphenomenal. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself is evidence of downward causation.
+**Rationale:** The very fact that we discuss consciousness provides strong evidence against epiphenomenalism. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself suggests downward causation.
+
+**The epiphenomenalist response:** A critic might argue that our discussions of consciousness are themselves just physical processes—neurons causing neurons, with no mental causation involved. We *believe* we're reporting on qualia, but this belief is itself just more neurons firing.
+
+**The problem with that response:** If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states. Our reports about the redness of red or the painfulness of pain would be produced by brain states that have no causal connection to the experiences themselves. This makes introspective reports systematically unreliable—not occasionally wrong, but *accidentally right at best*. Yet the epiphenomenalist presumably trusts their own introspection enough to engage in this very debate. The position is self-undermining: it cannot be rationally held by someone who arrived at it through introspection and reasoning about their own experience.
 
 **Analogy:** Just as radioactive decay "chooses" whether Schrödinger's cat lives or dies by collapsing a superposition, consciousness may "choose" which of many superposed neural firing patterns becomes actual. The brain presents options; the mind selects.
 
