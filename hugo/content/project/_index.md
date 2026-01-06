@@ -14,8 +14,6 @@ modified: *id001
 related_articles:
 - '[[project-brief]]'
 - '[[automation]]'
-- '[[todo]]'
-- '[[changelog]]'
 title: The Unfinishable Map Project
 topics: []
 ---
@@ -55,8 +53,6 @@ flowchart LR
 - [project-brief](/project/project-brief/) - Project aims, methods, and design decisions
 - [tenets](/tenets/) - Human-curated foundational statements
 - [automation](/project/automation/) - AI automation system for content development
-- [todo](/todo/) - Task queue for AI and human work
-- [changelog](/changelog/) - Log of all AI activity
 
 ## Contributing
 

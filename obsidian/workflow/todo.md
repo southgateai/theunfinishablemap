@@ -2,7 +2,7 @@
 title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
-human_modified: 2026-01-05T17:33:21+03:00
+human_modified: 2026-01-06T17:19:11+03:00
 ai_modified: 2026-01-05T15:00:16+03:00
 draft: false
 topics: []
@@ -98,6 +98,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/w
 - **Type**: optimistic-review
 - **Result**: Strengths identified, 6 expansion opportunities suggested
 - **Output**: `reviews/optimistic-2026-01-05.md`
+
+## Blocked Tasks (Needs Human)
+
+Tasks that failed 3+ times and require human intervention.
 
 ## Vetoed Tasks
 

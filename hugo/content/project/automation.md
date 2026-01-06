@@ -13,8 +13,6 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[project]]'
-- '[[workflow/todo]]'
-- '[[workflow/changelog]]'
 title: AI Automation System
 topics: []
 ---
@@ -101,27 +99,14 @@ The review skills use philosophical personas to generate diverse critiques:
 
 ## Task Queue
 
-Tasks are managed in [todo](/todo/):
+Tasks are managed in an internal todo queue:
 
 - **P0**: Urgent - execute immediately
 - **P1**: High - execute this week
 - **P2**: Medium - execute when time permits
 - **P3**: Low - nice to have, needs human approval
 
-The AI picks the highest priority non-blocked task and executes it. All activity is logged to [changelog](/changelog/).
-
-## Schedule
-
-| Frequency | Task | Purpose |
-|-----------|------|---------|
-| Daily 2AM | `/validate-all` | Health check |
-| Mon/Thu 3AM | `/work-todo` | Content development |
-| Tue 3AM | `/refine-draft` | Quality improvement |
-| Wed 3AM | Crosslink generation | Content relationships |
-| Fri 3AM | `/pessimistic-review` | Find weaknesses |
-| Sat 3AM | `/optimistic-review` | Find opportunities |
-| 1st of month | Progress report | Strategic assessment |
-| 15th of month | `/check-tenets` | Alignment verification |
+The AI picks the highest priority non-blocked task and executes it. All activity is logged internally.
 
 ## Safety Mechanisms
 

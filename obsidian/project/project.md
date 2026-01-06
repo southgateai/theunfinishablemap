@@ -10,8 +10,6 @@ concepts: []
 related_articles:
   - "[[project-brief]]"
   - "[[automation]]"
-  - "[[todo]]"
-  - "[[changelog]]"
 ai_contribution: 100
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -54,8 +52,6 @@ flowchart LR
 - [[project-brief]] - Project aims, methods, and design decisions
 - [[tenets]] - Human-curated foundational statements
 - [[automation]] - AI automation system for content development
-- [[todo]] - Task queue for AI and human work
-- [[changelog]] - Log of all AI activity
 
 ## Contributing
 
