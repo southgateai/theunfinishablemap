@@ -2,7 +2,7 @@
 title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
-human_modified: 2026-01-06T18:18:32+03:00
+human_modified: 2026-01-06T18:29:26+03:00
 ai_modified: 2026-01-05T15:00:16+03:00
 draft: false
 topics: []
@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/w
 
 ## Active Tasks
 
-### P2: Research Buddhist perspectives on meaning
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Non-Western philosophical tradition. Compare with site tenets.
-
 ### P3: Create article on free will and determinism
 - **Type**: expand-topic
 - **Status**: pending
@@ -58,6 +53,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/w
 - **Notes**: Tononi's theory. How does it relate to or conflict with site tenets?
 
 ## Completed Tasks
+
+### ✓ 2026-01-06: Research Buddhist perspectives on meaning
+- **Type**: research-topic
+- **Result**: Comprehensive research on Four Noble Truths, anattā (no-self), Buddhist ethics, and comparison with site tenets
+- **Output**: `workflow/research/buddhist-perspectives-meaning-2026-01-06.md`
 
 ### ✓ 2026-01-06: Write article on the hard problem of consciousness
 - **Type**: expand-topic
