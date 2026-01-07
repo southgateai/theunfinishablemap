@@ -105,8 +105,17 @@ Whether this specific proposal is correct matters less than the underlying point
 
 ## Further Reading
 
-- [[materialism|Against Materialism]] - Why physicalist explanations fail
-- [[tenets]] - The foundational commitments of this site
+### On This Site
+- [[materialism|Against Materialism]] — Why physicalist explanations fail
+- [[qualia]] — The qualitative character of experience
+- [[tenets]] — The foundational commitments of this site
+
+### External Resources
+- [Consciousness (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/consciousness/) — Comprehensive overview of consciousness in philosophy
+- [Qualia (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/qualia/) — Detailed treatment of the qualitative aspects of experience
+- David Chalmers, "Facing Up to the Problem of Consciousness" (1995) — The paper that named the hard problem
+- Thomas Nagel, "What Is It Like to Be a Bat?" (1974) — Classic argument for the irreducibility of subjective experience
+- Frank Jackson, "Epiphenomenal Qualia" (1982) — The Mary's Room thought experiment
 
 ## References
 
