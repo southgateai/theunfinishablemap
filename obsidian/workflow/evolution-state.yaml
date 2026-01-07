@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-07T22:45:00+00:00
-session_count: 7
+last_updated: 2026-01-07T23:30:00+00:00
+session_count: 8
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -53,7 +53,7 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 1  # hard-problem-of-consciousness
-  concepts_written: 5  # existentialism, nihilism, locality, simulation, qualia
+  concepts_written: 6  # existentialism, nihilism, locality, simulation, qualia, retrocausality
   arguments_written: 1
   questions_written: 1
   research_notes: 5  # arguments-against-materialism, interactionist-dualism, buddhist-perspectives, libet-experiments, iit
@@ -71,6 +71,10 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (retrocausality)
+    date: 2026-01-07
+    result: success
+    session: 8
   - task: research-topic (IIT)
     date: 2026-01-07
     result: success
