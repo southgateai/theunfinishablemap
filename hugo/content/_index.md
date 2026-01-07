@@ -20,6 +20,8 @@ topics: []
 
 A project to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just our best guess at the truth, revised as we learn.
 
+**[What's New](/workflow/highlights/)** — See the latest additions and insights.
+
 ## Explore
 
 - **[Tenets](/tenets/)** - Foundational statements accepted as true
@@ -28,6 +30,7 @@ A project to build a coherent worldview about consciousness, meaning, and what i
 - **[Topics](/topics/)** - Deep dives into philosophical questions
 - **[Concepts](/concepts/)** - Core ideas and frameworks
 - **[Project](/project/)** - About this project and how it works
+- **[Workflow](/workflow/)** - AI automation system and evolution tracking
 
 ## How It Works
 

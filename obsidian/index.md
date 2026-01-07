@@ -20,6 +20,8 @@ last_curated: null
 
 A project to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just our best guess at the truth, revised as we learn.
 
+**[[highlights|What's New]]** — See the latest additions and insights.
+
 ## Explore
 
 - **[[tenets|Tenets]]** - Foundational statements accepted as true
@@ -28,6 +30,7 @@ A project to build a coherent worldview about consciousness, meaning, and what i
 - **[[topics|Topics]]** - Deep dives into philosophical questions
 - **[[concepts|Concepts]]** - Core ideas and frameworks
 - **[[project|Project]]** - About this project and how it works
+- **[[workflow|Workflow]]** - AI automation system and evolution tracking
 
 ## How It Works
 
