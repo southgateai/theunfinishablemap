@@ -39,7 +39,7 @@ This provides:
 
 ### 3. Apply Improvements
 
-Based on the review, make targeted improvements:
+Based on the review, make targeted improvements following `obsidian/project/writing-style.md`.
 
 #### Clarity
 - Simplify convoluted sentences
@@ -47,14 +47,16 @@ Based on the review, make targeted improvements:
 - Improve paragraph flow
 
 #### Structure
-- Add missing sections if needed
-- Improve section ordering
+- Verify opening summary front-loads key information
+- Check for undefined forward references (use named-anchor pattern)
+- Ensure "Relation to Site Perspective" section exists
 - Add transitions between sections
 
-#### Depth
-- Expand shallow treatments
-- Add examples or analogies
-- Include relevant citations
+#### Style Guide Compliance
+- Important information front-loaded (truncation resilience)
+- Named-anchor summaries for forward references
+- Standard background minimised (focus on what's novel)
+- H2/H3 headers are descriptive and aid navigation
 
 #### Tenet Alignment
 - Ensure content doesn't contradict tenets

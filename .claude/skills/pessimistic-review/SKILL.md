@@ -91,6 +91,12 @@ Also check for:
 - Are there weasel words hiding weak arguments?
 - Is the tone appropriately uncertain where warranted?
 
+**Style Guide Violations** (see `obsidian/project/writing-style.md`)
+- Is important information front-loaded for LLM truncation resilience?
+- Are there undefined forward references without named-anchor markers?
+- Is the "Relation to Site Perspective" section present and substantive?
+- Is redundant background minimised (focus on what's novel)?
+
 ### 3. Generate Report
 
 Create a report at `obsidian/workflow/reviews/pessimistic-YYYY-MM-DD.md`:

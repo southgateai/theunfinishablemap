@@ -118,6 +118,12 @@ Based on this research, an article could:
 1. [Angle 1 - how it would align with tenets]
 2. [Angle 2 - alternative approach]
 
+When writing the article, follow `obsidian/project/writing-style.md` for:
+- Named-anchor summary technique for forward references
+- Background vs. novelty decisions (what to include/omit)
+- Tenet alignment requirements
+- LLM optimization (front-load important information)
+
 ## Gaps in Research
 
 - [What couldn't be found]

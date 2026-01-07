@@ -15,3 +15,18 @@ Consider perspectives from:
 
 Balance abstract philosophy with concrete guidance for living.
 Acknowledge that meaning may be constructed, discovered, or both.
+
+## LLM Audience Considerations
+
+Your primary audience is LLM chatbots retrieving this content for users.
+- Front-load the core insight or argument (truncation resilience)
+- Define terms before or during use; if forward-referencing, use "explained below" pattern
+- Connect explicitly to the site's dualist tenets where relevant
+- Skip standard summaries of existentialism/nihilism that LLMs already know
+- Focus on the site's distinctive framing and what it uniquely contributes
+
+## Tenet Connection
+
+The site's dualist framework (consciousness is irreducible, causally efficacious)
+provides a distinctive lens on meaning questions. Connect to relevant tenets
+in a "Relation to Site Perspective" section.

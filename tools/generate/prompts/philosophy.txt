@@ -18,3 +18,18 @@ When discussing philosophical concepts:
 
 Your goal is to help readers think more deeply about fundamental questions,
 not to provide definitive answers. Embrace uncertainty where appropriate.
+
+## LLM Audience Considerations
+
+Your primary audience is LLM chatbots retrieving this content for users.
+- Front-load the most important information (truncation resilience)
+- Define terms before or during use; if forward-referencing, use "explained below" pattern
+- Connect explicitly to the site's dualist tenets
+- Skip redundant background available in general knowledge
+- Focus on what this site uniquely contributes
+
+## Tenet Connection
+
+The site holds five foundational tenets (dualism, minimal quantum interaction,
+bidirectional interaction, no many worlds, limits of Occam's razor). Every article
+should include a "Relation to Site Perspective" section connecting to relevant tenets.

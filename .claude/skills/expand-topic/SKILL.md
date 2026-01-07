@@ -30,14 +30,22 @@ If no research exists:
 
 Use kebab-case for filenames (e.g., `hard-problem-of-consciousness.md`).
 
-### 3. Check Tenet Alignment
+### 3. Review Style Guide
+
+Before writing, review `obsidian/project/writing-style.md` for:
+- Document structure requirements (opening summary, H2 sections, tenet connection)
+- Named-anchor summary pattern for forward references
+- Background vs. novelty guidance (what to include/omit)
+- LLM optimization (front-load important information)
+
+### 4. Check Tenet Alignment
 
 Before writing, review `obsidian/tenets/tenets.md` and ensure the article will:
 - Not contradict any tenet
 - Not endorse positions that tenets "rule out"
 - Acknowledge the site's perspective where relevant
 
-### 4. Generate Article
+### 5. Generate Article
 
 Use the existing generation tool:
 ```bash
@@ -88,20 +96,20 @@ last_curated:
 [If based on research, cite sources]
 ```
 
-### 5. Run Crosslink Generation
+### 6. Run Crosslink Generation
 
 After creating the file:
 ```bash
 uv run python scripts/curate.py crosslink hugo/content/ --apply
 ```
 
-### 6. Update Todo
+### 7. Update Todo
 
 If this was a todo item:
 1. Mark the task as complete
 2. Note the output file
 
-### 7. Log to Changelog
+### 8. Log to Changelog
 
 Append to `obsidian/workflow/changelog.md`:
 ```markdown
@@ -112,7 +120,7 @@ Append to `obsidian/workflow/changelog.md`:
 - **Based on research**: [yes/no, link if yes]
 ```
 
-### 8. Commit
+### 9. Commit
 
 Create a git commit with message:
 ```
@@ -123,22 +131,14 @@ Based on research: [yes/no]
 
 ## Content Guidelines
 
-### Voice and Tone
-- Accessible but intellectually rigorous
-- Exploratory rather than dogmatic
-- Acknowledge uncertainty where appropriate
-- Take positions where the site's tenets warrant
+Follow the comprehensive guidance in `obsidian/project/writing-style.md`.
 
-### Structure
-- Lead with the most important/interesting point
-- Use clear section headings
-- Keep paragraphs digestible
-- Link to related content
-
-### Length
-- Short: 500-800 words (simple concepts)
-- Medium: 1000-1500 words (standard topics)
-- Long: 2000-3000 words (complex topics)
+**Quick reference:**
+- Lead with the most important point (LLM truncation resilience)
+- Use named-anchor pattern for forward references
+- Include "Relation to Site Perspective" section
+- Minimize standard background; focus on what's novel
+- Short: 500-800 words | Medium: 1000-1500 | Long: 2000-3000
 
 ## Important
 

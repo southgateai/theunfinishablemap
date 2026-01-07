@@ -107,6 +107,16 @@ Authorship type is derived from `ai_contribution`:
 - `100` = ai (purely AI-generated)
 - `1-99` = mixed (human-AI collaboration)
 
+## Writing Style
+
+All content follows the Writing Style Guide in `obsidian/project/writing-style.md`.
+
+Key principles:
+- **LLM-first**: Primary audience is chatbots fetching pages. Important information first (truncation resilience).
+- **Named-anchor summaries**: When forward-referencing concepts, use "explained below" pattern with section anchors.
+- **Selective background**: Include background only when framed for the site's dualist perspective. Skip what LLMs already know.
+- **Tenet alignment**: Every article must connect to tenets explicitly via "Relation to Site Perspective" section.
+
 ## Code Conventions
 
 - **Python:** Ruff linting (E, F, I, N, W), line length 100, mypy type hints required
@@ -190,3 +200,86 @@ All content must align with these foundational commitments (see `obsidian/tenets
 3. **Bidirectional Interaction** - Consciousness causally influences the physical world
 4. **No Many Worlds** - Reject MWI; indexical identity matters
 5. **Occam's Razor Has Limits** - Simplicity is unreliable with incomplete knowledge
+
+### Adding New Skills
+
+To add a new skill to the workflow system, touch these parts:
+
+#### 1. Create the Skill File
+
+Create `.claude/skills/[skill-name]/SKILL.md`:
+
+```markdown
+---
+name: skill-name
+description: Brief description for skill listing.
+---
+
+# Skill Title
+
+[What this skill does]
+
+## When to Use
+
+- Bullet points describing when this skill should be invoked
+
+## Instructions
+
+### 1. [First Step]
+[Detailed instructions...]
+
+### 2. [Second Step]
+[Continue with numbered steps...]
+
+## Important
+
+- Key constraints or requirements
+```
+
+#### 2. Register with /evolve (if maintenance task)
+
+If the skill should run on a schedule, update `.claude/skills/evolve/SKILL.md`:
+
+1. Add to the **Check Staleness** table with cadence and overdue threshold
+2. Add to the **Execute Tasks** section showing how to invoke it
+
+#### 3. Update evolution-state.yaml
+
+For scheduled tasks, add entries to `obsidian/workflow/evolution-state.yaml`:
+
+```yaml
+last_runs:
+  new-skill: null  # or initial timestamp
+
+cadences:
+  new-skill: 7  # how often in days
+
+overdue_thresholds:
+  new-skill: 3  # inject when overdue by N days
+```
+
+#### 4. Register with /work-todo (if queue task)
+
+If the skill can be invoked from the todo queue, update `.claude/skills/work-todo/SKILL.md`:
+
+1. Add a new section under **Execute Based on Type**:
+   ```markdown
+   #### Type: `new-skill`
+   Run the `/new-skill` skill with the [parameters] from the task.
+   ```
+
+#### 5. Update CLAUDE.md Skills Table
+
+Add the skill to the **Skills (Slash Commands)** table in this file with:
+- Skill name
+- Purpose description
+- Whether it modifies content
+
+#### 6. Interactive Sessions
+
+**If the session is interactive, ask the user how often the skill should run:**
+- Daily, weekly, monthly, or manual-only?
+- What overdue threshold makes sense?
+- Should it compete with todo tasks or run independently?
+
+This ensures the cadence matches user expectations rather than guessing.

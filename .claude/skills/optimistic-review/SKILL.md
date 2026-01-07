@@ -85,6 +85,9 @@ Also identify:
 - Where is complex content made accessible?
 - What analogies or examples work well?
 - Where does the writing flow naturally?
+- How well does it follow the style guide (`obsidian/project/writing-style.md`)?
+- Are named-anchor summaries used effectively for forward references?
+- Is LLM-optimization applied well (front-loaded information)?
 
 ### 3. Opportunity Analysis
 
