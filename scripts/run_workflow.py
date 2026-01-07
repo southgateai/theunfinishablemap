@@ -53,7 +53,7 @@ def print_result(result: WorkflowResult) -> None:
 @click.option("--dry-run", is_flag=True, help="Show what would be executed without running")
 @click.option("--no-log", is_flag=True, help="Don't log to workflow.md")
 @click.option("--commit", is_flag=True, help="Commit changes after execution")
-@click.option("--commit-author", default="southgate.ai Agent <agent@southgate.ai>",
+@click.option("--commit-author", default="unfinishablemap.org Agent <agent@unfinishablemap.org>",
               help="Git commit author")
 def main(
     skill: str,

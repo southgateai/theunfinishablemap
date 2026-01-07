@@ -44,7 +44,7 @@ try {
         if ($LASTEXITCODE -ne 0) {
             $dayOfWeek = (Get-Date).DayOfWeek
             $commitMsg = "chore(auto): Weekly crosslink ($dayOfWeek) - $(Get-Date -Format 'yyyy-MM-dd')"
-            git commit -m $commitMsg --author="southgate.ai Agent <agent@southgate.ai>"
+            git commit -m $commitMsg --author="unfinishablemap.org Agent <agent@unfinishablemap.org>"
             Write-Log "Changes committed: $commitMsg"
         }
     }

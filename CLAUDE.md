@@ -67,7 +67,7 @@ The `human_modified` field is updated automatically by the Obsidian Frontmatter 
 
 The `commit_obsidian.py` script compares these timestamps to determine git commit authorship:
 - Human edits: Uses configured git user
-- AI edits: Uses "southgate.ai Agent <agent@southgate.ai>"
+- AI edits: Uses "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 
 ## Timezone Policy
 

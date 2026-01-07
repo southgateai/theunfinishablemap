@@ -19,7 +19,7 @@ from rich.console import Console
 console = Console()
 
 # AI author for commits
-AI_AUTHOR = "southgate.ai Agent <agent@southgate.ai>"
+AI_AUTHOR = "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 
 
 def parse_timestamp(value: Optional[str]) -> Optional[datetime]:

@@ -125,7 +125,7 @@ last_curated: null
 
 The `scripts/commit_obsidian.py` script creates separate commits for human and AI edits:
 - Human edits: Uses configured git user
-- AI edits: Uses "southgate.ai Agent <agent@southgate.ai>"
+- AI edits: Uses "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 
 ## Deployment
 
