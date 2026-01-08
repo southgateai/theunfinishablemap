@@ -1,6 +1,6 @@
 # Evolve
 
-The main orchestrator for autonomous site evolution. Intelligently selects and executes tasks based on priority, staleness, and site goals.
+The main orchestrator for autonomous site evolution. Intelligently selects and executes tasks based on priority, staleness, and site goals. Automatically replenishes the task queue when empty.
 
 ## Usage
 
@@ -14,6 +14,28 @@ Modes:
 - `deep` - Execute 3-5 tasks including maintenance
 
 ## Session Workflow
+
+### 0. Check Queue Health (Pre-flight)
+
+Before doing anything else, check if the queue needs replenishment:
+
+```python
+state = load_state('obsidian/workflow/evolution-state.yaml')
+todo = parse_todo('obsidian/workflow/todo.md')
+
+active_tasks = count_active_tasks(todo)  # P0-P2 only, P3 doesn't count
+needs_replenishment = active_tasks < 3
+
+if needs_replenishment:
+    # Run replenishment before proceeding
+    invoke('/replenish-queue')
+    # Reload todo after replenishment
+    todo = parse_todo('obsidian/workflow/todo.md')
+```
+
+**Threshold**: Replenish when fewer than 3 active tasks (P0-P2) remain. P3 tasks don't count toward this threshold since they require human promotion.
+
+**Note**: Replenishment runs FIRST, before staleness checks or task selection, to ensure there's always meaningful work available.
 
 ### 1. Load State
 
@@ -78,12 +100,14 @@ For each selected task:
    - `expand-topic` → `/expand-topic [topic]`
    - `research-topic` → `/research-topic [topic]`
    - `refine-draft` → `/refine-draft [file]`
+   - `cross-review` → `/deep-review [target-file]` with cross-reference context
 
 3. After each task:
    - Record outcome (success/failed/partial)
    - If failed: increment retry count in state
    - If 3+ failures: move to Blocked section in todo.md
    - If success: mark completed in todo.md (see Completed Task Format below)
+   - **If success AND task type generates chains**: update `task_chains` in state (see Task Chain Recording below)
 
 4. **Commit after each task** (for easy reversion):
    - If task modified files, commit immediately
@@ -206,6 +230,52 @@ When marking a task as completed, preserve all original information and add exec
 
 **Important:** The original `Notes` field must be preserved exactly as written. This maintains the human's original intent and reasoning. Add execution details in the separate `Result` and `Output` fields.
 
+## Task Chain Recording
+
+When certain task types complete successfully, record chain information for `/replenish-queue`:
+
+### After `research-topic` completes:
+
+Add to `task_chains.pending_articles` in evolution-state.yaml:
+```yaml
+pending_articles:
+  - "research/panpsychism-consciousness-2026-01-08.md"
+```
+
+This signals that research exists without a corresponding article.
+
+### After `expand-topic` completes:
+
+1. **Remove from pending_articles** if this article was based on research
+2. **Add to pending_cross_reviews** with related articles:
+
+```yaml
+pending_cross_reviews:
+  - new_article: "concepts/panpsychism.md"
+    review_targets:
+      - "topics/hard-problem-of-consciousness.md"
+      - "concepts/qualia.md"
+    generated: "2026-01-08T10:00:00+00:00"
+```
+
+**Finding review targets**: Look at the new article's:
+- `related_articles` frontmatter
+- Wikilinks in content
+- Topics/concepts that share themes
+
+Maximum 2 review targets per article (configurable in state).
+
+### After `cross-review` completes:
+
+Remove the completed review from `pending_cross_reviews`:
+```python
+for chain in pending_cross_reviews:
+    if chain['new_article'] == task.chain_parent:
+        chain['review_targets'].remove(task.target_file)
+        if not chain['review_targets']:
+            pending_cross_reviews.remove(chain)
+```
+
 ## Blocked Tasks Section
 
 When a task is blocked, add to todo.md:
@@ -233,9 +303,55 @@ This skill uses:
 - `tools/evolution/staleness.py` - Staleness detection
 - `tools/todo/processor.py` - Todo parsing
 
+## Cross-Review Task Handling
+
+When executing a `cross-review` task:
+
+1. **Read the chain parent** (the new article that triggered this review)
+2. **Read the target article** (the existing article to review)
+3. **Analyze for**:
+   - Places to add `[[new-article]]` wikilinks
+   - Arguments that the new content supports or challenges
+   - Terminology consistency
+   - Missing cross-references
+4. **Make edits** if improvements found
+5. **Log findings** even if no edits made (document the review)
+
+Example cross-review task:
+```markdown
+### P2: Review hard-problem-of-consciousness.md considering panpsychism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/panpsychism.md may provide insights relevant to topics/hard-problem-of-consciousness.md.
+- **Source**: chain (from panpsychism.md)
+```
+
+Execution:
+1. Read `concepts/panpsychism.md` to understand what's new
+2. Read `topics/hard-problem-of-consciousness.md` looking for:
+   - References to panpsychism that could now link to the concept page
+   - Arguments that panpsychism analysis strengthens or complicates
+   - Missing context that panpsychism article provides
+3. Edit hard-problem article if improvements found
+4. Mark task complete with summary of changes (or "no changes needed")
+
+## Queue Replenishment
+
+The queue is automatically replenished when:
+- Active tasks (P0-P2) drop below 3
+- `needs_replenishment: true` in state file
+
+Replenishment uses `/replenish-queue` which generates tasks from:
+1. **Task chains**: Recent completions that should generate follow-ups
+2. **Unconsumed research**: Research notes without corresponding articles
+3. **Gap analysis**: Content areas needing expansion
+4. **Staleness**: Content not reviewed recently
+
+See `/replenish-queue` skill for full details.
+
 ## Notes
 
 - P3 tasks are never auto-selected; human must promote to P2+
 - Synthetic maintenance tasks compete fairly via scoring
 - Each task is committed separately for easy reversion of individual tasks
 - The skill is designed for manual triggering (2-3x per week)
+- Queue replenishment happens automatically when needed (step 0)

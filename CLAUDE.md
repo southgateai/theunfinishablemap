@@ -149,6 +149,7 @@ The project includes scheduled AI automation for content development. All AI-gen
 | `/refine-draft [file]` | Improve existing draft content | Yes (keeps as draft) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
 | `/evolve [mode]` | Main orchestrator: selects and executes tasks based on priority/staleness | Depends on tasks |
+| `/replenish-queue [mode]` | Auto-generate tasks when queue is empty (chains, gaps, research) | Yes (todo.md only) |
 | `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
 
 ### Task Queue
@@ -157,6 +158,31 @@ Tasks are managed in `obsidian/workflow/todo.md`:
 - P0 (urgent) → P3 (nice to have)
 - Human prioritizes; AI executes
 - All content changes create drafts
+
+#### Task Types
+
+| Type | Description | Generates Chain? |
+|------|-------------|------------------|
+| `research-topic` | Web research producing notes | Yes → expand-topic |
+| `expand-topic` | Write new article | Yes → cross-review |
+| `cross-review` | Review article in light of new content | No |
+| `refine-draft` | Improve existing draft | No |
+| `deep-review` | Comprehensive single-doc review | No |
+| `other` | Miscellaneous tasks | No |
+
+#### Queue Replenishment
+
+The queue auto-replenishes when active tasks (P0-P2) drop below 3. `/evolve` triggers `/replenish-queue` automatically. Tasks are generated from:
+
+1. **Task chains**: `research-topic` → `expand-topic` → `cross-review`
+2. **Unconsumed research**: Research notes without corresponding articles
+3. **Gap analysis**: Content areas needing expansion (tenet support, undefined concepts)
+4. **Staleness**: AI-generated content not reviewed in 30+ days
+
+State tracking in `obsidian/workflow/evolution-state.yaml` includes:
+- `task_chains.pending_articles`: Research awaiting article synthesis
+- `task_chains.pending_cross_reviews`: New articles needing integration review
+- `replenishment_config`: Thresholds and limits
 
 ### Changelog
 

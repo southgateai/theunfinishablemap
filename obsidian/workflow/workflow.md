@@ -1,9 +1,9 @@
 ---
 title: Workflow System
 created: 2026-01-05
-modified: 2026-01-07
+modified: 2026-01-08
 human_modified: 2026-01-05
-ai_modified: 2026-01-07T23:00:00+00:00
+ai_modified: 2026-01-08T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,7 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
 | `/evolve [mode]` | Main orchestrator—selects and executes tasks based on priority and staleness | Yes (runs other skills) |
+| `/replenish-queue [mode]` | Auto-generate tasks when queue is empty or near-empty | Yes (todo.md only) |
 
 ### Content Creation
 
@@ -62,6 +63,46 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
 | `/add-highlight [topic]` | Add item to [[highlights\|What's New]] page (max 1/day) | Yes (highlights.md) |
+
+## Queue Replenishment
+
+The task queue in [[todo]] auto-replenishes when active tasks (P0-P2) drop below 3. `/evolve` triggers `/replenish-queue` automatically as its first step.
+
+### Task Types and Chains
+
+Tasks generate follow-up tasks automatically:
+
+| Type | Description | Generates |
+|------|-------------|-----------|
+| `research-topic` | Web research producing notes | → `expand-topic` |
+| `expand-topic` | Write new article | → `cross-review` |
+| `cross-review` | Review article in light of new content | (terminal) |
+| `refine-draft` | Improve existing draft | (terminal) |
+| `deep-review` | Comprehensive single-doc review | (terminal) |
+
+### Task Generation Sources
+
+`/replenish-queue` generates tasks from four sources:
+
+1. **Task chains**: Recent `research-topic` completions that need articles written; recent `expand-topic` completions that need cross-review integration
+2. **Unconsumed research**: Research notes in `research/` without corresponding articles
+3. **Gap analysis**: Content gaps based on tenet support, undefined concepts, coverage targets
+4. **Staleness**: AI-generated content not reviewed in 30+ days
+
+### Replenishment Modes
+
+- `conservative`: 3-5 high-confidence tasks only
+- (default): 5-8 tasks with good diversity
+- `aggressive`: 8-12 tasks including speculative ones
+
+### Cross-Review Tasks
+
+When a new article is written, `/replenish-queue` generates `cross-review` tasks for related existing articles. These reviews:
+
+- Add wikilinks to the new content
+- Check for arguments that the new content supports or challenges
+- Ensure consistent terminology
+- Identify missing cross-references
 
 ## Running Workflows
 
