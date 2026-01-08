@@ -13,7 +13,7 @@ last_runs:
   check-tenets: 2026-01-06T20:00:00+00:00
   check-links: 2026-01-06T19:55:00+00:00
   deep-review: 2026-01-08T03:00:00+00:00
-  tune-system: null  # Monthly system tuning
+  tune-system: 2026-01-08T17:00:00+00:00  # First tune-system run
 
 # How often each task should run (days)
 cadences:
@@ -172,8 +172,16 @@ locked_settings: {}
 
 # Tune-system history for cooldown enforcement
 tune_system_history:
-  last_run: null
-  changes_applied: []  # List of {setting, old_value, new_value, date, rationale}
+  last_run: 2026-01-08T17:00:00+00:00
+  changes_applied: []  # No Tier 1 changes - first run, insufficient data
+  sessions_analyzed: 10
+  period: "2026-01-05 to 2026-01-08"
+  findings_summary:
+    cadence: "Daily cadences aggressive but no auto-adjustment (insufficient data)"
+    failures: "0% failure rate - excellent"
+    queue: "Gap analysis primary source (67%), chains underutilized"
+    reviews: "Decoherence objection raised twice, unresolved"
+    convergence: "~50% complete, strong progress"
 
 # Replenishment configuration
 replenishment_config:

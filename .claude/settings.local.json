@@ -21,7 +21,9 @@
       "Bash(git add:*)",
       "Bash(cd:*)",
       "Bash(git commit:*)",
-      "Bash(dir \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\theunfinishablemap\\\\.claude\\\\skills\")"
+      "Bash(dir \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\theunfinishablemap\\\\.claude\\\\skills\")",
+      "Skill(tune-system)",
+      "Skill(tune-system:*)"
     ]
   }
 }
