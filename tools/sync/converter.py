@@ -40,6 +40,7 @@ def convert_obsidian_to_hugo(
         "arguments",
         "workflow",
         "research",
+        "voids",
     ]
 
     # Build content index for wikilink resolution
