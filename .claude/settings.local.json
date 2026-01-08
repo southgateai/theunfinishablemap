@@ -5,6 +5,7 @@
   },
   "permissions": {
     "allow": [
+      "WebFetch",
       "WebSearch",
       "Bash(git -C:*)",
       "Edit(.claude/skills/**)",
@@ -17,7 +18,10 @@
       "Skill(expand-topic)",
       "Skill(expand-topic:*)",
       "Bash(grep:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(cd:*)",
+      "Bash(git commit:*)",
+      "Bash(dir \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\theunfinishablemap\\\\.claude\\\\skills\")"
     ]
   }
 }
