@@ -20,7 +20,7 @@ last_curated: null
 
 A project to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just our best guess at the truth, revised as we learn.
 
-**[[highlights|What's New]]** — See the latest additions and insights.
+**[[highlights|Highlights]]** — Notable additions and insights.
 
 ## Explore
 
