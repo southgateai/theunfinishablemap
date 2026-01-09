@@ -49,6 +49,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-08
 
+### ✓ 2026-01-09: Write epiphenomenalism article
+- **Type**: expand-topic
+- **Notes**: Research exists in research/epiphenomenalism-2026-01-08.md. Key rival to bidirectional interaction—site needs to engage this view directly.
+- **Result**: Created ~1800 word article covering the view, closure argument, self-stultification problem, evolutionary objection, and comparison with site's interactionism
+- **Output**: `concepts/epiphenomenalism.md`
+
+### P2: Write quantum consciousness mechanisms article
+- **Type**: expand-topic
+- **Notes**: Research exists in research/quantum-consciousness-mechanisms-2026-01-08.md. Covers Orch OR, Stapp's quantum Zeno, decoherence objection. Directly supports Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research (chain)
+- **Generated**: 2026-01-09
+
+### P2: Cross-review meaning-of-life.md considering personal-identity insights
+- **Type**: cross-review
+- **Notes**: New article topics/personal-identity.md may provide insights relevant to topics/meaning-of-life.md. Look for cross-linking opportunities and conceptual connections.
+- **Source**: chain (from personal-identity.md)
+- **Generated**: 2026-01-09
+
+### P2: Cross-review panpsychism.md considering IIT insights
+- **Type**: cross-review
+- **Notes**: New article concepts/integrated-information-theory.md discusses IIT's panpsychist implications. Review concepts/panpsychism.md for opportunities to reference IIT.
+- **Source**: chain (from integrated-information-theory.md)
+- **Generated**: 2026-01-09
+
 ### ✓ 2026-01-08: Create personal identity topic
 - **Type**: expand-topic
 - **Notes**: Supports No Many Worlds tenet. What makes you *you* across time? How does consciousness relate to identity?
