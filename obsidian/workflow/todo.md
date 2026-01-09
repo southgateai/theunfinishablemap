@@ -55,11 +55,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2200 word article covering psychological, biological, narrative views; Parfit's challenge; and site's consciousness-based view of identity
 - **Output**: `topics/personal-identity.md`
 
-### P2: Write Integrated Information Theory article
+### ✓ 2026-01-09: Write Integrated Information Theory article
 - **Type**: expand-topic
 - **Notes**: Research exists in research/integrated-information-theory-2026-01-07.md. Major consciousness theory worth covering.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-08
+- **Result**: Created ~2000 word article covering IIT axioms/postulates, phi measure, panpsychism implications, Templeton tests, and critical comparison with site's interactionist dualism
+- **Output**: `concepts/integrated-information-theory.md`
 
 ### P3: Create explanatory gap concept page
 - **Type**: expand-topic

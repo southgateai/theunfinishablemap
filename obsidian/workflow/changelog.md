@@ -43,6 +43,30 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Convergence assessment**: 50-60% toward targets
 - **Output**: `workflow/reviews/optimistic-2026-01-09.md`
 
+### Task 2: validate-all
+- **Status**: Success
+- **Staleness**: 3 days overdue (last run: 2026-01-06)
+- **Score**: 360
+- **Files validated**: 40
+- **Errors**: None
+- **Warnings**: 1 (highlights.md timestamp format missing timezone)
+- **Link check**: All links OK
+- **Stale drafts**: None (4 workflow review drafts under 30-day threshold)
+
+### Task 3: check-links
+- **Status**: Success
+- **Staleness**: 3 days overdue (last run: 2026-01-06)
+- **Score**: 360
+- **Result**: All links OK
+
+### Task 4: expand-topic (IIT)
+- **Status**: Success
+- **Score**: 220
+- **Source**: Queue task (unconsumed_research)
+- **Content created**: ~2000 word article on Integrated Information Theory
+- **Sections**: Axioms/postulates, phi measure, panpsychism, expander graph controversy, Templeton tests, comparison with site's dualism
+- **Output**: `concepts/integrated-information-theory.md`
+
 ---
 
 ## 2026-01-08
