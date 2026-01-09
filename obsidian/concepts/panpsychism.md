@@ -3,7 +3,7 @@ title: "Panpsychism"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-08T01:30:00+00:00
+ai_modified: 2026-01-09T14:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
+  - "[[integrated-information-theory]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -87,6 +88,16 @@ Despite disagreeing on the solution, this site affirms panpsychism's key insight
 4. **Consciousness must be taken seriously**: It's not an illusion, not "just" information processing, not reducible to behavior.
 
 The disagreement is about *how* consciousness is fundamental—as the intrinsic nature of all matter, or as a distinct category that interacts with matter.
+
+## Integrated Information Theory: A Scientific Panpsychism?
+
+[[integrated-information-theory|Integrated Information Theory]] (IIT) offers what may be the most rigorous scientific version of panpsychism. Developed by neuroscientist Giulio Tononi, IIT holds that consciousness *is* integrated information—any system with non-zero phi (the measure of integration) is conscious to some degree.
+
+This implies panpsychism: even simple systems like photodiodes have minimal phi and thus minimal experience. Tononi accepts this implication openly. IIT provides what traditional panpsychism lacks—a mathematical measure of consciousness and testable predictions about which physical systems are conscious.
+
+However, IIT faces its own version of the combination problem. High-phi systems are "more" conscious than low-phi systems, but it remains unclear why integration should produce unified experience rather than just integrated information processing. The phi measure quantifies integration but doesn't explain why integration feels like anything.
+
+For the site's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration.
 
 ## Evaluating the Positions
 
