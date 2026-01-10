@@ -97,11 +97,13 @@ def convert_block_references(content: str) -> str:
     """
     # Pattern for block references at end of line: ^block-id
     # Must be at end of line (before newline or end of string)
-    block_ref_pattern = re.compile(r"\s+\^([a-zA-Z0-9-]+)\s*$", re.MULTILINE)
+    # Captures trailing whitespace to preserve newlines
+    block_ref_pattern = re.compile(r"\s+\^([a-zA-Z0-9-]+)(\s*)$", re.MULTILINE)
 
     def replace_block_ref(match: re.Match) -> str:
         block_id = match.group(1)
-        return f' <span id="{block_id}"></span>'
+        trailing = match.group(2)  # Preserve any trailing whitespace/newlines
+        return f' <span id="{block_id}"></span>{trailing}'
 
     return block_ref_pattern.sub(replace_block_ref, content)
 
