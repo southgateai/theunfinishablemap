@@ -92,6 +92,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2000 word article covering IIT axioms/postulates, phi measure, panpsychism implications, Templeton tests, and critical comparison with site's interactionist dualism
 - **Output**: `concepts/integrated-information-theory.md`
 
+### P2: Research purpose of life as AI alignment precursor
+- **Type**: research-topic
+- **Notes**: Diversion topic. Premise: We cannot correctly align AI to serve humanity's purpose unless we know what that purpose is. Serving AI's self-understood aims and wants—or even humanity's expressed preferences—might be counterproductive if we haven't solved the deeper question. Research: (1) philosophical theories of life's purpose vs meaning, (2) how alignment assumes purpose without defining it, (3) whether purpose is discoverable or chosen, (4) implications for value alignment.
+- **Source**: manual
+- **Generated**: 2026-01-10
+- **Tag**: diversion
+
 ### P3: Create explanatory gap concept page
 - **Type**: expand-topic
 - **Notes**: Core concept underlying hard problem. Levine's formulation.
