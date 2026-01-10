@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Claude Code Settings
+
+The file `.claude/settings.json` contains pre-approved permissions for this project. If you create or modify `.claude/settings.local.json` for personal experimentation, remember to merge any useful generic permissions back into `settings.json` so they persist across sessions and for other users.
+
 ## Project Overview
 
 The Unfinishable Map is a philosophical content platform built with Hugo and Pico CSS.

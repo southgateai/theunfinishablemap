@@ -2,6 +2,10 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/780f160a-d86e-4dd8-82d3-1798975d8948/deploy-status)](https://app.netlify.com/projects/southgateai-primary/deploys)
 
+> **⚠️ Claude Code Permissions Warning**
+>
+> This repository includes `.claude/settings.json` which pre-approves certain Claude Code operations (bash commands, skills, web access). If you don't want Claude to have these permissions when working in this repository, delete the `.claude/settings.json` file before running Claude Code.
+
 A philosophical content platform exploring consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just our best guess at the truth, revised as we learn.
 
 **Live site:** https://unfinishablemap.org
