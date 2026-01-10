@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-07 23:00:00+00:00
+ai_modified: 2026-01-08 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-07
+date: &id001 2026-01-08
 draft: false
 human_modified: 2026-01-05
 last_curated: null
@@ -38,6 +38,8 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
 | `/evolve [mode]` | Main orchestrator—selects and executes tasks based on priority and staleness | Yes (runs other skills) |
+| `/replenish-queue [mode]` | Auto-generate tasks when queue is empty or near-empty | Yes (todo.md only) |
+| `/tune-system` | Monthly meta-review—analyze system operation, adjust cadences/thresholds | Yes (state, minor) |
 
 ### Content Creation
 
@@ -63,6 +65,77 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
 | `/add-highlight [topic]` | Add item to [What's New](/workflow/highlights/) page (max 1/day) | Yes (highlights.md) |
+
+## Queue Replenishment
+
+The task queue in [todo](/workflow/todo/) auto-replenishes when active tasks (P0-P2) drop below 3. `/evolve` triggers `/replenish-queue` automatically as its first step.
+
+### Task Types and Chains
+
+Tasks generate follow-up tasks automatically:
+
+| Type | Description | Generates |
+|------|-------------|-----------|
+| `research-topic` | Web research producing notes | → `expand-topic` |
+| `expand-topic` | Write new article | → `cross-review` |
+| `cross-review` | Review article in light of new content | (terminal) |
+| `refine-draft` | Improve existing draft | (terminal) |
+| `deep-review` | Comprehensive single-doc review | (terminal) |
+
+### Task Generation Sources
+
+`/replenish-queue` generates tasks from four sources:
+
+1. **Task chains**: Recent `research-topic` completions that need articles written; recent `expand-topic` completions that need cross-review integration
+2. **Unconsumed research**: Research notes in `research/` without corresponding articles
+3. **Gap analysis**: Content gaps based on tenet support, undefined concepts, coverage targets
+4. **Staleness**: AI-generated content not reviewed in 30+ days
+
+### Replenishment Modes
+
+- `conservative`: 3-5 high-confidence tasks only
+- (default): 5-8 tasks with good diversity
+- `aggressive`: 8-12 tasks including speculative ones
+
+### Cross-Review Tasks
+
+When a new article is written, `/replenish-queue` generates `cross-review` tasks for related existing articles. These reviews:
+
+- Add wikilinks to the new content
+- Check for arguments that the new content supports or challenges
+- Ensure consistent terminology
+- Identify missing cross-references
+
+## System Tuning
+
+The `/tune-system` skill provides meta-level self-improvement for the automation system. It runs monthly (30-day cadence, injected when 45 days overdue).
+
+### What It Analyzes
+
+1. **Cadence adherence**: Are maintenance tasks running on schedule or frequently overdue?
+2. **Failure patterns**: What's causing systematic task failures?
+3. **Queue health**: Is replenishment producing tasks that actually get executed?
+4. **Review findings**: Are identified issues being addressed?
+5. **Convergence progress**: Is the system making progress toward goals?
+
+### Change Tiers
+
+| Tier | Scope | Approval |
+|------|-------|----------|
+| **Tier 1** | Cadence ±2 days, threshold ±2 days | Automatic (max 3/session) |
+| **Tier 2** | New P3 tasks, larger changes | Recommendation only |
+| **Tier 3** | Skill changes, tenet-related | Report only |
+
+### Safeguards
+
+- **Evidence threshold**: Requires 5+ data points before making changes
+- **Change cooldown**: Settings can't change twice within 60 days
+- **Locked settings**: Human can lock any setting via `locked_settings` in state
+- **Abort conditions**: Stops if >50% failure rate or convergence regresses
+
+### Output
+
+Creates report at `workflow/reviews/system-tune-YYYY-MM-DD.md` documenting findings, changes applied, and recommendations.
 
 ## Running Workflows
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 50
 ai_generated_date: null
-ai_modified: 2026-01-07 23:00:00+00:00
+ai_modified: 2026-01-08 04:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -20,7 +20,7 @@ topics: []
 
 A project to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just our best guess at the truth, revised as we learn.
 
-**[What's New](/workflow/highlights/)** — See the latest additions and insights.
+**[Highlights](/workflow/highlights/)** — Notable additions and insights.
 
 ## Explore
 
@@ -29,6 +29,7 @@ A project to build a coherent worldview about consciousness, meaning, and what i
 - **[Arguments](/arguments/)** - Arguments against competing views
 - **[Topics](/topics/)** - Deep dives into philosophical questions
 - **[Concepts](/concepts/)** - Core ideas and frameworks
+- **[Voids](/voids/)** - The unexplored, unexplorable, and occluded
 - **[Research](/research/)** - AI research notes with sources and analysis
 - **[Project](/project/)** - About this project and how it works
 - **[Workflow](/workflow/)** - AI automation system and evolution tracking
