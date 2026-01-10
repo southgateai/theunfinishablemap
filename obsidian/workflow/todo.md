@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P1: Write voids article on apophatic approaches to the unknowable
+- **Type**: expand-topic
+- **Notes**: Research exists in research/voids-apophatic-approaches-2026-01-10.md. Covers negative theology (Pseudo-Dionysius), learned ignorance (Cusanus), Wittgenstein's mystical silence, McGinn's cognitive closure. Methodological tools for mapping cognitive limits through negation and indirection.
+- **Source**: research-voids
+- **Generated**: 2026-01-10
+- **Output**: `voids/apophatic-approaches.md`
+
 ### ✓ 2026-01-09: Write Eastern philosophy and consciousness overview
 - **Type**: expand-topic
 - **Notes**: Buddhist research exists in research/buddhist-perspectives-meaning-2026-01-06.md. Synthesize Eastern approaches to consciousness.
