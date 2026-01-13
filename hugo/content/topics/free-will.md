@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-13 12:00:00+00:00
+ai_modified: 2026-01-13 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,7 @@ date: &id001 2026-01-13
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-13 14:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +37,7 @@ This presents three options:
 
 **Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order.
 
-**Compatibilism**: Free will is compatible with determinism because "free" doesn't mean "uncaused." It means acting from your own desires without external coercion. This redefines rather than solves the problem.
+**Compatibilism**: Free will is compatible with determinism because "free" doesn't mean "uncaused." It means acting from your own desires without external coercion. Modern compatibilists like Harry Frankfurt add sophistication: free will requires acting from desires you endorse on reflection—"second-order" desires about what you want to want. This captures something real about autonomous agency. Yet compatibilism leaves untouched the question that haunts: could the person who "chose" their desires and reflective endorsements have chosen otherwise? The feeling that genuine freedom requires something more than compatibilism provides motivates the search for a deeper account.
 
 ## The Neuroscientific Challenge
 
@@ -66,6 +67,14 @@ Does this help? Critics argue quantum randomness doesn't give us free will—it 
 
 But this assumes consciousness has no role in determining which outcome occurs. The site's framework proposes something different.
 
+### The Decoherence Challenge
+
+Any quantum approach to free will must address the **decoherence objection**. Quantum superpositions are fragile—interaction with the environment causes them to "decohere" into classical mixtures almost instantly. In warm, wet neural tissue, physicist Max Tegmark calculated that relevant coherence times might be around 10⁻¹³ seconds, far faster than neural processing.
+
+This is a serious challenge, but not necessarily fatal. Recent research shows that biological systems exploit quantum effects in photosynthesis, bird navigation, and enzyme catalysis—suggesting evolution may have found ways to maintain coherence longer than simple calculations predict. Room-temperature quantum coherence in tryptophan networks has been observed, and some studies report quantum signatures correlated with conscious states.
+
+The question is empirical, not philosophical. [Quantum Consciousness Mechanisms](/concepts/quantum-consciousness/) explores this challenge and the responses in detail. For present purposes: if the site's framework is correct—if consciousness does operate at quantum indeterminacies—the decoherence objection is a challenge to be overcome, not a proof of impossibility.
+
 ## The Site's Position: Consciousness Selects Quantum Outcomes
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Combined with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
@@ -93,7 +102,7 @@ The readiness potential doesn't precede conscious choice in any causally signifi
 
 The alternative—that consciousness doesn't influence anything—faces its own problem. If your beliefs about consciousness are caused entirely by physical processes that would occur identically whether or not consciousness existed, what reason do you have to trust those beliefs?
 
-Epiphenomenalism undermines itself. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. But then your confidence in that belief has nothing to do with its truth.
+[Epiphenomenalism](/concepts/epiphenomenalism/) undermines itself. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. But then your confidence in that belief has nothing to do with its truth.
 
 The very fact that we're having this debate—that we form beliefs about consciousness based on conscious experience—suggests consciousness does something. Our beliefs aren't disconnected from what they're about.
 
@@ -133,6 +142,8 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
+- [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The alternative view and why it fails
 - [libet-experiments-free-will-2026-01-07](/research/libet-experiments-free-will-2026-01-07/) — Detailed research on the neuroscience
 - [tenets](/tenets/) — The foundational commitments that ground this view
 

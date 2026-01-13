@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-13T12:30:00+00:00
-session_count: 15
+last_updated: 2026-01-13T22:00:00+00:00
+session_count: 16
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -12,9 +12,9 @@ last_runs:
   optimistic-review: 2026-01-13T12:00:00+00:00
   check-tenets: 2026-01-06T20:00:00+00:00
   check-links: 2026-01-13T12:00:00+00:00
-  deep-review: 2026-01-10T15:30:00+00:00
+  deep-review: 2026-01-13T22:00:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
-  research-voids: 2026-01-10T12:00:00+00:00
+  research-voids: 2026-01-13T22:00:00+00:00
 
 # How often each task should run (days)
 cadences:
@@ -60,8 +60,8 @@ progress:
   arguments_written: 1
   questions_written: 1
   voids_written: 1
-  research_notes: 12
-  reviews_completed: 14  # +optimistic-2026-01-13
+  research_notes: 13  # +voids-thoughts-that-slip-away
+  reviews_completed: 16  # +deep-review-free-will, +cross-review-hard-problem-IIT
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: deep-review (free-will)
+    date: 2026-01-13
+    result: success
+    session: 16
+  - task: research-voids (thoughts-that-slip-away)
+    date: 2026-01-13
+    result: success
+    session: 16
+  - task: cross-review (hard-problem-IIT)
+    date: 2026-01-13
+    result: success
+    session: 16
   - task: check-links
     date: 2026-01-13
     result: success
@@ -141,7 +153,7 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # 5 - 1 completed (free-will cross-review)
+  p2_tasks: 3  # 4 - 1 completed (hard-problem IIT cross-review)
   p3_tasks: 1  # explanatory gap only
   needs_replenishment: false
   last_replenishment: 2026-01-13T10:00:00+00:00
@@ -159,11 +171,7 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    # personal-identity -> free-will cross-review COMPLETED session 15
-    - new_article: "concepts/integrated-information-theory.md"
-      review_targets:
-        - "topics/hard-problem-of-consciousness.md"
-      generated: "2026-01-09T10:00:00+00:00"
+    # IIT -> hard-problem cross-review COMPLETED session 16
     - new_article: "topics/eastern-philosophy-consciousness.md"
       review_targets:
         - "topics/meaning-of-life.md"

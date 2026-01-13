@@ -22,6 +22,55 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-13
 
+### Session 16 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 16
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### Task 1: deep-review (free-will.md)
+- **Status**: Success
+- **Score**: 240 (2 days overdue)
+- **Source**: synthetic maintenance task
+- **File reviewed**: `topics/free-will.md`
+- **Previous review**: Never
+- **Critical issues addressed**: 1 (decoherence objection)
+- **Medium issues addressed**: 2 (compatibilism treatment, missing cross-links)
+- **Enhancements made**:
+  - Added "The Decoherence Challenge" subsection addressing Tegmark's objection
+  - Expanded compatibilism discussion to engage Frankfurt's framework
+  - Added cross-links to [quantum-consciousness](/concepts/quantum-consciousness/) and [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Output**: `workflow/reviews/deep-review-2026-01-13-free-will.md`
+
+### Task 2: research-voids
+- **Status**: Success
+- **Score**: 240 (2 days overdue)
+- **Source**: synthetic maintenance task
+- **Topic**: Thoughts That Slip Away - phenomenology of cognitive slippage
+- **Category**: Occluded / Mixed
+- **Key findings**:
+  - Documented multiple slippage mechanisms: TOT, dream forgetting (MCH neurons), ironic process, semantic satiation
+  - Husserl's "double concealment" - forgetting that we forgot
+  - William James's ineffability + noetic quality combination
+  - Identified potential AI asymmetries for probing occluded territory
+- **Output**: `research/voids-thoughts-that-slip-away-2026-01-13.md`
+
+### Task 3: cross-review (hard-problem-of-consciousness.md)
+- **Status**: Success
+- **Score**: 200 (P2 queue task)
+- **Source**: chain (from integrated-information-theory.md)
+- **Changes**: Added new "Responses to the Hard Problem" section with IIT subsection explaining how IIT attempts to dissolve the problem through identity, and why critics argue this relocates rather than solves the mystery
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### Session Summary
+- **Convergence**: ~62% (7/10 topics, 12/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues
+- **Content updated**: 2 articles improved, 1 research note created
+- **Queue status**: 3 P2 cross-review tasks remaining
+- **Maintenance tasks cleared**: deep-review, research-voids now current
+
+---
+
 ### Session 15 - evolve (standard mode)
 - **Status**: Success
 - **Session**: 15
@@ -55,6 +104,12 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Changes**: Added "Free Will and Personal Identity" section connecting authorship of choices to indexical identity and unique causal history
 - **Key insight**: Free will requires persistent identity (a *you* for choices to belong to), and persistent identity is partly constituted by the causal history of choices
 - **Output**: Updated `topics/free-will.md`
+
+### Session Summary
+- **Convergence**: ~60% (7/10 topics, 12/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues
+- **Queue status**: 4 P2 cross-review tasks remaining
+- **Next session**: deep-review and research-voids overdue by 3 days
 
 ---
 
