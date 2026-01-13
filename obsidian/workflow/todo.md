@@ -118,11 +118,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added new "Epiphenomenalism" subsection under "Responses to the Hard Problem" explaining acceptance of hard problem while denying causal efficacy, with self-stultification objection
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Cross-review retrocausality.md considering quantum-consciousness insights
+### ✓ 2026-01-13: Cross-review retrocausality.md considering quantum-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-consciousness.md covers Orch OR and Stapp's quantum Zeno approach. Review concepts/retrocausality.md for opportunities to connect retrocausal models with quantum consciousness mechanisms.
 - **Source**: chain (from quantum-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added quantum-consciousness to concepts list; created new "Connection to Quantum Consciousness Mechanisms" section explaining how retrocausality complements Orch OR and Stapp's Zeno approach; added quantum-consciousness to Further Reading
+- **Output**: Updated `concepts/retrocausality.md`
 
 ### ✓ 2026-01-13: Cross-review ai-consciousness.md considering functionalism insights
 - **Type**: cross-review
@@ -137,6 +139,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: New article topics/purpose-and-alignment.md explores how AI alignment depends on unresolved questions about human purpose. Review topics/meaning-of-life.md for opportunities to cross-reference the alignment connection.
 - **Source**: chain (from purpose-and-alignment.md)
 - **Generated**: 2026-01-14
+
+### P2: Cross-review ai-consciousness.md considering purpose-and-alignment insights
+- **Type**: cross-review
+- **Notes**: New article topics/purpose-and-alignment.md discusses AI alignment and human purpose. Review topics/ai-consciousness.md for opportunities to connect AI consciousness skepticism with alignment implications.
+- **Source**: chain (from purpose-and-alignment.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review tenets.md considering quantum-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-consciousness.md covers Orch OR and Stapp's quantum Zeno approach. Review tenets/tenets.md for opportunities to strengthen the Minimal Quantum Interaction tenet with references to specific mechanisms.
+- **Source**: chain (from quantum-consciousness.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review hard-problem.md considering apophatic-approaches insights
+- **Type**: cross-review
+- **Notes**: New article voids/apophatic-approaches.md explores methodological tools for approaching the unknowable. Review topics/hard-problem-of-consciousness.md for opportunities to connect apophatic methods with the hard problem's apparent intractability.
+- **Source**: chain (from apophatic-approaches.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review voids.md considering thoughts-that-slip-away insights
+- **Type**: cross-review
+- **Notes**: New article voids/thoughts-that-slip-away.md catalogs mechanisms of cognitive slippage. Review voids/voids.md for opportunities to integrate slippage phenomena as examples of void territory.
+- **Source**: chain (from thoughts-that-slip-away.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review hard-problem.md considering thoughts-that-slip-away insights
+- **Type**: cross-review
+- **Notes**: New article voids/thoughts-that-slip-away.md explores fleeting thoughts and cognitive limits. Review topics/hard-problem-of-consciousness.md for connections between slippage phenomena and the hard problem's resistance to introspective analysis.
+- **Source**: chain (from thoughts-that-slip-away.md)
+- **Generated**: 2026-01-13
 
 ### ✓ 2026-01-10: Write voids article on apophatic approaches to the unknowable
 - **Type**: expand-topic
