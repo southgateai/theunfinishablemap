@@ -3,13 +3,14 @@ title: "Nihilism"
 created: 2026-01-06
 modified: 2026-01-06
 human_modified:
-ai_modified: 2026-01-06T21:10:00+00:00
+ai_modified: 2026-01-14T00:10:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
   - "[[tenets]]"
   - "[[existentialism]]"
+  - "[[eastern-philosophy-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -81,6 +82,18 @@ Nietzsche saw passive nihilism—the exhausted sense that nothing matters—as a
 
 The Übermensch (overman or superman) represents this overcoming: a human who creates values without resentment, who says "yes" to existence including its suffering, who does not need cosmic meaning to find life worth living.
 
+## Eastern Responses to Nihilism
+
+Buddhism offers a distinctive third path between nihilism and the quest for cosmic meaning. The Buddha explicitly rejected *ucchedavāda* (annihilationism)—the view that death brings complete extinction. But he equally rejected eternalism—the view that a permanent self persists forever. The Middle Way navigates between these extremes.
+
+The [[eastern-philosophy-consciousness|Four Noble Truths]] diagnose the human condition: life involves suffering (*dukkha*), suffering arises from craving, suffering can cease, and the Eightfold Path leads to cessation. This framework neither affirms cosmic meaning nor denies meaning altogether. Instead, it suggests that the *craving* for permanent significance is itself a source of suffering.
+
+Where Western nihilism often concludes "nothing matters," Buddhism argues that clinging to the idea that things should matter *cosmically* perpetuates suffering. The middle way isn't to deny experience's value or to grasp it desperately, but to engage fully while holding lightly. This is neither pessimistic nihilism (despair at meaninglessness) nor optimistic nihilism (freedom from cosmic constraints)—it's a reframing that makes the question itself appear differently.
+
+The Madhyamaka school's concept of *śūnyatā* (emptiness) specifically addresses the nihilism charge. Emptiness doesn't mean "nothing exists" but "nothing exists independently." A table exists, but only in relation to its parts, its makers, its uses, our concepts. Strip away the relations and there's nothing left to be the table's "essence." The same applies to meaning: it exists relationally, not absolutely. This is not nihilism; it's dependent arising.
+
+Contemporary Western nihilists might find in Buddhism not a refutation but a transformation—a way to acknowledge the absence of cosmic meaning without the despair or bravado that Western responses typically offer.
+
 ## Nihilism and Contemporary Culture
 
 Nihilism permeates contemporary culture, often in diluted or unacknowledged forms. The sense that nothing ultimately matters, that values are merely subjective preferences, that life is absurd—these attitudes are widespread even among those who would not call themselves nihilists.
@@ -108,6 +121,7 @@ Whether these commitments defeat existential nihilism depends on questions this 
 ## Further Reading
 
 - [[existentialism]] - The philosophical response to nihilism
+- [[eastern-philosophy-consciousness]] - Buddhist approaches to meaning and consciousness
 - [[tenets]] - This site's foundational commitments
 
 ## References
