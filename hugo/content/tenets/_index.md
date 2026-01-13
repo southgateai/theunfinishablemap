@@ -1,7 +1,7 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-06 20:15:00+00:00
+ai_modified: 2026-01-13 14:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -26,7 +26,7 @@ There is more than just matter involved in reality. <span id="dualism"></span>
 
 **Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious.
 
-**Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely epiphenomenal or illusory.
+**Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely [epiphenomenal](/concepts/epiphenomenalism/) or illusory.
 
 ## Minimal Quantum Interaction
 
@@ -34,7 +34,7 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 
 **Definition:** If consciousness can influence the physical world, it must do so at the quantum level—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws. This tenet commits to the *minimal* such interaction: the smallest deviation from standard quantum mechanics that could permit mind-matter causation.
 
-**Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more.
+**Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more. Crucially, this tenet rejects the strong causal closure of physics that [epiphenomenalism](/concepts/epiphenomenalism/) depends on: the claim that every physical event has a sufficient physical cause. Physics is *not* complete at quantum indeterminacies—and that's where consciousness acts.
 
 **Not to be confused with:** "Quantum woo" or "quantum mysticism"—pseudoscientific claims that misappropriate quantum mechanics terminology to justify New Age beliefs, parapsychology, or magical thinking. This tenet is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism.
 
@@ -48,13 +48,13 @@ Consciousness is not a passive observer—it causally influences the physical wo
 
 **Rationale:** The very fact that we discuss consciousness provides strong evidence against epiphenomenalism. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself suggests downward causation.
 
-**The epiphenomenalist response:** A critic might argue that our discussions of consciousness are themselves just physical processes—neurons causing neurons, with no mental causation involved. We *believe* we're reporting on qualia, but this belief is itself just more neurons firing.
+**The [epiphenomenalist](/concepts/epiphenomenalism/) response:** A critic might argue that our discussions of consciousness are themselves just physical processes—neurons causing neurons, with no mental causation involved. We *believe* we're reporting on qualia, but this belief is itself just more neurons firing.
 
 **The problem with that response:** If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states. Our reports about the redness of red or the painfulness of pain would be produced by brain states that have no causal connection to the experiences themselves. This makes introspective reports systematically unreliable—not occasionally wrong, but *accidentally right at best*. Yet the epiphenomenalist presumably trusts their own introspection enough to engage in this very debate. The position is self-undermining: it cannot be rationally held by someone who arrived at it through introspection and reasoning about their own experience.
 
 **Analogy:** Just as radioactive decay "chooses" whether Schrödinger's cat lives or dies by collapsing a superposition, consciousness may "choose" which of many superposed neural firing patterns becomes actual. The brain presents options; the mind selects.
 
-**Rules out:** Pure epiphenomenalism, parallelism without interaction, and any view where consciousness is merely along for the ride.
+**Rules out:** Pure [epiphenomenalism](/concepts/epiphenomenalism/), parallelism without interaction, and any view where consciousness is merely along for the ride.
 
 ## No Many Worlds
 
