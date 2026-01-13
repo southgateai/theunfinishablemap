@@ -54,11 +54,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added "Free Will and Personal Identity" section connecting authorship of choices to indexical identity and unique causal history of quantum selections
 - **Output**: Updated `topics/free-will.md`
 
-### P2: Cross-review hard-problem-of-consciousness.md considering IIT insights
+### ✓ 2026-01-13: Cross-review hard-problem-of-consciousness.md considering IIT insights
 - **Type**: cross-review
 - **Notes**: New article concepts/integrated-information-theory.md discusses IIT's approach to consciousness. Review topics/hard-problem-of-consciousness.md for opportunities to reference IIT discussion.
 - **Source**: chain (from integrated-information-theory.md)
 - **Generated**: 2026-01-13
+- **Result**: Added new "Integrated Information Theory" subsection under "Responses to the Hard Problem" explaining how IIT attempts to dissolve the hard problem through identity rather than emergence, and why critics argue this relocates rather than solves the mystery
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### P2: Cross-review meaning-of-life.md considering eastern-philosophy insights
 - **Type**: cross-review

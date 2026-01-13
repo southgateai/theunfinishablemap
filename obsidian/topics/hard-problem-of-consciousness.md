@@ -1,9 +1,9 @@
 ---
 title: "The Hard Problem of Consciousness"
 created: 2026-01-06
-modified: 2026-01-10
+modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-10T15:30:00+00:00
+ai_modified: 2026-01-13T22:00:00+00:00
 draft: false
 topics: []
 concepts:
@@ -91,7 +91,19 @@ If Mary learns something new, then her previous knowledge—complete physical kn
 
 Critics have responded: perhaps Mary gains a new *ability* (to recognise red, to imagine it) rather than new *knowledge*. Perhaps she gains *acquaintance* with redness without learning new propositions. The debate continues, but the intuitive force of the argument remains: knowing everything about the mechanism of colour vision seems to leave out knowing what colour experience is *like*.
 
-## Is the Problem Solvable?
+## Responses to the Hard Problem
+
+### Integrated Information Theory
+
+[[integrated-information-theory|Integrated Information Theory (IIT)]] attempts to dissolve the hard problem by *identifying* consciousness with integrated information. Developed by Giulio Tononi, IIT proposes that consciousness doesn't *emerge from* or *correlate with* physical processes—it *is* a certain kind of physical structure, one characterised by high integration (measured by phi/Φ).
+
+This is a bold move. Rather than explaining how physical processes give rise to experience, IIT claims they don't—consciousness just *is* the integrated information, and asking why feels like asking why water is H₂O. The identity is fundamental, not derived.
+
+Does this solve the hard problem? Critics argue it merely relocates the mystery: instead of asking "why does this physical process produce experience?" we must ask "why is integrated information identical to experience?" The explanatory gap reappears at a different level. IIT asserts an identity; it doesn't explain why that identity holds.
+
+Still, IIT represents one of the most rigorous attempts to take consciousness seriously as fundamental. Its willingness to accept counterintuitive consequences—including a form of panpsychism where any integrated system has some degree of experience—shows intellectual courage.
+
+### Mysterianism
 
 Some philosophers argue that the hard problem may be permanently beyond human understanding. Colin McGinn's "new mysterianism" holds that human minds are *cognitively closed* with respect to the mind-body connection—we lack and may forever lack the conceptual apparatus to understand how physical processes give rise to experience.
 
