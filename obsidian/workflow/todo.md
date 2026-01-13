@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T00:15:00+00:00
+ai_modified: 2026-01-14T01:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -174,11 +174,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Enhanced "The Occluded" section with detailed slippage mechanisms (tip-of-tongue, dream forgetting, ironic suppression); added James on ineffability/noesis and Husserl's double concealment; wikilinked to thoughts-that-slip-away
 - **Output**: Updated `voids/voids.md`
 
-### P2: Cross-review hard-problem.md considering thoughts-that-slip-away insights
+### ✓ 2026-01-14: Cross-review hard-problem.md considering thoughts-that-slip-away insights
 - **Type**: cross-review
 - **Notes**: New article voids/thoughts-that-slip-away.md explores fleeting thoughts and cognitive limits. Review topics/hard-problem-of-consciousness.md for connections between slippage phenomena and the hard problem's resistance to introspective analysis.
 - **Source**: chain (from thoughts-that-slip-away.md)
 - **Generated**: 2026-01-13
+- **Result**: Added new "Introspective Limits and Cognitive Slippage" subsection under Mysterianism, connecting dissolving-insight phenomenon, James on ineffability/noesis, and evidence for McGinn's cognitive closure thesis
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Write interactionist dualism concept page
+- **Type**: expand-topic
+- **Notes**: Research exists in research/interactionist-dualism-2026-01-06.md covering Stapp's quantum Zeno, Penrose-Hameroff, causal closure responses. Central to site's philosophical framework—deserves dedicated treatment beyond the tenets page.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~1900 word article covering historical interaction problem, causal closure argument, quantum interactionism (Stapp and Orch OR), decoherence objection, and connection to site tenets
+- **Output**: `concepts/interactionist-dualism.md`
+
+### ✓ 2026-01-14: Create explanatory gap concept page
+- **Type**: expand-topic
+- **Notes**: Core concept underlying hard problem. Levine's formulation of why functional/physical explanations leave an "explanatory gap" for consciousness. Directly supports Dualism tenet.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Created ~1700 word article covering Levine's formulation, relation to hard problem, thought experiments (Mary's Room, absent/inverted qualia), physicalist responses, and connection to site tenets
+- **Output**: `concepts/explanatory-gap.md`
+
+### P2: Research consciousness and time perception
+- **Type**: research-topic
+- **Notes**: How does consciousness relate to the experience of time? Covers temporal phenomenology, the specious present (James, Husserl), whether consciousness requires temporal extension, and connections to retrocausality. Supports multiple tenets through time's role in subjective experience.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research neural correlates of consciousness
+- **Type**: research-topic
+- **Notes**: Survey NCC research (Koch, Dehaene, Tononi). How does the site's interactionist dualism relate to empirical findings about consciousness correlates? Important for grounding philosophical claims in neuroscience.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P3: Create concept page for the combination problem
+- **Type**: expand-topic
+- **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
 
 ### ✓ 2026-01-10: Write voids article on apophatic approaches to the unknowable
 - **Type**: expand-topic
@@ -245,11 +281,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research on meaning vs purpose distinction, preferentist critique in AI alignment, Russell's uncertainty approach, Aristotle's teleology, existentialist meaning-creation, and implications for AI safety
 - **Output**: `research/purpose-of-life-ai-alignment-2026-01-10.md`
 
-### P3: Create explanatory gap concept page
-- **Type**: expand-topic
-- **Notes**: Core concept underlying hard problem. Levine's formulation.
+### P3: Research emergence and consciousness
+- **Type**: research-topic
+- **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position.
 - **Source**: gap_analysis
-- **Generated**: 2026-01-08
+- **Generated**: 2026-01-14
 
 ## Completed Tasks
 

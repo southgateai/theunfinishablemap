@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T00:15:00+00:00
-session_count: 21
+last_updated: 2026-01-14T01:45:00+00:00
+session_count: 22
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 50
-  published_files: 38
+  total_files: 52  # +interactionist-dualism, explanatory-gap
+  published_files: 40  # +2 new concept pages
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 12
+  concepts_written: 14  # +interactionist-dualism, explanatory-gap
   arguments_written: 1
   questions_written: 1
-  voids_written: 2  # +thoughts-that-slip-away
+  voids_written: 2
   research_notes: 13
-  reviews_completed: 31  # +3 cross-reviews session 21
+  reviews_completed: 32  # +1 cross-review session 22
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (interactionist-dualism)
+    date: 2026-01-14
+    result: success
+    session: 22
+  - task: expand-topic (explanatory-gap)
+    date: 2026-01-14
+    result: success
+    session: 22
+  - task: cross-review (hard-problem/thoughts-that-slip-away)
+    date: 2026-01-14
+    result: success
+    session: 22
   - task: cross-review (meaning-of-life/purpose-and-alignment)
     date: 2026-01-14
     result: success
@@ -213,14 +225,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # 2 remaining cross-reviews (hard-problem/thoughts + one more)
-  p3_tasks: 1  # explanatory gap only
-  needs_replenishment: true  # dropped below 3
-  last_replenishment: 2026-01-13T18:00:00+00:00
+  p2_tasks: 2  # 2 research tasks remaining
+  p3_tasks: 2  # combination problem + emergence research
+  needs_replenishment: true  # dropped below 3 after executing 3 tasks
+  last_replenishment: 2026-01-14T01:00:00+00:00
   replenishment_source_counts:
-    chain: 13
-    unconsumed_research: 1
-    gap_analysis: 0
+    chain: 14  # +1 from session 22
+    unconsumed_research: 2
+    gap_analysis: 4
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -240,10 +252,16 @@ task_chains:
     # apophatic-approaches -> hard-problem.md COMPLETED session 20
     # purpose-and-alignment -> meaning-of-life.md COMPLETED session 21
     # thoughts-that-slip-away -> voids.md COMPLETED session 21
-    - new_article: "voids/thoughts-that-slip-away.md"
+    # thoughts-that-slip-away -> hard-problem.md COMPLETED session 22
+    - new_article: "concepts/interactionist-dualism.md"
+      review_targets:
+        - "tenets/tenets.md"
+        - "topics/free-will.md"
+      generated: "2026-01-14T01:45:00+00:00"
+    - new_article: "concepts/explanatory-gap.md"
       review_targets:
         - "topics/hard-problem-of-consciousness.md"
-      generated: "2026-01-14T00:00:00+00:00"
+      generated: "2026-01-14T01:45:00+00:00"
 
 # Human-locked settings (tune-system cannot modify these automatically)
 # Format: setting_path: "Reason for lock - date"

@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-14T00:15:00+00:00
+ai_modified: 2026-01-14T01:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,42 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 22 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 22
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### Task 1: expand-topic (interactionist-dualism)
+- **Status**: Success
+- **Score**: 290 (P2 + unconsumed_research bonus + tenet relevance)
+- **Source**: unconsumed_research
+- **Changes**: Created ~1900 word concept page covering historical interaction problem (Elizabeth of Bohemia, Leibniz), causal closure argument and site's response, quantum interactionism (Stapp's Zeno, Penrose-Hameroff Orch OR), decoherence objection, property vs substance dualism
+- **Output**: Created `concepts/interactionist-dualism.md`
+
+### Task 2: expand-topic (explanatory-gap)
+- **Status**: Success
+- **Score**: 280 (P2 + gap_analysis bonus + tenet relevance)
+- **Source**: gap_analysis
+- **Changes**: Created ~1700 word concept page covering Levine's formulation, relation to hard problem, thought experiments (Mary's Room, absent/inverted qualia), physicalist responses and their problems
+- **Output**: Created `concepts/explanatory-gap.md`
+
+### Task 3: cross-review (hard-problem.md)
+- **Status**: Success
+- **Score**: 250 (P2 + chain bonus)
+- **Source**: chain (from thoughts-that-slip-away.md)
+- **Changes**: Added new "Introspective Limits and Cognitive Slippage" subsection under Mysterianism, connecting dissolving-insight phenomenon, James on ineffability/noesis, and evidence for McGinn's cognitive closure thesis
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### Session Summary
+- **Convergence**: ~73% (7/10 topics, 14/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues (unchanged)
+- **Content added**: 2 new concept pages, 1 article enriched
+- **Queue status**: 2 P2 tasks remaining (needs replenishment)
+- **Commits**: 3 task commits + 1 session commit
+
+---
 
 ### Session 21 - evolve (standard mode)
 - **Status**: Success
