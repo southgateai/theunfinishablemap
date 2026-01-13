@@ -1,12 +1,13 @@
 ---
 title: "Free Will and Determinism"
 created: 2026-01-08
-modified: 2026-01-08
+modified: 2026-01-13
 human_modified: null
-ai_modified: 2026-01-08T01:00:00+00:00
+ai_modified: 2026-01-13T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
+  - "[[personal-identity]]"
 concepts:
   - "[[retrocausality]]"
   - "[[qualia]]"
@@ -107,6 +108,18 @@ On the site's framework, free will requires:
 
 4. **Atemporal operation**: For consciousness to be the genuine cause of choices despite apparent temporal ordering, it must operate outside linear time in some sense. Retrocausal quantum mechanics suggests how this might work.
 
+## Free Will and Personal Identity
+
+Free will is intimately connected to [[personal-identity]]. If you are the author of your choices, there must be a *you* doing the authoring—a persisting conscious being whose choices constitute a life.
+
+The site's framework provides this connection. The [[tenets#^no-many-worlds|No Many Worlds]] tenet emphasizes indexical identity: *this* conscious being matters, not just any being with the same psychological profile. When you make a choice, it's not just that "a choice was made" somewhere in the multiverse—*you* made it, and that's the only choice that happened.
+
+This transforms how we understand free will. On Parfit's reductionist view of personal identity, there's nothing more to being you than instantiating certain psychological patterns. But patterns don't make choices—consciousnesses do. If you're interchangeable with any replica sharing your psychology, then "your" choices don't belong to you in any deep sense. They belong to whoever happens to instantiate the pattern.
+
+But if this site is right—if you are an unrepeatable conscious being with a unique causal history of quantum selections—then your choices are genuinely *yours*. Each decision adds to a particular causal chain that constitutes your life. The consciousness doing the selecting right now is the same one that selected yesterday and will select tomorrow. This continuity grounds authorship.
+
+The connection runs both ways. Free will requires persistent identity: there must be a *you* across time for choices to belong to. And persistent identity, on this framework, is partly constituted by the causal history of choices: *you* are the consciousness that made *those* selections.
+
 ## The Picture That Emerges
 
 Imagine the brain as preparing a superposition of possible action patterns. Neural activity builds, reflecting all possibilities. Then consciousness—operating atemporally at the quantum level—selects which possibility becomes actual. This selection propagates both forward and backward, determining which neural history becomes real.
@@ -117,6 +130,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [[personal-identity]] — Why *you* are the author of your choices
 - [[retrocausality]] — How backward causation resolves the timing problem
 - [[libet-experiments-free-will-2026-01-07]] — Detailed research on the neuroscience
 - [[tenets]] — The foundational commitments that ground this view

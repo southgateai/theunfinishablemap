@@ -46,11 +46,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1800 word article exploring how AI alignment depends on unsolved questions about human purpose, connecting preferentist critique to site's consciousness-first framework
 - **Output**: `topics/purpose-and-alignment.md`
 
-### P2: Cross-review free-will.md considering personal-identity insights
+### ✓ 2026-01-13: Cross-review free-will.md considering personal-identity insights
 - **Type**: cross-review
 - **Notes**: New article topics/personal-identity.md may provide insights relevant to topics/free-will.md. Look for cross-linking opportunities and conceptual connections between identity persistence and free will.
 - **Source**: chain (from personal-identity.md)
 - **Generated**: 2026-01-13
+- **Result**: Added "Free Will and Personal Identity" section connecting authorship of choices to indexical identity and unique causal history of quantum selections
+- **Output**: Updated `topics/free-will.md`
 
 ### P2: Cross-review hard-problem-of-consciousness.md considering IIT insights
 - **Type**: cross-review
