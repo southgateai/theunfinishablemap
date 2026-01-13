@@ -3,7 +3,7 @@ title: "Voids in the Map"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: 2026-01-08
-ai_modified: 2026-01-08T17:00:00+00:00
+ai_modified: 2026-01-14T00:05:00+00:00
 draft: false
 topics: []
 concepts:
@@ -12,6 +12,8 @@ related_articles:
   - "[[tenets]]"
   - "[[index]]"
   - "[[ai-consciousness]]"
+  - "[[apophatic-approaches]]"
+  - "[[thoughts-that-slip-away]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -94,11 +96,11 @@ This section will explore:
 
 **What the voids reveal**: Sometimes what we *cannot* think tells us something about what we *are*. The shape of our cognitive limitations may illuminate the shape of our minds.
 
-**How to approach the edge**: Negative theology, apophatic description, indirect inference—ways of tracing the boundary of a void even if we cannot enter it. And perhaps: AI-assisted probing of territories human minds cannot access directly.
+**How to approach the edge**: The [[apophatic-approaches|apophatic tradition]]—negative theology, learned ignorance, indirect inference—provides methodological tools for tracing boundaries we cannot cross. Cusanus's insight that knowing what we cannot know is itself knowledge; Wittgenstein's recognition that some truths must be honored with silence rather than distorted by inadequate words. And perhaps: AI-assisted probing of territories human minds cannot access directly.
+
+**[[thoughts-that-slip-away|What slips away]]**: A phenomenological investigation of thoughts that won't stick. What patterns emerge when we pay attention to what we keep failing to think?
 
 **Whether the voids are real**: Perhaps what seems unthinkable is merely unthought. Perhaps what feels occluded is merely difficult. The distinction between unexplored, unexplorable, and occluded is itself a question we must explore.
-
-**What slips away**: A phenomenological investigation of thoughts that won't stick. What patterns emerge when we pay attention to what we keep failing to think?
 
 ## A Note on Intellectual Honesty
 
