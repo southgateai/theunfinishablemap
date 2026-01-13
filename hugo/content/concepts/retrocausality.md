@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-07 23:30:00+00:00
+ai_modified: 2026-01-13 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[locality]]'
+- '[[quantum-consciousness]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
@@ -99,6 +100,16 @@ In this picture, asking "when does consciousness make the decision?" may be the 
 
 **Response**: The claim isn't that consciousness *adds* retrocausal powers to physics but that physics already includes retrocausality, and consciousness operates at the level where this matters. If consciousness interacts with quantum processes (per the site's tenets), it inherits the temporal properties of those processes.
 
+## Connection to Quantum Consciousness Mechanisms
+
+Retrocausality complements the specific [quantum consciousness mechanisms](/concepts/quantum-consciousness/) proposed by researchers like Penrose-Hameroff (Orch OR) and Henry Stapp. These mechanisms explain *where* in the brain consciousness might interface with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves.
+
+**Orch OR and retrocausality**: Penrose and Hameroff propose that consciousness emerges through quantum collapse events in neuronal microtubules. If these collapses have retrocausal aspects (as the transactional interpretation suggests), then the "moment" of consciousness selecting a particular collapse outcome need not precede the neural activity it shapes. The collapse event and its preparation form an atemporal transaction.
+
+**Stapp's quantum Zeno and retrocausality**: Stapp's model proposes that conscious attention acts like repeated quantum observations, stabilizing desired neural patterns. Combined with retrocausality, this suggests attention might work through retrocausal handshakes—the later "observation" events retroactively constraining which neural patterns were ever available. The Zeno freezing operates across time, not merely within it.
+
+Both approaches benefit from retrocausality because it dissolves the Libet objection without requiring consciousness to somehow "speed up" to precede neural preparation.
+
 ## Relation to Site Perspective
 
 Retrocausality offers the strongest available resolution to the temporal ordering objection against conscious causation. If the [site's tenets](/tenets/) are correct—if consciousness genuinely influences which quantum outcomes become actual—then retrocausal models provide the mechanism for how this influence can appear "after" the neural activity it shapes.
@@ -112,6 +123,7 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 
 ## Further Reading
 
+- [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Orch OR, Stapp's Zeno) that retrocausality complements
 - [Libet Research Notes](/research/libet-experiments-free-will-2026-01-07/) - Full research on Libet experiments and retrocausal interpretations
 - [tenets](/tenets/) - The site's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction
 - [locality](/concepts/locality/) - Related concept on how non-local effects work without violating causality

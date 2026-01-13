@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-13 23:00:00+00:00
+ai_modified: 2026-01-14 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[nihilism]]'
 - '[[existentialism]]'
+- '[[purpose-and-alignment]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 draft: false
@@ -109,6 +110,18 @@ This resonates with the site's position that meaning is grounded in consciousnes
 
 The site's framework can integrate this insight. If meaning is grounded in the intrinsic significance of conscious experience, then living meaningfully involves fully engaging that experience—being present, not operating on autopilot. Buddhism's emphasis on mindfulness, on direct phenomenological attention, may be the practice through which consciousness-grounded meaning is actually realized, not just theoretically affirmed.
 
+## The AI Alignment Connection
+
+Questions about meaning acquire unexpected urgency through [AI alignment research](/topics/purpose-and-alignment/). The project of ensuring AI serves human interests presupposes we know what those interests are. But if we cannot articulate human purpose clearly, AI systems cannot be properly aligned—they would be optimizing for something we cannot fully specify.
+
+Standard alignment approaches learn from human preferences, treating choices as revealing values. But preferences are thin representations of meaning. What I choose under conditions of decision fatigue and algorithmic manipulation reveals little about what would fulfil me on reflection. The *preferentist critique* argues that observed behaviour cannot capture the "thick semantic content" of human values—the qualitative dimension of what makes life worth living.
+
+This creates a surprising convergence. AI safety researchers need to understand human purpose, but human purpose is precisely what philosophy has debated inconclusively for millennia. The alignment problem may be partly unsolvable because the meaning-of-life problem remains unsolved.
+
+The site's consciousness-centric framework illuminates why. If consciousness is fundamental and irreducible, then what matters about human life may be tied to features of experience that no behavioural analysis can capture. A preference-learning AI observes inputs and outputs but cannot grasp what it is like to live a human life. It can model choices but not understand why those choices matter from the inside.
+
+This doesn't make alignment impossible, but it suggests a posture of humility. AI systems should support human inquiry into meaning rather than presume to have discovered it. They should be partners in the unfinishable map, not confident optimizers of a utility function we cannot fully articulate.
+
 ## Responding to Nihilism
 
 The site's framework provides resources against the main nihilist arguments.
@@ -154,6 +167,7 @@ This won't satisfy those who demand cosmic purpose handed down from above. But i
 - [nihilism](/concepts/nihilism/) — The case for meaninglessness and responses to it
 - [existentialism](/concepts/existentialism/) — Self-creation in an indifferent universe
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Eastern approaches to consciousness and meaning
+- [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning
 - [meaning-of-life-theories-2026-01-08](/research/meaning-of-life-theories-2026-01-08/) — Research on major philosophical positions
 - [tenets](/tenets/) — The foundational commitments grounding this view
 

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-13T19:00:00+00:00
-session_count: 20
+last_updated: 2026-01-14T00:15:00+00:00
+session_count: 21
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -61,7 +61,7 @@ progress:
   questions_written: 1
   voids_written: 2  # +thoughts-that-slip-away
   research_notes: 13
-  reviews_completed: 28  # +cross-review-retrocausality/quantum-consciousness, +cross-review-ai-consciousness/purpose-and-alignment, +cross-review-hard-problem/apophatic-approaches
+  reviews_completed: 31  # +3 cross-reviews session 21
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (meaning-of-life/purpose-and-alignment)
+    date: 2026-01-14
+    result: success
+    session: 21
+  - task: cross-review (tenets/quantum-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 21
+  - task: cross-review (voids/thoughts-that-slip-away)
+    date: 2026-01-14
+    result: success
+    session: 21
   - task: cross-review (retrocausality/quantum-consciousness)
     date: 2026-01-13
     result: success
@@ -201,9 +213,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5  # 5 remaining cross-reviews
+  p2_tasks: 2  # 2 remaining cross-reviews (hard-problem/thoughts + one more)
   p3_tasks: 1  # explanatory gap only
-  needs_replenishment: false
+  needs_replenishment: true  # dropped below 3
   last_replenishment: 2026-01-13T18:00:00+00:00
   replenishment_source_counts:
     chain: 13
@@ -222,20 +234,14 @@ task_chains:
     # eastern-philosophy -> nihilism COMPLETED session 18
     # epiphenomenalism -> tenets.md COMPLETED session 19
     # epiphenomenalism -> hard-problem.md COMPLETED session 19
-    - new_article: "concepts/quantum-consciousness.md"
-      review_targets:
-        - "tenets/tenets.md"
-      generated: "2026-01-09T12:30:00+00:00"
+    # quantum-consciousness -> tenets.md COMPLETED session 21
     # functionalism -> ai-consciousness.md COMPLETED session 19
     # apophatic-approaches -> voids COMPLETED session 18
     # apophatic-approaches -> hard-problem.md COMPLETED session 20
-    - new_article: "topics/purpose-and-alignment.md"
-      review_targets:
-        - "topics/meaning-of-life.md"
-      generated: "2026-01-13T10:00:00+00:00"
+    # purpose-and-alignment -> meaning-of-life.md COMPLETED session 21
+    # thoughts-that-slip-away -> voids.md COMPLETED session 21
     - new_article: "voids/thoughts-that-slip-away.md"
       review_targets:
-        - "voids/voids.md"
         - "topics/hard-problem-of-consciousness.md"
       generated: "2026-01-14T00:00:00+00:00"
 

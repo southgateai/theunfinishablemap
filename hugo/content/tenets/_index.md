@@ -1,10 +1,11 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-13 14:00:00+00:00
+ai_modified: 2026-01-14 00:00:00+00:00
 ai_system: null
 author: Andy Southgate
-concepts: []
+concepts:
+- '[[quantum-consciousness]]'
 created: 2026-01-02
 date: &id001 2026-01-02
 draft: false
@@ -35,6 +36,8 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 **Definition:** If consciousness can influence the physical world, it must do so at the quantum level—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws. This tenet commits to the *minimal* such interaction: the smallest deviation from standard quantum mechanics that could permit mind-matter causation.
 
 **Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more. Crucially, this tenet rejects the strong causal closure of physics that [epiphenomenalism](/concepts/epiphenomenalism/) depends on: the claim that every physical event has a sufficient physical cause. Physics is *not* complete at quantum indeterminacies—and that's where consciousness acts.
+
+**Candidate mechanisms:** Serious scientific proposals have explored this interface. [Orch OR](/concepts/quantum-consciousness/) (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse. Stapp's [quantum Zeno approach](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) uses orthodox quantum mechanics—mental attention acts like repeated observation, holding desired neural patterns through the Zeno effect. Both share what this tenet requires: consciousness biasing indeterminate outcomes without injecting energy or violating conservation laws. The site doesn't commit to either mechanism but holds that *some* such interface exists.
 
 **Not to be confused with:** "Quantum woo" or "quantum mysticism"—pseudoscientific claims that misappropriate quantum mechanics terminology to justify New Age beliefs, parapsychology, or magical thinking. This tenet is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism.
 

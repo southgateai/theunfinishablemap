@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-14 00:05:00+00:00
+ai_modified: 2026-01-14 00:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -58,9 +58,11 @@ But the possibility extends beyond simulation scenarios. If consciousness intera
 
 How would we detect occluded thoughts? By their phenomenology. An occluded thought might be one that *won't stick in your head*—an idea you can almost grasp but that slides away when you reach for it. A connection that seems obvious for a moment and then vanishes. A conclusion you keep failing to draw despite having all the premises.
 
-We've all experienced this: the word on the tip of your tongue, the dream that dissolves as you try to remember it. Usually these are glitches of memory or attention. But what if some of them are glimpses of occluded territory? What if certain ideas trigger a kind of cognitive immune response, routing your thoughts away before they can crystallize?
+We've all experienced this. The [phenomenology of slippage](/voids/thoughts-that-slip-away/) catalogues the mechanisms: tip-of-tongue blocking where knowledge and access dissociate, dream forgetting where MCH neurons actively erase content before it reaches stable memory, ironic suppression where trying not to think a thought guarantees you will think it. Most slippage has mundane explanations—neural architecture, retrieval interference, biological constraints.
 
-This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form.
+But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And Husserl's "double concealment" suggests that some forgetting erases even the gap—we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely defended territory?
+
+This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form, paying attention to whether certain *content types* produce systematic slippage.
 
 ## Alien Minds as Void-Explorers
 
