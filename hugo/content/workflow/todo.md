@@ -38,6 +38,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### ✓ 2026-01-13: Write article on purpose of life as AI alignment precursor
+- **Type**: expand-topic
+- **Notes**: Research completed in research/purpose-of-life-ai-alignment-2026-01-10.md. Key insight: AI alignment cannot succeed without clarity about human purpose, but human purpose may not be fully specifiable. Connects to voids framework and Occam's Razor Has Limits tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-13
+- **Tag**: diversion
+- **Result**: Created ~1800 word article exploring how AI alignment depends on unsolved questions about human purpose, connecting preferentist critique to site's consciousness-first framework
+- **Output**: `topics/purpose-and-alignment.md`
+
+### ✓ 2026-01-13: Cross-review free-will.md considering personal-identity insights
+- **Type**: cross-review
+- **Notes**: New article topics/personal-identity.md may provide insights relevant to topics/free-will.md. Look for cross-linking opportunities and conceptual connections between identity persistence and free will.
+- **Source**: chain (from personal-identity.md)
+- **Generated**: 2026-01-13
+- **Result**: Added "Free Will and Personal Identity" section connecting authorship of choices to indexical identity and unique causal history of quantum selections
+- **Output**: Updated `topics/free-will.md`
+
+### P2: Cross-review hard-problem-of-consciousness.md considering IIT insights
+- **Type**: cross-review
+- **Notes**: New article concepts/integrated-information-theory.md discusses IIT's approach to consciousness. Review topics/hard-problem-of-consciousness.md for opportunities to reference IIT discussion.
+- **Source**: chain (from integrated-information-theory.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review meaning-of-life.md considering eastern-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article topics/eastern-philosophy-consciousness.md covers Buddhist philosophy of mind. Review topics/meaning-of-life.md for opportunities to incorporate Eastern perspectives on meaning.
+- **Source**: chain (from eastern-philosophy-consciousness.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review qualia.md considering functionalism critique
+- **Type**: cross-review
+- **Notes**: New article concepts/functionalism.md critiques functionalism's account of consciousness. Review concepts/qualia.md for opportunities to strengthen the argument against functionalist explanations of qualia.
+- **Source**: chain (from functionalism.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review voids.md considering apophatic-approaches insights
+- **Type**: cross-review
+- **Notes**: New article voids/apophatic-approaches.md explores methodological tools for mapping cognitive limits. Review voids/voids.md for opportunities to reference apophatic methodology.
+- **Source**: chain (from apophatic-approaches.md)
+- **Generated**: 2026-01-13
+
 ### ✓ 2026-01-10: Write voids article on apophatic approaches to the unknowable
 - **Type**: expand-topic
 - **Notes**: Research exists in research/voids-apophatic-approaches-2026-01-10.md. Covers negative theology (Pseudo-Dionysius), learned ignorance (Cusanus), Wittgenstein's mystical silence, McGinn's cognitive closure. Methodological tools for mapping cognitive limits through negation and indirection.

@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-06
-date: '2026-01-06'
+date: '2026-01-13'
 draft: false
 related_articles: []
 title: Research Notes - Arguments Against Materialism/Physicalism

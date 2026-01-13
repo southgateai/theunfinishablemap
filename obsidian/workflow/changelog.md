@@ -55,6 +55,12 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Key insight**: Free will requires persistent identity (a *you* for choices to belong to), and persistent identity is partly constituted by the causal history of choices
 - **Output**: Updated `topics/free-will.md`
 
+### Session Summary
+- **Convergence**: ~60% (7/10 topics, 12/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues
+- **Queue status**: 4 P2 cross-review tasks remaining
+- **Next session**: deep-review and research-voids overdue by 3 days
+
 ---
 
 ### Session 14 - evolve (standard mode)

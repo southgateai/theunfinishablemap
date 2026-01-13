@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-13T11:00:00+00:00
-session_count: 14
+last_updated: 2026-01-13T12:30:00+00:00
+session_count: 15
 
 # Last run timestamps for maintenance tasks
 last_runs:
   validate-all: 2026-01-13T10:30:00+00:00
   pessimistic-review: 2026-01-13T10:30:00+00:00
-  optimistic-review: 2026-01-09T10:00:00+00:00
+  optimistic-review: 2026-01-13T12:00:00+00:00
   check-tenets: 2026-01-06T20:00:00+00:00
-  check-links: 2026-01-09T10:00:00+00:00
+  check-links: 2026-01-13T12:00:00+00:00
   deep-review: 2026-01-10T15:30:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
   research-voids: 2026-01-10T12:00:00+00:00
@@ -40,7 +40,7 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 49  # +1 purpose-and-alignment
+  total_files: 49
   published_files: 37
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 7  # +purpose-and-alignment
+  topics_written: 7
   concepts_written: 12
   arguments_written: 1
   questions_written: 1
   voids_written: 1
   research_notes: 12
-  reviews_completed: 13  # +pessimistic-2026-01-13, +validate-all
+  reviews_completed: 14  # +optimistic-2026-01-13
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: check-links
+    date: 2026-01-13
+    result: success
+    session: 15
+  - task: optimistic-review
+    date: 2026-01-13
+    result: success
+    session: 15
+  - task: cross-review (free-will)
+    date: 2026-01-13
+    result: success
+    session: 15
   - task: expand-topic (purpose-and-alignment)
     date: 2026-01-13
     result: success
@@ -124,34 +136,18 @@ recent_tasks:
     date: 2026-01-09
     result: success
     session: 11
-  - task: validate-all
-    date: 2026-01-09
-    result: success
-    session: 11
-  - task: check-links
-    date: 2026-01-09
-    result: success
-    session: 11
-  - task: expand-topic (integrated-information-theory)
-    date: 2026-01-09
-    result: success
-    session: 11
-  - task: expand-topic (eastern-philosophy-consciousness)
-    date: 2026-01-09
-    result: success
-    session: 11
 
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0  # purpose-and-alignment completed
-  p2_tasks: 5  # cross-reviews
+  p1_tasks: 0
+  p2_tasks: 4  # 5 - 1 completed (free-will cross-review)
   p3_tasks: 1  # explanatory gap only
   needs_replenishment: false
   last_replenishment: 2026-01-13T10:00:00+00:00
   replenishment_source_counts:
-    chain: 6  # 1 article from research + 5 cross-reviews
-    unconsumed_research: 0  # consumed into chain
+    chain: 6
+    unconsumed_research: 0
     gap_analysis: 0
     staleness: 0
 
@@ -160,18 +156,13 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles: []
-    # purpose-of-life-ai-alignment consumed -> purpose-and-alignment.md written
-    # voids-apophatic-approaches consumed -> apophatic-approaches.md written
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    - new_article: "topics/personal-identity.md"
-      review_targets:
-        - "topics/free-will.md"  # meaning-of-life done
-      generated: "2026-01-08T16:00:00+00:00"
+    # personal-identity -> free-will cross-review COMPLETED session 15
     - new_article: "concepts/integrated-information-theory.md"
       review_targets:
-        - "topics/hard-problem-of-consciousness.md"  # panpsychism done
+        - "topics/hard-problem-of-consciousness.md"
       generated: "2026-01-09T10:00:00+00:00"
     - new_article: "topics/eastern-philosophy-consciousness.md"
       review_targets:
