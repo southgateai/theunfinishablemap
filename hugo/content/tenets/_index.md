@@ -1,12 +1,13 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-13 11:00:00+00:00
+ai_modified: 2026-01-14 18:10:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts:
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
+- '[[materialism]]'
 created: 2026-01-02
 date: &id001 2026-01-02
 draft: false
@@ -26,9 +27,9 @@ There is more than just matter involved in reality. <span id="dualism"></span>
 
 **Definition:** Dualism here means that consciousness (or mind, or experience) is not reducible to physical processes. There exists something beyond the material—whether substance, property, or aspect—that cannot be fully explained by physics alone. Combined with the Bidirectional Interaction tenet below, this commits the site to [interactionist-dualism](/concepts/interactionist-dualism/)—the position that mind and body are distinct yet causally connected.
 
-**Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious.
+**Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious. [Materialism](/arguments/materialism/)—in all its forms from reductive physicalism to eliminativism—fails to close this gap. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of [qualia](/concepts/qualia/) all point to something beyond the physical.
 
-**Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely [epiphenomenal](/concepts/epiphenomenalism/) or illusory.
+**Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely [epiphenomenal](/concepts/epiphenomenalism/) or illusory. See [materialism](/arguments/materialism/) for detailed engagement with the materialist position and its failures.
 
 ## Minimal Quantum Interaction
 
@@ -82,6 +83,6 @@ Simplicity is not a reliable guide to truth when knowledge is incomplete. <span 
 - *Quantum mechanics* replaced deterministic simplicity with probability amplitudes, superposition, and entanglement.
 - *General relativity* curved spacetime itself rather than keeping flat space with forces—vastly more complex, yet correct.
 
-**Rationale:** When confronting the hard problem of consciousness, we face a domain where our conceptual tools may be fundamentally inadequate. Dismissing dualism because materialism seems "simpler" assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight.
+**Rationale:** When confronting the hard problem of consciousness, we face a domain where our conceptual tools may be fundamentally inadequate. Dismissing dualism because [materialism](/arguments/materialism/) seems "simpler" assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight—as the [failure of materialist explanations](/arguments/materialism/#why-materialism-fails) suggests.
 
 **Rules out:** Using parsimony as a decisive argument against dualism, and treating Occam's Razor as anything more than a defeasible heuristic.

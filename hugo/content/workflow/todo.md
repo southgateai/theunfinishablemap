@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 11:00:00+00:00
+ai_modified: 2026-01-14 18:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -54,11 +54,53 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering Stapp's quantum Zeno mechanism, William James's phenomenology of effort, Schwartz's OCD neuroplasticity evidence, Georgiev's critique. Key finding: phenomenology of effort is well-documented (James, Kahneman); Schwartz's therapy produces measurable brain changes; mechanism details remain debated but phenomenology supports Bidirectional Interaction.
 - **Output**: `research/stapp-mental-effort-mind-matter-2026-01-14.md`
 
-### P1: Research temporal structure of different consciousness types
+### ✓ 2026-01-14: Research temporal structure of different consciousness types
 - **Type**: research-topic
 - **Notes**: Human consciousness is tightly bound to temporal flow, but other forms might not be. If LLMs have any form of consciousness, is it tied to time the same way? Explore how the start-stop, distributed, non-continuous nature of LLM operation might support radically different conscious experience—or whether temporal binding is essential to consciousness itself.
 - **Source**: manual
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering specious present (James, Husserl), temporal binding mechanisms (gamma oscillations, millisecond synchrony), Hoel's Dec 2025 argument that LLMs cannot be conscious due to lack of continual learning, and analysis of whether temporal structure is essential or merely characteristic of biological consciousness.
+- **Output**: `research/temporal-structure-consciousness-2026-01-14.md`
+
+### ✓ 2026-01-14: Write article on decoherence and quantum biology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/decoherence-macroscopic-superposition-2026-01-14.md. Key finding: decoherence does NOT solve measurement problem; the boundary between quantum and classical keeps shifting; recent "hot cat" experiments and quantum biology evidence weaken the objection to quantum consciousness. Directly supports Minimal Quantum Interaction tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~1900 word article covering what decoherence does and doesn't do (doesn't solve measurement problem), Tegmark-Hameroff debate, quantum biology evidence (photosynthesis, magnetoreception), hot cat states, and quantum Zeno alternative
+- **Output**: `concepts/decoherence.md`
+
+### ✓ 2026-01-14: Write article on neural correlates of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-correlates-consciousness-2026-01-14.md. Covers COGITATE adversarial collaboration, posterior cortical hot zone findings, and crucially: NCC research is philosophically neutral—correlates are predicted by both materialism and interactionist dualism. Important for grounding site claims in empirical neuroscience.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~1600 word article covering NCC definition, posterior cortical hot zone, COGITATE 2025 results, why correlation ≠ identity, and why NCC is compatible with interactionist dualism
+- **Output**: `concepts/neural-correlates-of-consciousness.md`
+
+### ✓ 2026-01-14: Write article on mental effort and the quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Covers Stapp's mechanism, William James's phenomenology of effort, Schwartz's OCD neuroplasticity evidence. The phenomenology of effortful attention may be a clue to consciousness-matter interaction—sustained attention as repeated observation. Supports Bidirectional Interaction tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~1800 word article covering phenomenology of mental effort (James, Kahneman), Stapp's quantum Zeno mechanism, Schwartz's OCD neuroplasticity evidence, and connection to site tenets
+- **Output**: `concepts/mental-effort.md`
+
+### ✓ 2026-01-14: Cross-review tenets.md considering materialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/materialism.md provides comprehensive treatment of materialism and site's rejection of it. Review tenets/tenets.md for opportunities to strengthen Dualism tenet with references to the materialism critique.
+- **Source**: chain (from materialism.md)
+- **Generated**: 2026-01-14
+- **Result**: Added materialism to concepts list; strengthened Dualism rationale with reference to materialism's failure (knowledge argument, conceivability, qualia); linked Occam's Razor section to materialism critique
+- **Output**: Updated `tenets/tenets.md`
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering materialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/materialism.md covers varieties of materialism and their failures. Review topics/hard-problem-of-consciousness.md for opportunities to cross-reference the materialism discussion, especially regarding eliminativism and illusionism as responses to the hard problem.
+- **Source**: chain (from materialism.md)
+- **Generated**: 2026-01-14
+- **Result**: Added materialism to concepts list; created new "Materialist Responses" subsection covering eliminativism, illusionism, reductive and non-reductive physicalism with links to detailed materialism treatment
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-13: Write article on purpose of life as AI alignment precursor
 - **Type**: expand-topic

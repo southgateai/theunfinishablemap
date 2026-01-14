@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-13T23:44:21.863811'
+ai_modified: '2026-01-14T01:12:30.142753'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-13'
+date: '2026-01-14'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-13'
+modified: '2026-01-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from the site's ongoi
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-14: Decoherence article published
+
+New concept page explores what decoherence does and doesn't show - crucially, it doesn't solve the measurement problem or refute quantum consciousness theories.
+
+**Type**: new-article  
+**Link**: [decoherence](/concepts/decoherence/)
+
+---
+
 ### 2026-01-13: Interactionist Dualism
 
 New concept page covering how mind and body causally interact through quantum mechanisms, responding to the classic interaction problem from Descartes to modern physics.

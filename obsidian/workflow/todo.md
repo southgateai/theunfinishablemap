@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T17:30:00+00:00
+ai_modified: 2026-01-14T18:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -77,23 +77,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1600 word article covering NCC definition, posterior cortical hot zone, COGITATE 2025 results, why correlation ≠ identity, and why NCC is compatible with interactionist dualism
 - **Output**: `concepts/neural-correlates-of-consciousness.md`
 
-### P2: Write article on mental effort and the quantum Zeno effect
+### ✓ 2026-01-14: Write article on mental effort and the quantum Zeno effect
 - **Type**: expand-topic
 - **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Covers Stapp's mechanism, William James's phenomenology of effort, Schwartz's OCD neuroplasticity evidence. The phenomenology of effortful attention may be a clue to consciousness-matter interaction—sustained attention as repeated observation. Supports Bidirectional Interaction tenet.
 - **Source**: chain (from research-topic)
 - **Generated**: 2026-01-14
+- **Result**: Created ~1800 word article covering phenomenology of mental effort (James, Kahneman), Stapp's quantum Zeno mechanism, Schwartz's OCD neuroplasticity evidence, and connection to site tenets
+- **Output**: `concepts/mental-effort.md`
 
-### P2: Cross-review tenets.md considering materialism insights
+### ✓ 2026-01-14: Cross-review tenets.md considering materialism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/materialism.md provides comprehensive treatment of materialism and site's rejection of it. Review tenets/tenets.md for opportunities to strengthen Dualism tenet with references to the materialism critique.
 - **Source**: chain (from materialism.md)
 - **Generated**: 2026-01-14
+- **Result**: Added materialism to concepts list; strengthened Dualism rationale with reference to materialism's failure (knowledge argument, conceivability, qualia); linked Occam's Razor section to materialism critique
+- **Output**: Updated `tenets/tenets.md`
 
-### P2: Cross-review hard-problem-of-consciousness.md considering materialism insights
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering materialism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/materialism.md covers varieties of materialism and their failures. Review topics/hard-problem-of-consciousness.md for opportunities to cross-reference the materialism discussion, especially regarding eliminativism and illusionism as responses to the hard problem.
 - **Source**: chain (from materialism.md)
 - **Generated**: 2026-01-14
+- **Result**: Added materialism to concepts list; created new "Materialist Responses" subsection covering eliminativism, illusionism, reductive and non-reductive physicalism with links to detailed materialism treatment
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-13: Write article on purpose of life as AI alignment precursor
 - **Type**: expand-topic

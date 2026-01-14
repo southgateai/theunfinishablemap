@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-13 12:00:00+00:00
+ai_modified: 2026-01-14 18:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
 - '[[explanatory-gap]]'
+- '[[materialism]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -96,6 +97,18 @@ If Mary learns something new, then her previous knowledge—complete physical kn
 Critics have responded: perhaps Mary gains a new *ability* (to recognise red, to imagine it) rather than new *knowledge*. Perhaps she gains *acquaintance* with redness without learning new propositions. The debate continues, but the intuitive force of the argument remains: knowing everything about the mechanism of colour vision seems to leave out knowing what colour experience is *like*.
 
 ## Responses to the Hard Problem
+
+### Materialist Responses
+
+[Materialism](/arguments/materialism/) offers several responses to the hard problem, none of them satisfying:
+
+**Eliminativism** denies the explanandum. If consciousness as we conceive it doesn't exist—if our folk-psychological concepts are like "phlogiston"—then there's nothing to explain. But eliminativism seems to deny what is most evident: that there is something it is like to read these words.
+
+**Illusionism** accepts that something exists but denies it has the properties we attribute to it. We have a systematic *illusion* of rich qualitative experience. But even illusions must be experienced—illusionism pushes the mystery back without eliminating it.
+
+**Reductive physicalism** claims consciousness *is* brain activity, just as water is H₂O. But unlike water=H₂O, the identity doesn't explain. We understand why H₂O has water's properties; we don't understand why neural activity has experiential properties.
+
+**Non-reductive physicalism** concedes that consciousness isn't reducible but claims it's still "physical"—fully determined by physical facts even if not identical to them. This doesn't close the explanatory gap; it just relabels it. See [varieties of materialism](/arguments/materialism/#varieties-of-materialism) for detailed treatment of each position and its failures.
 
 ### Epiphenomenalism
 
