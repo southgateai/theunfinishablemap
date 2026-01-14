@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T00:00:00+00:00
-session_count: 28
+last_updated: 2026-01-14T19:30:00+00:00
+session_count: 29
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -61,7 +61,7 @@ progress:
   questions_written: 1
   voids_written: 2
   research_notes: 17
-  reviews_completed: 39  # +2 cross-reviews (free-will/mental-effort, quantum-consciousness/decoherence)
+  reviews_completed: 42  # +3 cross-reviews session 29 (tenets/decoherence, hard-problem/NCC, quantum-consciousness/mental-effort)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (tenets/decoherence)
+    date: 2026-01-14
+    result: success
+    session: 29
+  - task: cross-review (hard-problem/neural-correlates)
+    date: 2026-01-14
+    result: success
+    session: 29
+  - task: cross-review (quantum-consciousness/mental-effort)
+    date: 2026-01-14
+    result: success
+    session: 29
   - task: expand-topic (temporal-consciousness)
     date: 2026-01-15
     result: success
@@ -289,7 +301,7 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 6  # time perception + 5 remaining cross-reviews (done: temporal article, free-will, quantum-consciousness)
+  p2_tasks: 3  # time perception + 2 remaining cross-reviews (done session 29: tenets/decoherence, hard-problem/NCC, quantum-consciousness/mental-effort)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
   needs_replenishment: false
   last_replenishment: 2026-01-15T00:00:00+00:00
@@ -307,25 +319,19 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    - new_article: "concepts/decoherence.md"
-      review_targets:
-        - "tenets/tenets.md"  # quantum-consciousness COMPLETED session 28
-      generated: "2026-01-14T17:30:00+00:00"
     - new_article: "concepts/neural-correlates-of-consciousness.md"
       review_targets:
-        - "topics/hard-problem-of-consciousness.md"
-        - "concepts/interactionist-dualism.md"
+        - "concepts/interactionist-dualism.md"  # hard-problem.md COMPLETED session 29
       generated: "2026-01-14T17:30:00+00:00"
-    - new_article: "concepts/mental-effort.md"
-      review_targets:
-        - "concepts/quantum-consciousness.md"  # free-will COMPLETED session 28
-      generated: "2026-01-14T18:30:00+00:00"
     - new_article: "concepts/temporal-consciousness.md"
       review_targets:
         - "topics/ai-consciousness.md"
         - "topics/hard-problem-of-consciousness.md"
       generated: "2026-01-15T00:00:00+00:00"
     # Previous cross-reviews completed:
+    # decoherence -> tenets.md COMPLETED session 29
+    # neural-correlates -> hard-problem.md COMPLETED session 29
+    # mental-effort -> quantum-consciousness.md COMPLETED session 29
     # decoherence -> quantum-consciousness.md COMPLETED session 28
     # mental-effort -> free-will.md COMPLETED session 28
     # materialism -> tenets.md COMPLETED session 27
