@@ -53,11 +53,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering McGinn's 1989 cognitive closure argument, Nagel's "What Is It Like to Be a Bat?", Chomsky's problems vs mysteries distinction, temporary vs permanent mysterianism, and major critiques (Dennett, Churchlands). Key finding: mysterianism strongly supports Occam's Razor Has Limits tenet; remains neutral on Dualism but compatible with it.
 - **Output**: `research/mysterianism-cognitive-closure-2026-01-14.md`
 
-### P2: Write article on Libet experiments and free will
+### ✓ 2026-01-14: Write article on Libet experiments and free will
 - **Type**: expand-topic
 - **Notes**: Research completed in research/libet-experiments-free-will-2026-01-07.md. Libet experiments are central to the free will debate and referenced extensively in free-will.md and retrocausality.md. The research covers original experiments, Soon et al. extension, Schurger's neural noise critique, and retrocausal interpretations. Deserves dedicated article given importance to site's framework.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-14
+- **Result**: Created dedicated concept page covering Libet's original 1983 experiments, Soon et al. 2008 extension to 10 seconds, Schurger's neural noise critique (2012), Libet's veto power interpretation, and the retrocausal resolution that transcends the timing problem. Article connects to Bidirectional Interaction, Minimal Quantum Interaction, and Dualism tenets.
+- **Output**: `concepts/libet-experiments.md`
 
 ### P2: Research near-death experiences and consciousness
 - **Type**: research-topic
