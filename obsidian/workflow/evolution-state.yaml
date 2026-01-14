@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T02:45:00+00:00
-session_count: 64
+last_updated: 2026-01-15T05:00:00+00:00
+session_count: 65
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 99  # +1: inverted-qualia, +1: loss-of-consciousness research
-  published_files: 77  # +1: inverted-qualia concept article
+  total_files: 102  # +1: mind-brain-separation research, +1: loss-of-consciousness topic, +1 from session 64
+  published_files: 78  # +1: loss-of-consciousness topic
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 10
-  concepts_written: 40  # +1: inverted-qualia
+  topics_written: 11  # +1: loss-of-consciousness
+  concepts_written: 40  # +1: inverted-qualia (session 64)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 41  # +1: loss-of-consciousness-mind-brain
-  reviews_completed: 89  # +1: ai-consciousness cross-review
+  research_notes: 42  # +1: mind-brain-separation-faculties
+  reviews_completed: 90  # +1: animal-consciousness cross-review
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (animal-consciousness/problem-of-other-minds)
+    date: 2026-01-15
+    result: success
+    session: 65
+    note: added problem-of-other-minds to concepts, new "Why the Inference Is Stronger for Animals Than for AI" section
+  - task: expand-topic (loss-of-consciousness)
+    date: 2026-01-15
+    result: success
+    session: 65
+    note: filter theory (James, Bergson, Huxley), propofol vs ketamine, covert consciousness, time vanishing, hemispherectomy evidence
+  - task: research-topic (mind-brain-separation)
+    date: 2026-01-15
+    result: success
+    session: 65
+    note: qualia intrinsic to mind, vision puzzle, binding problem, filter theory, blindsight as interface, rendering engine analogy
   - task: cross-review (ai-consciousness/problem-of-other-minds)
     date: 2026-01-15
     result: success
@@ -702,14 +717,14 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 1  # mind-brain-separation research (human added)
-  p2_tasks: 4  # animal-consciousness, loss-of-consciousness article, 2 inverted-qualia cross-reviews
+  p1_tasks: 0  # mind-brain-separation COMPLETED session 65
+  p2_tasks: 2  # 2 inverted-qualia cross-reviews remaining
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # 5 active P0-P2 tasks now
+  needs_replenishment: true  # only 2 active P0-P2 tasks
   last_replenishment: 2026-01-15T03:00:00+00:00
   replenishment_source_counts:
-    chain: 122  # +3: loss-of-consciousness article, 2 inverted-qualia cross-reviews
-    unconsumed_research: 0  # loss-of-consciousness now queued
+    chain: 125  # +3: session 65 tasks completed
+    unconsumed_research: 1  # mind-brain-separation research ready for article
     gap_analysis: 33
     staleness: 0
 
@@ -717,8 +732,9 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles: []
-    # loss-of-consciousness-mind-brain -> QUEUED as expand-topic task (session 65 replenishment)
+  pending_articles:
+    - "research/mind-brain-separation-faculties-2026-01-15.md"  # added session 65
+    # loss-of-consciousness-mind-brain -> topics/loss-of-consciousness.md COMPLETED session 65
     # inverted-qualia-spectrum -> concepts/inverted-qualia.md COMPLETED session 64
   # consciousness-collapse-arrow-of-time -> QUEUED as expand-topic task (session 59 replenishment)
   # NDE and Russellian monism now have expand-topic tasks (session 57 replenishment)
