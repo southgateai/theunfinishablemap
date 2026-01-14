@@ -111,11 +111,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
-### P2: Review self-reference-paradox.md considering intentionality insights
+### ✓ 2026-01-14: Review self-reference-paradox.md considering intentionality insights
 - **Type**: cross-review
 - **Notes**: New article concepts/intentionality.md covers the aboutness of mental states. Review voids/self-reference-paradox.md for opportunities to connect intentionality's reflexive problem (can a thought be about itself?) with the broader self-reference paradox. The calibration problem in self-reference relates to intentionality's circularity when mind tries to grasp itself.
 - **Source**: chain (from intentionality.md)
 - **Generated**: 2026-01-14
+- **Result**: Added intentionality to concepts list; expanded Calibration Problem section with Brentano's thesis about intentionality and how self-directed thought creates peculiar circularity; added intentionality to Further Reading
+- **Output**: Updated `voids/self-reference-paradox.md`
 
 ### ✓ 2026-01-14: Research intentionality and consciousness
 - **Type**: research-topic

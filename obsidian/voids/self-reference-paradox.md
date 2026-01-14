@@ -3,12 +3,13 @@ title: "The Self-Reference Paradox"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T00:30:00+00:00
+ai_modified: 2026-01-14T01:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
+  - "[[intentionality]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -60,6 +61,8 @@ Evidence comes from pathology. Blindsight patients process visual information wi
 How reliable is introspection? Richard Nisbett and Timothy Wilson's classic research showed that subjects systematically misidentify the factors influencing their own decisions. They report plausible reasons rather than actual causes. Introspection often involves confabulation dressed as self-knowledge.
 
 But how would we know? Here's the paradox: evaluating introspection's reliability requires using introspection to verify introspective results. The assessment tool is the same tool being assessed. We cannot step outside our own minds to check whether our minds are accurately reporting on themselves.
+
+The problem of [[intentionality]] sharpens this. When we think *about* thinking, our thought exhibits intentionality—it is directed at itself. But this creates a peculiar circularity. For Brentano, intentionality is the mark of the mental: thoughts are always *about* something. When that "something" is the thought itself, we get the self-reference structure that generates instability. The thought about thinking has the thought about thinking as its intentional object—which includes the thought about thinking as its object, and so on. Unlike thinking about external objects, where the object holds still, here the object changes as we think about it.
 
 This parallels Gödel's second theorem. A consistent system cannot prove its own consistency. An introspective mind cannot verify its own introspective accuracy. The limitation is not merely practical but structural—built into the logic of self-assessment.
 
@@ -121,6 +124,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of cognitive slippage
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — The puzzle that may be permanently in the void
+- [[intentionality]] — How the "aboutness" of thought creates self-reference when mind thinks about itself
 
 ## References
 
