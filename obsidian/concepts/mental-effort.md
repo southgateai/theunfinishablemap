@@ -3,7 +3,7 @@ title: "Mental Effort and the Quantum Zeno Effect"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T18:00:00+00:00
+ai_modified: 2026-01-14T14:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
+  - "[[attention]]"
 related_articles:
   - "[[tenets]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
@@ -39,6 +40,12 @@ William James documented the phenomenology of mental effort in his 1890 *Princip
 James observed that attention comes in two forms: passive (effortless, captured by stimuli) and active (effortful, directed by will). Active attention feels like work. It can be sustained, but doing so has a cost—attention wanders unless continuously renewed.
 
 This phenomenology is universal. Everyone knows the experience of trying to focus on a difficult passage, feeling attention drift toward easier distractions, and effortfully pulling it back. The question is whether this felt effort corresponds to anything real.
+
+### Attention and Consciousness as Distinct
+
+Recent research on the [[attention|attention-consciousness relationship]] complicates the picture. Koch and Tsuchiya's influential work documented that attention and consciousness are dissociable: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). This dissociation matters for understanding effort.
+
+If attention and consciousness were identical, the "effort" of directing attention would just be what certain computations feel like. But if consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement. Sustaining attention feels effortful because consciousness—something over and above neural processing—must continuously engage.
 
 ### Cognitive Psychology Confirms the Phenomenology
 
@@ -160,6 +167,7 @@ The site doesn't commit to Stapp's specific proposal over other quantum consciou
 
 ## Further Reading
 
+- [[attention]] — The attention-consciousness dissociation and why it matters for effort
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms including Stapp's approach
 - [[interactionist-dualism]] — The philosophical framework combining dualism with causal interaction
 - [[epiphenomenalism]] — The alternative view that consciousness has no causal power
