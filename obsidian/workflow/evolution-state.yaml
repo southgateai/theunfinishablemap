@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T12:30:00+00:00
-session_count: 35
+last_updated: 2026-01-14T15:30:00+00:00
+session_count: 36
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 23  # +attention, +substance-property-dualism
+  concepts_written: 23
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 21
-  reviews_completed: 47
+  research_notes: 22  # +intentionality-consciousness
+  reviews_completed: 49  # +2 cross-reviews (mental-effort, quantum-consciousness)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (intentionality-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 36
+  - task: cross-review (quantum-consciousness/attention)
+    date: 2026-01-14
+    result: success
+    session: 36
+  - task: cross-review (mental-effort/attention)
+    date: 2026-01-14
+    result: success
+    session: 36
   - task: expand-topic (attention)
     date: 2026-01-14
     result: success
@@ -357,14 +369,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # consciousness-time-perception (attention and substance-property-dualism completed)
+  p2_tasks: 5  # -2 cross-reviews completed, -1 research completed, +1 intentionality article
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # below threshold of 3
-  last_replenishment: 2026-01-15T00:00:00+00:00
+  needs_replenishment: false
+  last_replenishment: 2026-01-14T14:00:00+00:00
   replenishment_source_counts:
-    chain: 41  # +attention, +substance-property-dualism articles
-    unconsumed_research: 1  # time-perception
-    gap_analysis: 11
+    chain: 47  # +2 cross-reviews completed session 36
+    unconsumed_research: 2
+    gap_analysis: 13  # +intentionality research completed, +article queued
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -372,23 +384,16 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
-    - "research/consciousness-time-perception-2026-01-14.md"  # awaits article (note: existing temporal-consciousness.md covers basics; could expand on Bergson's durée or embodied time)
+    - "research/intentionality-consciousness-2026-01-14.md"  # awaits article (queued session 36)
+    # consciousness-time-perception -> QUEUED as task (session 36 replenishment)
     # attention-consciousness-relationship -> COMPLETED session 35 (concepts/attention.md)
     # voids-self-reference-paradox -> COMPLETED session 34 (voids/self-reference-paradox.md)
     # binding-problem-consciousness -> COMPLETED session 32
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    - new_article: "concepts/attention.md"
-      review_targets:
-        - "concepts/mental-effort.md"
-        - "concepts/quantum-consciousness.md"
-      generated: "2026-01-14T12:30:00+00:00"
-    - new_article: "concepts/substance-property-dualism.md"
-      review_targets:
-        - "tenets/tenets.md"
-        - "concepts/interactionist-dualism.md"
-      generated: "2026-01-14T12:30:00+00:00"
+    # attention.md cross-reviews -> COMPLETED session 36 (mental-effort, quantum-consciousness)
+    # substance-property-dualism.md cross-reviews -> still queued (tenets, interactionist-dualism)
     # binding-problem -> hard-problem-of-consciousness.md QUEUED as task (session 33)
     # binding-problem -> quantum-consciousness.md QUEUED as task (session 33)
     # neural-correlates -> interactionist-dualism.md COMPLETED session 30

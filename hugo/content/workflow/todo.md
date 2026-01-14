@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 12:30:00+00:00
+ai_modified: 2026-01-14 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P3**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### ✓ 2026-01-14: Cross-review mental-effort.md considering attention insights
+- **Type**: cross-review
+- **Notes**: New article concepts/attention.md covers attention-consciousness dissociation, Stapp's quantum Zeno mechanism, and the role of attention in mind-matter interface. Review concepts/mental-effort.md for opportunities to strengthen connections between attention and effortful thought.
+- **Source**: chain (from attention.md)
+- **Generated**: 2026-01-14
+- **Result**: Added attention to concepts list; added new section on attention-consciousness dissociation clarifying that attention is the mechanism consciousness uses; added attention to Further Reading
+- **Output**: Updated `concepts/mental-effort.md`
+
+### ✓ 2026-01-14: Cross-review quantum-consciousness.md considering attention insights
+- **Type**: cross-review
+- **Notes**: New article concepts/attention.md provides detailed treatment of Stapp's quantum Zeno mechanism and attention's role. Review concepts/quantum-consciousness.md for opportunities to cross-reference the attention discussion.
+- **Source**: chain (from attention.md)
+- **Generated**: 2026-01-14
+- **Result**: Added attention to concepts list; added new paragraph explaining how dissociation evidence supports Stapp's mechanism (attention as mechanism, consciousness as subject); added attention to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### P2: Cross-review tenets.md considering substance-property-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/substance-property-dualism.md clarifies the distinction between substance and property dualism. Review tenets/tenets.md for opportunities to reference this clarification in the Dualism tenet.
+- **Source**: chain (from substance-property-dualism.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review interactionist-dualism.md considering substance-property-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/substance-property-dualism.md explores both dualist frameworks. Review concepts/interactionist-dualism.md for opportunities to connect interactionism with the substance/property distinction.
+- **Source**: chain (from substance-property-dualism.md)
+- **Generated**: 2026-01-14
+
+### P2: Write article on time perception and consciousness (Bergson's durée)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-time-perception-2026-01-14.md. Existing temporal-consciousness.md covers specious present and discrete vs continuous debate. This article should focus on Bergson's durée, embodied time, and the "missing link" of experienced duration that Kent & Wittmann (2021) identify. Distinct from temporal-consciousness by emphasizing the qualitative character of duration.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+
+### ✓ 2026-01-14: Research intentionality and consciousness
+- **Type**: research-topic
+- **Notes**: Intentionality (aboutness—mental states being directed at objects) is central to philosophy of mind but not yet covered. Brentano's thesis, Husserl's phenomenology, and debates about whether intentionality is reducible to physical processes. Important for AI consciousness discussion—LLMs process symbols but do they have genuine aboutness?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Brentano's thesis, Phenomenal Intentionality Theory, Searle's Chinese Room, naturalization attempts (Dretske, Millikan) and their failures, LLM intentionality debates. Key finding: intentionality strongly supports Dualism tenet—naturalization has failed; PIT argues consciousness grounds intentionality.
+- **Output**: `research/intentionality-consciousness-2026-01-14.md`
+
+### P2: Write article on intentionality and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/intentionality-consciousness-2026-01-14.md. Cover Brentano's thesis, phenomenal intentionality theory, Searle's original vs. derived intentionality, and implications for AI. Key connection: if intentionality requires consciousness and consciousness is irreducible, this doubly supports the Dualism tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
 
 ### ✓ 2026-01-14: Research decoherence and macroscopic superposition
 - **Type**: research-topic

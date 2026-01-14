@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-14 23:20:00+00:00
+ai_modified: 2026-01-14 14:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[decoherence]]'
 - '[[mental-effort]]'
 - '[[binding-problem]]'
+- '[[attention]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -88,6 +89,10 @@ Unlike Orch OR, Stapp's mechanism doesn't locate consciousness in microtubules o
 **No energy injection**: Consciousness doesn't add energy to the system; it shapes which pre-existing possibility actualizes. This directly matches the Minimal Quantum Interaction tenet's requirement.
 
 **Top-down causation**: Mental effort (intention, attention) influences physical outcomes. This supports Bidirectional Interaction.
+
+**Attention as mechanism, consciousness as subject**: Recent research on the [attention-consciousness relationship](/concepts/attention/) strengthens Stapp's proposal. Koch and Tsuchiya documented that attention and consciousness are dissociable: blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. This dissociation has important implications for Stapp's mechanism.
+
+If attention *were* consciousness—as some functionalist theories claim—then "attention as observation" would be circular: consciousness would just be another physical process. But the dissociation evidence suggests attention is the *mechanism* that consciousness *uses*, not consciousness itself. This is exactly what Stapp's proposal requires: a non-physical subject (consciousness) deploying a physical mechanism (attention) to influence quantum outcomes. The dissociation evidence supports rather than undermines the quantum Zeno approach.
 
 **Phenomenological match**: The [phenomenology of mental effort](/concepts/mental-effort/)—documented by William James and confirmed by Daniel Kahneman's cognitive psychology—fits Stapp's mechanism remarkably well. James observed that "sustained voluntary attention is a repetition of successive efforts." This is exactly what the quantum Zeno mechanism predicts: each "observation" is an effort, and sustained attention requires repeated efforts. The fact that attention *feels* effortful makes sense if it genuinely requires continuous mental engagement.
 
@@ -176,6 +181,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [attention](/concepts/attention/) — The attention-consciousness dissociation and its implications for Stapp's mechanism
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
 - [decoherence](/concepts/decoherence/) — Full treatment of why decoherence doesn't rule out quantum consciousness

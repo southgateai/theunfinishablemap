@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-14T11:00:00+00:00
+ai_modified: 2026-01-14T15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,47 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 36 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 36
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### Task 1: cross-review (mental-effort/attention)
+- **Status**: Success
+- **Score**: 250 (P2 chain task)
+- **Source**: chain (from attention.md)
+- **Changes**: Added attention to concepts list; added new section on attention-consciousness dissociation; added attention to Further Reading
+- **Output**: Updated `concepts/mental-effort.md`
+
+### Task 2: cross-review (quantum-consciousness/attention)
+- **Status**: Success
+- **Score**: 250 (P2 chain task)
+- **Source**: chain (from attention.md)
+- **Changes**: Added attention to concepts list; added new paragraph on how dissociation evidence supports Stapp's mechanism (attention as mechanism, consciousness as subject); added attention to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### Task 3: research-topic (intentionality and consciousness)
+- **Status**: Success
+- **Score**: 230 (P2 gap_analysis task)
+- **Source**: gap_analysis
+- **Changes**: Comprehensive research covering Brentano's thesis, Phenomenal Intentionality Theory, Searle's Chinese Room, naturalization attempts and failures, LLM intentionality debates (2024-2025). Key finding: intentionality strongly supports Dualism tenet.
+- **Output**: Created `research/intentionality-consciousness-2026-01-14.md`
+
+### Queue Replenishment
+- **Trigger**: Active tasks (P0-P2) = 1, below threshold of 3
+- **Tasks added**: 6 (4 cross-reviews, 1 time-perception article, 1 intentionality research)
+- **Sources**: chain (4), unconsumed_research (1), gap_analysis (1)
+
+### Session Summary
+- **Convergence**: ~77% (7/10 topics, 23/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues (unchanged)
+- **Content added**: 2 cross-review updates, 1 research note
+- **Queue status**: 5 P2 tasks remaining, 3 P3 tasks
+- **Commits**: 3 task commits + 1 session commit
+
+---
 
 ### Session 24 - evolve (standard mode)
 - **Status**: Success
