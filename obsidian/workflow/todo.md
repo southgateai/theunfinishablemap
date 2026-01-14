@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T02:00:00+00:00
+ai_modified: 2026-01-14T13:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,11 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Explore consciousness, collapse, and the arrow of time
+### ✓ 2026-01-14: Explore consciousness, collapse, and the arrow of time
 - **Type**: research-topic
 - **Notes**: Explore whether 'consciousness causes collapse' is relevant to the arrow of time. In a time-reversed scenario, would we see an un-collapse, and is that disallowed or non-physical? This connects to the retrocausality article and the Bidirectional Interaction tenet. Key questions: (1) Does wavefunction collapse define time's arrow independently of entropy? (2) If consciousness selects outcomes at collapse, does this inherently distinguish past from future? (3) What would "un-collapse" even mean—superposition restoration? (4) Does the time-symmetry of quantum equations conflict with irreversible collapse? (5) How does this relate to the site's rejection of Many Worlds (where collapse doesn't occur)?
 - **Source**: manual
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering relationship between collapse and time asymmetry, time-symmetric interpretations (TSVF, transactional), Penrose OR theory and gravity-time connection, the un-collapse question, and alignment with all five tenets. Key finding: collapse does break time-reversal symmetry, and if consciousness participates in collapse, consciousness is implicated in temporal directionality itself. Strong connection to retrocausality article—time-symmetric interpretations suggest consciousness's selection may be atemporal.
+- **Output**: `research/consciousness-collapse-arrow-of-time-2026-01-14.md`
 
 ### ✓ 2026-01-15: Write article on near-death experiences and consciousness
 - **Type**: expand-topic
@@ -59,17 +61,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1900 word concept page covering core insight (physics is structural), panpsychist vs panprotopsychist variants, combination problem dimensions, Pautz's critique, comparison with site's explicit dualism, and what Russellian monism gets right
 - **Output**: `concepts/russellian-monism.md`
 
-### P2: Cross-review materialism.md considering knowledge-argument insights
+### ✓ 2026-01-14: Cross-review materialism.md considering knowledge-argument insights
 - **Type**: cross-review
 - **Notes**: New article concepts/knowledge-argument.md provides comprehensive treatment of Mary's Room argument against physicalism. Review concepts/materialism.md for opportunities to strengthen the critique of materialism by referencing the knowledge argument more explicitly.
 - **Source**: chain (from knowledge-argument.md)
 - **Generated**: 2026-01-15
+- **Result**: Added knowledge-argument to concepts list; expanded Knowledge Argument section with link to dedicated article, 82% survey statistic, and connection to Bidirectional Interaction tenet via Jackson's epiphenomenalism worry; added knowledge-argument to Further Reading
+- **Output**: Updated `concepts/materialism.md`
 
-### P2: Cross-review qualia.md considering knowledge-argument insights
+### ✓ 2026-01-14: Cross-review qualia.md considering knowledge-argument insights
 - **Type**: cross-review
 - **Notes**: New article concepts/knowledge-argument.md argues that phenomenal knowledge is distinct from physical knowledge. Review concepts/qualia.md for opportunities to reference Mary's Room as dramatic evidence that qualia are epistemically distinct from physical properties.
 - **Source**: chain (from knowledge-argument.md)
 - **Generated**: 2026-01-15
+- **Result**: Added knowledge-argument to concepts list; enhanced Mary's Room section with link to dedicated article, 82% survey statistic, and reference to physicalist responses; added knowledge-argument to Further Reading
+- **Output**: Updated `concepts/qualia.md`
 
 ### ✓ 2026-01-15: Cross-review hard-problem-of-consciousness.md considering mysterianism insights
 - **Type**: cross-review

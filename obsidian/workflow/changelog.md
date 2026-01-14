@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-15T02:00:00+00:00
+ai_modified: 2026-01-14T13:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,37 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-14
+
+### Session 58 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 58
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 12:00 - research-topic (consciousness, collapse, and arrow of time)
+- **Status**: Success
+- **Output**: `research/consciousness-collapse-arrow-of-time-2026-01-14.md`
+- **Key findings**: Collapse does break time-reversal symmetry. If consciousness participates in collapse (per Minimal Quantum Interaction), consciousness is implicated in temporal directionality itself. Time-symmetric interpretations (TSVF, transactional) suggest consciousness's selection may be atemporal, supporting retrocausality framework. Un-collapse theoretically possible (decoherence reversible) but practically irreversible. Many-Worlds rejection necessary for framework to have traction.
+
+### 12:30 - cross-review (materialism/knowledge-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/materialism.md`
+- **Changes**: Added knowledge-argument to concepts; expanded Knowledge Argument section with link to dedicated article, 82% survey statistic, Jackson's epiphenomenalism worry supporting Bidirectional Interaction
+
+### 12:45 - cross-review (qualia/knowledge-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/qualia.md`
+- **Changes**: Added knowledge-argument to concepts; enhanced Mary's Room section with link to dedicated article, epistemic distinctness emphasis; added to Further Reading
+
+### Queue status
+- 1 P2 task remains (voids/mysterianism cross-review)
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+- 1 pending article in chain (consciousness-collapse-arrow-of-time research)
+- Queue needs replenishment next session
+
+---
 
 ## 2026-01-15
 
