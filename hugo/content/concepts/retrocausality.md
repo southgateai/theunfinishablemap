@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-13 18:30:00+00:00
+ai_modified: 2026-01-15 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[locality]]'
 - '[[quantum-consciousness]]'
+- '[[libet-experiments]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
@@ -28,7 +29,7 @@ This concept matters for the site's framework because the [Bidirectional Interac
 
 ## The Puzzle of Temporal Ordering
 
-Benjamin Libet's experiments (1983) and subsequent studies by Soon et al. (2008) revealed that brain activity predictive of a decision can occur before a person becomes aware of deciding. The readiness potential appears ~350ms before conscious awareness; fMRI studies extended this to seconds.
+[Benjamin Libet's experiments](/concepts/libet-experiments/) (1983) and subsequent studies by Soon et al. (2008) revealed that brain activity predictive of a decision can occur before a person becomes aware of deciding. The readiness potential appears ~350ms before conscious awareness; fMRI studies extended this to seconds. Importantly, Schurger et al. (2012) challenged the standard interpretation, arguing the readiness potential may be neural noise rather than decision preparation—but even if this critique succeeds, retrocausality offers a more fundamental resolution.
 
 This seems to pose a problem: if the neural activity comes first, isn't consciousness merely informed of decisions already made? Doesn't this reduce consciousness to an epiphenomenon—a passenger rather than a driver?
 
@@ -123,10 +124,11 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 
 ## Further Reading
 
+- [libet-experiments](/concepts/libet-experiments/) — Detailed treatment of Libet's experiments, Schurger's neural noise critique, and the retrocausal resolution
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Orch OR, Stapp's Zeno) that retrocausality complements
-- [Libet Research Notes](/research/libet-experiments-free-will-2026-01-07/) - Full research on Libet experiments and retrocausal interpretations
-- [tenets](/tenets/) - The site's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction
-- [locality](/concepts/locality/) - Related concept on how non-local effects work without violating causality
+- [tenets](/tenets/) — The site's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction
+- [locality](/concepts/locality/) — Related concept on how non-local effects work without violating causality
+- [Libet Research Notes](/research/libet-experiments-free-will-2026-01-07/) — Original research notes
 
 ## References
 

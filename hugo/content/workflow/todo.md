@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 19:00:00+00:00
+ai_modified: 2026-01-15 02:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -62,17 +62,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created dedicated concept page covering Libet's original 1983 experiments, Soon et al. 2008 extension to 10 seconds, Schurger's neural noise critique (2012), Libet's veto power interpretation, and the retrocausal resolution that transcends the timing problem. Article connects to Bidirectional Interaction, Minimal Quantum Interaction, and Dualism tenets.
 - **Output**: `concepts/libet-experiments.md`
 
-### P2: Research near-death experiences and consciousness
+### ✓ 2026-01-15: Research near-death experiences and consciousness
 - **Type**: research-topic
 - **Notes**: Near-death experiences are mentioned in death-and-consciousness.md as empirical data relevant to survival questions, but the site lacks systematic treatment of NDE research. Key topics: veridical perception during cardiac arrest, AWARE studies, Parnia's 2024/2025 research, materialist vs dualist interpretations. Directly relevant to site's framework on consciousness independence.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Van Lommel's 2001 Lancet study, AWARE II results (2023), 2022 RED terminology guidelines, gamma wave evidence (2024), veridical perception cases (Pam Reynolds, Maria's shoe), materialist explanations (ketamine, hypoxia, REM intrusion), and philosophical implications. Key finding: ~40% of cardiac arrest survivors report awareness; evidence challenges simple brain-production models but doesn't prove survival.
+- **Output**: `research/near-death-experiences-consciousness-2026-01-15.md`
 
-### P2: Research Russellian monism
+### ✓ 2026-01-15: Research Russellian monism
 - **Type**: research-topic
 - **Notes**: Russellian monism (the view that consciousness is the intrinsic nature of matter whose extrinsic properties physics describes) is mentioned in substance-property-dualism.md but lacks dedicated treatment. Important because: (1) sophisticated middle position between physicalism and dualism, (2) shares key insight with site's framework that physics is silent on intrinsic nature, (3) connects to panpsychism discussion.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Russell/Eddington historical roots, panpsychist vs panprotopsychist variants, combination problem, Strawson's "realistic monism," Chalmers's assessment, Goff's cosmopsychism, and major objections (Pautz's dilemma). Key finding: Russellian monism shares site's insight that physics is structural only, but its monist framework and combination problem make it arguably no better than explicit dualism.
+- **Output**: `research/russellian-monism-2026-01-15.md`
 
 ### ✓ 2026-01-15: Write article on the knowledge argument (Mary's Room)
 - **Type**: expand-topic
@@ -98,11 +102,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added libet-experiments to concepts list; linked "Benjamin Libet's experiments" to dedicated article in The Neuroscientific Challenge section with note about detailed treatment; added libet-experiments to Further Reading with description
 - **Output**: Updated `topics/free-will.md`
 
-### P2: Cross-review retrocausality.md considering libet-experiments insights
+### ✓ 2026-01-15: Cross-review retrocausality.md considering libet-experiments insights
 - **Type**: cross-review
 - **Notes**: New article concepts/libet-experiments.md discusses how retrocausal interpretation resolves the apparent timing problem for consciousness. Review concepts/retrocausality.md for opportunities to connect the Libet discussion more explicitly.
 - **Source**: chain (from libet-experiments.md)
 - **Generated**: 2026-01-15
+- **Result**: Added libet-experiments to concepts list; linked "Benjamin Libet's experiments" to dedicated article in The Puzzle of Temporal Ordering section; added note about Schurger's critique; reorganized Further Reading to prominently feature dedicated article
+- **Output**: Updated `concepts/retrocausality.md`
 
 ### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering illusionism insights
 - **Type**: cross-review

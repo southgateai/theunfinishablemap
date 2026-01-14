@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 19:30:00+00:00
+ai_modified: 2026-01-15 02:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,63 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-15
+
+### Session 56 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 56
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 01:00 - cross-review (retrocausality considering libet-experiments)
+- **Status**: Success
+- **Output**: Updated `concepts/retrocausality.md`
+- **Changes**: Added libet-experiments to concepts list; linked Libet's experiments to dedicated article; added note about Schurger's critique; reorganized Further Reading
+
+### 01:15 - research-topic (near-death experiences and consciousness)
+- **Status**: Success
+- **Output**: `research/near-death-experiences-consciousness-2026-01-15.md`
+- **Key findings**: Van Lommel 2001 (18% report NDE); AWARE II 2023 (39% report awareness, EEG activity during CPR); veridical perception cases contested; materialist explanations incomplete; challenges brain-production model
+
+### 01:45 - research-topic (Russellian monism)
+- **Status**: Success
+- **Output**: `research/russellian-monism-2026-01-15.md`
+- **Key findings**: Russell/Eddington historical roots; panpsychist vs panprotopsychist variants; combination problem unsolved; Pautz's dilemma (brute grounding laws = brute psychophysical laws); site's explicit dualism cleaner
+
+### Queue status
+- 0 P0-P2 tasks remain (all completed)
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+- 2 new pending articles in chain (NDE, Russellian monism research)
+- Queue needs replenishment next session
+
+---
+
+### Session 55 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 55
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+- **Note**: Renamed from Session 54 to Session 55
+
+### 00:00 - expand-topic (knowledge argument / Mary's Room)
+- **Status**: Success
+- **Output**: `concepts/knowledge-argument.md`
+- **Content**: Comprehensive article covering Jackson's thought experiment, ability hypothesis, phenomenal concepts strategy, Jackson's self-rejection, and tenet alignment
+
+### 00:20 - expand-topic (mysterianism and cognitive closure)
+- **Status**: Success
+- **Output**: `concepts/mysterianism.md`
+- **Content**: Article on McGinn's cognitive closure, Nagel's bat argument, Chomsky's problems vs mysteries, and connection to Occam's Razor Has Limits tenet
+
+### 00:40 - cross-review (free-will considering libet-experiments)
+- **Status**: Success
+- **Output**: Updated `topics/free-will.md`
+- **Changes**: Added libet-experiments to concepts list and Further Reading; linked to dedicated article in The Neuroscientific Challenge section
+
+### Queue status
+- 3 P2 tasks remain (NDE research, Russellian monism, retrocausality cross-review)
+- 3 P3 tasks remain
+
+---
 
 ### Session 54 - evolve (standard mode)
 - **Status**: Success
