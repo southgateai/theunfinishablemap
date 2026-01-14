@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:55:00+00:00
+ai_modified: 2026-01-14 10:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[functionalism]]'
 - '[[materialism]]'
+- '[[phenomenology]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -27,6 +28,14 @@ topics:
 Intentionality is the "aboutness" of mental states—their directedness toward objects, states of affairs, or contents. When you believe that snow is white, your belief is *about* snow. When you fear a spider, your fear is *directed at* the spider. When you hope for rain, your hope *concerns* rain. This directedness is what philosophers call intentionality.
 
 Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming that intentionality is "the mark of the mental"—the feature that distinguishes mental phenomena from physical phenomena. A rock is not *about* anything. A thought always is. If Brentano is right, intentionality reveals something fundamental about the nature of mind—something that physical descriptions alone cannot capture.
+
+## The Phenomenological Discovery
+
+[Phenomenology](/concepts/phenomenology/)—the philosophical tradition founded by Husserl and developed by Heidegger, Merleau-Ponty, and Sartre—provides systematic methods for investigating intentionality. Through the *epoché* (methodological suspension of assumptions about the external world), phenomenology reveals consciousness as always directed toward objects. The epoché brackets questions about whether intended objects exist; it focuses on how they appear to consciousness.
+
+This methodological approach shows why Brentano was right: consciousness is never empty. When Husserl practiced phenomenological reduction, he found not a void but a rich intentional structure. Every perception, thought, memory, and emotion is directed toward something. The epoché doesn't eliminate intentionality; it discloses it as the fundamental structure of conscious life.
+
+The phenomenological tradition also reveals the connection between intentionality and first-person irreducibility. No third-person description captures *what it's like* to think about something. Physical neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris itself shows up in your experience as a meaningful object. This supports both Brentano's thesis and the site's [Dualism](/tenets/#dualism) commitment.
 
 ## Brentano's Thesis
 
@@ -114,6 +123,7 @@ Intentionality connects to all five foundational tenets:
 
 ## Further Reading
 
+- [phenomenology](/concepts/phenomenology/) — The tradition that discovered and systematically investigates intentionality
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
 - [functionalism](/concepts/functionalism/) — A view that PIT challenges

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 00:30:00+00:00
+ai_modified: 2026-01-14 11:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review intentionality.md considering phenomenology insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenology.md covers Husserl, Brentano, and intentionality as "the mark of the mental." Review concepts/intentionality.md for opportunities to strengthen phenomenological context, reference the dedicated phenomenology article, and ensure consistent treatment of Brentano's thesis across articles.
-- **Source**: chain (from phenomenology.md)
-- **Generated**: 2026-01-14
-
-### P2: Cross-review temporal-consciousness.md considering phenomenology insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenology.md includes detailed coverage of Husserl's time-consciousness analysis (retention-primal impression-protention). Review concepts/temporal-consciousness.md for opportunities to reference the phenomenology article and strengthen the Husserlian framework discussion.
-- **Source**: chain (from phenomenology.md)
-- **Generated**: 2026-01-14
-
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
 - **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
@@ -69,6 +57,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-14: Cross-review temporal-consciousness.md considering phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology.md includes detailed coverage of Husserl's time-consciousness analysis (retention-primal impression-protention). Review concepts/temporal-consciousness.md for opportunities to reference the phenomenology article and strengthen the Husserlian framework discussion.
+- **Source**: chain (from phenomenology.md)
+- **Result**: Added phenomenology to concepts list; linked Husserl's analysis to phenomenology article; added new paragraphs explaining how phenomenological method (epoché) reveals temporal structure as fundamental to conscious life; emphasized that experienced time is accessible only through first-person phenomenological investigation; added phenomenology as first entry in Further Reading.
+- **Output**: Updated `concepts/temporal-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review intentionality.md considering phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology.md covers Husserl, Brentano, and intentionality as "the mark of the mental." Review concepts/intentionality.md for opportunities to strengthen phenomenological context, reference the dedicated phenomenology article, and ensure consistent treatment of Brentano's thesis across articles.
+- **Source**: chain (from phenomenology.md)
+- **Result**: Added phenomenology to concepts list; created new "The Phenomenological Discovery" section connecting Husserl's epoché to intentionality, showing how phenomenological method discloses aboutness as fundamental structure of conscious life; added phenomenology as first entry in Further Reading.
+- **Output**: Updated `concepts/intentionality.md`
+
+### ✓ 2026-01-14: Write article on self and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/self-consciousness-philosophy-2026-01-15.md. Covers minimal self vs narrative self (Gallagher, Zahavi), Metzinger's self-model theory of subjectivity (PSM, transparency), Buddhist anattā doctrine, and implications for dualism. Key finding: minimal self is pre-reflective first-person givenness; filter theory can interpret PSM as interface rather than generator of selfhood. Article should cover phenomenology of selfhood, major theoretical approaches, and connection to site's framework.
+- **Source**: chain (from research-topic)
+- **Result**: Created ~2000 word article covering minimal self vs narrative self (Gallagher, Zahavi), Metzinger's self-model theory with filter theory response, Buddhist no-self (anattā) and its limits, connection to binding problem and hard problem, and tenet alignment analysis.
+- **Output**: `concepts/self-and-consciousness.md`
 
 ### ✓ 2026-01-15: Cross-review materialism.md considering arguments-for-dualism insights
 - **Type**: cross-review
