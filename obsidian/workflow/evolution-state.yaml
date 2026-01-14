@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T06:10:00+00:00
-session_count: 41
+last_updated: 2026-01-14T23:15:00+00:00
+session_count: 42
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 71  # +measurement-problem article
-  published_files: 58  # +1 (measurement-problem concept)
+  total_files: 73  # +2 research notes (GWT, HOT)
+  published_files: 58
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 26  # +measurement-problem
+  concepts_written: 26
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 23
-  reviews_completed: 58  # +2 cross-reviews (quantum-consciousness/measurement-problem, decoherence/measurement-problem)
+  research_notes: 25  # +2 (GWT, HOT)
+  reviews_completed: 58
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,14 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (higher-order-theories)
+    date: 2026-01-14
+    result: success
+    session: 42
+  - task: research-topic (global-workspace-theory)
+    date: 2026-01-14
+    result: success
+    session: 42
   - task: cross-review (quantum-consciousness/measurement-problem)
     date: 2026-01-14
     result: success
@@ -421,14 +429,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5  # GWT, higher-order, animal consciousness, death/persistence, split-brain
+  p2_tasks: 3  # animal consciousness, death/persistence, split-brain (GWT & HOT completed)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # 5 active tasks after replenishment
+  needs_replenishment: false  # 3 active tasks after session 42
   last_replenishment: 2026-01-14T22:00:00+00:00
   replenishment_source_counts:
     chain: 63
-    unconsumed_research: 0
-    gap_analysis: 21  # +3 new research tasks
+    unconsumed_research: 2  # GWT and HOT research awaiting articles
+    gap_analysis: 21
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -436,12 +444,14 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    - "research/global-workspace-theory-2026-01-14.md"
+    - "research/higher-order-theories-consciousness-2026-01-14.md"
     # intentionality-consciousness -> COMPLETED session 37 (concepts/intentionality.md)
     # consciousness-time-perception -> COMPLETED session 39 (concepts/duration.md)
     # attention-consciousness-relationship -> COMPLETED session 35 (concepts/attention.md)
     # voids-self-reference-paradox -> COMPLETED session 34 (voids/self-reference-paradox.md)
     # binding-problem-consciousness -> COMPLETED session 32
-    # measurement-problem-quantum-mechanics -> QUEUED for article (session 39)
+    # measurement-problem-quantum-mechanics -> COMPLETED session 40
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
