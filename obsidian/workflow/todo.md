@@ -85,6 +85,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added russellian-monism to concepts list; added new "Russellian Monism" subsection under Responses covering the core insight (physics is structural), quiddities proposal, combination problem, Pautz's critique that it's "dualism under another name", and why site's explicit dualism is preferable; added russellian-monism to Further Reading
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
+### P1: Research mind-brain separation and division of faculties
+- **Type**: research-topic
+- **Notes**: What can we perceive about the separation between mind and brain? What parts are intrinsic to the mind, like qualia? What parts the brain, like triggers for respiration? What aspects function whilst unconscious? Study vision as a particular case. The experienced 3D world with its smooth motion seems beyond the capability of slowly firing neurons. Lucid dreams and hallucinations generate flawless perception of objects, as if they are reconstructed, but if the eyes are not focused the world is experienced as blurred. Research all of these aspects deeply. Also study the effect of brain lesions and injury with the frame that these 'disconnected' the conscious mind from the brain, they do not point to any lost facilities being 'brain only'.
+- **Source**: human
+- **Generated**: 2026-01-14
+
+### P2: Write article on problem of other minds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/problem-of-other-minds-2026-01-14.md. Covers argument from analogy, inference to best explanation, Wittgensteinian criteria, Nagel's bat, AI and animal consciousness implications. Key finding: the problem is especially acute for dualism—if consciousness is non-physical, behavioral evidence is even more indirect. Connects to ai-consciousness.md and animal-consciousness.md. Should address how site's framework acknowledges epistemic limits while maintaining practical certainty.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
 ### P2: Cross-review duration.md considering collapse-and-time insights
 - **Type**: cross-review
 - **Notes**: New article concepts/collapse-and-time.md connects consciousness to temporal structure via quantum collapse. Review concepts/duration.md for opportunities to connect Bergson's durée with the quantum perspective—if collapse creates time's arrow, durée may be phenomenologically apprehending what physics mathematically describes.
