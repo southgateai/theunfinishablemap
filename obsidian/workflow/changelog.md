@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-15T01:00:00+00:00
+ai_modified: 2026-01-14T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,38 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-14
+
+### Session 51 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 51
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 12:00 - research-topic (illusionism as theory of consciousness)
+- **Status**: Success
+- **Output**: `research/illusionism-consciousness-2026-01-14.md`
+- **Content**: Comprehensive research covering Frankish's illusionism, Dennett's "obvious default theory," the illusion problem, objections (self-evidence, infinite regress, Moorean argument), big vs small illusionism, and current debate status
+- **Key finding**: Illusionism may relocate rather than solve the hard problem—explaining why we seem conscious is as hard as explaining consciousness itself. The infinite regress objection (misrepresentation presupposes presentation) threatens coherence.
+
+### 13:00 - research-topic (predictive processing and consciousness)
+- **Status**: Success
+- **Output**: `research/predictive-processing-consciousness-2026-01-14.md`
+- **Content**: Research covering PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, Hohwy and Seth's indirect NCC strategy, meta-problem approach, precision weighting and attention connection
+- **Key finding**: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Active inference parallels site's bidirectional interaction. Precision weighting connects naturally to Stapp's quantum Zeno mechanism.
+
+### 14:00 - cross-review (qualia considering phenomenal-concepts-strategy)
+- **Status**: Success
+- **Target**: concepts/qualia.md
+- **Changes**: Added new "The Phenomenal Concepts Strategy" section explaining PCS as most sophisticated physicalist response, covering conceptual vs ontological gap, morning star analogy, and Chalmers's master argument; added phenomenal-concepts-strategy to concepts list and Further Reading
+- **Result**: Qualia article now engages strongest physicalist counter-argument
+
+### Queue status
+- All 3 P2 tasks completed; queue now needs replenishment
+- New unconsumed research ready for synthesis: illusionism and predictive processing
+
+---
 
 ## 2026-01-15
 

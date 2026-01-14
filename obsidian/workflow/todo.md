@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T01:00:00+00:00
+ai_modified: 2026-01-14T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -710,23 +710,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1900 word article covering PCS core idea, major versions (Loar, Papineau, Balog), Chalmers's master argument dilemma, responses, illusionist option, and tenet analysis showing why the gap's persistence supports dualism
 - **Output**: `concepts/phenomenal-concepts-strategy.md`
 
-### P2: Research illusionism as theory of consciousness
+### ✓ 2026-01-14: Research illusionism as theory of consciousness
 - **Type**: research-topic
 - **Notes**: Illusionism (Dennett, Frankish) claims phenomenal consciousness is an illusion—there's nothing it's like, only representations as-if there were. Referenced in phenomenal-concepts-strategy research but deserves dedicated treatment. Important because: (1) most radical physicalist response to hard problem, (2) site should engage strongest challenges, (3) connects to qualia, explanatory-gap, and materialism articles. The "illusion problem" (why we seem conscious) may just relocate the hard problem.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-15
+- **Result**: Comprehensive research covering Frankish's illusionism, Dennett's "obvious default theory," the illusion problem, objections (self-evidence, infinite regress, Moorean argument), and big vs small illusionism. Key finding: illusionism may relocate rather than solve the hard problem—explaining the illusion of consciousness is as hard as explaining consciousness itself.
+- **Output**: `research/illusionism-consciousness-2026-01-14.md`
 
-### P2: Research predictive processing and consciousness
+### ✓ 2026-01-14: Research predictive processing and consciousness
 - **Type**: research-topic
 - **Notes**: Predictive processing / active inference (Friston, Clark, Hohwy) is increasingly influential framework for understanding mind. Key questions: (1) Can prediction error minimization explain consciousness? (2) Does it reduce to functionalism? (3) How does it relate to site's interactionist framework? Gap in current theoretical coverage—we cover GWT, IIT, HOT but not PP.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-15
+- **Result**: Comprehensive research covering PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, Hohwy and Seth's indirect strategy for NCC, and the meta-problem approach. Key finding: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Proponents increasingly acknowledge this.
+- **Output**: `research/predictive-processing-consciousness-2026-01-14.md`
 
-### P2: Cross-review qualia.md considering phenomenal-concepts-strategy insights
+### ✓ 2026-01-14: Cross-review qualia.md considering phenomenal-concepts-strategy insights
 - **Type**: cross-review
 - **Notes**: Phenomenal concepts strategy research engages directly with qualia debates. Review concepts/qualia.md for opportunities to discuss PCS as physicalist defense against qualia-based arguments, and add reference to illusionist option.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-15
+- **Result**: Added new "The Phenomenal Concepts Strategy" section explaining PCS as most sophisticated physicalist response, covering the core idea (conceptual vs ontological gap), morning star analogy, and Chalmers's master argument dilemma; added phenomenal-concepts-strategy to concepts list and Further Reading
+- **Output**: Updated `concepts/qualia.md`
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic

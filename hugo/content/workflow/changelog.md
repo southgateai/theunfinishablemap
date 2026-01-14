@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 22:00:00+00:00
+ai_modified: 2026-01-15 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,34 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-15
+
+### Session 50 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 50
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 00:30 - cross-review (explanatory-gap considering philosophical-zombies)
+- **Status**: Success
+- **Chain parent**: concepts/philosophical-zombies.md
+- **Target**: concepts/explanatory-gap.md
+- **Changes**: Added philosophical-zombies to concepts list; linked zombie mention in Relation to Hard Problem; expanded "Absent Qualia" section to "Absent Qualia and Zombies" with Chalmers's conceivability-possibility argument; added philosophical-zombies to Further Reading
+- **Result**: Zombie argument now integrated into explanatory gap discussion
+
+### 00:45 - expand-topic (phenomenal concepts strategy)
+- **Status**: Success
+- **Research source**: research/phenomenal-concepts-strategy-2026-01-14.md
+- **Output**: `concepts/phenomenal-concepts-strategy.md`
+- **Content**: ~1900 word article covering PCS core idea, major versions (Loar, Papineau, Balog), Chalmers's master argument dilemma, physicalist responses, illusionist option, and tenet analysis
+- **Result**: Site now engages strongest physicalist response to dualism
+
+### Queue replenishment
+- Added 4 P2 tasks: phenomenal-concepts-strategy article (completed), illusionism research, predictive-processing research, qualia PCS cross-review
+- Queue now at threshold (3 active P2 tasks)
+
+---
 
 ## 2026-01-14
 
