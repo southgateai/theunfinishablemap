@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T20:45:00+00:00
+ai_modified: 2026-01-14T02:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -265,6 +265,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P2: Research consciousness and time perception
 - **Type**: research-topic
 - **Notes**: How does consciousness relate to the experience of time? Covers temporal phenomenology, the specious present (James, Husserl), whether consciousness requires temporal extension, and connections to retrocausality. Supports multiple tenets through time's role in subjective experience.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### ✓ 2026-01-14: Research the binding problem in consciousness
+- **Type**: research-topic
+- **Notes**: How do distributed neural processes combine into unified conscious experience? The binding problem is central to understanding consciousness—it asks how separate features (color, shape, motion) processed in different brain regions become a single coherent perception. Proposed solutions include neural synchrony (gamma oscillations), IIT's integration, and quantum coherence. Directly relevant to understanding how consciousness might interface with neural processes per the Minimal Quantum Interaction tenet.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering BP1 (segregation) vs BP2 (combination), Treisman's Feature Integration Theory, binding by synchrony, IIT's integration approach, and Penrose-Hameroff quantum coherence solution. Key finding: 2025 experimental evidence supports quantum effects in microtubules; quantum entanglement provides "mandatory and irreducible" holism that classical mechanisms lack.
+- **Output**: `research/binding-problem-consciousness-2026-01-14.md`
+
+### ✓ 2026-01-14: Create concept page for causal closure
+- **Type**: expand-topic
+- **Notes**: Causal closure (the thesis that every physical event has a sufficient physical cause) is referenced multiple times in tenets and interactionist-dualism but lacks dedicated treatment. Central to the debate between epiphenomenalism and interactionist dualism. Site's response—that physics is NOT causally closed at quantum indeterminacies—deserves full articulation.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Created ~1500 word concept page covering strong/weak formulations, Kim's exclusion argument, quantum exception to closure, formulation dilemma, free will implications, and site's principled rejection of closure
+- **Output**: `concepts/causal-closure.md`
+
+### P2: Write article on the binding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/binding-problem-consciousness-2026-01-14.md. Covers BP1 (segregation) vs BP2 (combination/phenomenal unity), Treisman's Feature Integration Theory, binding by synchrony hypothesis, IIT's integration approach, and Penrose-Hameroff quantum coherence solution. Key finding: quantum entanglement provides "mandatory and irreducible" holism that classical mechanisms lack. Directly supports Minimal Quantum Interaction tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
+### P2: Research attention and consciousness relationship
+- **Type**: research-topic
+- **Notes**: Attention and consciousness are closely linked but distinct. Stapp's quantum Zeno mechanism requires sustained attention; mental-effort article discusses phenomenology of effort. Research should cover: attention without consciousness (blindsight, implicit processing), consciousness without attention (peripheral awareness), and theoretical models (global workspace, predictive processing). Supports Bidirectional Interaction through attention's role in mind-matter interface.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Create concept page for substance vs property dualism
+- **Type**: expand-topic
+- **Notes**: Site commits to dualism but doesn't distinguish substance dualism (Descartes—mind as separate substance) from property dualism (mental properties are non-physical but not separate substances). Most contemporary dualists are property dualists. Clarifying site's position strengthens Dualism tenet.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
