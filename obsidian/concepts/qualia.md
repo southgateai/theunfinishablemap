@@ -3,7 +3,7 @@ title: "Qualia"
 created: 2026-01-07
 modified: 2026-01-07
 human_modified:
-ai_modified: 2026-01-14T21:30:00+00:00
+ai_modified: 2026-01-14T14:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -11,6 +11,7 @@ concepts:
   - "[[existentialism]]"
   - "[[functionalism]]"
   - "[[philosophical-zombies]]"
+  - "[[phenomenal-concepts-strategy]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -99,6 +100,18 @@ The absent qualia objection sharpens the point. Philosopher Ned Block imagined t
 
 Block called this the "absent qualia" problem: a system could implement the right functions yet lack qualia entirely. If so, functional organization is not sufficient for conscious experience. This site's framework agrees: consciousness requires something over and above functional structure—something that functional descriptions, however complete, cannot capture.
 
+## The Phenomenal Concepts Strategy
+
+The most sophisticated physicalist response to qualia-based arguments is the [[phenomenal-concepts-strategy]]. Rather than denying qualia exist or reducing them to functional properties, PCS locates the explanatory gap in our *concepts* rather than in reality.
+
+The core idea: when we introspect qualia, we use *phenomenal concepts* that present experience directly, from the inside. Physical concepts like "neural state N47" present the same properties indirectly, from the outside. Both might refer to the same brain state, but they present it in radically different ways. The gap between "what it's like" and "what's happening physically" is thus a conceptual gap, not an ontological one.
+
+This parallels the morning star / evening star case. Someone could know everything about the morning star without realizing it's the evening star—same object, different concepts. Similarly, Mary in her black-and-white room could know all physical facts without knowing what seeing red would be like. On this view, she learns a new *way of thinking* about the same physical state, not a new *fact* about a non-physical property.
+
+However, David Chalmers's "master argument" poses a dilemma: either the features that make phenomenal concepts special are themselves physically explicable (in which case [[philosophical-zombies|zombies]] would have them too, so they can't explain why we find qualia puzzling) or they aren't physically explicable (in which case there's still an explanatory gap at the conceptual level). PCS may relocate the hard problem rather than dissolve it.
+
+The persistence of this debate—with PCS neither refuted nor triumphant after decades of work—suggests the gap reflects something real about qualia that physical description cannot capture.
+
 ## Relation to This Site's Perspective
 
 This site's [[tenets|Dualism tenet]] holds that consciousness is not reducible to physical processes. Qualia are a primary reason for this commitment.
@@ -114,6 +127,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify
 - [[philosophical-zombies]] - The zombie argument and why conceivability of absent qualia challenges physicalism
 - [[functionalism]] - The view that mental states are functional roles, and why it fails to capture qualia
+- [[phenomenal-concepts-strategy]] - The most sophisticated physicalist response to qualia arguments
 - [[tenets]] - This site's foundational commitments, especially Dualism
 - [[materialism]] - The view challenged by the existence of qualia
 
