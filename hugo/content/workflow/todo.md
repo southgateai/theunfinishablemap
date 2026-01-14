@@ -156,6 +156,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
+### P2: Cross-review ai-consciousness.md considering animal consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/animal-consciousness.md argues dualism handles animal minds better than materialism and connects to the voids framework. Review topics/ai-consciousness.md for opportunities to draw parallels between animal consciousness and AI consciousness questions—both involve other minds whose subjective experience we cannot directly access.
+- **Source**: chain (from animal-consciousness.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review personal-identity.md considering death/survival insights
+- **Type**: cross-review
+- **Notes**: New article topics/death-and-consciousness.md explores survival implications of indexical identity. Review topics/personal-identity.md for opportunities to connect identity theory more explicitly to death and survival questions—the article's rejection of Parfit's reductionism has direct implications for what survival would mean.
+- **Source**: chain (from death-and-consciousness.md)
+- **Generated**: 2026-01-14
+
 ### ✓ 2026-01-14: Write article on Global Workspace Theory
 - **Type**: expand-topic
 - **Notes**: Research completed in research/global-workspace-theory-2026-01-14.md. Covers GWT (Baars), GNW (Dehaene-Changeux), COGITATE 2025 results, Block's overflow argument. Key finding: GWT addresses only access consciousness, not phenomenal consciousness—does not solve hard problem. COGITATE study challenged key predictions. Important for comparing site's dualism with leading neuroscientific theory.
@@ -172,17 +184,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1800 word article covering HOT/HOP theories, rock objection, misrepresentation problem, Block's "defunct" critique, connection to self-reference paradox, AI implications, and tenet analysis
 - **Output**: `concepts/higher-order-theories.md`
 
-### P2: Write article on animal consciousness
+### ✓ 2026-01-14: Write article on animal consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/animal-consciousness-2026-01-14.md. Covers Cambridge Declaration (2012), New York Declaration (2024), philosophical positions (Nagel, Carruthers, Birch), mirror self-recognition tests. Key finding: dualism is better positioned than materialism to take animal consciousness seriously—the hard problem applies equally to animals.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-14
+- **Result**: Created ~1900 word article covering scientific consensus (Cambridge/NY declarations), Nagel's bat argument, the agnostic challenge, HOT theory critique, why dualism handles animal minds better than materialism, and connection to site's voids framework
+- **Output**: `topics/animal-consciousness.md`
 
-### P2: Write article on death, consciousness, and personal persistence
+### ✓ 2026-01-14: Write article on death, consciousness, and personal persistence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/death-consciousness-persistence-2026-01-14.md. Covers survival arguments (Plato, Descartes, Ducasse, van Inwagen), personal identity, near-death experiences, quantum soul hypothesis. Key finding: site's commitment to non-reducible consciousness and indexical identity provides stronger resources for survival question than materialist alternatives.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-14
+- **Result**: Created ~2000 word article covering why dualism makes survival coherent, identity problems, NDE evidence (2024-25 research), quantum soul hypothesis, various survival possibilities, and why site doesn't claim survival occurs—only that it's a coherent possibility
+- **Output**: `topics/death-and-consciousness.md`
 
 ### ✓ 2026-01-14: Write article on the measurement problem
 - **Type**: expand-topic
