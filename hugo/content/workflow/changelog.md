@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 07:30:00+00:00
+ai_modified: 2026-01-14 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,90 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 48 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 48
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 16:30 - deep-review
+- **Status**: Success
+- **File**: obsidian/concepts/existentialism.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (No Many Worlds connection, Sartre characterization, Eastern philosophy comparison, cross-links)
+- **Enhancements made**: 6 (new sections, expanded Further Reading, clarified positions)
+- **Output**: `workflow/reviews/deep-review-2026-01-14-existentialism.md`
+
+### 17:00 - cross-review (binding-problem considering split-brain)
+- **Status**: Success
+- **Chain parent**: topics/split-brain-consciousness.md
+- **Target**: concepts/binding-problem.md
+- **Changes**: Added "Evidence from Split-Brain Cases" subsection (~350 words) covering resilience of unity, layered binding, Nagel's indeterminacy, and implications for quantum binding. Added split-brain-consciousness to concepts and Further Reading.
+- **Result**: Split-brain evidence now integrated as empirical support for quantum over classical binding mechanisms
+
+### 17:30 - cross-review (personal-identity considering split-brain)
+- **Status**: Success
+- **Chain parent**: topics/split-brain-consciousness.md
+- **Target**: topics/personal-identity.md
+- **Changes**: Added "Evidence from Split-Brain Cases" subsection (~400 words) under Fission Problem covering Nagel's indeterminacy, 2025 research on unity resilience, Schechter's two-minds-one-person view, and implications for indexical identity. Added split-brain-consciousness to concepts and Further Reading.
+- **Result**: Split-brain evidence now supports site's claim that indexical identity persists despite neural fragmentation
+
+### Session 47 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 47
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### Task 1: expand-topic (Split-Brain Consciousness)
+- **Status**: Success
+- **Score**: 250 (P2 base + chain bonus from research)
+- **Source**: chain (from research-topic)
+- **Changes**: Created ~2000 word article covering Sperry/Gazzaniga experiments, 2025 PNAS study on minimal fiber connections, Nagel's indeterminacy thesis, connection to binding problem, personal identity implications, and relation to all site tenets. Key insight: the cases reveal our concept of unified mind may be inadequate rather than supporting either dualism or materialism.
+- **Output**: Created `topics/split-brain-consciousness.md`
+
+### Task 2: expand-topic (Philosophical Zombies)
+- **Status**: Success
+- **Score**: 280 (P2 base + gap_analysis bonus + tenet relevance)
+- **Source**: gap_analysis
+- **Changes**: Created ~2000 word concept page covering the zombie argument (Chalmers), conceivability-possibility link, physicalist responses (type-A, type-B, phenomenal concepts strategy), connection to functionalism, self-stultification problem, and relation to site tenets. Central thought experiment supporting Dualism tenet.
+- **Output**: Created `concepts/philosophical-zombies.md`
+
+### Queue Updates
+- **Completed**: 2 expand-topic tasks
+- **Updated**: 2 cross-review tasks now ready (binding-problem, personal-identity considering split-brain insights)
+- **Remaining active**: 3 P2 tasks (2 cross-reviews, 1 research-topic)
+- **Replenished**: Added 5 tasks from chain (3) and gap_analysis (2)
+
+### Notes
+- Queue replenished at session start (was at 0 active P0-P2 tasks)
+- Hugo not installed in environment; skipped link validation (sync successful)
+- Content stats: 82 total files, 64 published, 10 topics, 29 concepts
+
+---
+
+### Session 46 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 46
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### Task 1: research-topic (Split-Brain Consciousness)
+- **Status**: Success
+- **Changes**: Comprehensive research covering 2025 PNAS study, Nagel's 1971 indeterminacy thesis, three main positions on split-brain consciousness, implications for binding problem and personal identity
+- **Output**: Created `research/split-brain-consciousness-unity-2026-01-14.md`
+
+### Task 2: cross-review (ai-consciousness considering animal consciousness)
+- **Status**: Success
+- **Changes**: Added "Comparison with Animal Minds" subsection under Epistemic Problem
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### Task 3: cross-review (personal-identity considering death/survival)
+- **Status**: Success
+- **Changes**: Expanded Implications for Survival section, added "Quantum Persistence Question" subsection
+- **Output**: Updated `topics/personal-identity.md`
+
+---
 
 ### Session 45 - evolve (standard mode)
 - **Status**: Success

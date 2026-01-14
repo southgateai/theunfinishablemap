@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 22:00:00+00:00
+ai_modified: 2026-01-14 17:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[integrated-information-theory]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[mental-effort]]'
+- '[[split-brain-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -73,6 +74,22 @@ This explains *access* consciousness—why bound information is available to mul
 
 This reframes rather than solves the puzzle. Saying unity equals integration doesn't explain *why* information integration produces phenomenal unity. It may relocate the hard problem rather than solve it.
 
+### Evidence from Split-Brain Cases
+
+[Split-brain patients](/topics/split-brain-consciousness/)—those whose corpus callosum has been severed—offer a natural experiment on binding. When the 250 million fibers connecting hemispheres are cut, what happens to unity?
+
+The classic findings seemed to show consciousness splitting: each hemisphere processes its visual field independently, with the verbal left hemisphere unable to report what the mute right hemisphere perceives. This suggested binding depends on anatomical connectivity.
+
+But recent findings complicate this picture:
+
+**Resilience of unity**: A 2025 PNAS study found that minimal corpus callosum fibers—even just a centimeter—can maintain full interhemispheric synchronization. One patient with barely any preserved fibers showed normal brain function. The brain recruits alternative pathways when primary connections fail.
+
+**Layered binding**: Research reveals that perceptual binding divides while response unity persists. Patients see different things per hemisphere but don't act like two people fighting for control. This suggests binding operates at multiple levels—local perceptual processes can divide while global phenomenal unity remains.
+
+**Nagel's indeterminacy**: Thomas Nagel argued split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." The question "How many unified experiences does this patient have?" may lack a determinate answer—not because we're ignorant, but because our concept of discrete unified minds doesn't map cleanly onto brain structure.
+
+**Implications**: Split-brain cases suggest that phenomenal unity is more resilient than classical binding theories predict. If binding were merely synchronized firing, complete disconnection should produce complete division. The persistence of some unity despite massive disconnection points toward binding mechanisms that transcend local neural correlation—perhaps quantum coherence maintaining unity even when macro-level communication is severed.
+
 ## The Quantum Alternative
 
 Here classical approaches reach their limit. All propose mechanisms where separate processes *interact* or *correlate*—but interaction between distinct entities doesn't make them *one* entity. Classical physics cannot produce objective wholes; large-scale phenomena reduce to local interactions.
@@ -122,6 +139,7 @@ The binding problem illuminates why the site's [tenets](/tenets/) take the posit
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [mental-effort](/concepts/mental-effort/) — Attention's role in binding connects to consciousness-matter interface
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — BP2 as instance of the hard problem
+- [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails (or doesn't)
 - [binding-problem-consciousness-2026-01-14](/research/binding-problem-consciousness-2026-01-14/) — Detailed research notes
 
 ## References

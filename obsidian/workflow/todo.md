@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T15:30:00+00:00
+ai_modified: 2026-01-14T18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -646,17 +646,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2000 word article covering classic Sperry/Gazzaniga experiments, 2025 minimal-fiber findings, Nagel's indeterminacy thesis, connection to binding problem, personal identity implications, and relation to all site tenets
 - **Output**: `topics/split-brain-consciousness.md`
 
-### P2: Cross-review binding-problem.md considering split-brain insights
+### ✓ 2026-01-14: Cross-review binding-problem.md considering split-brain insights
 - **Type**: cross-review
 - **Notes**: New article topics/split-brain-consciousness.md covers the layered unity model and connection to BP1/BP2. Review concepts/binding-problem.md for opportunities to add split-brain discussion—particularly how perceptual binding divides while phenomenal unity persists.
 - **Source**: chain (from split-brain-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added "Evidence from Split-Brain Cases" subsection covering resilience of unity, layered binding, Nagel's indeterminacy, and implications for quantum binding mechanisms
+- **Output**: Updated `concepts/binding-problem.md`
 
-### P2: Cross-review personal-identity.md considering split-brain insights
+### ✓ 2026-01-14: Cross-review personal-identity.md considering split-brain insights
 - **Type**: cross-review
 - **Notes**: New article topics/split-brain-consciousness.md discusses Nagel's indeterminacy and Schechter's reconciliation account. Review topics/personal-identity.md for opportunities to discuss how split-brain cases challenge simple views of unified personal identity while supporting indexical approach.
 - **Source**: chain (from split-brain-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added "Evidence from Split-Brain Cases" subsection under Fission Problem covering Nagel's indeterminacy, 2025 research on unity resilience, Schechter's two-minds-one-person view, and implications for indexical identity
+- **Output**: Updated `topics/personal-identity.md`
 
 ### ✓ 2026-01-14: Create concept page for philosophical zombies
 - **Type**: expand-topic

@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-14 13:00:00+00:00
+ai_modified: 2026-01-14 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[death-and-consciousness]]'
+- '[[split-brain-consciousness]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 draft: false
@@ -105,6 +106,24 @@ This aligns with Parfit's conclusion (neither is you) but for different reasons.
 
 The resulting people might have your memories and psychology. They might even believe they're you. But belief doesn't make it so. The unique conscious perspective that constituted you would have ended, replaced by two new ones.
 
+### Evidence from Split-Brain Cases
+
+[Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence bearing on fission scenarios. When the corpus callosum is severed, each hemisphere processes information independently—the classic experiments showed one hemisphere unable to report what the other perceived.
+
+Yet the philosophical picture that emerged may be too clean. Thomas Nagel argued that split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Recent 2025 research strengthens this: minimal corpus callosum fibers can maintain full interhemispheric synchronization. The brain reorganizes, recruits alternative pathways, resists fragmentation.
+
+**What this suggests for personal identity:**
+
+1. **Unity is resilient.** If consciousness were merely the sum of brain processes, complete disconnection should produce complete division. The persistence of some unity despite massive disconnection suggests consciousness has intrinsic unity that physical disconnection cannot fully sever.
+
+2. **The question may be malformed.** "How many persons does a split-brain patient comprise?" assumes persons come in discrete whole numbers. If consciousness can be partially divided while remaining somehow one, our concept of individual identity may be inadequate to capture what's actually there.
+
+3. **Support for non-physical persistence.** Elizabeth Schechter proposes split-brain patients have "two minds in one person"—duality at one level (perception, reasoning) with unity at another (self-identification, agency). This layered picture fits better with the site's view that consciousness is something over and above physical structure. The non-physical aspect of mind may maintain unity even when physical connections are severed—explaining why response unity persists despite perceptual division.
+
+4. **Indexical identity persists.** Despite perceptual fragmentation, split-brain patients maintain first-person unity: they think of themselves as "one of us," not two beings sharing a body. This suggests indexical identity—the irreducible fact of being *this* conscious being—is more fundamental than the computational binding that physical connections enable.
+
+The split-brain cases neither prove nor refute the site's view of personal identity. But they complicate simple accounts and lend support to the claim that consciousness is something beyond what neural structure alone can explain.
+
 ## Implications for Survival
 
 What does survival require? As discussed in [death-and-consciousness](/topics/death-and-consciousness/), the site's framework makes survival after bodily death a coherent possibility—but only if indexical identity is preserved. Resurrection through mere recreation would yield a duplicate, not you.
@@ -139,6 +158,7 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 
 ## Further Reading
 
+- [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
 - [meaning-of-life](/topics/meaning-of-life/) — Why personal existence matters
 - [free-will](/topics/free-will/) — How consciousness shapes choices
