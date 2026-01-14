@@ -3,7 +3,7 @@ title: "Substance Dualism vs Property Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T12:30:00+00:00
+ai_modified: 2026-01-14T16:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[epiphenomenalism]]"
   - "[[qualia]]"
   - "[[materialism]]"
+  - "[[russellian-monism]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -63,7 +64,9 @@ Unlike substance dualism, property dualism doesn't posit a separate mental subst
 
 **Naturalistic dualism** (Chalmers's early position) holds that phenomenal properties are fundamental features of nature, like mass or charge. They arise naturally from physical systems of sufficient complexity, but they're not identical to or derivable from physical properties. The laws connecting physical and phenomenal are psychophysical laws—fundamental, brute regularities that don't reduce to physics.
 
-**Russellian monism** (some classify this as property dualism) holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or be grounded in) the intrinsic nature of physical reality that physics doesn't capture. This makes phenomenal properties more fundamental than physical properties, while preserving a single underlying reality.
+**[[russellian-monism|Russellian monism]]** (some classify this as property dualism) holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or be grounded in) the intrinsic nature of physical reality that physics doesn't capture. This makes phenomenal properties more fundamental than physical properties, while preserving a single underlying reality.
+
+However, critics like Adam Pautz argue that Russellian monism is effectively "dualism under another name." It requires brute psychophysical laws connecting quiddities (intrinsic properties) to consciousness—structurally similar to the brute laws dualism posits. Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. This site's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
 
 **Emergent dualism** holds that mental properties emerge from physical complexity in ways that cannot be predicted or explained from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
 
@@ -117,6 +120,7 @@ The substance/property distinction matters less than it might seem for the site'
 
 ## Further Reading
 
+- [[russellian-monism]] — A sophisticated middle position that may be dualism under another name
 - [[interactionist-dualism]] — The site's position combining dualism with causal interaction
 - [[materialism]] — The view both dualist positions reject
 - [[epiphenomenalism]] — Property dualism's temptation that the site refuses
