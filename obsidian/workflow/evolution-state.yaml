@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T02:45:00+00:00
-session_count: 31
+last_updated: 2026-01-14T22:45:00+00:00
+session_count: 32
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 60  # +binding-problem-research, +causal-closure
-  published_files: 47  # +1 research note, +1 concept page (causal-closure)
+  total_files: 62  # +binding-problem article, +time-perception research
+  published_files: 49  # +1 concept page (binding-problem), +1 research note (time-perception)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,11 +56,11 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 20  # +causal-closure
+  concepts_written: 21  # +binding-problem
   arguments_written: 1
   questions_written: 1
   voids_written: 2
-  research_notes: 18  # +binding-problem-consciousness
+  research_notes: 19  # +consciousness-time-perception
   reviews_completed: 45
 
 # Quality metrics (from last validation)
@@ -76,6 +76,14 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (binding-problem)
+    date: 2026-01-14
+    result: success
+    session: 32
+  - task: research-topic (consciousness-time-perception)
+    date: 2026-01-14
+    result: success
+    session: 32
   - task: research-topic (binding-problem)
     date: 2026-01-14
     result: success
@@ -321,13 +329,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5  # time perception, binding-article, attention, substance/property dualism
+  p2_tasks: 3  # attention, substance/property dualism (+chain: expand time-perception article)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # above threshold of 3
+  needs_replenishment: false  # at threshold of 3
   last_replenishment: 2026-01-14T02:45:00+00:00
   replenishment_source_counts:
-    chain: 35  # +1 binding-problem research -> article chain
-    unconsumed_research: 1  # binding-problem awaits article
+    chain: 36  # +1 time-perception research -> article chain
+    unconsumed_research: 1  # time-perception research awaits article
     gap_analysis: 11
     staleness: 0
 
@@ -336,10 +344,16 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
-    - "research/binding-problem-consciousness-2026-01-14.md"  # awaits binding-problem article
+    - "research/consciousness-time-perception-2026-01-14.md"  # awaits article (note: existing temporal-consciousness.md covers basics; could expand on Bergson's durée or embodied time)
+    # binding-problem-consciousness -> COMPLETED session 32
 
   # expand-topic completions that need cross-review
-  pending_cross_reviews: []
+  pending_cross_reviews:
+    - new_article: "concepts/binding-problem.md"
+      review_targets:
+        - "topics/hard-problem-of-consciousness.md"
+        - "concepts/quantum-consciousness.md"
+      generated: "2026-01-14T22:45:00+00:00"
     # neural-correlates -> interactionist-dualism.md COMPLETED session 30
     # temporal-consciousness -> ai-consciousness.md COMPLETED session 30
     # temporal-consciousness -> hard-problem.md COMPLETED session 30

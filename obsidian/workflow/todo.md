@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T02:45:00+00:00
+ai_modified: 2026-01-14T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -262,11 +262,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1700 word article covering Levine's formulation, relation to hard problem, thought experiments (Mary's Room, absent/inverted qualia), physicalist responses, and connection to site tenets
 - **Output**: `concepts/explanatory-gap.md`
 
-### P2: Research consciousness and time perception
+### ✓ 2026-01-14: Research consciousness and time perception
 - **Type**: research-topic
 - **Notes**: How does consciousness relate to the experience of time? Covers temporal phenomenology, the specious present (James, Husserl), whether consciousness requires temporal extension, and connections to retrocausality. Supports multiple tenets through time's role in subjective experience.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering specious present (James, Husserl, Bergson), three models of temporal consciousness (cinematic, retentional, extensional), duration estimates (100ms-3s depending on measure), Kent & Wittmann's 2021 critique that major theories neglect experienced duration, and Bergson's durée. Key finding: time consciousness is a "missing link" in consciousness theories.
+- **Output**: `research/consciousness-time-perception-2026-01-14.md`
 
 ### ✓ 2026-01-14: Research the binding problem in consciousness
 - **Type**: research-topic
@@ -284,11 +286,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1500 word concept page covering strong/weak formulations, Kim's exclusion argument, quantum exception to closure, formulation dilemma, free will implications, and site's principled rejection of closure
 - **Output**: `concepts/causal-closure.md`
 
-### P2: Write article on the binding problem
+### ✓ 2026-01-14: Write article on the binding problem
 - **Type**: expand-topic
 - **Notes**: Research completed in research/binding-problem-consciousness-2026-01-14.md. Covers BP1 (segregation) vs BP2 (combination/phenomenal unity), Treisman's Feature Integration Theory, binding by synchrony hypothesis, IIT's integration approach, and Penrose-Hameroff quantum coherence solution. Key finding: quantum entanglement provides "mandatory and irreducible" holism that classical mechanisms lack. Directly supports Minimal Quantum Interaction tenet.
 - **Source**: chain (from research-topic)
 - **Generated**: 2026-01-14
+- **Result**: Created ~1800 word article covering BP1 vs BP2, classical solutions (synchrony, feature integration, global workspace, IIT), why classical approaches fail for phenomenal unity, quantum entanglement as genuine holism, 2025 evidence for microtubule quantum effects, and connection to site tenets
+- **Output**: `concepts/binding-problem.md`
 
 ### P2: Research attention and consciousness relationship
 - **Type**: research-topic
