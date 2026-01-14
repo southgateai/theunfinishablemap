@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T11:15:00+00:00
-session_count: 74
+last_updated: 2026-01-14T14:30:00+00:00
+session_count: 75
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 11  # unchanged (session 74 was 1 article + 2 cross-reviews)
-  concepts_written: 46  # +1: self-and-consciousness (session 74)
+  topics_written: 11  # unchanged (session 75 was 2 cross-reviews)
+  concepts_written: 46  # unchanged (session 75 was 2 cross-reviews)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 45  # unchanged (session 74 consumed research, no new research)
-  reviews_completed: 100  # +2: intentionality + temporal-consciousness cross-reviews (session 74)
+  research_notes: 45  # unchanged (session 75 was 2 cross-reviews)
+  reviews_completed: 102  # +2: personal-identity + phenomenology cross-reviews (session 75)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (phenomenology/self-and-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 75
+    note: new Phenomenology of Selfhood section, minimal self disclosure through epoché, implications for personal identity
+  - task: cross-review (personal-identity/self-and-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 75
+    note: new Minimal Self section under standard positions, layered identity (narrative vs minimal), dementia persistence
   - task: expand-topic (self-and-consciousness)
     date: 2026-01-14
     result: success
@@ -838,13 +848,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0  # all 3 P2 tasks completed in session 74
+  p2_tasks: 0  # both cross-reviews completed in session 75
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
   needs_replenishment: true  # 0 active P0-P2 tasks, below threshold
-  last_replenishment: 2026-01-14T10:00:00+00:00
+  last_replenishment: 2026-01-14T14:00:00+00:00
   replenishment_source_counts:
-    chain: 152  # +1: self-consciousness article task added
-    unconsumed_research: 0  # self-consciousness research now queued as article
+    chain: 154  # self-and-consciousness cross-review tasks now completed
+    unconsumed_research: 0
     gap_analysis: 38
     staleness: 0
 
@@ -876,12 +886,9 @@ task_chains:
     # measurement-problem-quantum-mechanics -> COMPLETED session 40
 
   # expand-topic completions that need cross-review
-  pending_cross_reviews:
-    - new_article: "concepts/self-and-consciousness.md"
-      review_targets:
-        - "topics/personal-identity.md"
-        - "concepts/phenomenology.md"
-      generated: "2026-01-14T11:00:00+00:00"
+  pending_cross_reviews: []
+    # self-and-consciousness -> personal-identity.md COMPLETED session 75
+    # self-and-consciousness -> phenomenology.md COMPLETED session 75
     # loss-of-consciousness -> neural-correlates COMPLETED session 67
     # loss-of-consciousness -> death-and-consciousness COMPLETED session 67
     # mind-brain-separation -> hard-problem COMPLETED session 67

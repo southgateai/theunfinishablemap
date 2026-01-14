@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:58:00+00:00
+ai_modified: 2026-01-14 14:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[duration]]'
 - '[[temporal-consciousness]]'
 - '[[mysterianism]]'
+- '[[self-and-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -78,6 +79,22 @@ Consider bodily skill. An experienced typist doesn't consciously locate keys; th
 
 For the site's framework, Merleau-Ponty's analysis supports a filter interpretation. The body shapes and conditions conscious experience—it structures what we perceive, how we move, what possibilities appear. But this shaping role need not mean the body *produces* consciousness. The lived body might be where consciousness interfaces with the physical world, not where consciousness originates.
 
+## The Phenomenology of Selfhood
+
+The epoché discloses not just objects and their modes of givenness but the structure of subjectivity itself. When Husserl's method brackets assumptions about the external world, what remains is not a void but a first-person perspective—consciousness directed toward objects, unified across time, and irreducibly *mine*.
+
+Contemporary phenomenologists Shaun Gallagher and Dan Zahavi identify this basic experiential structure as the [minimal self](/concepts/self-and-consciousness/)—a pre-reflective self-awareness that accompanies every conscious experience. This is not an explicit thought "I am experiencing this" but rather the "for-me-ness" built into experience itself. Sartre described it as pre-reflective consciousness: awareness of the object *and* awareness of being aware, in a single transparent act.
+
+The minimal self should not be confused with the narrative self—the story we construct about who we are. The narrative self emerges through reflection, memory, and social interaction. The minimal self is more basic: it is the very form conscious experience takes. Even before any self-story develops, even in experiences we don't subsequently remember, there is a subject having the experience.
+
+Why this matters for the site's framework:
+
+1. **The minimal self is disclosed through phenomenology.** It is not a theoretical posit but something revealed when we attend carefully to experience. The epoché strips away assumptions and reveals this basic structure.
+
+2. **The minimal self resists elimination.** Attempts to explain away the first-person perspective (as in eliminative materialism) founder on the fact that every experience is *someone's* experience. The very act of eliminating the self presupposes a self doing the eliminating.
+
+3. **Personal identity may persist where narrative identity fragments.** If the minimal self is more fundamental than the narrative self, then *this* first-person perspective might persist even when memory and self-narrative are severely disrupted—supporting the site's emphasis on indexical identity.
+
 ## Neurophenomenology
 
 Francisco Varela pioneered *neurophenomenology*—integrating first-person phenomenological reports with third-person neuroscience. The core hypothesis: consciousness research requires "mutual constraints" between subjective and neural data. Neither alone suffices.
@@ -112,6 +129,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 
 ## Further Reading
 
+- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness, phenomenology's central theme
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How experience structures time
 - [duration](/concepts/duration/) — Bergson's analysis of lived time

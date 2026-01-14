@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 11:15:00+00:00
+ai_modified: 2026-01-14 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -57,6 +57,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-14: Cross-review phenomenology.md considering self-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-and-consciousness.md draws on phenomenological analysis of selfhood (Zahavi, Gallagher). Review concepts/phenomenology.md for opportunities to strengthen the connection between phenomenological method and self-investigation—the epoché reveals the minimal self as pre-reflective first-person givenness.
+- **Source**: chain (from self-and-consciousness.md)
+- **Result**: Added self-and-consciousness to concepts list; created new "The Phenomenology of Selfhood" section connecting the epoché with disclosure of the minimal self (Gallagher/Zahavi), explaining how phenomenological method reveals pre-reflective self-awareness, distinguishing minimal self from narrative self, and showing implications for personal identity and eliminative materialism; added self-and-consciousness as first entry in Further Reading.
+- **Output**: Updated `concepts/phenomenology.md`
+
+### ✓ 2026-01-14: Cross-review personal-identity.md considering self-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-and-consciousness.md covers minimal self vs narrative self (Gallagher/Zahavi), Metzinger's self-model theory, and Buddhist no-self doctrine. Review topics/personal-identity.md for opportunities to connect personal identity questions with the phenomenology of selfhood—minimal self may persist even when narrative identity fragments.
+- **Source**: chain (from self-and-consciousness.md)
+- **Result**: Added self-and-consciousness to concepts list; created new "The Minimal Self: A Deeper Layer" section after narrative view, explaining Gallagher/Zahavi distinction, how minimal self persists through fragmented narratives (dementia example), and the layered nature of personal identity; added self-and-consciousness as first entry in Further Reading.
+- **Output**: Updated `topics/personal-identity.md`
 
 ### ✓ 2026-01-14: Cross-review temporal-consciousness.md considering phenomenology insights
 - **Type**: cross-review
