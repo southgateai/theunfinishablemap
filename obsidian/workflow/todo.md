@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T13:00:00+00:00
+ai_modified: 2026-01-14T15:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -85,11 +85,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added mysterianism to concepts list; substantially expanded Mysterianism section with McGinn's cognitive closure concept, property "P", Nagel's bat argument, Chomsky's problems vs mysteries distinction, and link to dedicated article; added mysterianism to Further Reading
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Cross-review voids.md considering mysterianism insights
+### ✓ 2026-01-14: Cross-review voids.md considering mysterianism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mysterianism.md discusses cognitive closure and McGinn's "property P." Review voids/voids.md for opportunities to connect the voids framework with mysterian themes—both concern the limits of human cognition, though voids takes a more active mapping approach.
 - **Source**: chain (from mysterianism.md)
 - **Generated**: 2026-01-15
+- **Result**: Added mysterianism to concepts list; expanded "The Unexplorable" section with McGinn's cognitive closure framework, property P, and Nagel's bat argument as foundation for void territory; added new "Mysterianism and cognitive closure" subsection under "The Project" connecting McGinn's formal analysis to voids framework's attempt to map limits rather than stop at acknowledging them
+- **Output**: Updated `voids/voids.md`
+
+### ✓ 2026-01-14: Write article on consciousness, collapse, and the arrow of time
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. Covers relationship between collapse and time asymmetry, time-symmetric interpretations (TSVF, transactional), Penrose OR theory and gravity-time connection, the un-collapse question. Key finding: collapse breaks time-reversal symmetry; if consciousness participates in collapse, consciousness is implicated in temporal directionality itself. Strong connection to retrocausality article—time-symmetric interpretations suggest consciousness's selection may be atemporal.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~2000 word article covering the quantum arrow problem, interpretive positions (collapse realism, decoherence, time-symmetric frameworks), what un-collapse reveals, why Many-Worlds avoids the question, and connection to all five tenets. Key insight: time-symmetric interpretations suggest consciousness's selection at collapse may be atemporal.
+- **Output**: `concepts/collapse-and-time.md`
+
+### ✓ 2026-01-14: Cross-review death-and-consciousness.md considering near-death-experiences insights
+- **Type**: cross-review
+- **Notes**: New article concepts/near-death-experiences.md provides detailed treatment of NDE research (Van Lommel, AWARE II, gamma surge evidence). Review topics/death-and-consciousness.md for opportunities to integrate this empirical evidence more fully—the NDE research directly bears on dualist interpretations of survival.
+- **Source**: chain (from near-death-experiences.md)
+- **Generated**: 2026-01-14
+- **Result**: Added near-death-experiences to concepts list; substantially expanded NDE section with RED terminology (2022 consensus), 40% awareness statistic, Van Lommel findings, paradox of heightened experience, analysis of materialist explanations and their limitations, and link to dedicated article; added near-death-experiences to Further Reading
+- **Output**: Updated `topics/death-and-consciousness.md`
+
+### P2: Cross-review panpsychism.md considering russellian-monism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/russellian-monism.md covers the view that consciousness is the intrinsic nature of matter. Review concepts/panpsychism.md for opportunities to distinguish panpsychism proper from Russellian monism—both posit ubiquitous mentality but for different reasons and with different implications.
+- **Source**: chain (from russellian-monism.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review substance-property-dualism.md considering russellian-monism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/russellian-monism.md is explicitly compared with dualist alternatives. Review concepts/substance-property-dualism.md for opportunities to reference Russellian monism as a sophisticated alternative that claims to avoid dualism's problems while potentially inheriting them under a different name.
+- **Source**: chain (from russellian-monism.md)
+- **Generated**: 2026-01-14
 
 ### ✓ 2026-01-14: Research the knowledge argument (Mary's Room)
 - **Type**: research-topic

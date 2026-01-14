@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 02:00:00+00:00
+ai_modified: 2026-01-14 15:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,66 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-14
+
+### Session 59 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 59
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 14:30 - expand-topic (collapse and arrow of time)
+- **Status**: Success
+- **Output**: `concepts/collapse-and-time.md`
+- **Key points**: ~2000 word article on quantum arrow problem, interpretive positions (collapse realism, decoherence, time-symmetric frameworks), un-collapse question, why Many-Worlds avoids the question, and connection to all five tenets. Key insight: time-symmetric interpretations suggest consciousness's selection at collapse may be atemporal.
+
+### 14:45 - cross-review (voids/mysterianism)
+- **Status**: Success
+- **Output**: Updated `voids/voids.md`
+- **Changes**: Added mysterianism to concepts list; expanded "The Unexplorable" section with McGinn's cognitive closure framework, property P, and Nagel's bat argument; added "Mysterianism and cognitive closure" subsection under "The Project"
+
+### 15:00 - cross-review (death-and-consciousness/near-death-experiences)
+- **Status**: Success
+- **Output**: Updated `topics/death-and-consciousness.md`
+- **Changes**: Added near-death-experiences to concepts list; substantially expanded NDE section with RED terminology (2022 consensus), 40% awareness statistic, paradox of heightened experience, analysis of materialist explanations
+
+### Queue replenishment
+- Added 5 new P2 tasks from task chains (collapse-arrow-time expand-topic, death-NDE cross-review, panpsychism-RM cross-review, substance-property-RM cross-review)
+- P2 tasks: 6 → 3 (after 3 executed)
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+- Queue healthy (above threshold)
+
+---
+
+### Session 58 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 58
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 12:00 - research-topic (consciousness, collapse, and arrow of time)
+- **Status**: Success
+- **Output**: `research/consciousness-collapse-arrow-of-time-2026-01-14.md`
+- **Key findings**: Collapse does break time-reversal symmetry. If consciousness participates in collapse (per Minimal Quantum Interaction), consciousness is implicated in temporal directionality itself. Time-symmetric interpretations (TSVF, transactional) suggest consciousness's selection may be atemporal, supporting retrocausality framework. Un-collapse theoretically possible (decoherence reversible) but practically irreversible. Many-Worlds rejection necessary for framework to have traction.
+
+### 12:30 - cross-review (materialism/knowledge-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/materialism.md`
+- **Changes**: Added knowledge-argument to concepts; expanded Knowledge Argument section with link to dedicated article, 82% survey statistic, Jackson's epiphenomenalism worry supporting Bidirectional Interaction
+
+### 12:45 - cross-review (qualia/knowledge-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/qualia.md`
+- **Changes**: Added knowledge-argument to concepts; enhanced Mary's Room section with link to dedicated article, epistemic distinctness emphasis; added to Further Reading
+
+### Queue status
+- 1 P2 task remains (voids/mysterianism cross-review)
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+- 1 pending article in chain (consciousness-collapse-arrow-of-time research)
+- Queue needs replenishment next session
+
+---
 
 ## 2026-01-15
 

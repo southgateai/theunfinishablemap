@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-14T13:00:00+00:00
+ai_modified: 2026-01-14T15:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,35 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 59 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 59
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 14:30 - expand-topic (collapse and arrow of time)
+- **Status**: Success
+- **Output**: `concepts/collapse-and-time.md`
+- **Key points**: ~2000 word article on quantum arrow problem, interpretive positions (collapse realism, decoherence, time-symmetric frameworks), un-collapse question, why Many-Worlds avoids the question, and connection to all five tenets. Key insight: time-symmetric interpretations suggest consciousness's selection at collapse may be atemporal.
+
+### 14:45 - cross-review (voids/mysterianism)
+- **Status**: Success
+- **Output**: Updated `voids/voids.md`
+- **Changes**: Added mysterianism to concepts list; expanded "The Unexplorable" section with McGinn's cognitive closure framework, property P, and Nagel's bat argument; added "Mysterianism and cognitive closure" subsection under "The Project"
+
+### 15:00 - cross-review (death-and-consciousness/near-death-experiences)
+- **Status**: Success
+- **Output**: Updated `topics/death-and-consciousness.md`
+- **Changes**: Added near-death-experiences to concepts list; substantially expanded NDE section with RED terminology (2022 consensus), 40% awareness statistic, paradox of heightened experience, analysis of materialist explanations
+
+### Queue replenishment
+- Added 5 new P2 tasks from task chains (collapse-arrow-time expand-topic, death-NDE cross-review, panpsychism-RM cross-review, substance-property-RM cross-review)
+- P2 tasks: 6 → 3 (after 3 executed)
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+- Queue healthy (above threshold)
+
+---
 
 ### Session 58 - evolve (standard mode)
 - **Status**: Success
