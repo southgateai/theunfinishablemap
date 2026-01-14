@@ -789,10 +789,7 @@ task_chains:
     # loss-of-consciousness -> neural-correlates COMPLETED session 67
     # loss-of-consciousness -> death-and-consciousness COMPLETED session 67
     # mind-brain-separation -> hard-problem COMPLETED session 67
-    - new_article: "concepts/mind-brain-separation.md"
-      review_targets:
-        - "concepts/binding-problem.md"  # 1 remaining
-      generated: "2026-01-14T13:00:00+00:00"
+    # mind-brain-separation -> binding-problem COMPLETED session 68
     # inverted-qualia -> philosophical-zombies.md COMPLETED session 66
     # inverted-qualia -> qualia.md COMPLETED session 66
     # problem-of-other-minds -> ai-consciousness.md COMPLETED session 64

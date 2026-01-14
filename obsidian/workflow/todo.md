@@ -181,11 +181,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added mind-brain-separation to concepts list; created new "The Division of Faculties" section analyzing where hard problem bites hardest—qualia, phenomenal unity, metacognition appear intrinsic to mind while vegetative/sensory/motor functions are clearly neural; filter theory interprets this as ontological boundary not explanatory failure; added mind-brain-separation to Further Reading.
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Cross-review binding-problem.md considering mind-brain-separation insights
+### ✓ 2026-01-14: Cross-review binding-problem.md considering mind-brain-separation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mind-brain-separation.md discusses the binding problem as evidence that phenomenal unity is intrinsic to mind rather than explained by neural mechanisms. Review concepts/binding-problem.md for opportunities to reference the division of faculties framework.
 - **Source**: chain (from mind-brain-separation.md)
 - **Generated**: 2026-01-14
+- **Result**: Added new section "The Mind-Brain Division and Phenomenal Unity" connecting binding problem to division of faculties analysis. Key insight: BP2 (phenomenal binding) falls on the mental side per filter theory—brain provides computational binding (BP1), consciousness provides phenomenal unity. Added mind-brain-separation to concepts list and Further Reading.
+- **Output**: Updated `concepts/binding-problem.md`
 
 ### ✓ 2026-01-14: Research phenomenology and first-person methods
 - **Type**: research-topic
