@@ -3,7 +3,7 @@ title: "Neural Correlates of Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T17:00:00+00:00
+ai_modified: 2026-01-14T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[integrated-information-theory]]"
   - "[[materialism]]"
+  - "[[loss-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[neural-correlates-consciousness-2026-01-14]]"
@@ -96,6 +97,20 @@ If the posterior cortical hot zone is where conscious content emerges, this regi
 
 [[quantum-consciousness|Quantum consciousness]] mechanisms—whether Orch OR's microtubule effects or Stapp's quantum Zeno approach—would need to operate at this interface. NCC research, though it operates at macroscopic scales, could eventually guide the search for quantum signatures by identifying *where* to look.
 
+## Filter Theory: Correlates as Interface Points
+
+The [[loss-of-consciousness|loss of consciousness]] literature offers an alternative interpretation of NCC findings. William James, Henri Bergson, and Aldous Huxley proposed that the brain *filters* or *transmits* consciousness rather than producing it. On this view, NCCs identify where consciousness interfaces with neural processes—not where consciousness is generated.
+
+Several findings support reading NCCs as interface indicators:
+
+**Covert consciousness**: Up to 25% of behaviorally unresponsive patients—those who fail all clinical tests for awareness—show clear signs of consciousness via neuroimaging (cognitive motor dissociation). They understand language, follow instructions, and sustain attention, yet cannot express awareness through behavior. If NCCs indicated production, how could consciousness persist when its supposed neural basis fails to generate behavioral outputs?
+
+**Disconnection rather than destruction**: Brain damage typically produces disconnection syndromes—consciousness loses access to specific functions without those functions being destroyed. Hemispherectomy patients, missing half their cortex, retain substantially normal consciousness. This pattern fits transmission better than production: damage the interface, and consciousness loses specific channels; damage a generator, and output should decrease proportionally.
+
+**Anesthetic dissociations**: Propofol and ketamine both produce behavioral unresponsiveness, but radically different subjective experiences—near-total extinction versus vivid dissociative states. If NCCs straightforwardly indicated conscious presence, identical behavioral unresponsiveness should correlate with identical experiential states. The divergence suggests NCCs track the interface between consciousness and behavior, not consciousness itself.
+
+None of this undermines NCC research. Finding that V4 activity correlates with colour experience remains valuable—it tells us where the colour interface is. The question is metaphysical: is V4 producing colour experience or enabling consciousness to access chromatic information? NCC data is compatible with either interpretation.
+
 ## Relation to This Site's Perspective
 
 The site's tenets are fully compatible with NCC findings:
@@ -119,6 +134,7 @@ These remain philosophical questions. The site holds that consciousness is irred
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] — Why correlations don't constitute explanations
+- [[loss-of-consciousness]] — Evidence that NCCs indicate interface rather than production
 - [[integrated-information-theory]] — One major NCC-compatible theory
 - [[interactionist-dualism]] — How non-physical consciousness could interact with NCC
 - [[materialism]] — The opposing framework NCC research does not settle
