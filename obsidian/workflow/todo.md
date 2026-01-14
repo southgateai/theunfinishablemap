@@ -702,11 +702,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added philosophical-zombies to concepts list; linked zombie mention in Relation to Hard Problem section; expanded Absent Qualia section to full "Absent Qualia and Zombies" with Chalmers's conceivability-possibility argument; added philosophical-zombies to Further Reading
 - **Output**: Updated `concepts/explanatory-gap.md`
 
-### P2: Write article on the phenomenal concepts strategy
+### ✓ 2026-01-15: Write article on the phenomenal concepts strategy
 - **Type**: expand-topic
 - **Notes**: Research completed in research/phenomenal-concepts-strategy-2026-01-14.md. Covers Loar's recognitional concepts, Papineau's quotational account, Balog's constitutional account, and Chalmers's master argument. Key finding: Chalmers's dilemma remains unrefuted—features explaining the gap can't themselves be physical. Site should engage this strongest physicalist response to strengthen Dualism tenet.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-15
+- **Result**: Created ~1900 word article covering PCS core idea, major versions (Loar, Papineau, Balog), Chalmers's master argument dilemma, responses, illusionist option, and tenet analysis showing why the gap's persistence supports dualism
+- **Output**: `concepts/phenomenal-concepts-strategy.md`
 
 ### P2: Research illusionism as theory of consciousness
 - **Type**: research-topic
