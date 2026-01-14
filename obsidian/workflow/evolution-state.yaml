@@ -469,14 +469,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0  # all 3 P2 tasks completed in session 46
+  p2_tasks: 5  # split-brain article, 2 cross-reviews, zombies, phenomenal concepts research
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 0 active tasks (P0-P2)
-  last_replenishment: 2026-01-14T23:55:00+00:00
+  needs_replenishment: false  # replenished in session 47
+  last_replenishment: 2026-01-14T14:00:00+00:00
   replenishment_source_counts:
-    chain: 66  # +1 research-topic completed (split-brain)
-    unconsumed_research: 1  # split-brain research needs article
-    gap_analysis: 21
+    chain: 68  # +2 cross-review tasks generated (for split-brain article)
+    unconsumed_research: 0  # split-brain converted to P2 article task
+    gap_analysis: 23  # +2 (zombies, phenomenal concepts)
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

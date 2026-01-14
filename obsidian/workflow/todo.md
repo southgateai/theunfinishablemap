@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T13:30:00+00:00
+ai_modified: 2026-01-14T14:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -637,6 +637,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-14
 - **Result**: Comprehensive research covering Koch's posterior cortical hot zone, COGITATE adversarial collaboration (IIT vs GNWT), April 2025 Nature publication results, and philosophical implications for dualism. Key finding: NCC research is neutral on materialism vs dualism—correlates are predicted by interactionism.
 - **Output**: `research/neural-correlates-consciousness-2026-01-14.md`
+
+### P2: Write article on split-brain cases and consciousness unity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Covers Sperry/Gazzaniga findings, 2025 PNAS study on minimal fiber connections, Nagel's 1971 indeterminacy thesis, and implications for binding problem and personal identity. Key finding: consciousness may be more unified than classical split-brain picture suggests, and the indeterminacy itself may support dualism over reductive materialism.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review binding-problem.md considering split-brain insights
+- **Type**: cross-review
+- **Notes**: Once the split-brain article is written, review concepts/binding-problem.md for opportunities to connect split-brain phenomena with the binding problem—particularly how perceptual binding divides while phenomenal unity may persist.
+- **Source**: chain (from split-brain article, pending)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review personal-identity.md considering split-brain insights
+- **Type**: cross-review
+- **Notes**: Once the split-brain article is written, review topics/personal-identity.md for opportunities to discuss how split-brain cases challenge simple views of unified personal identity while supporting the site's indexical approach.
+- **Source**: chain (from split-brain article, pending)
+- **Generated**: 2026-01-14
+
+### P2: Create concept page for philosophical zombies
+- **Type**: expand-topic
+- **Notes**: The zombie argument (Chalmers) is referenced 26+ times across the site but lacks a dedicated concept page. Central thought experiment for understanding the hard problem and supporting Dualism tenet. Should cover: zombie conceivability argument, responses (type-A and type-B physicalism), connection to explanatory gap.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research phenomenal concepts strategy
+- **Type**: research-topic
+- **Notes**: Major physicalist response to the knowledge argument and zombie argument. Claims the explanatory gap is epistemic rather than metaphysical—phenomenal concepts are special but don't reveal non-physical properties. Site should engage this response to strengthen Dualism tenet. Connects to qualia, explanatory-gap, and materialism articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
