@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T18:00:00+00:00
-session_count: 72
+last_updated: 2026-01-15T00:30:00+00:00
+session_count: 73
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 11  # unchanged
-  concepts_written: 45  # +2: neurophenomenology, embodied-cognition (session 71)
+  topics_written: 11  # unchanged (session 73 was cross-reviews + research)
+  concepts_written: 45  # unchanged (session 73 was cross-reviews + research)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 44  # unchanged (session 71 consumed existing research)
-  reviews_completed: 95  # unchanged (session 71 was expand-topic only)
+  research_notes: 45  # +1: self-consciousness research (session 73)
+  reviews_completed: 98  # +3: two cross-reviews + tenets strengthening (session 73)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (materialism/arguments-for-dualism)
+    date: 2026-01-15
+    result: success
+    session: 73
+    note: added arguments-for-dualism link, 22% philosopher acceptance statistic, positive case framing
+  - task: research-topic (self-consciousness)
+    date: 2026-01-15
+    result: success
+    session: 73
+    note: minimal self vs narrative self (Gallagher/Zahavi), Metzinger PSM, Buddhist anattā, filter theory interpretation
+  - task: cross-review (tenets/arguments-for-dualism)
+    date: 2026-01-15
+    result: success
+    session: 73
+    note: expanded Dualism rationale with multiple positive arguments (knowledge, conceivability, qualia, unity, intentionality)
   - task: cross-review (duration/neurophenomenology)
     date: 2026-01-14
     result: success
@@ -808,13 +823,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # self-consciousness research only (3 cross-reviews completed session 72)
+  p2_tasks: 2  # 2 cross-reviews remaining from session 73 replenishment
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 1 active P0-P2 task, below threshold
-  last_replenishment: 2026-01-14T17:00:00+00:00
+  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold
+  last_replenishment: 2026-01-14T23:30:00+00:00
   replenishment_source_counts:
-    chain: 147  # +3: cross-reviews completed session 72
-    unconsumed_research: 0
+    chain: 151  # +4: cross-review tasks added session 73
+    unconsumed_research: 1  # self-consciousness research awaits article
     gap_analysis: 38
     staleness: 0
 
@@ -822,7 +837,8 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles: []
+  pending_articles:
+    - "research/self-consciousness-philosophy-2026-01-15.md"
     # mind-brain-separation-faculties -> QUEUED as expand-topic task (session 66 replenishment)
     # loss-of-consciousness-mind-brain -> topics/loss-of-consciousness.md COMPLETED session 65
     # inverted-qualia-spectrum -> concepts/inverted-qualia.md COMPLETED session 64

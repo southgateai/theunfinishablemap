@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 18:00:00+00:00
+ai_modified: 2026-01-15 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research the self and consciousness
-- **Type**: research-topic
-- **Notes**: What is the relationship between consciousness and the sense of self? Distinct from personal identity (which focuses on persistence), this concerns the phenomenology and metaphysics of selfhood in conscious experience. Key areas: minimal self vs narrative self (Gallagher, Zahavi), self-model theory (Metzinger), no-self traditions (Buddhism), and implications for dualism. Connects to self-reference-paradox, Eastern philosophy, and hard problem articles.
-- **Source**: gap_analysis
+### P2: Cross-review intentionality.md considering phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology.md covers Husserl, Brentano, and intentionality as "the mark of the mental." Review concepts/intentionality.md for opportunities to strengthen phenomenological context, reference the dedicated phenomenology article, and ensure consistent treatment of Brentano's thesis across articles.
+- **Source**: chain (from phenomenology.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review temporal-consciousness.md considering phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology.md includes detailed coverage of Husserl's time-consciousness analysis (retention-primal impression-protention). Review concepts/temporal-consciousness.md for opportunities to reference the phenomenology article and strengthen the Husserlian framework discussion.
+- **Source**: chain (from phenomenology.md)
 - **Generated**: 2026-01-14
 
 ### P3: Create concept page for the combination problem
@@ -63,6 +69,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review materialism.md considering arguments-for-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/arguments-for-dualism.md presents seven major positive arguments for dualism. Review concepts/materialism.md for opportunities to reference the dedicated article in the critique sections, particularly where materialist failures are discussed. The arguments-for-dualism article provides systematic counterpoints to materialism.
+- **Source**: chain (from arguments-for-dualism.md)
+- **Result**: Added arguments-for-dualism to concepts list; added opening paragraph to "Why Materialism Fails" section connecting to positive case with 22% philosopher acceptance statistic; added arguments-for-dualism to Further Reading as first entry.
+- **Output**: Updated `concepts/materialism.md`
+
+### ✓ 2026-01-15: Research the self and consciousness
+- **Type**: research-topic
+- **Notes**: What is the relationship between consciousness and the sense of self? Distinct from personal identity (which focuses on persistence), this concerns the phenomenology and metaphysics of selfhood in conscious experience. Key areas: minimal self vs narrative self (Gallagher, Zahavi), self-model theory (Metzinger), no-self traditions (Buddhism), and implications for dualism. Connects to self-reference-paradox, Eastern philosophy, and hard problem articles.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering Gallagher/Zahavi minimal self vs narrative self distinction, Metzinger's self-model theory of subjectivity (PSM, transparency, naïve realism), Buddhist anattā doctrine and five aggregates, contemporary philosophy of mind connections. Key finding: minimal self is pre-reflective first-person givenness; narrative self is constructed through life stories; filter theory can interpret PSM as interface rather than generator of selfhood.
+- **Output**: `research/self-consciousness-philosophy-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review tenets.md considering arguments-for-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/arguments-for-dualism.md provides systematic positive case for dualism (conceivability, knowledge, qualia, unity, intentionality, modal arguments). Review tenets/tenets.md for opportunities to reference the dedicated article, strengthen the Dualism tenet rationale with specific argument citations, and ensure the tenets page benefits from the comprehensive treatment.
+- **Source**: chain (from arguments-for-dualism.md)
+- **Result**: Added arguments-for-dualism to concepts list; substantially expanded Dualism rationale to reference multiple independent positive arguments (knowledge argument, conceivability arguments, qualia arguments including explanatory gap, inverted qualia, intrinsic nature; unity of consciousness; intentionality) with wikilinks to dedicated articles.
+- **Output**: Updated `tenets/tenets.md`
 
 ### ✓ 2026-01-14: Cross-review duration.md considering neurophenomenology insights
 - **Type**: cross-review
