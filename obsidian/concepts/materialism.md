@@ -3,7 +3,7 @@ title: "Materialism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T12:30:00+00:00
+ai_modified: 2026-01-15T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
   - "[[knowledge-argument]]"
+  - "[[arguments-for-dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism]]"
@@ -82,7 +83,7 @@ The site's response targets premise 1. The [[tenets#^minimal-quantum-interaction
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness:
+Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[arguments-for-dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. The 2020 PhilPapers survey found 22% of philosophers accept or lean toward dualism—the second most popular position after materialism itself.
 
 ### The Explanatory Gap
 
@@ -150,6 +151,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 
 ## Further Reading
 
+- [[arguments-for-dualism]] — The positive case for dualism (conceivability, knowledge, qualia, unity, intentionality, modal arguments)
 - [[knowledge-argument]] — The knowledge argument (Mary's Room) in detail
 - [[explanatory-gap]] — What physical explanations leave out
 - [[philosophical-zombies]] — The zombie argument against materialism in detail
