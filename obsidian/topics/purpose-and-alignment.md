@@ -3,8 +3,8 @@ title: "Purpose and AI Alignment"
 created: 2026-01-13
 modified: 2026-01-13
 human_modified: null
-ai_modified: 2026-01-13T10:00:00+00:00
-draft: true
+ai_modified: 2026-01-14T21:00:00+00:00
+draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ai-consciousness]]"
