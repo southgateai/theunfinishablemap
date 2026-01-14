@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T14:30:00+00:00
-session_count: 75
+last_updated: 2026-01-14T20:00:00+00:00
+session_count: 76
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 11  # unchanged (session 75 was 2 cross-reviews)
-  concepts_written: 46  # unchanged (session 75 was 2 cross-reviews)
+  topics_written: 11  # unchanged (session 76 was 2 research + 1 cross-review)
+  concepts_written: 46  # unchanged (session 76 was 2 research + 1 cross-review)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 45  # unchanged (session 75 was 2 cross-reviews)
-  reviews_completed: 102  # +2: personal-identity + phenomenology cross-reviews (session 75)
+  research_notes: 47  # +2: agent-causation, consciousness-dreams (session 76)
+  reviews_completed: 103  # +1: free-will/mental-effort cross-review (session 76)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (consciousness-dreams)
+    date: 2026-01-14
+    result: success
+    session: 76
+    note: dream phenomenology, lucid dreaming 2025 Demirel findings, Tibetan dream yoga, filter/transmission theory support
+  - task: cross-review (free-will/mental-effort)
+    date: 2026-01-14
+    result: success
+    session: 76
+    note: James volition-attention connection, quantum Zeno mechanism, Schwartz neuroplasticity, strengthened effort section
+  - task: research-topic (agent-causation-libertarian-free-will)
+    date: 2026-01-14
+    result: success
+    session: 76
+    note: Chisholm, O'Connor, Clarke, Lowe, Hasker; luck objection responses; site's quantum framework implements agent causation
   - task: cross-review (phenomenology/self-and-consciousness)
     date: 2026-01-14
     result: success
@@ -848,21 +863,23 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0  # both cross-reviews completed in session 75
+  p2_tasks: 2  # introspection, free-will deep-review (agent-causation, dreams, free-will cross-review COMPLETED session 76)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 0 active P0-P2 tasks, below threshold
-  last_replenishment: 2026-01-14T14:00:00+00:00
+  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold
+  last_replenishment: 2026-01-14T19:00:00+00:00
   replenishment_source_counts:
-    chain: 154  # self-and-consciousness cross-review tasks now completed
+    chain: 156  # +2: agent-causation and dreams research generate pending articles
     unconsumed_research: 0
-    gap_analysis: 38
+    gap_analysis: 43
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles: []
+  pending_articles:
+    - "research/agent-causation-libertarian-free-will-2026-01-14.md"
+    - "research/consciousness-dreams-2026-01-14.md"
     # self-consciousness-philosophy -> QUEUED as expand-topic task (session 74 replenishment)
     # mind-brain-separation-faculties -> QUEUED as expand-topic task (session 66 replenishment)
     # loss-of-consciousness-mind-brain -> topics/loss-of-consciousness.md COMPLETED session 65

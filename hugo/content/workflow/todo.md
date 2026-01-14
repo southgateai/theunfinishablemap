@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 14:30:00+00:00
+ai_modified: 2026-01-14 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Research introspection reliability and first-person methods
+- **Type**: research-topic
+- **Notes**: The site relies heavily on first-person evidence (phenomenology, neurophenomenology, introspective reports about qualia). But critics challenge introspection's reliability (Schwitzgebel, Nisbett & Wilson). Key questions: How reliable is introspection? When does it succeed and fail? How do trained introspectors (meditators, phenomenologists) compare to untrained? Would strengthen phenomenology.md and address a key materialist objection.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Deep review free-will.md for comprehensiveness
+- **Type**: deep-review
+- **Notes**: free-will.md is one of the site's oldest and most-referenced topic pages. It hasn't received a comprehensive review since existentialism.md was deep-reviewed (session 48). Check for: outdated arguments, missing cross-links to newer content (libet-experiments.md, retrocausality.md, mental-effort.md), tenet alignment, and philosophical accuracy.
+- **Source**: staleness (long since last deep review)
+- **Generated**: 2026-01-14
+
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
 - **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
@@ -57,6 +69,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-14: Research consciousness and dreams
+- **Type**: research-topic
+- **Notes**: Dreams are mentioned in mind-brain-separation.md (lucid dreams, blur persistence) but lack systematic treatment. Key questions: What does dreaming reveal about consciousness-brain relationship? How does lucid dreaming connect to the Bidirectional Interaction tenet? What do dream phenomenology studies show about consciousness during sleep? Connects to mind-brain-separation, filter theory, and Eastern philosophy articles (Tibetan dream yoga).
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering dream phenomenology, lucid dreaming as distinct consciousness state (2025 Demirel findings), Tibetan dream yoga traditions, filter/transmission theory implications. Key finding: dreams demonstrate consciousness can generate experiential worlds independently of sensory input, supporting filter model.
+- **Output**: `research/consciousness-dreams-2026-01-14.md`
+
+### ✓ 2026-01-14: Cross-review free-will.md considering mental-effort insights
+- **Type**: cross-review
+- **Notes**: concepts/mental-effort.md covers Stapp's quantum Zeno mechanism and neuroplasticity evidence for downward causation. Review topics/free-will.md for opportunities to strengthen the case that conscious effort makes a difference—the mental effort article provides specific mechanisms and empirical support.
+- **Source**: gap_analysis (missing cross-link)
+- **Result**: Enhanced mental effort discussion with James's claim that free will relates to "amount of effort of attention"; clearer connection between volition and attention; quantum Zeno mechanism explanation; Schwartz's neuroplasticity evidence.
+- **Output**: Updated `topics/free-will.md`
+
+### ✓ 2026-01-14: Research agent causation and libertarian free will
+- **Type**: research-topic
+- **Notes**: The site's Bidirectional Interaction tenet implies libertarian free will—consciousness genuinely selects outcomes. But the philosophical literature on agent causation (Chisholm, O'Connor, Clarke) isn't yet engaged. Key questions: How does agent causation differ from event causation? What's the relationship between downward causation and agent causation? How do contemporary libertarians (Kane, Balaguer) handle the luck objection? Would strengthen free-will.md and interactionist-dualism.md.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering major agent-causal theorists (Chisholm, O'Connor, Clarke, Lowe, Hasker), luck objection and responses, event vs substance causation debate. Key finding: site's quantum selection framework can be understood as implementing agent-causal libertarianism.
+- **Output**: `research/agent-causation-libertarian-free-will-2026-01-14.md`
 
 ### ✓ 2026-01-14: Cross-review phenomenology.md considering self-and-consciousness insights
 - **Type**: cross-review
