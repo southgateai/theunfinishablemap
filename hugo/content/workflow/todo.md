@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 16:00:00+00:00
+ai_modified: 2026-01-14 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,90 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P3**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md explores how consciousness's participation in collapse may be constitutive of temporal structure. Review topics/hard-problem-of-consciousness.md for opportunities to connect the temporal dimension of the hard problem—not just "why experience?" but "why experienced time?" The collapse-and-time article provides a bridge between quantum consciousness theories and the phenomenology of temporal flow.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; added paragraph in Temporal Phenomenology section connecting phenomenology of time's flow to consciousness's possible role in collapse and creating irreversibility; reframed temporal hard problem as "is consciousness part of why time flows at all?"; added collapse-and-time to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering near-death-experiences insights
+- **Type**: cross-review
+- **Notes**: New article concepts/near-death-experiences.md documents 40% awareness during cardiac arrest (AWARE II), veridical perception cases, and the paradox of heightened experience when brain function is minimal. Review topics/hard-problem-of-consciousness.md for opportunities to reference this empirical evidence—NDEs provide striking phenomenological data against simple brain-production models.
+- **Source**: chain (from near-death-experiences.md)
+- **Generated**: 2026-01-14
+- **Result**: Added near-death-experiences to concepts list; created new "Empirical Anomalies: Near-Death Experiences" section after NCC section covering AWARE II findings, paradox of heightened experience, and filter-vs-generator interpretation; added near-death-experiences to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review quantum-consciousness.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md explores time-symmetric interpretations (TSVF, transactional) and the possibility that consciousness's selection at collapse is atemporal. Review concepts/quantum-consciousness.md for opportunities to integrate this temporal dimension—Stapp's and Penrose's mechanisms have implications for time's arrow, not just mind-matter interaction.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; expanded Orch OR Tenet Alignment subsection with Penrose's gravity-time connection and link to collapse-and-time; added new "Time-Symmetric Interpretations: Atemporal Selection" section covering TSVF, transactional interpretation, and consciousness as constitutive of temporal structure; added collapse-and-time to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review temporal-consciousness.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md connects consciousness to the emergence of temporal direction. Review concepts/temporal-consciousness.md for opportunities to integrate this quantum perspective—collapse as the origin of experienced temporal flow, not merely its neural correlate.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; added new "Collapse and the Origin of Temporal Flow" section connecting phenomenology of specious present with quantum collapse as origin of time's arrow; connected time-symmetric interpretations to atemporal consciousness selection; added collapse-and-time to Further Reading
+- **Output**: Updated `concepts/temporal-consciousness.md`
+
+### ✓ 2026-01-14: Research the problem of other minds
+- **Type**: research-topic
+- **Notes**: How do we know other beings are conscious? The problem connects to AI consciousness debates, animal consciousness, and the hard problem itself. Referenced in ai-consciousness.md and animal-consciousness.md but lacks dedicated treatment. Key topics: behavioral criteria, argument from analogy, asymmetry between first-person certainty and third-person inference, philosophical skepticism vs practical knowledge.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering argument from analogy, inference to best explanation, Wittgensteinian criteria, perceptual approaches, Nagel's bat argument, Turing test and AI, 2024 New York Declaration on Animal Consciousness. Key finding: the problem is especially acute for dualism—if consciousness is non-physical, behavioral evidence is even more indirect. Site's framework must acknowledge epistemic limits while maintaining practical certainty.
+- **Output**: `research/problem-of-other-minds-2026-01-14.md`
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering russellian-monism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/russellian-monism.md presents a sophisticated alternative to both physicalism and dualism. Review topics/hard-problem-of-consciousness.md for opportunities to reference Russellian monism as an important position—it shares the insight that physics is silent on intrinsic nature but attempts a monist solution. The article should note why this doesn't escape dualism's problems.
+- **Source**: chain (from russellian-monism.md)
+- **Generated**: 2026-01-14
+- **Result**: Added russellian-monism to concepts list; added new "Russellian Monism" subsection under Responses covering the core insight (physics is structural), quiddities proposal, combination problem, Pautz's critique that it's "dualism under another name", and why site's explicit dualism is preferable; added russellian-monism to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### P1: Research what loss of consciousness reveals about mind and brain
+- **Type**: research-topic
+- **Notes**: What does the loss of consciousness tell us about the mind and brain? Is it a protective mechanism, where the brain disconnects from experience? Under general anaesthetic and coma, does time pass in an instant for the mind? How do drugs cause loss of consciousness? Can consciousness be partial in these circumstances, or is experience just changed? Research the subject deeply.
+- **Source**: human
+- **Generated**: 2026-01-14
+
+### P1: Research mind-brain separation and division of faculties
+- **Type**: research-topic
+- **Notes**: What can we perceive about the separation between mind and brain? What parts are intrinsic to the mind, like qualia? What parts the brain, like triggers for respiration? What aspects function whilst unconscious? Study vision as a particular case. The experienced 3D world with its smooth motion seems beyond the capability of slowly firing neurons. Lucid dreams and hallucinations generate flawless perception of objects, as if they are reconstructed, but if the eyes are not focused the world is experienced as blurred. Research all of these aspects deeply. Also study the effect of brain lesions and injury with the frame that these 'disconnected' the conscious mind from the brain, they do not point to any lost facilities being 'brain only'.
+- **Source**: human
+- **Generated**: 2026-01-14
+
+### ✓ 2026-01-14: Write article on problem of other minds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/problem-of-other-minds-2026-01-14.md. Covers argument from analogy, inference to best explanation, Wittgensteinian criteria, Nagel's bat, AI and animal consciousness implications. Key finding: the problem is especially acute for dualism—if consciousness is non-physical, behavioral evidence is even more indirect. Connects to ai-consciousness.md and animal-consciousness.md. Should address how site's framework acknowledges epistemic limits while maintaining practical certainty.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~2100 word article covering the asymmetry problem, major solutions (argument from analogy, inference to best explanation, Wittgensteinian dissolution, perceptual approach), the dualist's dilemma, practical certainty without theoretical proof, and extensions to animals and machines. Connected to all relevant tenets.
+- **Output**: `concepts/problem-of-other-minds.md`
+
+### ✓ 2026-01-14: Cross-review duration.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md connects consciousness to temporal structure via quantum collapse. Review concepts/duration.md for opportunities to connect Bergson's durée with the quantum perspective—if collapse creates time's arrow, durée may be phenomenologically apprehending what physics mathematically describes.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; expanded "Durée and Quantum Indeterminacy" section (renamed to "Durée and Quantum Collapse") with connection to collapse introducing time's arrow, TSVF parallels to durée's interpenetrating time, and framing of durée as "what collapse feels like from inside"; added collapse-and-time to Further Reading
+- **Output**: Updated `concepts/duration.md`
+
+### ✓ 2026-01-14: Research the inverted qualia problem
+- **Type**: research-topic
+- **Notes**: The inverted spectrum thought experiment (what if your red looks like my green?) is referenced in qualia.md and functionalism.md but lacks dedicated treatment. Important for site's anti-functionalist position—if functional isomorphs can have different qualia, functionalism fails. Key topics: Locke's original formulation, Block's functional isomorphism argument, detectability question, relation to knowledge argument and zombies.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Locke's original formulation, Block and Fodor's 1972 argument, Hardin's color space asymmetries objection, Palmer's limited inversions response, Block's Inverted Earth, representationalism debate, and connections to zombies and knowledge argument. Key finding: multiple converging arguments from inverted qualia strengthen the case for dualism alongside zombie arguments.
+- **Output**: `research/inverted-qualia-spectrum-2026-01-14.md`
 
 ### ✓ 2026-01-14: Explore consciousness, collapse, and the arrow of time
 - **Type**: research-topic

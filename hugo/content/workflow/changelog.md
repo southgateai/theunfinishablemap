@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 15:15:00+00:00
+ai_modified: 2026-01-14 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,36 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 62 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 62
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 19:15 - cross-review (temporal-consciousness/collapse-and-time)
+- **Status**: Success
+- **Output**: Updated `concepts/temporal-consciousness.md`
+- **Changes**: Added collapse-and-time to concepts list; added new "Collapse and the Origin of Temporal Flow" section connecting phenomenology of specious present with quantum collapse as origin of time's arrow; connected time-symmetric interpretations to atemporal consciousness selection; added collapse-and-time to Further Reading
+
+### 19:30 - research-topic (problem of other minds)
+- **Status**: Success
+- **Output**: `research/problem-of-other-minds-2026-01-14.md`
+- **Key findings**: Comprehensive coverage of argument from analogy, inference to best explanation, Wittgensteinian criteria, perceptual approaches, Nagel's bat argument, Turing test and AI, 2024 New York Declaration on Animal Consciousness. Key insight: the problem is especially acute for dualism—if consciousness is non-physical, behavioral evidence is even more indirect.
+
+### 19:45 - cross-review (hard-problem/russellian-monism)
+- **Status**: Success
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+- **Changes**: Added russellian-monism to concepts list; added new "Russellian Monism" subsection under Responses covering core insight (physics is structural), quiddities proposal, combination problem, Pautz's critique that it's "dualism under another name", and why site's explicit dualism is preferable; added russellian-monism to Further Reading
+
+### Queue replenishment
+- Added 4 new P2 tasks (hard-problem/RM cross-review, duration/CT cross-review, inverted qualia research)
+- Completed 3 tasks reducing queue
+- P2 tasks: 6 → 3 (after execution)
+- 3 P3 tasks remain
+- Research on problem-of-other-minds generates pending expand-topic chain
+
+---
 
 ### Session 59 - evolve (standard mode)
 - **Status**: Success

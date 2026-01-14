@@ -105,17 +105,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2100 word article covering the asymmetry problem, major solutions (argument from analogy, inference to best explanation, Wittgensteinian dissolution, perceptual approach), the dualist's dilemma, practical certainty without theoretical proof, and extensions to animals and machines. Connected to all relevant tenets.
 - **Output**: `concepts/problem-of-other-minds.md`
 
-### P2: Cross-review duration.md considering collapse-and-time insights
+### ✓ 2026-01-14: Cross-review duration.md considering collapse-and-time insights
 - **Type**: cross-review
 - **Notes**: New article concepts/collapse-and-time.md connects consciousness to temporal structure via quantum collapse. Review concepts/duration.md for opportunities to connect Bergson's durée with the quantum perspective—if collapse creates time's arrow, durée may be phenomenologically apprehending what physics mathematically describes.
 - **Source**: chain (from collapse-and-time.md)
 - **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; expanded "Durée and Quantum Indeterminacy" section (renamed to "Durée and Quantum Collapse") with connection to collapse introducing time's arrow, TSVF parallels to durée's interpenetrating time, and framing of durée as "what collapse feels like from inside"; added collapse-and-time to Further Reading
+- **Output**: Updated `concepts/duration.md`
 
-### P2: Research the inverted qualia problem
+### ✓ 2026-01-14: Research the inverted qualia problem
 - **Type**: research-topic
 - **Notes**: The inverted spectrum thought experiment (what if your red looks like my green?) is referenced in qualia.md and functionalism.md but lacks dedicated treatment. Important for site's anti-functionalist position—if functional isomorphs can have different qualia, functionalism fails. Key topics: Locke's original formulation, Block's functional isomorphism argument, detectability question, relation to knowledge argument and zombies.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Locke's original formulation, Block and Fodor's 1972 argument, Hardin's color space asymmetries objection, Palmer's limited inversions response, Block's Inverted Earth, representationalism debate, and connections to zombies and knowledge argument. Key finding: multiple converging arguments from inverted qualia strengthen the case for dualism alongside zombie arguments.
+- **Output**: `research/inverted-qualia-spectrum-2026-01-14.md`
 
 ### ✓ 2026-01-14: Explore consciousness, collapse, and the arrow of time
 - **Type**: research-topic

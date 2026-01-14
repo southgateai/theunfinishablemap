@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 01:30:00+00:00
+ai_modified: 2026-01-15 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[qualia]]'
 - '[[materialism]]'
+- '[[collapse-and-time]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -79,15 +80,19 @@ This has implications for [AI consciousness](/topics/ai-consciousness/). If time
 
 Bergson anticipated this in his emphasis on *élan vital*—the vital impulse that drives evolutionary creativity. Duration for Bergson is not a property of abstract mind but of living, evolving organisms. The interpenetration of past and present that constitutes durée requires the kind of organic memory that embeds history in bodily structure. A living body carries its past in its tissues; a computer carries data in storage.
 
-## Durée and Quantum Indeterminacy
+## Durée and Quantum Collapse
 
 A speculative but intriguing connection: Bergson's qualitative multiplicity resembles quantum superposition. Before measurement, a quantum system exists in superposition—not a definite state but all possible states interpenetrating. Upon measurement, this multiplicity collapses to a single outcome.
 
 Duration as Bergson describes it is similarly a multiplicity that doesn't reduce to definite, separable states. The whole past is present, the future already anticipated, in an interpenetrating whole. Perhaps the "collapse" that creates each present moment is analogous to quantum collapse—or perhaps identical with it.
 
-This connects to the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If durée is the lived reality of quantum possibility, then consciousness experiencing time might be consciousness selecting among superposed states. The creative novelty Bergson attributes to duration could be the phenomenal character of quantum collapse as experienced from within.
+The [collapse-and-time](/concepts/collapse-and-time/) connection deepens this speculation. If consciousness participates in quantum collapse (as the site's framework proposes), and if collapse introduces the arrow of time, then durée may be phenomenologically apprehending what physics mathematically describes. What Bergson called the irreversibility of lived time—the way you cannot un-hear a melody—may reflect the deeper irreversibility of collapse itself. Each conscious moment doesn't just happen *in* time; it helps constitute time's direction by selecting among quantum possibilities.
 
-This remains speculative. But it suggests that the "mystery" of time experience and the "mystery" of quantum measurement might be related—perhaps even the same mystery from different perspectives.
+Time-symmetric interpretations offer an even more striking parallel. In frameworks like the Two-State Vector Formalism, collapse isn't located at a moment but is the satisfaction of constraints across time—past and future boundary conditions aligning. This resonates with Bergson's description of durée as interpenetrating past, present, and future. If consciousness's selection operates atemporally (determining which "transactions" complete rather than pushing events at instants), then the flowing character of durée may be the phenomenal expression of this atemporal selection viewed from within the temporal structure it creates.
+
+This connects to the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If durée is the lived reality of quantum possibility, then consciousness experiencing time might be consciousness selecting among superposed states. The creative novelty Bergson attributes to duration could be the phenomenal character of quantum collapse as experienced from within. Where physics sees measurement outcomes, consciousness experiences the flowing present.
+
+The speculation remains unproven. But it suggests that the "mystery" of time experience and the "mystery" of quantum measurement might be related—perhaps even the same mystery from different perspectives. Durée would name what collapse *feels like* from the inside.
 
 ## Relation to Site Perspective
 
@@ -103,6 +108,7 @@ Bergson's durée aligns with multiple site tenets:
 
 ## Further Reading
 
+- [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neuroscience of time
 - [free-will](/topics/free-will/) — How temporal structure relates to agency
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that durée parallels

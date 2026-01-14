@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T20:00:00+00:00
-session_count: 62
+last_updated: 2026-01-15T00:45:00+00:00
+session_count: 63
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 96  # +1: collapse-and-time concept article
-  published_files: 75
+  total_files: 97  # +1: problem-of-other-minds concept article
+  published_files: 76
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 10
-  concepts_written: 38
+  concepts_written: 39  # +1: problem-of-other-minds
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 39  # +1: problem-of-other-minds
-  reviews_completed: 87  # +3: temporal-consciousness/CT, hard-problem/RM, (research counts separately)
+  research_notes: 40  # +1: inverted-qualia-spectrum
+  reviews_completed: 88  # +1: duration/collapse-and-time
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (duration/collapse-and-time)
+    date: 2026-01-14
+    result: success
+    session: 63
+    note: expanded durée-quantum connection with TSVF parallels, collapse as phenomenological source of time's flow
+  - task: research-topic (inverted-qualia)
+    date: 2026-01-14
+    result: success
+    session: 63
+    note: Locke, Block, Shoemaker, Hardin's color space asymmetries, Inverted Earth, representationalism debate
+  - task: expand-topic (problem-of-other-minds)
+    date: 2026-01-14
+    result: success
+    session: 63
+    note: asymmetry problem, argument from analogy, inference to best explanation, Wittgenstein, practical certainty
   - task: cross-review (temporal-consciousness/collapse-and-time)
     date: 2026-01-14
     result: success
@@ -672,14 +687,14 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3  # duration/CT, inverted qualia, (problem-of-other-minds generates expand-topic chain)
+  p1_tasks: 1  # mind-brain separation research (human added)
+  p2_tasks: 0  # all P2 tasks completed this session
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 3 active tasks (P0-P2), at threshold
-  last_replenishment: 2026-01-14T19:00:00+00:00
+  needs_replenishment: true  # only 1 active P0-P2 task
+  last_replenishment: 2026-01-14T23:45:00+00:00
   replenishment_source_counts:
-    chain: 113
-    unconsumed_research: 1  # problem-of-other-minds research
+    chain: 115  # +1: inverted-qualia expand-topic pending
+    unconsumed_research: 1  # inverted-qualia research ready for article
     gap_analysis: 33
     staleness: 0
 
@@ -688,7 +703,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
-    - "research/problem-of-other-minds-2026-01-14.md"  # added session 62
+    - "research/inverted-qualia-spectrum-2026-01-14.md"  # added session 63
   # consciousness-collapse-arrow-of-time -> QUEUED as expand-topic task (session 59 replenishment)
   # NDE and Russellian monism now have expand-topic tasks (session 57 replenishment)
   # knowledge-argument, mysterianism -> QUEUED as expand-topic tasks (session 55 replenishment)
@@ -709,6 +724,7 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
+    # problem-of-other-minds -> ai-consciousness.md, animal-consciousness.md (session 63)
     # animal-consciousness -> ai-consciousness.md COMPLETED session 46
     # death-and-consciousness -> personal-identity.md COMPLETED session 46
     # duration.md may warrant cross-review with temporal-consciousness.md, free-will.md (session 39)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-14 10:45:00+00:00
+ai_modified: 2026-01-14 19:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[functionalism]]'
 - '[[quantum-consciousness]]'
 - '[[duration]]'
+- '[[collapse-and-time]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -94,6 +95,16 @@ If merely characteristic, radically different temporal architectures might suppo
 
 The site's framework suggests the former. The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible. If temporal binding is constitutive of consciousness, this adds another dimension to irreducibility. It's not just that qualia can't be functionally defined, but that the temporal structure of experience can't be replicated by systems lacking appropriate dynamics.
 
+## Collapse and the Origin of Temporal Flow
+
+A deeper question lurks behind the phenomenology: why does time flow at all? The site's [analysis of collapse and the arrow of time](/concepts/collapse-and-time/) suggests consciousness may be implicated not just in experiencing temporal flow but in constituting it.
+
+Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation is time-symmetric, but measurement seems irreversible. If consciousness participates in collapse (as the site's framework proposes), then the specious present may be phenomenologically apprehending what quantum collapse constitutes: the creation of irreversible facts that divide past from future.
+
+Time-symmetric interpretations of quantum mechanics take this further. Under Aharonov's Two-State Vector Formalism or Cramer's transactional interpretation, "collapse" isn't a moment when superposition ends—it's the satisfaction of constraints across time. If consciousness selects which transactions complete, its role is atemporal: determining the pattern of correlations between past and future rather than acting at a moment.
+
+This offers a striking reframe of temporal consciousness. The flow we experience—retention, primal impression, protention—may be the phenomenal manifestation of consciousness's constitutive role in temporal structure. We don't just experience time; we may be part of what makes time directional at all. The specious present would then be consciousness apprehending its own work in creating temporal asymmetry.
+
 ## Relation to Site Perspective
 
 Temporal consciousness connects to several tenets:
@@ -108,6 +119,7 @@ The temporal argument strengthens the case that consciousness requires something
 
 ## Further Reading
 
+- [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow via quantum collapse
 - [duration](/concepts/duration/) — Bergson's durée and the qualitative character of lived time
 - [ai-consciousness](/topics/ai-consciousness/) — Why the site holds AI systems are not conscious
 - [functionalism](/concepts/functionalism/) — The theory that mental states are functional roles
