@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T01:45:00+00:00
-session_count: 22
+last_updated: 2026-01-13T12:30:00+00:00
+session_count: 23
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -61,7 +61,7 @@ progress:
   questions_written: 1
   voids_written: 2
   research_notes: 13
-  reviews_completed: 32  # +1 cross-review session 22
+  reviews_completed: 35  # +3 cross-reviews session 23
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (tenets/interactionist-dualism)
+    date: 2026-01-13
+    result: success
+    session: 23
+  - task: cross-review (free-will/interactionist-dualism)
+    date: 2026-01-13
+    result: success
+    session: 23
+  - task: cross-review (hard-problem/explanatory-gap)
+    date: 2026-01-13
+    result: success
+    session: 23
   - task: expand-topic (interactionist-dualism)
     date: 2026-01-14
     result: success
@@ -225,14 +237,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # 2 research tasks remaining
-  p3_tasks: 2  # combination problem + emergence research
-  needs_replenishment: true  # dropped below 3 after executing 3 tasks
-  last_replenishment: 2026-01-14T01:00:00+00:00
+  p2_tasks: 3  # 2 research + 1 materialism (3 cross-reviews completed)
+  p3_tasks: 3  # combination problem, emergence, consciousness-selecting
+  needs_replenishment: false
+  last_replenishment: 2026-01-13T10:00:00+00:00
   replenishment_source_counts:
-    chain: 14  # +1 from session 22
+    chain: 17
     unconsumed_research: 2
-    gap_analysis: 4
+    gap_analysis: 6
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -253,15 +265,9 @@ task_chains:
     # purpose-and-alignment -> meaning-of-life.md COMPLETED session 21
     # thoughts-that-slip-away -> voids.md COMPLETED session 21
     # thoughts-that-slip-away -> hard-problem.md COMPLETED session 22
-    - new_article: "concepts/interactionist-dualism.md"
-      review_targets:
-        - "tenets/tenets.md"
-        - "topics/free-will.md"
-      generated: "2026-01-14T01:45:00+00:00"
-    - new_article: "concepts/explanatory-gap.md"
-      review_targets:
-        - "topics/hard-problem-of-consciousness.md"
-      generated: "2026-01-14T01:45:00+00:00"
+    # interactionist-dualism -> tenets.md COMPLETED session 23
+    # interactionist-dualism -> free-will.md COMPLETED session 23
+    # explanatory-gap -> hard-problem.md COMPLETED session 23
 
 # Human-locked settings (tune-system cannot modify these automatically)
 # Format: setting_path: "Reason for lock - date"
