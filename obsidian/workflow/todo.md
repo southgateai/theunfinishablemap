@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T00:30:00+00:00
+ai_modified: 2026-01-14T23:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research neurophenomenology and meditation studies
-- **Type**: research-topic
-- **Notes**: Varela's neurophenomenology bridges first-person phenomenological reports with third-person neuroscience. Meditation studies (mindfulness, contemplative traditions) provide systematic first-person data on consciousness. Key questions: Can meditation reveal aspects of consciousness inaccessible to ordinary introspection? What do long-term meditators report about the structure of awareness? How does contemplative expertise relate to site's framework? Connects to Eastern philosophy and mysterianism articles.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
-
 ### P2: Research embodied cognition and the extended mind
 - **Type**: research-topic
 - **Notes**: The embodied cognition program (Clark, Thompson, Noë) argues that cognition is shaped by the body and extended into the environment. Key questions for site: Does embodiment challenge or complement dualism? Can the filter theory accommodate embodied cognition? How does embodiment relate to the mind-brain separation framework? Connects to mind-brain-separation, phenomenology, and AI consciousness discussions.
@@ -74,6 +68,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-14: Research neurophenomenology and meditation studies
+- **Type**: research-topic
+- **Notes**: Varela's neurophenomenology bridges first-person phenomenological reports with third-person neuroscience. Meditation studies (mindfulness, contemplative traditions) provide systematic first-person data on consciousness. Key questions: Can meditation reveal aspects of consciousness inaccessible to ordinary introspection? What do long-term meditators report about the structure of awareness? How does contemplative expertise relate to site's framework? Connects to Eastern philosophy and mysterianism articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Varela's neurophenomenology methodology, 2025 advances (deep computational neurophenomenology, generative neurophenomenology), microphenomenology (Petitmengin), jhana neuroscience (7-Tesla fMRI studies), cessation of consciousness research, default mode network findings, and Buddhist phenomenology of mind. Key finding: contemplative training reveals consciousness structures inaccessible to ordinary introspection—jhana states, non-dual awareness, cessation experiences provide data that strongly supports Dualism and Occam's Razor Has Limits tenets.
+- **Output**: `research/neurophenomenology-meditation-studies-2026-01-14.md`
 
 ### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering collapse-and-time insights
 - **Type**: cross-review
