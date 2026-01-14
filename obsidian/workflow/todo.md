@@ -91,10 +91,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-14
 
-### P2: Research the measurement problem in quantum mechanics
+### ✓ 2026-01-14: Research the measurement problem in quantum mechanics
 - **Type**: research-topic
 - **Notes**: The measurement problem is central to understanding how consciousness might interface with quantum mechanics. Current quantum-consciousness and decoherence articles reference it but there's no dedicated treatment. Research should cover: collapse interpretations, no-collapse alternatives, the role of observation, and why this remains unsolved. Directly relevant to Minimal Quantum Interaction tenet.
 - **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Copenhagen, Many-Worlds, Bohmian mechanics, GRW/CSL collapse theories, Penrose OR, and consciousness-based interpretations. Key finding: decoherence does NOT solve the problem—"the problem of outcomes is still open." This directly supports Minimal Quantum Interaction tenet by showing physics leaves room for consciousness at collapse. No Many Worlds tenet supported by MWI's indexical identity problems.
+- **Output**: `research/measurement-problem-quantum-mechanics-2026-01-14.md`
+
+### P2: Research Global Workspace Theory (GWT)
+- **Type**: research-topic
+- **Notes**: Major theory of consciousness (Baars, Dehaene) not yet systematically covered. GWT proposes consciousness arises when information is broadcast globally across the brain. Important for site because: (1) it's a leading competitor to IIT, (2) it raises questions about whether global broadcast is sufficient for consciousness or merely correlated with it, (3) directly relevant to attention's role in consciousness per attention.md. Should compare with site's interactionist framework.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research higher-order theories of consciousness
+- **Type**: research-topic
+- **Notes**: Higher-order theories (Rosenthal, Brown) hold that a mental state is conscious when there's a higher-order representation of it. Major theoretical approach not yet covered. Important because: (1) challenges site's emphasis on first-order phenomenal properties, (2) connects to metacognition and the self-reference paradox, (3) has implications for AI consciousness (could an AI have genuine higher-order states?). Gap in current theoretical coverage.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Review self-reference-paradox.md considering intentionality insights
+- **Type**: cross-review
+- **Notes**: New article concepts/intentionality.md covers the aboutness of mental states. Review voids/self-reference-paradox.md for opportunities to connect intentionality's reflexive problem (can a thought be about itself?) with the broader self-reference paradox. The calibration problem in self-reference relates to intentionality's circularity when mind tries to grasp itself.
+- **Source**: chain (from intentionality.md)
 - **Generated**: 2026-01-14
 
 ### ✓ 2026-01-14: Research intentionality and consciousness
