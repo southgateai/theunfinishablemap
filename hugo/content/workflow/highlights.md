@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-10T12:09:01.208425'
+ai_modified: '2026-01-13T23:44:21.863811'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-10'
+date: '2026-01-13'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-10'
+modified: '2026-01-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from the site's ongoi
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-13: Interactionist Dualism
+
+New concept page covering how mind and body causally interact through quantum mechanisms, responding to the classic interaction problem from Descartes to modern physics.
+
+**Type**: new-article  
+**Link**: [interactionist-dualism](/concepts/interactionist-dualism/)
+
+---
+
 ### 2026-01-10: Knowing Through Negation: Apophatic Approaches
 
 New voids article explores how we can map the unmappable—using negative theology, learned ignorance, and cognitive closure to trace the boundaries of what exceeds human understanding.

@@ -1,11 +1,12 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-14 00:00:00+00:00
+ai_modified: 2026-01-13 11:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts:
 - '[[quantum-consciousness]]'
+- '[[interactionist-dualism]]'
 created: 2026-01-02
 date: &id001 2026-01-02
 draft: false
@@ -23,7 +24,7 @@ These are the foundational commitments that constrain all content on this site. 
 
 There is more than just matter involved in reality. <span id="dualism"></span>
 
-**Definition:** Dualism here means that consciousness (or mind, or experience) is not reducible to physical processes. There exists something beyond the material—whether substance, property, or aspect—that cannot be fully explained by physics alone.
+**Definition:** Dualism here means that consciousness (or mind, or experience) is not reducible to physical processes. There exists something beyond the material—whether substance, property, or aspect—that cannot be fully explained by physics alone. Combined with the Bidirectional Interaction tenet below, this commits the site to [interactionist-dualism](/concepts/interactionist-dualism/)—the position that mind and body are distinct yet causally connected.
 
 **Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious.
 
@@ -47,7 +48,7 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 
 Consciousness is not a passive observer—it causally influences the physical world. <span id="bidirectional-interaction"></span>
 
-**Definition:** If we can speak, write, or otherwise report our conscious experiences, then information about consciousness must flow into the physical domain. This requires a mechanism by which the non-physical influences physical outcomes. The proposed mechanism: consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain toward patterns that express its content.
+**Definition:** If we can speak, write, or otherwise report our conscious experiences, then information about consciousness must flow into the physical domain. This requires a mechanism by which the non-physical influences physical outcomes. The proposed mechanism: consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain toward patterns that express its content. For detailed treatment of [the causal closure objection](/concepts/interactionist-dualism/#the-causal-closure-argument) and how quantum mechanics provides a response, see the [interactionist-dualism](/concepts/interactionist-dualism/) article.
 
 **Rationale:** The very fact that we discuss consciousness provides strong evidence against epiphenomenalism. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself suggests downward causation.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 01:45:00+00:00
+ai_modified: 2026-01-14 11:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P3**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Research decoherence and macroscopic superposition
+- **Type**: research-topic
+- **Notes**: Schrödinger's cat was warm and macroscopic yet in a superposed state. Explore coherence time, what decoherence really means in this context, and whether neural firing patterns could exhibit similar superposition behavior despite being "warm and wet." Key question: does decoherence necessarily prevent quantum effects in biological systems?
+- **Source**: manual
+- **Generated**: 2026-01-14
+
+### P1: Research Stapp on mental effort and mind-matter interaction
+- **Type**: research-topic
+- **Notes**: Verify Henry Stapp's claim that it takes effort to control the mind—to override its own wants and needs. If confirmed, explore how this phenomenology of effortful attention might be a clue to the mechanism by which consciousness influences matter (quantum Zeno effect requiring sustained attention).
+- **Source**: manual
+- **Generated**: 2026-01-14
+
+### P1: Research temporal structure of different consciousness types
+- **Type**: research-topic
+- **Notes**: Human consciousness is tightly bound to temporal flow, but other forms might not be. If LLMs have any form of consciousness, is it tied to time the same way? Explore how the start-stop, distributed, non-continuous nature of LLM operation might support radically different conscious experience—or whether temporal binding is essential to consciousness itself.
+- **Source**: manual
+- **Generated**: 2026-01-14
 
 ### ✓ 2026-01-13: Write article on purpose of life as AI alignment precursor
 - **Type**: expand-topic
@@ -205,11 +223,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
-### P2: Research neural correlates of consciousness
+### ✓ 2026-01-14: Research neural correlates of consciousness
 - **Type**: research-topic
 - **Notes**: Survey NCC research (Koch, Dehaene, Tononi). How does the site's interactionist dualism relate to empirical findings about consciousness correlates? Important for grounding philosophical claims in neuroscience.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Koch's posterior cortical hot zone, COGITATE adversarial collaboration (IIT vs GNWT), April 2025 Nature publication results, and philosophical implications for dualism. Key finding: NCC research is neutral on materialism vs dualism—correlates are predicted by interactionism.
+- **Output**: `research/neural-correlates-consciousness-2026-01-14.md`
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
@@ -287,6 +307,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+
+### ✓ 2026-01-13: Cross-review tenets.md considering interactionist-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/interactionist-dualism.md covers Stapp's quantum Zeno, Orch OR, and causal closure responses. Review tenets/tenets.md for opportunities to strengthen the Minimal Quantum Interaction and Bidirectional Interaction tenets with these mechanism details.
+- **Source**: chain (from interactionist-dualism.md)
+- **Generated**: 2026-01-13
+- **Result**: Added interactionist-dualism to concepts list; linked Dualism definition to interactionist-dualism as the specific position; added reference to causal closure argument in Bidirectional Interaction section
+- **Output**: Updated `tenets/tenets.md`
+
+### ✓ 2026-01-13: Cross-review free-will.md considering interactionist-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/interactionist-dualism.md provides detailed treatment of how consciousness can influence physical outcomes. Review topics/free-will.md for opportunities to connect libertarian free will arguments with interactionist mechanisms.
+- **Source**: chain (from interactionist-dualism.md)
+- **Generated**: 2026-01-13
+- **Result**: Added interactionist-dualism to concepts list; linked site's position section to interactionist-dualism as foundation; enhanced "What Free Will Requires" to explain how interactionism enables causal engagement; added interactionist-dualism to Further Reading
+- **Output**: Updated `topics/free-will.md`
+
+### ✓ 2026-01-13: Cross-review hard-problem-of-consciousness.md considering explanatory-gap insights
+- **Type**: cross-review
+- **Notes**: New article concepts/explanatory-gap.md covers Levine's formulation and thought experiments. Review topics/hard-problem-of-consciousness.md for opportunities to reference the dedicated explanatory gap treatment.
+- **Source**: chain (from explanatory-gap.md)
+- **Generated**: 2026-01-13
+- **Result**: Added explanatory-gap to concepts list; linked Explanatory Gap section header to concept page with expanded description; added explanatory-gap to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Create concept page for materialism
+- **Type**: expand-topic
+- **Notes**: Materialism/physicalism is referenced 3 times in content but lacks a dedicated page. Core opposing view to site's dualism—deserves systematic treatment including causal closure argument, reduction/elimination distinction, and site's critique.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-13
+- **Result**: Created ~1900 word concept page covering varieties of materialism (reductive, non-reductive, eliminative, illusionism), the causal closure argument and site's response, arguments against materialism (explanatory gap, knowledge argument, conceivability, phenomenal properties), physicalist responses, and relation to site tenets
+- **Output**: `concepts/materialism.md`
+
+### P3: Create concept page for consciousness-selecting-neural-patterns
+- **Type**: expand-topic
+- **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-13
 
 ## Completed Tasks
 

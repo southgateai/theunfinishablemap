@@ -1,30 +1,31 @@
 ---
-title: "Materialism"
-created: 2026-01-14
-modified: 2026-01-14
-human_modified: null
-ai_modified: 2026-01-14T10:00:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[qualia]]"
-  - "[[explanatory-gap]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[epiphenomenalism]]"
-  - "[[functionalism]]"
 ai_contribution: 100
-author: null
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
+ai_modified: 2026-01-14 10:00:00+00:00
+ai_system: claude-opus-4-5-20251101
+author: null
+concepts:
+- '[[qualia]]'
+- '[[explanatory-gap]]'
+created: 2026-01-14
+date: &id001 2026-01-14
+draft: false
+human_modified: null
 last_curated: null
 last_deep_review: null
+modified: *id001
+related_articles:
+- '[[tenets]]'
+- '[[epiphenomenalism]]'
+- '[[functionalism]]'
+title: Materialism
+topics:
+- '[[hard-problem-of-consciousness]]'
 ---
 
 Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic philosophy of mind for decades, promising ontological simplicity and alignment with natural science.
 
-This site's [[tenets]] reject materialism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Understanding materialism's appeal—and its failure when applied to consciousness—clarifies what the site affirms and why.
+This site's [tenets](/tenets/) reject materialism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes. Understanding materialism's appeal—and its failure when applied to consciousness—clarifies what the site affirms and why.
 
 ## Varieties of Materialism
 
@@ -36,7 +37,7 @@ The most straightforward version: mental states *are* brain states. Pain *is* C-
 
 The appeal is explanatory closure. Once we identify the relevant brain states, there's nothing left to explain. The mind-body problem dissolves.
 
-The problem: unlike water=H2O, consciousness=brain states doesn't satisfy. We understand *why* water has its properties given H2O's properties. We don't understand why C-fiber activation feels like anything. The [[explanatory-gap|explanatory gap]] persists. Reduction is asserted, not explained.
+The problem: unlike water=H2O, consciousness=brain states doesn't satisfy. We understand *why* water has its properties given H2O's properties. We don't understand why C-fiber activation feels like anything. The [explanatory gap](/concepts/explanatory-gap/) persists. Reduction is asserted, not explained.
 
 ### Non-Reductive Materialism
 
@@ -52,11 +53,11 @@ The radical option: consciousness as we conceive it doesn't exist. Our folk-psyc
 
 The appeal: no hard problem if there's no consciousness to explain. The problem vanishes because its subject matter vanishes.
 
-The problem: eliminativism seems to deny the obvious. Something it's like to read these words. Eliminativists are not zombies making noises about a non-existent phenomenon; they're conscious beings denying their own experience. The position is self-undermining in a way similar to [[epiphenomenalism]].
+The problem: eliminativism seems to deny the obvious. Something it's like to read these words. Eliminativists are not zombies making noises about a non-existent phenomenon; they're conscious beings denying their own experience. The position is self-undermining in a way similar to [epiphenomenalism](/concepts/epiphenomenalism/).
 
 ### Illusionism
 
-A softer eliminativism: consciousness exists, but not as we conceive it. We have a systematic illusion of rich [[qualia|qualitative experience]], but introspection misleads us. What exists is just information processing that represents itself as having qualitative properties.
+A softer eliminativism: consciousness exists, but not as we conceive it. We have a systematic illusion of rich [qualitative experience](/concepts/qualia/), but introspection misleads us. What exists is just information processing that represents itself as having qualitative properties.
 
 This explains the *appearance* of the hard problem without admitting the reality of what the hard problem is about.
 
@@ -73,7 +74,7 @@ Materialism's strongest support comes from the apparent causal closure of physic
 
 This argument underwrites the materialist consensus. If physics is complete—if you don't need to invoke non-physical causes to explain physical effects—then consciousness must be physical or causally irrelevant.
 
-The site's response targets premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *not* complete at quantum indeterminacies. Consciousness can influence outcomes that physics leaves undetermined without violating physical law. Causal closure is true for determined events but false for indeterminate ones.
+The site's response targets premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that physics is *not* complete at quantum indeterminacies. Consciousness can influence outcomes that physics leaves undetermined without violating physical law. Causal closure is true for determined events but false for indeterminate ones.
 
 ## Why Materialism Fails
 
@@ -81,7 +82,7 @@ Several lines of argument suggest materialism cannot accommodate consciousness:
 
 ### The Explanatory Gap
 
-Physical descriptions of brain states never explain *why* those states feel like anything. We can correlate C-fiber firing with pain reports, but the connection remains opaque. No amount of neural detail closes the gap. This suggests the physical story, however complete, leaves something out. See [[explanatory-gap]] for detailed discussion.
+Physical descriptions of brain states never explain *why* those states feel like anything. We can correlate C-fiber firing with pain reports, but the connection remains opaque. No amount of neural detail closes the gap. This suggests the physical story, however complete, leaves something out. See [explanatory-gap](/concepts/explanatory-gap/) for detailed discussion.
 
 ### The Knowledge Argument
 
@@ -95,7 +96,7 @@ Materialists dispute these conceivability claims. But the intuitions are stubbor
 
 ### The Problem of Phenomenal Properties
 
-[[qualia|Qualia]]—the redness of red, the painfulness of pain—have properties that physical descriptions cannot capture. They are:
+[Qualia](/concepts/qualia/)—the redness of red, the painfulness of pain—have properties that physical descriptions cannot capture. They are:
 
 - **Intrinsic**: redness is a quality in itself, not just a functional role
 - **Private**: only I have direct access to my qualia
@@ -117,7 +118,7 @@ Problem: past scientific progress explained phenomena by showing *how* they foll
 
 Dualism doesn't explain consciousness either—it just posits a soul or mental substance and leaves the hard problem equally unsolved. If materialism is stuck with mystery, so is everyone else.
 
-Problem: the site doesn't claim to *explain* consciousness. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is fundamental, not derived from anything else. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim.
+Problem: the site doesn't claim to *explain* consciousness. The [Dualism](/tenets/#dualism) tenet holds that consciousness is fundamental, not derived from anything else. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim.
 
 ### "Phenomenal Concepts"
 
@@ -127,11 +128,11 @@ Problem: why would we have concepts that so systematically misrepresent a physic
 
 ## Relation to This Site's Perspective
 
-Materialism is the site's primary opponent. Understanding its failure motivates the [[tenets|tenet framework]]:
+Materialism is the site's primary opponent. Understanding its failure motivates the [tenet framework](/tenets/):
 
-**Dualism** is accepted because materialism fails. Physical descriptions leave the [[explanatory-gap|explanatory gap]]; physical facts don't entail experiential facts; [[qualia]] resist physical characterization. Consciousness must be something beyond the physical.
+**Dualism** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical.
 
-**Bidirectional Interaction** is needed because rejecting materialism could lead to [[epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The site rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
+**Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/concepts/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The site rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 
@@ -141,11 +142,11 @@ Materialism remains the consensus position in academic philosophy. The site hold
 
 ## Further Reading
 
-- [[explanatory-gap]] — What physical explanations leave out
-- [[hard-problem-of-consciousness]] — The problem materialism cannot solve
-- [[epiphenomenalism]] — What happens if you accept the gap but deny mental causation
-- [[functionalism]] — A materialist theory the site rejects
-- [[tenets]] — The site's alternative framework
+- [explanatory-gap](/concepts/explanatory-gap/) — What physical explanations leave out
+- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem materialism cannot solve
+- [epiphenomenalism](/concepts/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
+- [functionalism](/concepts/functionalism/) — A materialist theory the site rejects
+- [tenets](/tenets/) — The site's alternative framework
 
 ## References
 

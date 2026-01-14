@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-13 14:00:00+00:00
+ai_modified: 2026-01-13 11:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[retrocausality]]'
 - '[[qualia]]'
+- '[[interactionist-dualism]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -77,7 +78,7 @@ The question is empirical, not philosophical. [Quantum Consciousness Mechanisms]
 
 ## The Site's Position: Consciousness Selects Quantum Outcomes
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Combined with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
+The site's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) provides the philosophical foundation for genuine free will. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Combined with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
 
 1. The brain prepares multiple possible action patterns (superposed neural states)
 2. Consciousness selects which pattern becomes actual
@@ -110,7 +111,7 @@ The very fact that we're having this debate—that we form beliefs about conscio
 
 On the site's framework, free will requires:
 
-1. **Consciousness as non-physical**: If consciousness were reducible to physical processes, it would be subject to the same deterministic (or randomly indeterministic) laws. The [Dualism](/tenets/#dualism) tenet provides this.
+1. **Consciousness as non-physical**: If consciousness were reducible to physical processes, it would be subject to the same deterministic (or randomly indeterministic) laws. The [Dualism](/tenets/#dualism) tenet provides this, and [interactionist-dualism](/concepts/interactionist-dualism/) explains how such non-physical consciousness can still causally engage with the physical world.
 
 2. **Bidirectional interaction**: Consciousness must actually influence physical outcomes, not merely observe them. The Bidirectional Interaction tenet provides this.
 
@@ -140,6 +141,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework grounding this view
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface

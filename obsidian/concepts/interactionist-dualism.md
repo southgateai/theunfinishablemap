@@ -118,7 +118,7 @@ The [[epiphenomenalism|self-stultification argument]] provides positive motivati
 
 Interactionist dualism faces real challenges. The decoherence objection is empirical—future research could show quantum effects genuinely cannot survive in neural tissue. The mechanism remains partly speculative—we cannot yet point to exactly where and how consciousness interfaces with quantum events.
 
-But the alternatives face worse problems. [[Epiphenomenalism]] is self-undermining. Identity theory cannot explain why there is something it is like to see red. [[Functionalism]] struggles with absent [[qualia]]. Interactionism may be puzzling, but the puzzles are empirical and may yield to investigation. The puzzles facing physicalist alternatives are conceptual and show no sign of resolution.
+But the alternatives face worse problems. [[epiphenomenalism|Epiphenomenalism]] is self-undermining. Identity theory cannot explain why there is something it is like to see red. [[functionalism|Functionalism]] struggles with absent [[qualia]]. Interactionism may be puzzling, but the puzzles are empirical and may yield to investigation. The puzzles facing physicalist alternatives are conceptual and show no sign of resolution.
 
 Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies, where physics leaves outcomes undetermined. Whether this answer is correct is an open question. That it is *coherent* reopens possibilities that seemed closed for centuries.
 

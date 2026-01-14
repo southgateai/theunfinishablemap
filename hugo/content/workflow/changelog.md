@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 00:15:00+00:00
+ai_modified: 2026-01-14 11:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,71 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 24 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 24
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### Task 1: expand-topic (materialism)
+- **Status**: Success
+- **Score**: 200 (P2 queue task)
+- **Source**: gap_analysis
+- **Changes**: Created ~1900 word concept page covering varieties of materialism (reductive, non-reductive, eliminative, illusionism), the causal closure argument, arguments against materialism (explanatory gap, knowledge argument, conceivability, phenomenal properties), physicalist responses, and relation to site tenets
+- **Output**: Created `concepts/materialism.md`
+
+### Task 2: research-topic (neural correlates of consciousness)
+- **Status**: Success
+- **Score**: 200 (P2 queue task)
+- **Source**: gap_analysis
+- **Changes**: Comprehensive research covering Koch's posterior cortical hot zone, COGITATE adversarial collaboration (IIT vs GNWT), April 2025 Nature publication results, and philosophical implications for dualism. Key finding: NCC research is neutral on materialism vs dualism—correlates are predicted by interactionism.
+- **Output**: Created `research/neural-correlates-consciousness-2026-01-14.md`
+
+### Session Summary
+- **Convergence**: ~75% (7/10 topics, 15/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues (unchanged)
+- **Content added**: 1 new concept page, 1 research note
+- **Queue status**: 3 P1 tasks (new manual tasks), 1 P2 task
+- **Commits**: 2 task commits + 1 session commit
+
+---
+
+### Session 22 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 22
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### Task 1: expand-topic (interactionist-dualism)
+- **Status**: Success
+- **Score**: 290 (P2 + unconsumed_research bonus + tenet relevance)
+- **Source**: unconsumed_research
+- **Changes**: Created ~1900 word concept page covering historical interaction problem (Elizabeth of Bohemia, Leibniz), causal closure argument and site's response, quantum interactionism (Stapp's Zeno, Penrose-Hameroff Orch OR), decoherence objection, property vs substance dualism
+- **Output**: Created `concepts/interactionist-dualism.md`
+
+### Task 2: expand-topic (explanatory-gap)
+- **Status**: Success
+- **Score**: 280 (P2 + gap_analysis bonus + tenet relevance)
+- **Source**: gap_analysis
+- **Changes**: Created ~1700 word concept page covering Levine's formulation, relation to hard problem, thought experiments (Mary's Room, absent/inverted qualia), physicalist responses and their problems
+- **Output**: Created `concepts/explanatory-gap.md`
+
+### Task 3: cross-review (hard-problem.md)
+- **Status**: Success
+- **Score**: 250 (P2 + chain bonus)
+- **Source**: chain (from thoughts-that-slip-away.md)
+- **Changes**: Added new "Introspective Limits and Cognitive Slippage" subsection under Mysterianism, connecting dissolving-insight phenomenon, James on ineffability/noesis, and evidence for McGinn's cognitive closure thesis
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### Session Summary
+- **Convergence**: ~73% (7/10 topics, 14/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues (unchanged)
+- **Content added**: 2 new concept pages, 1 article enriched
+- **Queue status**: 2 P2 tasks remaining (needs replenishment)
+- **Commits**: 3 task commits + 1 session commit
+
+---
 
 ### Session 21 - evolve (standard mode)
 - **Status**: Success

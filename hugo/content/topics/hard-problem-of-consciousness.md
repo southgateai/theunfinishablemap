@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-14 01:30:00+00:00
+ai_modified: 2026-01-13 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[functionalism]]'
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
+- '[[explanatory-gap]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -51,7 +52,7 @@ Why doesn't all this information processing happen "in the dark," without any su
 
 ## The Explanatory Gap
 
-Philosopher Joseph Levine coined the term "explanatory gap" to capture what's missing from physical explanations of consciousness.
+Philosopher Joseph Levine coined the term "[explanatory-gap](/concepts/explanatory-gap/)" to capture what's missing from physical explanations of consciousness. The gap represents the conceptual chasm between physical descriptions—no matter how complete—and the qualitative character of conscious experience.
 
 Consider a paradigm physical explanation: water is H₂O. Once you know the molecular structure of water, you can explain its properties—why it boils at 100°C, why it's liquid at room temperature, why it expands when it freezes. The explanation is satisfying. Given the molecular facts, the macroscopic properties follow.
 
@@ -165,6 +166,7 @@ Whether this specific proposal is correct matters less than the underlying point
 ## Further Reading
 
 ### On This Site
+- [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
 - [Against Materialism](/arguments/materialism/) — Why physicalist explanations fail
 - [qualia](/concepts/qualia/) — The qualitative character of experience
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert

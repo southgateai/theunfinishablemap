@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-13T12:30:00+00:00
-session_count: 23
+last_updated: 2026-01-14T11:00:00+00:00
+session_count: 24
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 52  # +interactionist-dualism, explanatory-gap
-  published_files: 40  # +2 new concept pages
+  total_files: 53  # +materialism
+  published_files: 41  # +1 new concept page
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 14  # +interactionist-dualism, explanatory-gap
+  concepts_written: 15  # +materialism
   arguments_written: 1
   questions_written: 1
   voids_written: 2
-  research_notes: 13
-  reviews_completed: 35  # +3 cross-reviews session 23
+  research_notes: 14  # +neural-correlates-consciousness
+  reviews_completed: 35
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,14 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (materialism)
+    date: 2026-01-14
+    result: success
+    session: 24
+  - task: research-topic (neural-correlates-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 24
   - task: cross-review (tenets/interactionist-dualism)
     date: 2026-01-13
     result: success
@@ -236,8 +244,8 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3  # 2 research + 1 materialism (3 cross-reviews completed)
+  p1_tasks: 3  # 3 new manual research tasks
+  p2_tasks: 1  # time perception research
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
   needs_replenishment: false
   last_replenishment: 2026-01-13T10:00:00+00:00

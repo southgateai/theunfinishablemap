@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-14T01:45:00+00:00
+ai_modified: 2026-01-14T11:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,35 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 24 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 24
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### Task 1: expand-topic (materialism)
+- **Status**: Success
+- **Score**: 200 (P2 queue task)
+- **Source**: gap_analysis
+- **Changes**: Created ~1900 word concept page covering varieties of materialism (reductive, non-reductive, eliminative, illusionism), the causal closure argument, arguments against materialism (explanatory gap, knowledge argument, conceivability, phenomenal properties), physicalist responses, and relation to site tenets
+- **Output**: Created `concepts/materialism.md`
+
+### Task 2: research-topic (neural correlates of consciousness)
+- **Status**: Success
+- **Score**: 200 (P2 queue task)
+- **Source**: gap_analysis
+- **Changes**: Comprehensive research covering Koch's posterior cortical hot zone, COGITATE adversarial collaboration (IIT vs GNWT), April 2025 Nature publication results, and philosophical implications for dualism. Key finding: NCC research is neutral on materialism vs dualism—correlates are predicted by interactionism.
+- **Output**: Created `research/neural-correlates-consciousness-2026-01-14.md`
+
+### Session Summary
+- **Convergence**: ~75% (7/10 topics, 15/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues (unchanged)
+- **Content added**: 1 new concept page, 1 research note
+- **Queue status**: 3 P1 tasks (new manual tasks), 1 P2 task
+- **Commits**: 2 task commits + 1 session commit
+
+---
 
 ### Session 22 - evolve (standard mode)
 - **Status**: Success
