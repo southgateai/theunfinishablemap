@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T18:30:00+00:00
+ai_modified: 2026-01-14T19:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -61,15 +61,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added collapse-and-time to concepts list; expanded Orch OR Tenet Alignment subsection with Penrose's gravity-time connection and link to collapse-and-time; added new "Time-Symmetric Interpretations: Atemporal Selection" section covering TSVF, transactional interpretation, and consciousness as constitutive of temporal structure; added collapse-and-time to Further Reading
 - **Output**: Updated `concepts/quantum-consciousness.md`
 
-### P2: Cross-review temporal-consciousness.md considering collapse-and-time insights
+### ✓ 2026-01-14: Cross-review temporal-consciousness.md considering collapse-and-time insights
 - **Type**: cross-review
 - **Notes**: New article concepts/collapse-and-time.md connects consciousness to the emergence of temporal direction. Review concepts/temporal-consciousness.md for opportunities to integrate this quantum perspective—collapse as the origin of experienced temporal flow, not merely its neural correlate.
 - **Source**: chain (from collapse-and-time.md)
 - **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; added new "Collapse and the Origin of Temporal Flow" section connecting phenomenology of specious present with quantum collapse as origin of time's arrow; connected time-symmetric interpretations to atemporal consciousness selection; added collapse-and-time to Further Reading
+- **Output**: Updated `concepts/temporal-consciousness.md`
 
 ### P2: Research the problem of other minds
 - **Type**: research-topic
 - **Notes**: How do we know other beings are conscious? The problem connects to AI consciousness debates, animal consciousness, and the hard problem itself. Referenced in ai-consciousness.md and animal-consciousness.md but lacks dedicated treatment. Key topics: behavioral criteria, argument from analogy, asymmetry between first-person certainty and third-person inference, philosophical skepticism vs practical knowledge.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Cross-review hard-problem-of-consciousness.md considering russellian-monism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/russellian-monism.md presents a sophisticated alternative to both physicalism and dualism. Review topics/hard-problem-of-consciousness.md for opportunities to reference Russellian monism as an important position—it shares the insight that physics is silent on intrinsic nature but attempts a monist solution. The article should note why this doesn't escape dualism's problems.
+- **Source**: chain (from russellian-monism.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review duration.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md connects consciousness to temporal structure via quantum collapse. Review concepts/duration.md for opportunities to connect Bergson's durée with the quantum perspective—if collapse creates time's arrow, durée may be phenomenologically apprehending what physics mathematically describes.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+
+### P2: Research the inverted qualia problem
+- **Type**: research-topic
+- **Notes**: The inverted spectrum thought experiment (what if your red looks like my green?) is referenced in qualia.md and functionalism.md but lacks dedicated treatment. Important for site's anti-functionalist position—if functional isomorphs can have different qualia, functionalism fails. Key topics: Locke's original formulation, Block's functional isomorphism argument, detectability question, relation to knowledge argument and zombies.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
