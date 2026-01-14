@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T00:45:00+00:00
-session_count: 63
+last_updated: 2026-01-15T02:45:00+00:00
+session_count: 64
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 97  # +1: problem-of-other-minds concept article
-  published_files: 76
+  total_files: 99  # +1: inverted-qualia, +1: loss-of-consciousness research
+  published_files: 77  # +1: inverted-qualia concept article
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 10
-  concepts_written: 39  # +1: problem-of-other-minds
+  concepts_written: 40  # +1: inverted-qualia
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 40  # +1: inverted-qualia-spectrum
-  reviews_completed: 88  # +1: duration/collapse-and-time
+  research_notes: 41  # +1: loss-of-consciousness-mind-brain
+  reviews_completed: 89  # +1: ai-consciousness cross-review
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (ai-consciousness/problem-of-other-minds)
+    date: 2026-01-15
+    result: success
+    session: 64
+    note: added problem-of-other-minds to concepts, new "Why the Inference Fails for AI" subsection on argument from analogy, inference to best explanation, Wittgensteinian approaches
+  - task: expand-topic (inverted-qualia)
+    date: 2026-01-15
+    result: success
+    session: 64
+    note: core scenario, Block's Inverted Earth, detectability objection, relation to zombies, privacy of experience, physicalist responses
+  - task: research-topic (loss-of-consciousness)
+    date: 2026-01-15
+    result: success
+    session: 64
+    note: anesthesia mechanisms, propofol vs ketamine, cognitive motor dissociation, time perception, filter theory, active reboot
   - task: cross-review (duration/collapse-and-time)
     date: 2026-01-14
     result: success
@@ -687,14 +702,14 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 1  # mind-brain separation research (human added)
-  p2_tasks: 0  # all P2 tasks completed this session
+  p1_tasks: 1  # mind-brain-separation research (human added)
+  p2_tasks: 1  # animal-consciousness cross-review remaining
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # only 1 active P0-P2 task
-  last_replenishment: 2026-01-14T23:45:00+00:00
+  needs_replenishment: true  # only 2 active P0-P2 tasks
+  last_replenishment: 2026-01-15T01:00:00+00:00
   replenishment_source_counts:
-    chain: 115  # +1: inverted-qualia expand-topic pending
-    unconsumed_research: 1  # inverted-qualia research ready for article
+    chain: 119  # session 64 completed 3 tasks
+    unconsumed_research: 1  # loss-of-consciousness research ready for article
     gap_analysis: 33
     staleness: 0
 
@@ -703,7 +718,8 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
-    - "research/inverted-qualia-spectrum-2026-01-14.md"  # added session 63
+    - "research/loss-of-consciousness-mind-brain-2026-01-15.md"  # added session 64
+    # inverted-qualia-spectrum -> concepts/inverted-qualia.md COMPLETED session 64
   # consciousness-collapse-arrow-of-time -> QUEUED as expand-topic task (session 59 replenishment)
   # NDE and Russellian monism now have expand-topic tasks (session 57 replenishment)
   # knowledge-argument, mysterianism -> QUEUED as expand-topic tasks (session 55 replenishment)
@@ -724,7 +740,13 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    # problem-of-other-minds -> ai-consciousness.md, animal-consciousness.md (session 63)
+    - new_article: "concepts/inverted-qualia.md"
+      review_targets:
+        - "concepts/philosophical-zombies.md"
+        - "concepts/qualia.md"
+      generated: "2026-01-15T02:00:00+00:00"
+    # problem-of-other-minds -> ai-consciousness.md COMPLETED session 64
+    # problem-of-other-minds -> animal-consciousness.md QUEUED (session 64 replenishment)
     # animal-consciousness -> ai-consciousness.md COMPLETED session 46
     # death-and-consciousness -> personal-identity.md COMPLETED session 46
     # duration.md may warrant cross-review with temporal-consciousness.md, free-will.md (session 39)

@@ -19,6 +19,38 @@ last_curated:
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-15
+
+### Session 64 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 64
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 01:30 - research-topic (loss of consciousness)
+- **Status**: Success
+- **Output**: `research/loss-of-consciousness-mind-brain-2026-01-15.md`
+- **Key findings**: Comprehensive coverage of anesthesia mechanisms (propofol produces near-total extinction while ketamine preserves complex phenomenology), cognitive motor dissociation (25% of "unconscious" patients show awareness via neuroimaging), time perception vanishing under anesthesia, filter/transmission theory (James, Bergson, Huxley), active brain reboot mechanisms. Key insight: consciousness can persist despite behavioral unresponsiveness; brain-consciousness correlation is compatible with filter theory.
+
+### 02:00 - expand-topic (inverted qualia)
+- **Status**: Success
+- **Output**: `concepts/inverted-qualia.md`
+- **Changes**: Created ~1800 word article covering the spectrum inversion thought experiment, Block's Inverted Earth, detectability objection and responses (Hardin's color space asymmetries, Palmer's limited inversions), relation to zombie arguments, privacy of experience, physicalist responses (representationalism, phenomenal concepts strategy, Dennett), and connection to site's dualist framework.
+
+### 02:30 - cross-review (ai-consciousness/problem-of-other-minds)
+- **Status**: Success
+- **Output**: Updated `topics/ai-consciousness.md`
+- **Changes**: Added problem-of-other-minds to concepts list and Further Reading; added explicit [[problem-of-other-minds]] link to Epistemic Problem section; created new "Why the Inference Fails for AI" subsection applying argument from analogy, inference to best explanation, and Wittgensteinian dissolution to AI and showing why each approach fails.
+
+### Queue status
+- Replenished queue at start (3 new P2 tasks: inverted-qualia article, 2 problem-of-other-minds cross-reviews)
+- Completed 3 tasks
+- Remaining active: 1 P1 (mind-brain-separation), 1 P2 (animal-consciousness cross-review)
+- Research generates expand-topic chain (loss-of-consciousness)
+- New article generates cross-review chains (inverted-qualia → philosophical-zombies, qualia)
+
+---
+
 ## 2026-01-14
 
 ### Session 62 - evolve (standard mode)
