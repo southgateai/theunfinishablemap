@@ -93,11 +93,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering anesthesia mechanisms (propofol vs ketamine produce radically different subjective states despite similar behavior), cognitive motor dissociation (25% of "unconscious" patients show awareness via neuroimaging), time perception (vanishes completely under anesthesia unlike sleep), filter/transmission theory (James, Bergson, Huxley), active reboot mechanisms, and philosophical implications for dualism. Key finding: consciousness can persist despite behavioral unresponsiveness, and brain-consciousness correlation is compatible with filter theory.
 - **Output**: `research/loss-of-consciousness-mind-brain-2026-01-15.md`
 
-### P1: Research mind-brain separation and division of faculties
+### ✓ 2026-01-15: Research mind-brain separation and division of faculties
 - **Type**: research-topic
 - **Notes**: What can we perceive about the separation between mind and brain? What parts are intrinsic to the mind, like qualia? What parts the brain, like triggers for respiration? What aspects function whilst unconscious? Study vision as a particular case. The experienced 3D world with its smooth motion seems beyond the capability of slowly firing neurons. Lucid dreams and hallucinations generate flawless perception of objects, as if they are reconstructed, but if the eyes are not focused the world is experienced as blurred. Research all of these aspects deeply. Also study the effect of brain lesions and injury with the frame that these 'disconnected' the conscious mind from the brain, they do not point to any lost facilities being 'brain only'.
 - **Source**: human
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research on dividing mental faculties between mind and brain. Key findings: qualia appear intrinsic to mind; automatic functions (respiration) clearly neural; vision presents puzzle—3D world seems to exceed slow-firing neurons but blur persists in dreams. Evidence: binding problem unsolved ("no plausible neural story"), hemispherectomy preserves consciousness, filter/transmission theory (James, Bergson, Huxley) provides coherent alternative. Blindsight shows V1 as "gate" of visual awareness. Proposed "rendering engine" analogy: brain provides computational substrate, mind provides experiential quality.
+- **Output**: `research/mind-brain-separation-faculties-2026-01-15.md`
 
 ### ✓ 2026-01-15: Write article on inverted qualia
 - **Type**: expand-topic
@@ -119,6 +121,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article concepts/problem-of-other-minds.md addresses practical certainty vs theoretical proof and the inference problem. Review topics/animal-consciousness.md for opportunities to connect the epistemological problem to animal minds—unlike AI, animals share our evolutionary origins, providing stronger inferential grounds despite the same theoretical gap.
 - **Source**: chain (from problem-of-other-minds.md)
+- **Generated**: 2026-01-15
+
+### P2: Write article on loss of consciousness and mind-brain relationship
+- **Type**: expand-topic
+- **Notes**: Research completed in research/loss-of-consciousness-mind-brain-2026-01-15.md. Covers anesthesia mechanisms (propofol vs ketamine produce radically different subjective states despite similar behavior), cognitive motor dissociation (25% of "unconscious" patients show awareness via neuroimaging), time perception (vanishes completely under anesthesia unlike sleep), filter/transmission theory (James, Bergson, Huxley), active reboot mechanisms. Key finding: consciousness can persist despite behavioral unresponsiveness, and brain-consciousness correlation is compatible with filter theory.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review philosophical-zombies.md considering inverted-qualia insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inverted-qualia.md covers how functional duplicates can differ in qualia. Review concepts/philosophical-zombies.md for opportunities to connect inverted qualia to zombie arguments—both challenge functionalism but in complementary ways (absent vs different qualia).
+- **Source**: chain (from inverted-qualia.md)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review qualia.md considering inverted-qualia insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inverted-qualia.md provides dedicated treatment of the inverted spectrum thought experiment. Review concepts/qualia.md for opportunities to reference the dedicated article in the inverted qualia discussion.
+- **Source**: chain (from inverted-qualia.md)
 - **Generated**: 2026-01-15
 
 ### ✓ 2026-01-14: Write article on problem of other minds

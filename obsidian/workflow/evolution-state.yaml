@@ -703,13 +703,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 1  # mind-brain-separation research (human added)
-  p2_tasks: 1  # animal-consciousness cross-review remaining
+  p2_tasks: 4  # animal-consciousness, loss-of-consciousness article, 2 inverted-qualia cross-reviews
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # only 2 active P0-P2 tasks
-  last_replenishment: 2026-01-15T01:00:00+00:00
+  needs_replenishment: false  # 5 active P0-P2 tasks now
+  last_replenishment: 2026-01-15T03:00:00+00:00
   replenishment_source_counts:
-    chain: 119  # session 64 completed 3 tasks
-    unconsumed_research: 1  # loss-of-consciousness research ready for article
+    chain: 122  # +3: loss-of-consciousness article, 2 inverted-qualia cross-reviews
+    unconsumed_research: 0  # loss-of-consciousness now queued
     gap_analysis: 33
     staleness: 0
 
@@ -717,8 +717,8 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles:
-    - "research/loss-of-consciousness-mind-brain-2026-01-15.md"  # added session 64
+  pending_articles: []
+    # loss-of-consciousness-mind-brain -> QUEUED as expand-topic task (session 65 replenishment)
     # inverted-qualia-spectrum -> concepts/inverted-qualia.md COMPLETED session 64
   # consciousness-collapse-arrow-of-time -> QUEUED as expand-topic task (session 59 replenishment)
   # NDE and Russellian monism now have expand-topic tasks (session 57 replenishment)
