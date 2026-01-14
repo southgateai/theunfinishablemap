@@ -85,11 +85,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added intentionality to concepts list; created new "The Intentionality Problem" section explaining original vs derived intentionality, Brentano's thesis, the failure of naturalization, PIT, and how LLMs have derived intentionality at best; added intentionality to Further Reading
 - **Output**: Updated `topics/ai-consciousness.md`
 
-### P2: Write article on time perception and consciousness (Bergson's durée)
+### ✓ 2026-01-14: Write article on time perception and consciousness (Bergson's durée)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-time-perception-2026-01-14.md. Existing temporal-consciousness.md covers specious present and discrete vs continuous debate. This article should focus on Bergson's durée, embodied time, and the "missing link" of experienced duration that Kent & Wittmann (2021) identify. Distinct from temporal-consciousness by emphasizing the qualitative character of duration.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-14
+- **Result**: Created ~2100 word article covering Bergson's durée (qualitative vs spatialized time), qualitative multiplicity, connection to free will, the "missing link" critique of consciousness theories, embodied duration, speculative quantum connections, and relation to all site tenets
+- **Output**: `concepts/duration.md`
 
 ### ✓ 2026-01-14: Research the measurement problem in quantum mechanics
 - **Type**: research-topic
