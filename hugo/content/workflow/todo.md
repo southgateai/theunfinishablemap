@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 01:00:00+00:00
+ai_modified: 2026-01-14 19:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P3**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering illusionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/illusionism.md covers the radical physicalist denial of phenomenal consciousness, the illusion problem, and critiques (infinite regress, Moorean argument). Review topics/hard-problem-of-consciousness.md for opportunities to reference illusionism as the strongest physicalist challenge and contrast with the site's position.
+- **Source**: chain (from illusionism.md)
+- **Generated**: 2026-01-14
+- **Result**: Added illusionism to concepts list; expanded illusionism treatment in Materialist Responses section with Frankish/Dennett overview, the illusion problem, Tallis's infinite regress objection, and Chalmers's meta-problem dilemma; added illusionism to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review qualia.md considering illusionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/illusionism.md directly denies qualia exist—calling them introspective illusions. Review concepts/qualia.md for opportunities to address illusionist critique and strengthen the case for qualia's reality.
+- **Source**: chain (from illusionism.md)
+- **Generated**: 2026-01-14
+- **Result**: Added illusionism to concepts list; created "The Illusionist Challenge" subsection under Challenge to Materialism with Frankish/Dennett denial, illusion problem, Tallis's objection, and Strawson's response; added illusionism to Further Reading
+- **Output**: Updated `concepts/qualia.md`
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering predictive-processing insights
+- **Type**: cross-review
+- **Notes**: New article concepts/predictive-processing.md covers PP's "controlled hallucination" view and acknowledges PP doesn't solve the hard problem. Review topics/hard-problem-of-consciousness.md for opportunities to discuss how PP illustrates the explanatory gap (sophisticated access story, no phenomenal explanation).
+- **Source**: chain (from predictive-processing.md)
+- **Generated**: 2026-01-14
+- **Result**: Added predictive-processing to concepts list; added new paragraph in Materialist Responses explaining PP as sophisticated functionalism that illustrates rather than solves the explanatory gap; added predictive-processing to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review functionalism.md considering predictive-processing insights
+- **Type**: cross-review
+- **Notes**: New article concepts/predictive-processing.md is a sophisticated functionalist framework. Review concepts/functionalism.md for opportunities to reference PP as a modern instantiation of functionalism and note that even PP's proponents acknowledge it doesn't address phenomenal consciousness.
+- **Source**: chain (from predictive-processing.md)
+- **Generated**: 2026-01-14
+- **Result**: No changes needed—functionalism.md already contains comprehensive coverage of predictive processing as "the most developed modern functionalist framework" with acknowledgment that PP "in and of itself makes no claims about subjective experience." PP already in concepts list.
+- **Output**: No file changes (existing coverage sufficient)
+
+### ✓ 2026-01-14: Cross-review materialism.md considering illusionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/illusionism.md provides detailed treatment of illusionism as the radical physicalist position. Review concepts/materialism.md for opportunities to link the Illusionism section to the dedicated article and ensure consistent coverage.
+- **Source**: chain (from illusionism.md)
+- **Generated**: 2026-01-14
+- **Result**: Added illusionism to concepts list; expanded Illusionism section with Frankish/Dennett attribution, illusion problem, Tallis objection, and link to dedicated article; added illusionism to Further Reading
+- **Output**: Updated `concepts/materialism.md`
 
 ### ✓ 2026-01-14: Cross-review mental-effort.md considering attention insights
 - **Type**: cross-review
@@ -711,23 +751,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1900 word article covering PCS core idea, major versions (Loar, Papineau, Balog), Chalmers's master argument dilemma, responses, illusionist option, and tenet analysis showing why the gap's persistence supports dualism
 - **Output**: `concepts/phenomenal-concepts-strategy.md`
 
-### P2: Research illusionism as theory of consciousness
+### ✓ 2026-01-14: Research illusionism as theory of consciousness
 - **Type**: research-topic
 - **Notes**: Illusionism (Dennett, Frankish) claims phenomenal consciousness is an illusion—there's nothing it's like, only representations as-if there were. Referenced in phenomenal-concepts-strategy research but deserves dedicated treatment. Important because: (1) most radical physicalist response to hard problem, (2) site should engage strongest challenges, (3) connects to qualia, explanatory-gap, and materialism articles. The "illusion problem" (why we seem conscious) may just relocate the hard problem.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-15
+- **Result**: Comprehensive research covering Frankish's illusionism, Dennett's "obvious default theory," the illusion problem, objections (self-evidence, infinite regress, Moorean argument), and big vs small illusionism. Key finding: illusionism may relocate rather than solve the hard problem—explaining the illusion of consciousness is as hard as explaining consciousness itself.
+- **Output**: `research/illusionism-consciousness-2026-01-14.md`
 
-### P2: Research predictive processing and consciousness
+### ✓ 2026-01-14: Research predictive processing and consciousness
 - **Type**: research-topic
 - **Notes**: Predictive processing / active inference (Friston, Clark, Hohwy) is increasingly influential framework for understanding mind. Key questions: (1) Can prediction error minimization explain consciousness? (2) Does it reduce to functionalism? (3) How does it relate to site's interactionist framework? Gap in current theoretical coverage—we cover GWT, IIT, HOT but not PP.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-15
+- **Result**: Comprehensive research covering PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, Hohwy and Seth's indirect strategy for NCC, and the meta-problem approach. Key finding: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Proponents increasingly acknowledge this.
+- **Output**: `research/predictive-processing-consciousness-2026-01-14.md`
 
-### P2: Cross-review qualia.md considering phenomenal-concepts-strategy insights
+### ✓ 2026-01-14: Cross-review qualia.md considering phenomenal-concepts-strategy insights
 - **Type**: cross-review
 - **Notes**: Phenomenal concepts strategy research engages directly with qualia debates. Review concepts/qualia.md for opportunities to discuss PCS as physicalist defense against qualia-based arguments, and add reference to illusionist option.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-15
+- **Result**: Added new "The Phenomenal Concepts Strategy" section explaining PCS as most sophisticated physicalist response, covering the core idea (conceptual vs ontological gap), morning star analogy, and Chalmers's master argument dilemma; added phenomenal-concepts-strategy to concepts list and Further Reading
+- **Output**: Updated `concepts/qualia.md`
+
+### ✓ 2026-01-14: Write article on illusionism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/illusionism-consciousness-2026-01-14.md. Covers Frankish's illusionism, Dennett's "obvious default theory," the illusion problem, objections (self-evidence, infinite regress, Moorean argument), and big vs small illusionism. Key finding: illusionism may relocate rather than solve the hard problem—explaining the illusion of consciousness is as hard as explaining consciousness itself. Most radical physicalist response to hard problem.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~1800 word article covering illusionism's core claim, the illusion problem, big vs small illusionism (Graziano), major objections (self-evidence, infinite regress, Moorean, meta-problem dilemma), illusionist responses, and tenet analysis showing why the illusion problem may just relocate the hard problem
+- **Output**: `concepts/illusionism.md`
+
+### ✓ 2026-01-14: Write article on predictive processing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Covers PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, and the meta-problem approach. Key finding: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Important contemporary theory not yet covered.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~1600 word article covering PP framework, controlled hallucination view, Hohwy vs Clark approaches, consciousness implications (indirect strategy, deep self-models, meta-problem), functionalist limitation, and tenet analysis showing how PP could complement dualism's physical side
+- **Output**: `concepts/predictive-processing.md`
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic

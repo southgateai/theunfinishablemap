@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-15 00:15:00+00:00
+ai_modified: 2026-01-14 19:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,8 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[binding-problem]]'
 - '[[intentionality]]'
+- '[[illusionism]]'
+- '[[predictive-processing]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -148,11 +150,15 @@ Crucially, NCC findings are compatible with both materialism and [interactionist
 
 **Eliminativism** denies the explanandum. If consciousness as we conceive it doesn't exist—if our folk-psychological concepts are like "phlogiston"—then there's nothing to explain. But eliminativism seems to deny what is most evident: that there is something it is like to read these words.
 
-**Illusionism** accepts that something exists but denies it has the properties we attribute to it. We have a systematic *illusion* of rich qualitative experience. But even illusions must be experienced—illusionism pushes the mystery back without eliminating it.
+**[Illusionism](/concepts/illusionism/)** accepts that something exists but denies it has the properties we attribute to it. Keith Frankish and Daniel Dennett argue that phenomenal consciousness is a "user illusion"—we systematically misrepresent our own mental states as having intrinsic qualitative properties they lack.
+
+This is physicalism's most radical option. Rather than closing the explanatory gap, illusionists deny there's anything on the phenomenal side to explain. But this trades the hard problem for an "illusion problem": explaining why the illusion is so compelling and resistant to dissolution. Raymond Tallis argues this compounds rather than solves the difficulty—all illusions presuppose experience. To be under an illusion, something must be experiencing it. Chalmers notes that even if we relocate the problem to the meta-level, the same dilemma applies: either the features explaining our mistaken beliefs are physically explicable (in which case zombies would have them too) or they're not (in which case there's a new explanatory gap).
 
 **Reductive physicalism** claims consciousness *is* brain activity, just as water is H₂O. But unlike water=H₂O, the identity doesn't explain. We understand why H₂O has water's properties; we don't understand why neural activity has experiential properties.
 
 **Non-reductive physicalism** concedes that consciousness isn't reducible but claims it's still "physical"—fully determined by physical facts even if not identical to them. This doesn't close the explanatory gap; it just relabels it. See [varieties of materialism](/arguments/materialism/#varieties-of-materialism) for detailed treatment of each position and its failures.
+
+**[Predictive processing](/concepts/predictive-processing/)** represents the most sophisticated contemporary functionalism. The brain builds hierarchical predictive models of the world; perception is "controlled hallucination" constrained by sensory feedback. PP explains much about cognitive mechanisms—how attention works, why perception is constructive, how learning refines predictions. Yet even PP proponents acknowledge their framework "in and of itself makes no claims about subjective experience." Explaining that perception is predictive doesn't explain why prediction feels like anything. PP illustrates rather than solves the explanatory gap: we can describe increasingly detailed mechanisms while the phenomenal question remains untouched.
 
 ### Epiphenomenalism
 
@@ -231,7 +237,9 @@ Whether this specific proposal is correct matters less than the underlying point
 - [Against Materialism](/arguments/materialism/) — Why physicalist explanations fail
 - [qualia](/concepts/qualia/) — The qualitative character of experience
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
+- [illusionism](/concepts/illusionism/) — The radical denial of phenomenal consciousness
 - [functionalism](/concepts/functionalism/) — The view that mental states are functional roles
+- [predictive-processing](/concepts/predictive-processing/) — The most sophisticated contemporary functionalism
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A mathematical theory identifying consciousness with integrated information
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How quantum mechanics might relate to consciousness
 - [apophatic-approaches](/voids/apophatic-approaches/) — Methods for approaching what may exceed human understanding

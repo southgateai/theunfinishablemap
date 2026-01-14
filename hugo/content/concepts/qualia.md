@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-14 14:00:00+00:00
+ai_modified: 2026-01-14 18:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[functionalism]]'
 - '[[philosophical-zombies]]'
 - '[[phenomenal-concepts-strategy]]'
+- '[[illusionism]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
@@ -89,6 +90,16 @@ The [materialist](/arguments/materialism/) faces a dilemma:
 - **Reduce qualia to physical properties**: But how? Identifying a quale with a brain state leaves unexplained why that state has any experiential character at all.
 - **Accept qualia as emerging from complexity**: But mere complexity doesn't explain why there's something it's like. A billion neurons interacting is still just neurons interacting—where does the felt quality come from?
 
+### The Illusionist Challenge
+
+[Illusionism](/concepts/illusionism/) represents the most radical physicalist strategy against qualia. Keith Frankish and Daniel Dennett argue that qualia—the intrinsic, private, ineffable properties described above—do not actually exist. We *seem* to have experiences with these properties, but this seeming is itself a misrepresentation. There are no phenomenal properties, only representations *as if* there were.
+
+This trades the hard problem for an "illusion problem": explaining why the illusion of qualia is so compelling. But critics note that all illusions presuppose experience. To be under an illusion, something must be experiencing the illusion. Raymond Tallis argues this makes illusionism incoherent—invoking experience to deny experience.
+
+Galen Strawson called illusionism "the silliest claim ever made" in philosophy. The existence of experience seems undeniable even if its *contents* might be illusory. A phenomenal experience need not be *veridical* to exist. The belief that I'm seeing a pink elephant may be mistaken, but not that I'm having *some* experience.
+
+The persistence of this debate—and the extremity of illusionism's denial—itself testifies to qualia's resistance to physicalist explanation. If qualia could be smoothly reduced to neural states, physicalists wouldn't need to deny their existence entirely.
+
 ## The Functionalist Challenge
 
 [Functionalism](/concepts/functionalism/) offers a sophisticated response to concerns about qualia. On this view, mental states are defined by their causal roles—what causes them and what they cause. Pain is whatever state is caused by tissue damage, causes avoidance behaviour, and interacts appropriately with beliefs and desires. Qualia, on this account, are not intrinsic properties of experience but the functional roles that experiences play.
@@ -129,6 +140,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 - [philosophical-zombies](/concepts/philosophical-zombies/) - The zombie argument and why conceivability of absent qualia challenges physicalism
 - [functionalism](/concepts/functionalism/) - The view that mental states are functional roles, and why it fails to capture qualia
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - The most sophisticated physicalist response to qualia arguments
+- [illusionism](/concepts/illusionism/) - The radical denial of phenomenal properties
 - [tenets](/tenets/) - This site's foundational commitments, especially Dualism
 - [materialism](/arguments/materialism/) - The view challenged by the existence of qualia
 

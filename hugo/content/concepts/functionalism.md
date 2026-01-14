@@ -7,6 +7,8 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[integrated-information-theory]]'
+- '[[predictive-processing]]'
+- '[[global-workspace-theory]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -49,6 +51,28 @@ This seems to follow from common sense. We attribute pain to dogs without demand
 **Causal-role functionalism** (Lewis, Armstrong): Mental states are whatever internal states play certain causal roles. This connects functionalism to materialism—the states are physical, just multiply realizable.
 
 **Homuncular functionalism** (Lycan): Mental capacities decompose into simpler subcapacities, eventually bottoming out in non-mental functions. Consciousness emerges from organized functional components.
+
+## Modern Functionalist Frameworks
+
+Contemporary cognitive science has developed sophisticated functionalist theories that go beyond early machine-state models:
+
+### Predictive Processing
+
+[Predictive processing (PP)](/concepts/predictive-processing/) represents the most developed modern functionalist framework. On this view, the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. Perception becomes active inference—the brain's "best guess" about reality.
+
+Anil Seth describes perception as "controlled hallucination": what we experience is the brain's best hypothesis about the world, constrained by sensory feedback. This explains visual illusions, filled-in blind spots, and the constructive nature of perception.
+
+But PP inherits functionalism's core limitation. Explaining *that* perception is constructive doesn't explain *why* the construction is conscious. A weather-prediction system constructs models without experiencing anything. PP proponents acknowledge this honestly: the free energy principle "in and of itself makes no claims about subjective experience."
+
+PP tells a compelling story about *what* reaches awareness and *how* it gets there. It doesn't explain *why* reaching awareness involves experience. This is the functionalist limitation in its most sophisticated form.
+
+### Global Workspace Theory
+
+[Global Workspace Theory (GWT)](/concepts/global-workspace-theory/) proposes that consciousness arises when information is broadcast to a "global workspace"—a neural system that makes information widely available across brain regions. Bernard Baars and Stanislas Dehaene developed this into Global Neuronal Workspace theory, emphasizing long-range cortical connections.
+
+GWT faces the same objection: explaining how information becomes globally available doesn't explain why global availability feels like anything. Ned Block distinguishes "access consciousness" (information being available for reasoning and report) from "phenomenal consciousness" (there being something it's like). GWT may explain access but not phenomenal consciousness.
+
+The 2025 COGITATE experiment—the largest adversarial collaboration in consciousness science—tested predictions of both GWT and IIT. Neither theory's predictions were fully confirmed, suggesting neither captures the whole story.
 
 ## Functionalism and AI
 

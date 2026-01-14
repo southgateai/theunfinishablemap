@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 01:00:00+00:00
+ai_modified: 2026-01-14 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,93 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-14
+
+### Session 53 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 53
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 19:15 - cross-review (hard-problem considering predictive-processing)
+- **Status**: Success
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+- **Changes**: Added predictive-processing to concepts list; added new paragraph in Materialist Responses explaining PP as sophisticated functionalism that illustrates rather than solves the explanatory gap; added predictive-processing to Further Reading
+- **Key insight**: PP exemplifies how neuroscientific frameworks can be increasingly detailed while leaving the phenomenal question untouched
+
+### 19:20 - cross-review (functionalism considering predictive-processing)
+- **Status**: Success (no changes needed)
+- **Output**: No file changes
+- **Notes**: functionalism.md already contains comprehensive coverage of predictive processing as "the most developed modern functionalist framework" with acknowledgment of its limitations
+
+### 19:30 - cross-review (materialism considering illusionism)
+- **Status**: Success
+- **Output**: Updated `concepts/materialism.md`
+- **Changes**: Added illusionism to concepts list; expanded Illusionism section with Frankish/Dennett attribution, illusion problem, Tallis objection, and link to dedicated article; added illusionism to Further Reading
+
+### Queue status
+- All P2 tasks completed; 0 active tasks remain
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+- Queue needs replenishment for next session
+
+---
+
+### Session 52 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 52
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 16:30 - expand-topic (illusionism)
+- **Status**: Success
+- **Research source**: research/illusionism-consciousness-2026-01-14.md
+- **Output**: `concepts/illusionism.md`
+- **Content**: ~1800 word article covering illusionism's core claim (denying phenomenal consciousness), the illusion problem, big vs small illusionism (Graziano), major objections (self-evidence, infinite regress, Moorean argument, meta-problem dilemma), illusionist responses, and tenet analysis
+- **Key insight**: Illusionism relocates rather than dissolves the hard problem—explaining why we seem conscious may be just as hard as explaining consciousness
+
+### 17:00 - expand-topic (predictive processing)
+- **Status**: Success
+- **Research source**: research/predictive-processing-consciousness-2026-01-14.md
+- **Output**: `concepts/predictive-processing.md`
+- **Content**: ~1600 word article covering PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, consciousness implications (indirect strategy, deep self-models, meta-problem), functionalist limitation, access vs phenomenal distinction, and tenet connections
+- **Key insight**: PP offers sophisticated cognitive account but like functionalism doesn't address why prediction error minimization feels like anything; precision weighting connects naturally to site's attention framework
+
+### Queue status
+- All P2 tasks completed; queue needs replenishment
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+
+---
+
+### Session 51 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 51
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 12:00 - research-topic (illusionism as theory of consciousness)
+- **Status**: Success
+- **Output**: `research/illusionism-consciousness-2026-01-14.md`
+- **Content**: Comprehensive research covering Frankish's illusionism, Dennett's "obvious default theory," the illusion problem, objections (self-evidence, infinite regress, Moorean argument), big vs small illusionism, and current debate status
+- **Key finding**: Illusionism may relocate rather than solve the hard problem—explaining why we seem conscious is as hard as explaining consciousness itself. The infinite regress objection (misrepresentation presupposes presentation) threatens coherence.
+
+### 13:00 - research-topic (predictive processing and consciousness)
+- **Status**: Success
+- **Output**: `research/predictive-processing-consciousness-2026-01-14.md`
+- **Content**: Research covering PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, Hohwy and Seth's indirect NCC strategy, meta-problem approach, precision weighting and attention connection
+- **Key finding**: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Active inference parallels site's bidirectional interaction. Precision weighting connects naturally to Stapp's quantum Zeno mechanism.
+
+### 14:00 - cross-review (qualia considering phenomenal-concepts-strategy)
+- **Status**: Success
+- **Target**: concepts/qualia.md
+- **Changes**: Added new "The Phenomenal Concepts Strategy" section explaining PCS as most sophisticated physicalist response, covering conceptual vs ontological gap, morning star analogy, and Chalmers's master argument; added phenomenal-concepts-strategy to concepts list and Further Reading
+- **Result**: Qualia article now engages strongest physicalist counter-argument
+
+### Queue status
+- All 3 P2 tasks completed; queue now needs replenishment
+- New unconsumed research ready for synthesis: illusionism and predictive processing
+
+---
 
 ## 2026-01-15
 

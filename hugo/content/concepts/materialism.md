@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 21:30:00+00:00
+ai_modified: 2026-01-14 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[explanatory-gap]]'
 - '[[philosophical-zombies]]'
+- '[[illusionism]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -58,11 +59,13 @@ The problem: eliminativism seems to deny the obvious. Something it's like to rea
 
 ### Illusionism
 
-A softer eliminativism: consciousness exists, but not as we conceive it. We have a systematic illusion of rich [qualitative experience](/concepts/qualia/), but introspection misleads us. What exists is just information processing that represents itself as having qualitative properties.
+[Illusionism](/concepts/illusionism/) is materialism's most radical option: consciousness exists, but not as we conceive it. Keith Frankish and Daniel Dennett argue that we have a systematic illusion of rich [qualitative experience](/concepts/qualia/), but introspection misleads us. What exists is just information processing that represents itself as having qualitative properties.
 
-This explains the *appearance* of the hard problem without admitting the reality of what the hard problem is about.
+This explains the *appearance* of the hard problem without admitting the reality of what the hard problem is about. Dennett compared consciousness to user illusions in computer interfaces—useful fictions that don't correspond to underlying structures.
 
-The problem: even illusions are experiences. If I have the illusion of seeing red, something is going on—the illusion itself. Illusionism pushes the mystery back one step without eliminating it.
+The problem: illusionism trades the hard problem for what Frankish calls the "illusion problem"—explaining why we so powerfully believe we're phenomenally conscious when we're not. Raymond Tallis argues this compounds rather than solves the difficulty: all illusions presuppose experience. To be under an illusion, something must be experiencing it. The illusion of redness still involves *something happening*—and explaining why that something happens is as hard as explaining consciousness itself.
+
+See [illusionism](/concepts/illusionism/) for detailed treatment including the "illusion problem" and major objections.
 
 ## The Causal Closure Argument
 
@@ -149,6 +152,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie argument against materialism in detail
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem materialism cannot solve
 - [epiphenomenalism](/concepts/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
+- [illusionism](/concepts/illusionism/) — Materialism's most radical response to the hard problem
 - [functionalism](/concepts/functionalism/) — A materialist theory the site rejects
 - [tenets](/tenets/) — The site's alternative framework
 
