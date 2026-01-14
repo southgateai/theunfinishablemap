@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md explores how consciousness's participation in collapse may be constitutive of temporal structure. Review topics/hard-problem-of-consciousness.md for opportunities to connect the temporal dimension of the hard problem—not just "why experience?" but "why experienced time?" The collapse-and-time article provides a bridge between quantum consciousness theories and the phenomenology of temporal flow.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; added paragraph in Temporal Phenomenology section connecting phenomenology of time's flow to consciousness's possible role in collapse and creating irreversibility; reframed temporal hard problem as "is consciousness part of why time flows at all?"; added collapse-and-time to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### P2: Cross-review hard-problem-of-consciousness.md considering near-death-experiences insights
+- **Type**: cross-review
+- **Notes**: New article concepts/near-death-experiences.md documents 40% awareness during cardiac arrest (AWARE II), veridical perception cases, and the paradox of heightened experience when brain function is minimal. Review topics/hard-problem-of-consciousness.md for opportunities to reference this empirical evidence—NDEs provide striking phenomenological data against simple brain-production models.
+- **Source**: chain (from near-death-experiences.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review quantum-consciousness.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md explores time-symmetric interpretations (TSVF, transactional) and the possibility that consciousness's selection at collapse is atemporal. Review concepts/quantum-consciousness.md for opportunities to integrate this temporal dimension—Stapp's and Penrose's mechanisms have implications for time's arrow, not just mind-matter interaction.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review temporal-consciousness.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md connects consciousness to the emergence of temporal direction. Review concepts/temporal-consciousness.md for opportunities to integrate this quantum perspective—collapse as the origin of experienced temporal flow, not merely its neural correlate.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+
+### P2: Research the problem of other minds
+- **Type**: research-topic
+- **Notes**: How do we know other beings are conscious? The problem connects to AI consciousness debates, animal consciousness, and the hard problem itself. Referenced in ai-consciousness.md and animal-consciousness.md but lacks dedicated treatment. Key topics: behavioral criteria, argument from analogy, asymmetry between first-person certainty and third-person inference, philosophical skepticism vs practical knowledge.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
 ### ✓ 2026-01-14: Explore consciousness, collapse, and the arrow of time
 - **Type**: research-topic
 - **Notes**: Explore whether 'consciousness causes collapse' is relevant to the arrow of time. In a time-reversed scenario, would we see an un-collapse, and is that disallowed or non-physical? This connects to the retrocausality article and the Bidirectional Interaction tenet. Key questions: (1) Does wavefunction collapse define time's arrow independently of entropy? (2) If consciousness selects outcomes at collapse, does this inherently distinguish past from future? (3) What would "un-collapse" even mean—superposition restoration? (4) Does the time-symmetry of quantum equations conflict with irreversible collapse? (5) How does this relate to the site's rejection of Many Worlds (where collapse doesn't occur)?
