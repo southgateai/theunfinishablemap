@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-09 14:00:00+00:00
+ai_modified: 2026-01-14 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
+- '[[russellian-monism]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 draft: false
@@ -37,9 +38,19 @@ This site agrees. The [Dualism](/tenets/#dualism) tenet holds that consciousness
 
 If consciousness can't emerge from the non-conscious, panpsychists conclude it must be present all the way down. The fundamental constituents of reality—quarks, electrons, whatever physics discovers at bottom—have both physical properties (mass, charge, spin) and experiential properties (some primitive form of consciousness).
 
-On Russellian panpsychism (named after Bertrand Russell's insight), physics tells us only what matter *does*—its dispositional or relational properties. Mass, for instance, describes how something responds to force and generates gravitational attraction. But what *is* the stuff that has these dispositions? Physics doesn't say. Panpsychists propose that consciousness—or something proto-conscious—is what matter is "from the inside."
-
 This is elegant. It solves the hard problem by denying consciousness emerges at all; it was always there. It respects physics by not contradicting anything physics says about matter's behavior. And it's parsimonious in a sense: one kind of stuff (experiential) rather than physicalism's unexplained emergence.
+
+### Russellian Panpsychism and Its Variants
+
+[Russellian panpsychism](/concepts/russellian-monism/) (named after Bertrand Russell's insight) provides the most developed theoretical framework for panpsychism. Russell and Eddington observed that physics describes only the *relational* properties of matter—what things do to each other—leaving intrinsic nature unspecified. Mass describes gravitational and inertial behavior; charge describes electromagnetic interactions. But what *is* the stuff that has these dispositions? Physics doesn't say. These hidden intrinsic properties are called *quiddities*.
+
+Panpsychists propose that consciousness—or something proto-conscious—is what quiddities are. The view splits into two main variants:
+
+**Panpsychist Russellian monism** holds that quiddities are genuinely phenomenal—every electron has some micro-experience. Galen Strawson champions this view: "Why posit non-experiential concrete reality with zero evidence?"
+
+**Panprotopsychist Russellian monism** (Chalmers's distinction) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal properties in complex combinations. Electrons don't have experience; they have something that yields experience when organized appropriately.
+
+Panprotopsychism faces a "revenge" problem: if protophenomenal properties aren't phenomenal, "protophenomenal zombies" seem conceivable—systems with all the protophenomenal properties but no experience. The conceivability argument that threatens standard physicalism threatens panprotopsychism too.
 
 ## The Combination Problem
 
@@ -118,6 +129,7 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 
 ## Further Reading
 
+- [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both views address
 - [panpsychism-consciousness-2026-01-08](/research/panpsychism-consciousness-2026-01-08/) — Detailed research notes
 - [tenets](/tenets/) — The site's foundational commitments

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-15 01:00:00+00:00
+ai_modified: 2026-01-14 16:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[locality]]'
 - '[[quantum-consciousness]]'
 - '[[libet-experiments]]'
+- '[[collapse-and-time]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
@@ -42,6 +43,8 @@ Retrocausality isn't philosophical speculation divorced from physics—it has se
 ### Time-Symmetric Quantum Mechanics
 
 The fundamental equations of quantum mechanics are time-symmetric: they work equally well run forward or backward. The apparent "arrow of time" in quantum measurement is an addition to the formalism, not derivable from it. Philosophers like Huw Price argue that if physics is time-symmetric and causal, retrocausality follows necessarily.
+
+This connects to the deeper question of [collapse and temporal asymmetry](/concepts/collapse-and-time/). Multiple arrows of time have been identified—thermodynamic, cosmological, electromagnetic, psychological—but whether quantum measurement introduces an independent arrow remains contested. If collapse is real and genuinely irreversible, consciousness's participation in collapse links it to the structure of time itself, not merely to events occurring within time.
 
 ### Wheeler's Delayed-Choice Experiment
 
@@ -85,7 +88,7 @@ The readiness potential doesn't precede conscious choice in any causally signifi
 
 Cramer's transactional interpretation suggests that quantum transactions are fundamentally atemporal. If consciousness operates at this level, then conscious selection might also be atemporal—not occurring at a moment in linear time but determining which moments become actual.
 
-In this picture, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times (and their contents) become real.
+In this picture, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times (and their contents) become real. As explored in [collapse-and-time](/concepts/collapse-and-time/), this has profound implications: consciousness wouldn't merely experience time's flow but would help constitute temporal structure through the pattern of selections it makes across transactions.
 
 ### Addressing Objections
 
@@ -124,6 +127,7 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 
 ## Further Reading
 
+- [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry and why consciousness may be constitutive of time's arrow
 - [libet-experiments](/concepts/libet-experiments/) — Detailed treatment of Libet's experiments, Schurger's neural noise critique, and the retrocausal resolution
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Orch OR, Stapp's Zeno) that retrocausality complements
 - [tenets](/tenets/) — The site's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction

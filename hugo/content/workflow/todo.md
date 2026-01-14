@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 15:15:00+00:00
+ai_modified: 2026-01-14 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -110,17 +110,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added near-death-experiences to concepts list; substantially expanded NDE section with RED terminology (2022 consensus), 40% awareness statistic, Van Lommel findings, paradox of heightened experience, analysis of materialist explanations and their limitations, and link to dedicated article; added near-death-experiences to Further Reading
 - **Output**: Updated `topics/death-and-consciousness.md`
 
-### P2: Cross-review panpsychism.md considering russellian-monism insights
+### ✓ 2026-01-14: Cross-review retrocausality.md considering collapse-and-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/collapse-and-time.md explores how consciousness's participation in collapse may be atemporal. Review concepts/retrocausality.md for opportunities to strengthen the connection between time-symmetric physics and consciousness's role—the collapse-and-time article provides deeper theoretical grounding for retrocausal models.
+- **Source**: chain (from collapse-and-time.md)
+- **Generated**: 2026-01-14
+- **Result**: Added collapse-and-time to concepts list; added paragraph in Time-Symmetric QM section connecting to multiple arrows of time and consciousness's role in temporal structure; enhanced Atemporal Selection Model section with reference to consciousness constituting time's arrow; added collapse-and-time as first entry in Further Reading
+- **Output**: Updated `concepts/retrocausality.md`
+
+### ✓ 2026-01-14: Cross-review panpsychism.md considering russellian-monism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/russellian-monism.md covers the view that consciousness is the intrinsic nature of matter. Review concepts/panpsychism.md for opportunities to distinguish panpsychism proper from Russellian monism—both posit ubiquitous mentality but for different reasons and with different implications.
 - **Source**: chain (from russellian-monism.md)
 - **Generated**: 2026-01-14
+- **Result**: Added russellian-monism to concepts list; created new "Russellian Panpsychism and Its Variants" subsection with quiddities explanation, distinction between panpsychist and panprotopsychist variants, Chalmers's revenge argument against panprotopsychism; added russellian-monism to Further Reading
+- **Output**: Updated `concepts/panpsychism.md`
 
-### P2: Cross-review substance-property-dualism.md considering russellian-monism insights
+### ✓ 2026-01-14: Cross-review substance-property-dualism.md considering russellian-monism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/russellian-monism.md is explicitly compared with dualist alternatives. Review concepts/substance-property-dualism.md for opportunities to reference Russellian monism as a sophisticated alternative that claims to avoid dualism's problems while potentially inheriting them under a different name.
 - **Source**: chain (from russellian-monism.md)
 - **Generated**: 2026-01-14
+- **Result**: Added russellian-monism to concepts list; linked Russellian monism in Varieties of Property Dualism section; added Pautz's critique that RM is "dualism under another name" with explanation of why site's explicit dualism is preferable; added russellian-monism to Further Reading
+- **Output**: Updated `concepts/substance-property-dualism.md`
 
 ### ✓ 2026-01-14: Research the knowledge argument (Mary's Room)
 - **Type**: research-topic
