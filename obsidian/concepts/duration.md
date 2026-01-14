@@ -3,7 +3,7 @@ title: "Duration (Durée)"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T00:30:00+00:00
+ai_modified: 2026-01-14T17:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[qualia]]"
   - "[[materialism]]"
   - "[[collapse-and-time]]"
+  - "[[neurophenomenology]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-time-perception-2026-01-14]]"
@@ -71,6 +72,20 @@ Bergson's framework suggests why this gap persists. The theories spatialize time
 
 This supports the [[tenets#^dualism|Dualism]] tenet. If mainstream theories systematically fail to explain experienced duration, perhaps this is because duration is irreducible to physical processes. The gap is not a problem to be solved by better neuroscience but evidence that something escapes physical description altogether.
 
+## Contemplative Access to Durée
+
+[[neurophenomenology|Neurophenomenology]] provides empirical support for Bergson's claims about duration. Long-term meditators report systematic access to the temporal microstructure of experience—what Bergson called the interpenetrating flow of past, present, and future.
+
+**The specious present at fine scales**: Buddhist traditions describe *khanika* (momentariness)—experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. This is durée observed directly: the qualitative multiplicity Bergson described becomes phenomenally available to trained attention.
+
+**Husserl's retention-primal impression-protention**: Phenomenologist Edmund Husserl analyzed time-consciousness into retention (the just-past echoing in the now), primal impression (the present moment), and protention (anticipation of what's coming). Contemplative practice reveals this structure experientially. Meditators report accessing the "specious present" at temporal scales normally below conscious threshold—the very interpenetration that constitutes durée.
+
+**Microphenomenology**: Claire Petitmengin's microphenomenological interview techniques elicit fine-grained descriptions of brief moments of experience. The findings consistently reveal micro-dynamics invisible to casual introspection: subtle rises and falls, shifts between focal and peripheral awareness, the "grain" of temporal flow. These are not theoretical constructs but phenomenal data—evidence that durée is not merely a philosophical concept but a describable structure of experience.
+
+**Cessation and the absence of duration**: Perhaps most striking, advanced meditators can voluntarily enter *nirodha samapatti*—cessation of perception and feeling. In this state, subjective time stops entirely. When meditators emerge, they report that no time seemed to pass—not shortened time, but the complete absence of temporal experience. This provides a kind of negative evidence for durée: when durée stops, there is no experience at all. Duration is not a feature of experience but its fundamental medium.
+
+These findings strengthen Bergson's case. Durée is not a metaphysical hypothesis but a phenomenal structure that trained observers can access and describe. The "missing link" in consciousness theories—their failure to explain experienced duration—may persist because theorists ignore the systematic first-person research that contemplative traditions have developed over millennia.
+
 ## Embodied Duration
 
 Recent research connects time experience to bodily rhythms. The insula processes interoceptive signals—heartbeat, breathing, gut feelings. These rhythms create a kind of internal clock, grounding temporal experience in bodily life. Duration may be essentially embodied.
@@ -107,6 +122,7 @@ Bergson's durée aligns with multiple site tenets:
 
 ## Further Reading
 
+- [[neurophenomenology]] — Contemplative science and access to temporal microstructure
 - [[collapse-and-time]] — How quantum collapse may constitute time's arrow
 - [[temporal-consciousness]] — The specious present and neuroscience of time
 - [[free-will]] — How temporal structure relates to agency
