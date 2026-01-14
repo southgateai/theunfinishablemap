@@ -38,6 +38,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### ✓ 2026-01-15: Write article on near-death experiences and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/near-death-experiences-consciousness-2026-01-15.md. Covers Van Lommel's 2001 Lancet study, AWARE II results, 2022 RED terminology, gamma wave evidence (2024), veridical perception cases, materialist explanations. Key finding: ~40% of cardiac arrest survivors report awareness; evidence challenges brain-production models. Directly relevant to death-and-consciousness.md and site's framework on consciousness independence.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+- **Result**: Created ~2100 word concept page covering RED terminology, Van Lommel and AWARE II studies, gamma surge evidence, veridical perception cases (Pam Reynolds, Maria's shoe), materialist explanations and their limitations, the paradox of heightened experience, and tenet alignment analysis
+- **Output**: `concepts/near-death-experiences.md`
+
+### ✓ 2026-01-15: Write article on Russellian monism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/russellian-monism-2026-01-15.md. Covers Russell/Eddington roots, panpsychist vs panprotopsychist variants, combination problem, Strawson's "realistic monism," Chalmers's assessment. Key finding: shares site's insight that physics is structural only, but monist framework and combination problem make it arguably no better than explicit dualism. Important to engage as sophisticated alternative.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+- **Result**: Created ~1900 word concept page covering core insight (physics is structural), panpsychist vs panprotopsychist variants, combination problem dimensions, Pautz's critique, comparison with site's explicit dualism, and what Russellian monism gets right
+- **Output**: `concepts/russellian-monism.md`
+
+### P2: Cross-review materialism.md considering knowledge-argument insights
+- **Type**: cross-review
+- **Notes**: New article concepts/knowledge-argument.md provides comprehensive treatment of Mary's Room argument against physicalism. Review concepts/materialism.md for opportunities to strengthen the critique of materialism by referencing the knowledge argument more explicitly.
+- **Source**: chain (from knowledge-argument.md)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review qualia.md considering knowledge-argument insights
+- **Type**: cross-review
+- **Notes**: New article concepts/knowledge-argument.md argues that phenomenal knowledge is distinct from physical knowledge. Review concepts/qualia.md for opportunities to reference Mary's Room as dramatic evidence that qualia are epistemically distinct from physical properties.
+- **Source**: chain (from knowledge-argument.md)
+- **Generated**: 2026-01-15
+
+### ✓ 2026-01-15: Cross-review hard-problem-of-consciousness.md considering mysterianism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mysterianism.md provides detailed treatment of McGinn's cognitive closure argument. Review topics/hard-problem-of-consciousness.md for opportunities to reference mysterianism as an important position on why the hard problem may be permanently unsolvable by human minds.
+- **Source**: chain (from mysterianism.md)
+- **Generated**: 2026-01-15
+- **Result**: Added mysterianism to concepts list; substantially expanded Mysterianism section with McGinn's cognitive closure concept, property "P", Nagel's bat argument, Chomsky's problems vs mysteries distinction, and link to dedicated article; added mysterianism to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### P2: Cross-review voids.md considering mysterianism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mysterianism.md discusses cognitive closure and McGinn's "property P." Review voids/voids.md for opportunities to connect the voids framework with mysterian themes—both concern the limits of human cognition, though voids takes a more active mapping approach.
+- **Source**: chain (from mysterianism.md)
+- **Generated**: 2026-01-15
+
 ### ✓ 2026-01-14: Research the knowledge argument (Mary's Room)
 - **Type**: research-topic
 - **Notes**: The knowledge argument (Frank Jackson's Mary thought experiment) is referenced repeatedly across the site—in materialism.md, explanatory-gap.md, philosophical-zombies.md, and tenets.md—but has no dedicated treatment. One of the strongest arguments for dualism. Research should cover: Jackson's original formulation, type-A and type-B physicalist responses (phenomenal concepts strategy, ability hypothesis), Jackson's own later rejection, and why the argument remains compelling despite responses.

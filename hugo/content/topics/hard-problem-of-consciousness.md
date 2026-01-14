@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-14 19:15:00+00:00
+ai_modified: 2026-01-15 04:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[intentionality]]'
 - '[[illusionism]]'
 - '[[predictive-processing]]'
+- '[[mysterianism]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -182,11 +183,17 @@ Still, IIT represents one of the most rigorous attempts to take consciousness se
 
 ### Mysterianism
 
-Some philosophers argue that the hard problem may be permanently beyond human understanding. Colin McGinn's "new mysterianism" holds that human minds are *cognitively closed* with respect to the mind-body connection—we lack and may forever lack the conceptual apparatus to understand how physical processes give rise to experience.
+[Mysterianism](/concepts/mysterianism/) proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp how mind relates to matter. Colin McGinn developed this position through the concept of *cognitive closure*: just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness.
 
-This is not mysticism. McGinn's position is that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other kinds of minds—perhaps alien intelligences or artificial systems with different architectures—might access it. But human cognition has evolved constraints that exclude certain conceptual territories.
+McGinn proposes we are closed to property "P"—whatever property of the brain explains how neural activity gives rise to experience. We access consciousness through introspection and brain through perception, but neither mode of access reveals the connection. The solution might be natural, even simple—but forever beyond beings like us.
 
-This possibility aligns with [apophatic approaches to the unknowable](/voids/apophatic-approaches/)—philosophical methods for approaching what cannot be directly grasped. If the hard problem marks a genuine cognitive limit, we may need to trace its boundaries through negation rather than expecting to solve it directly.
+This is not mysticism or defeatism. McGinn holds that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other minds—alien intelligences, artificial systems with different architectures—might access it. But human cognition evolved for survival, not metaphysics, and some conceptual territories may be permanently excluded.
+
+Thomas Nagel anticipated this in "What Is It Like to Be a Bat?"—objective scientific methods cannot capture subjective experience without loss. Noam Chomsky reinforced it with his distinction between "problems" (difficulties within our cognitive reach) and "mysteries" (questions that lie beyond it). The hard problem's persistence despite centuries of effort suggests it may be mystery rather than problem.
+
+The mysterian position aligns with the site's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. Our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. When physicalism seems simpler than dualism, that may mean only that we're closed to the complexity involved.
+
+See [mysterianism](/concepts/mysterianism/) for detailed treatment of cognitive closure, the problems-versus-mysteries distinction, and how mysterianism relates to this site's framework.
 
 ### Introspective Limits and Cognitive Slippage
 
@@ -242,6 +249,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [predictive-processing](/concepts/predictive-processing/) — The most sophisticated contemporary functionalism
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A mathematical theory identifying consciousness with integrated information
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How quantum mechanics might relate to consciousness
+- [mysterianism](/concepts/mysterianism/) — The view that consciousness may exceed human cognitive capacities
 - [apophatic-approaches](/voids/apophatic-approaches/) — Methods for approaching what may exceed human understanding
 - [tenets](/tenets/) — The foundational commitments of this site
 
