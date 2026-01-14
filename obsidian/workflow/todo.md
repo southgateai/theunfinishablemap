@@ -300,11 +300,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from neural-correlates-of-consciousness.md)
 - **Generated**: 2026-01-15
 
-### P2: Cross-review free-will.md considering mental-effort insights
+### ✓ 2026-01-15: Cross-review free-will.md considering mental-effort insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mental-effort.md covers Stapp's quantum Zeno mechanism and Schwartz's OCD neuroplasticity evidence. Review topics/free-will.md for opportunities to connect libertarian free will with the phenomenology of effort.
 - **Source**: chain (from mental-effort.md)
 - **Generated**: 2026-01-15
+- **Result**: Added mental-effort to concepts list; expanded "What Free Will Requires" section with new paragraph connecting phenomenology of effort to evidence for bidirectional interaction; added mental-effort to Further Reading
+- **Output**: Updated `topics/free-will.md`
 
 ### P2: Cross-review quantum-consciousness.md considering mental-effort insights
 - **Type**: cross-review
