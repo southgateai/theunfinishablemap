@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T14:00:00+00:00
+ai_modified: 2026-01-14T15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -638,29 +638,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering Koch's posterior cortical hot zone, COGITATE adversarial collaboration (IIT vs GNWT), April 2025 Nature publication results, and philosophical implications for dualism. Key finding: NCC research is neutral on materialism vs dualism—correlates are predicted by interactionism.
 - **Output**: `research/neural-correlates-consciousness-2026-01-14.md`
 
-### P2: Write article on split-brain cases and consciousness unity
+### ✓ 2026-01-14: Write article on split-brain cases and consciousness unity
 - **Type**: expand-topic
 - **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Covers Sperry/Gazzaniga findings, 2025 PNAS study on minimal fiber connections, Nagel's 1971 indeterminacy thesis, and implications for binding problem and personal identity. Key finding: consciousness may be more unified than classical split-brain picture suggests, and the indeterminacy itself may support dualism over reductive materialism.
 - **Source**: chain (from research-topic)
 - **Generated**: 2026-01-14
+- **Result**: Created ~2000 word article covering classic Sperry/Gazzaniga experiments, 2025 minimal-fiber findings, Nagel's indeterminacy thesis, connection to binding problem, personal identity implications, and relation to all site tenets
+- **Output**: `topics/split-brain-consciousness.md`
 
 ### P2: Cross-review binding-problem.md considering split-brain insights
 - **Type**: cross-review
-- **Notes**: Once the split-brain article is written, review concepts/binding-problem.md for opportunities to connect split-brain phenomena with the binding problem—particularly how perceptual binding divides while phenomenal unity may persist.
-- **Source**: chain (from split-brain article, pending)
+- **Notes**: New article topics/split-brain-consciousness.md covers the layered unity model and connection to BP1/BP2. Review concepts/binding-problem.md for opportunities to add split-brain discussion—particularly how perceptual binding divides while phenomenal unity persists.
+- **Source**: chain (from split-brain-consciousness.md)
 - **Generated**: 2026-01-14
 
 ### P2: Cross-review personal-identity.md considering split-brain insights
 - **Type**: cross-review
-- **Notes**: Once the split-brain article is written, review topics/personal-identity.md for opportunities to discuss how split-brain cases challenge simple views of unified personal identity while supporting the site's indexical approach.
-- **Source**: chain (from split-brain article, pending)
+- **Notes**: New article topics/split-brain-consciousness.md discusses Nagel's indeterminacy and Schechter's reconciliation account. Review topics/personal-identity.md for opportunities to discuss how split-brain cases challenge simple views of unified personal identity while supporting indexical approach.
+- **Source**: chain (from split-brain-consciousness.md)
 - **Generated**: 2026-01-14
 
-### P2: Create concept page for philosophical zombies
+### ✓ 2026-01-14: Create concept page for philosophical zombies
 - **Type**: expand-topic
 - **Notes**: The zombie argument (Chalmers) is referenced 26+ times across the site but lacks a dedicated concept page. Central thought experiment for understanding the hard problem and supporting Dualism tenet. Should cover: zombie conceivability argument, responses (type-A and type-B physicalism), connection to explanatory gap.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Created ~2000 word concept page covering the zombie argument, conceivability-possibility link, physicalist responses (type-A, type-B, phenomenal concepts strategy), connection to functionalism, self-stultification problem, and relation to site tenets
+- **Output**: `concepts/philosophical-zombies.md`
 
 ### P2: Research phenomenal concepts strategy
 - **Type**: research-topic

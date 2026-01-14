@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 00:00:00+00:00
+ai_modified: 2026-01-14 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -150,23 +150,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering philosophical arguments for/against survival (Plato, Descartes, Ducasse, van Inwagen), personal identity problem, near-death experience evidence (2024/2025 studies), Hameroff's quantum soul hypothesis. Key finding: site's commitment to non-reducible consciousness and indexical identity provides stronger resources for survival than materialist alternatives.
 - **Output**: `research/death-consciousness-persistence-2026-01-14.md`
 
-### P2: Research split-brain cases and unified consciousness
+### ✓ 2026-01-14: Research split-brain cases and unified consciousness
 - **Type**: research-topic
 - **Notes**: Corpus callosotomy patients challenge assumptions about unified consciousness. Covers: Sperry and Gazzaniga's experiments, what "two streams of consciousness" means for dualism, Nagel's 1971 analysis, and implications for the binding problem. Important because: (1) empirical challenge to simple unity thesis, (2) connects to binding-problem article, (3) relevant to No Many Worlds (what individuates subjects?). Suggested in optimistic-2026-01-13.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering 2025 PNAS study (minimal fibers preserve unity), Nagel's 1971 indeterminacy thesis, three main positions (split/unified/layered consciousness), implications for binding problem and dualism
+- **Output**: `research/split-brain-consciousness-unity-2026-01-14.md`
 
-### P2: Cross-review ai-consciousness.md considering animal consciousness insights
+### ✓ 2026-01-14: Cross-review ai-consciousness.md considering animal consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/animal-consciousness.md argues dualism handles animal minds better than materialism and connects to the voids framework. Review topics/ai-consciousness.md for opportunities to draw parallels between animal consciousness and AI consciousness questions—both involve other minds whose subjective experience we cannot directly access.
 - **Source**: chain (from animal-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added "Comparison with Animal Minds" subsection under Epistemic Problem contrasting convergent evidence for animals (evolution, neuroscience) with divergent/behavioural-only evidence for AI
+- **Output**: Updated `topics/ai-consciousness.md`
 
-### P2: Cross-review personal-identity.md considering death/survival insights
+### ✓ 2026-01-14: Cross-review personal-identity.md considering death/survival insights
 - **Type**: cross-review
 - **Notes**: New article topics/death-and-consciousness.md explores survival implications of indexical identity. Review topics/personal-identity.md for opportunities to connect identity theory more explicitly to death and survival questions—the article's rejection of Parfit's reductionism has direct implications for what survival would mean.
 - **Source**: chain (from death-and-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Expanded Implications for Survival with bodily death scenario, added "Quantum Persistence Question" subsection challenging Hameroff's hypothesis on indexical grounds, linked death-and-consciousness throughout
+- **Output**: Updated `topics/personal-identity.md`
 
 ### ✓ 2026-01-14: Write article on Global Workspace Theory
 - **Type**: expand-topic
@@ -632,6 +638,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-14
 - **Result**: Comprehensive research covering Koch's posterior cortical hot zone, COGITATE adversarial collaboration (IIT vs GNWT), April 2025 Nature publication results, and philosophical implications for dualism. Key finding: NCC research is neutral on materialism vs dualism—correlates are predicted by interactionism.
 - **Output**: `research/neural-correlates-consciousness-2026-01-14.md`
+
+### P2: Write article on split-brain cases and consciousness unity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Covers Sperry/Gazzaniga findings, 2025 PNAS study on minimal fiber connections, Nagel's 1971 indeterminacy thesis, and implications for binding problem and personal identity. Key finding: consciousness may be more unified than classical split-brain picture suggests, and the indeterminacy itself may support dualism over reductive materialism.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review binding-problem.md considering split-brain insights
+- **Type**: cross-review
+- **Notes**: Once the split-brain article is written, review concepts/binding-problem.md for opportunities to connect split-brain phenomena with the binding problem—particularly how perceptual binding divides while phenomenal unity may persist.
+- **Source**: chain (from split-brain article, pending)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review personal-identity.md considering split-brain insights
+- **Type**: cross-review
+- **Notes**: Once the split-brain article is written, review topics/personal-identity.md for opportunities to discuss how split-brain cases challenge simple views of unified personal identity while supporting the site's indexical approach.
+- **Source**: chain (from split-brain article, pending)
+- **Generated**: 2026-01-14
+
+### P2: Create concept page for philosophical zombies
+- **Type**: expand-topic
+- **Notes**: The zombie argument (Chalmers) is referenced 26+ times across the site but lacks a dedicated concept page. Central thought experiment for understanding the hard problem and supporting Dualism tenet. Should cover: zombie conceivability argument, responses (type-A and type-B physicalism), connection to explanatory gap.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research phenomenal concepts strategy
+- **Type**: research-topic
+- **Notes**: Major physicalist response to the knowledge argument and zombie argument. Claims the explanatory gap is epistemic rather than metaphysical—phenomenal concepts are special but don't reveal non-physical properties. Site should engage this response to strengthen Dualism tenet. Connects to qualia, explanatory-gap, and materialism articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
