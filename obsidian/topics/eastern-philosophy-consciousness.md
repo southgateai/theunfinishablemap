@@ -3,7 +3,7 @@ title: "Eastern Philosophy and Consciousness"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-14T17:15:00+00:00
+ai_modified: 2026-01-15T14:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[nihilism]]"
   - "[[existentialism]]"
   - "[[neurophenomenology]]"
+  - "[[dreams-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
@@ -110,6 +111,20 @@ Recent research has begun validating this approach empirically:
 
 These findings demonstrate that contemplative traditions offer not just philosophical claims but empirical methods for investigating consciousness systematically.
 
+### Dream Yoga: Consciousness in Sleep
+
+Tibetan Buddhist dream yoga (*mi-lam*) provides another empirical avenue for consciousness investigation. This millennium-old tradition trains practitioners to maintain awareness during sleep—both within dreams and through dreamless states.
+
+Dream yoga proceeds through progressive stages: achieving lucidity within dreams, overcoming fear by recognizing dream contents cannot harm, controlling and transforming dream objects through intention, and ultimately recognizing the dream body's insubstantiality—that consciousness persists even as the sense of embodiment dissolves. The practice culminates in "sleep yoga," maintaining awareness through dreamless sleep, where the body sleeps but the mind stays aware.
+
+The philosophical significance is profound. Dream yoga reveals that waking experience and dream experience share a common structure: both are constructions of mind. The vivid sensory world we navigate while awake is, like the dream world, an appearance within consciousness—not a direct perception of external reality. This insight undermines naive realism: if dreams can produce fully convincing experiential worlds, waking experience might be similarly constructed.
+
+Recent lucid dreaming research validates aspects of this tradition. The 2025 Demirel findings identify lucid dreaming as a distinct consciousness state with its own neural signature—not merely a blend of waking and REM sleep but "the emergence of a stable third phase marked by recursive symbolic awareness." Two-way communication experiments (2021) confirm that lucid dreamers can exchange information with experimenters in real time while verifiably in REM sleep.
+
+For the site's framework, dream yoga demonstrates [[tenets#^bidirectional-interaction|Bidirectional Interaction]] within the experiential domain: dreamers volitionally control dream contents through intention. It also supports the filter theory interpretation: dreams are what consciousness does when sensory constraints are removed, using the brain's representational capacities freely rather than for external representation.
+
+The Dalai Lama emphasizes dream yoga's existential significance: "Training during dreams prepares for maintaining awareness at death." If consciousness can persist through dreamless sleep—independent of dream content or typical neural patterns—perhaps it can persist through the brain's cessation entirely.
+
 ## Points of Tension
 
 ### No Permanent Self
@@ -168,6 +183,7 @@ Eastern philosophy offers several insights the site can integrate:
 
 ## Further Reading
 
+- [[dreams-and-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
 - [[neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
 - [[meaning-of-life]] — Western approaches to significance
 - [[nihilism]] — Compare Buddhist and Western responses to meaninglessness
