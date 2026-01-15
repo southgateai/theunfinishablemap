@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T14:30:00+00:00
-session_count: 95
+last_updated: 2026-01-15T22:45:00+00:00
+session_count: 96
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 121  # +1 argument (many-worlds)
-  published_files: 94  # +1 (many-worlds argument)
+  total_files: 122  # +1 argument (against-epiphenomenalism)
+  published_files: 95  # +1 (against-epiphenomenalism argument)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -57,11 +57,11 @@ convergence_targets:
 progress:
   topics_written: 11  # unchanged
   concepts_written: 54  # unchanged
-  arguments_written: 3  # +1: many-worlds (session 95)
+  arguments_written: 4  # +1: against-epiphenomenalism (session 96)
   questions_written: 1
   voids_written: 3
   research_notes: 54  # unchanged
-  reviews_completed: 130  # +2: causal-closure, epiphenomenalism cross-reviews (session 95)
+  reviews_completed: 132  # +2: quantum-consciousness, measurement-problem cross-reviews (session 96)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (against-epiphenomenalism-argument)
+    date: 2026-01-15
+    result: success
+    session: 96
+    note: ~2000 word argument page—5 arguments (self-stultification, evolutionary, knowledge argument reversed, introspection, self-knowledge), connected to quantum framework
+  - task: cross-review (quantum-consciousness/many-worlds-argument)
+    date: 2026-01-15
+    result: success
+    session: 96
+    note: Added many-worlds to related_articles and Further Reading; expanded No Many Worlds tenet reference with five arguments
+  - task: cross-review (measurement-problem/many-worlds-argument)
+    date: 2026-01-15
+    result: success
+    session: 96
+    note: Expanded MWI subsection with link to five detailed arguments; added many-worlds to Further Reading
   - task: expand-topic (against-many-worlds-argument)
     date: 2026-01-15
     result: success
@@ -1108,14 +1123,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # consciousness-selecting research, against-epiphenomenalism
+  p2_tasks: 2  # consciousness-selecting research, against-functionalism
   p3_tasks: 1  # consciousness-selecting concept page
   needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
-  last_replenishment: 2026-01-15T13:00:00+00:00
+  last_replenishment: 2026-01-15T21:30:00+00:00
   replenishment_source_counts:
     chain: 0  # completed this session
     unconsumed_research: 0
-    gap_analysis: 2  # consciousness-selecting research, against-epiphenomenalism argument
+    gap_analysis: 2  # consciousness-selecting research, against-functionalism
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T14:30:00+00:00
+ai_modified: 2026-01-15T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,9 +43,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Create argument page "Against Epiphenomenalism"
+### P2: Create argument page "Against Functionalism"
 - **Type**: expand-topic
-- **Notes**: The arguments section targets 5 pages but currently has only 2 (Against Materialism, For Interactionist Dualism). Epiphenomenalism is a major alternative to interactionism that the site's Bidirectional Interaction tenet directly rejects. Should cover: self-stultification argument (if consciousness is causally inert, our reports about it are accidentally right at best), evolutionary argument (phenomenal states must do something to have been selected), knowledge argument implications (Mary learns something causally relevant). Draw from epiphenomenalism.md and mental-causation.md.
+- **Notes**: The arguments section needs 5 pages (currently 3). Functionalism is a major materialist position that the zombie argument and inverted qualia arguments undermine. Should cover: multiple realizability cuts both ways (if mental states are multiply realizable, physical substrate doesn't determine qualia), Chinese Room argument (syntax isn't semantics), absent qualia possibility, inverted qualia possibility. Draw from functionalism.md, philosophical-zombies.md, and inverted-qualia.md.
 - **Source**: gap_analysis (arguments gap)
 - **Generated**: 2026-01-15
 
@@ -56,6 +56,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Create argument page "Against Epiphenomenalism"
+- **Type**: expand-topic
+- **Notes**: The arguments section targets 5 pages but currently has only 2 (Against Materialism, For Interactionist Dualism). Epiphenomenalism is a major alternative to interactionism that the site's Bidirectional Interaction tenet directly rejects. Should cover: self-stultification argument (if consciousness is causally inert, our reports about it are accidentally right at best), evolutionary argument (phenomenal states must do something to have been selected), knowledge argument implications (Mary learns something causally relevant). Draw from epiphenomenalism.md and mental-causation.md.
+- **Result**: Created ~2000 word argument page with five arguments (self-stultification, evolutionary objection, knowledge argument reversed, introspection problem, self-knowledge problem). Connected to all five tenets and linked to quantum framework response.
+- **Output**: `arguments/epiphenomenalism.md`, updated `arguments/arguments.md`
+
+### ✓ 2026-01-15: Cross-review quantum-consciousness.md considering many-worlds argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds.md presents five arguments against MWI including the probability problem and preferred basis problem. Review concepts/quantum-consciousness.md to strengthen the connection—the quantum consciousness page should reference how site's collapse-based framework contrasts with MWI's unitarity assumption.
+- **Result**: Added many-worlds to related_articles; expanded No Many Worlds tenet reference with link to five arguments; added many-worlds explanation in shared features section; added many-worlds to Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review measurement-problem.md considering many-worlds argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds.md covers the measurement problem from an anti-MWI perspective. Review concepts/measurement-problem.md to add explicit engagement with MWI as a proposed solution and why the site rejects it—this strengthens the No Many Worlds tenet.
+- **Result**: Added many-worlds to related_articles; expanded MWI subsection with link to five detailed arguments; added many-worlds to Further Reading.
+- **Output**: Updated `concepts/measurement-problem.md`
 
 ### ✓ 2026-01-15: Create argument page "Against Many Worlds"
 - **Type**: expand-topic
