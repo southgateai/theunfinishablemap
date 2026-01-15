@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T23:45:00+00:00
+ai_modified: 2026-01-16T00:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,22 +43,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Research quantum biology and consciousness
-- **Type**: research-topic
-- **Notes**: Avian magnetoreception demonstrates evolution can harness quantum coherence for biological function. What other quantum biological effects exist? Photosynthesis quantum coherence, enzyme tunneling, olfaction theories. How do these relate to the possibility of neural quantum effects? Would strengthen the decoherence objection response and provide empirical grounding for Minimal Quantum Interaction tenet.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
 ### P2: Research the luck objection to libertarian free will
 - **Type**: research-topic
 - **Notes**: The luck objection (van Inwagen, Mele) argues that indeterminism makes actions random rather than free. Kane's response appeals to self-forming actions; agent-causation theorists appeal to substance causation. How does the site's quantum selection framework address this? Is consciousness-directed selection different from mere randomness? Would strengthen free-will.md and agent-causation.md.
 - **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
-### P2: Cross-review arguments/materialism.md considering decoherence research
-- **Type**: cross-review
-- **Notes**: Research in quantum-decoherence-objection-responses-2026-01-15.md includes key finding that decoherence doesn't solve the measurement problem—physics remains incomplete at collapse. Review arguments/materialism.md to strengthen Argument 4 (Physics Is Incomplete) with specific decoherence-collapse analysis.
-- **Source**: chain (from decoherence research)
 - **Generated**: 2026-01-16
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
@@ -74,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Research quantum biology and consciousness
+- **Type**: research-topic
+- **Notes**: Avian magnetoreception demonstrates evolution can harness quantum coherence for biological function. What other quantum biological effects exist? Photosynthesis quantum coherence, enzyme tunneling, olfaction theories. How do these relate to the possibility of neural quantum effects? Would strengthen the decoherence objection response and provide empirical grounding for Minimal Quantum Interaction tenet.
+- **Result**: Comprehensive research covering established quantum biological effects (photosynthesis FMO complex, avian magnetoreception with Jan 2026 Princeton confirmation, enzyme quantum tunneling, quantum olfaction) and brain quantum effects (Orch OR, QBIT theories). Key findings: biological quantum effects prove evolution can harness coherence; the "warm, wet, and noisy" objection is weaker than claimed; measurement problem remains open in all cases.
+- **Output**: `research/quantum-biology-consciousness-2026-01-16.md`
+
+### ✓ 2026-01-16: Cross-review arguments/materialism.md considering decoherence research
+- **Type**: cross-review
+- **Notes**: Research in quantum-decoherence-objection-responses-2026-01-15.md includes key finding that decoherence doesn't solve the measurement problem—physics remains incomplete at collapse. Review arguments/materialism.md to strengthen Argument 4 (Physics Is Incomplete) with specific decoherence-collapse analysis.
+- **Result**: Strengthened decoherence objection section with Tegmark-Hameroff dispute (7 orders of magnitude difference), avian magnetoreception as biological proof of evolved quantum coherence, and key insight that decoherence doesn't solve the measurement problem—physics remains incomplete at collapse.
+- **Output**: Updated `arguments/materialism.md`
 
 ### ✓ 2026-01-15: Cross-review tenets.md with decoherence research
 - **Type**: cross-review

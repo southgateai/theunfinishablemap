@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 23:45:00+00:00
+ai_modified: 2026-01-16 00:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,13 +44,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
+### P2: Research the luck objection to libertarian free will
+- **Type**: research-topic
+- **Notes**: The luck objection (van Inwagen, Mele) argues that indeterminism makes actions random rather than free. Kane's response appeals to self-forming actions; agent-causation theorists appeal to substance causation. How does the site's quantum selection framework address this? Is consciousness-directed selection different from mere randomness? Would strengthen free-will.md and agent-causation.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-16
+
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-13
 
+### P3: Deep review split-brain-consciousness.md for currency
+- **Type**: deep-review
+- **Notes**: AI-generated content from session 47 that hasn't received a deep review. Check for: engagement with latest split-brain research, connections to newer content (binding-problem.md, personal-identity.md), tenet alignment strength.
+- **Source**: staleness
+- **Generated**: 2026-01-16
+
 ## Completed Tasks
+
+### ✓ 2026-01-16: Research quantum biology and consciousness
+- **Type**: research-topic
+- **Notes**: Avian magnetoreception demonstrates evolution can harness quantum coherence for biological function. What other quantum biological effects exist? Photosynthesis quantum coherence, enzyme tunneling, olfaction theories. How do these relate to the possibility of neural quantum effects? Would strengthen the decoherence objection response and provide empirical grounding for Minimal Quantum Interaction tenet.
+- **Result**: Comprehensive research covering established quantum biological effects (photosynthesis FMO complex, avian magnetoreception with Jan 2026 Princeton confirmation, enzyme quantum tunneling, quantum olfaction) and brain quantum effects (Orch OR, QBIT theories). Key findings: biological quantum effects prove evolution can harness coherence; the "warm, wet, and noisy" objection is weaker than claimed; measurement problem remains open in all cases.
+- **Output**: `research/quantum-biology-consciousness-2026-01-16.md`
+
+### ✓ 2026-01-16: Cross-review arguments/materialism.md considering decoherence research
+- **Type**: cross-review
+- **Notes**: Research in quantum-decoherence-objection-responses-2026-01-15.md includes key finding that decoherence doesn't solve the measurement problem—physics remains incomplete at collapse. Review arguments/materialism.md to strengthen Argument 4 (Physics Is Incomplete) with specific decoherence-collapse analysis.
+- **Result**: Strengthened decoherence objection section with Tegmark-Hameroff dispute (7 orders of magnitude difference), avian magnetoreception as biological proof of evolved quantum coherence, and key insight that decoherence doesn't solve the measurement problem—physics remains incomplete at collapse.
+- **Output**: Updated `arguments/materialism.md`
 
 ### ✓ 2026-01-15: Cross-review tenets.md with decoherence research
 - **Type**: cross-review
