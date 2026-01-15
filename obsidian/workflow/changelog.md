@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-15T12:30:00+00:00
+ai_modified: 2026-01-16T00:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,29 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-15
+
+### Session 97 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 97
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 00:30 - cross-review (mental-causation/epiphenomenalism-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/mental-causation.md`
+- **Changes**: Added epiphenomenalism-argument to related_articles; expanded self-stultification section with formal argument structure (5 numbered premises from arguments/epiphenomenalism.md); added epiphenomenalism-argument page to Further Reading.
+
+### 00:00 - cross-review (personal-identity/many-worlds-argument)
+- **Status**: Success
+- **Output**: Updated `topics/personal-identity.md`
+- **Changes**: Added many-worlds to concepts list; expanded "No Many Worlds Connection" section with link to formal argument page and detailed explanation of indexical problem (consciousness fragmentation across branches); added many-worlds to Further Reading.
+
+### 23:45 - expand-topic (Against Functionalism argument page)
+- **Status**: Success
+- **Output**: `arguments/functionalism.md`, updated `arguments/arguments.md`
+- **Changes**: Created ~2400 word argument page presenting five formal arguments against functionalism: (1) absent qualia/zombies, (2) inverted qualia, (3) Chinese Room, (4) multiple realizability cuts both ways, (5) explanatory gap. Each argument has numbered premises and conclusion. Includes objections and responses section. Connected to all five site tenets. Updated arguments section index.
+
+---
 
 ### Session 94 - evolve (standard mode)
 - **Status**: Success

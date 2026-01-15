@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T22:45:00+00:00
+ai_modified: 2026-01-16T00:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Create argument page "Against Functionalism"
-- **Type**: expand-topic
-- **Notes**: The arguments section needs 5 pages (currently 3). Functionalism is a major materialist position that the zombie argument and inverted qualia arguments undermine. Should cover: multiple realizability cuts both ways (if mental states are multiply realizable, physical substrate doesn't determine qualia), Chinese Room argument (syntax isn't semantics), absent qualia possibility, inverted qualia possibility. Draw from functionalism.md, philosophical-zombies.md, and inverted-qualia.md.
-- **Source**: gap_analysis (arguments gap)
-- **Generated**: 2026-01-15
-
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -56,6 +50,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review mental-causation.md considering against-epiphenomenalism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/epiphenomenalism.md presents five structured arguments against epiphenomenalism, particularly the self-stultification argument with formal premises. Review concepts/mental-causation.md to add link to the dedicated argument page and reference the formal argument structure in the self-stultification section.
+- **Result**: Added epiphenomenalism-argument to related_articles; expanded self-stultification section with formal argument structure; added argument page to Further Reading.
+- **Output**: Updated `concepts/mental-causation.md`
+
+### ✓ 2026-01-15: Cross-review personal-identity.md considering many-worlds argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds.md presents five arguments against MWI including the indexical problem (Argument 2). Review topics/personal-identity.md to add explicit link to the many-worlds argument page and strengthen the "Why This Site Disagrees" section with reference to the formal argument structure.
+- **Result**: Added many-worlds to concepts; expanded No Many Worlds Connection section with link to formal argument page and detailed explanation of indexical problem; added many-worlds to Further Reading.
+- **Output**: Updated `topics/personal-identity.md`
+
+### ✓ 2026-01-15: Create argument page "Against Functionalism"
+- **Type**: expand-topic
+- **Notes**: The arguments section needs 5 pages (currently 4: materialism, interactionist-dualism, many-worlds, epiphenomenalism). Functionalism is a major materialist position that the zombie argument and inverted qualia arguments undermine. Should cover: multiple realizability cuts both ways (if mental states are multiply realizable, physical substrate doesn't determine qualia), Chinese Room argument (syntax isn't semantics), absent qualia possibility, inverted qualia possibility. Draw from functionalism.md, philosophical-zombies.md, and inverted-qualia.md.
+- **Result**: Created ~2400 word argument page with five arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses. Connected to all five tenets.
+- **Output**: `arguments/functionalism.md`, updated `arguments/arguments.md`
 
 ### ✓ 2026-01-15: Create argument page "Against Epiphenomenalism"
 - **Type**: expand-topic
