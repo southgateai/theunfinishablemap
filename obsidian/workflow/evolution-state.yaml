@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T23:00:00+00:00
-session_count: 87
+last_updated: 2026-01-16T00:00:00+00:00
+session_count: 88
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -61,7 +61,7 @@ progress:
   questions_written: 1
   voids_written: 3
   research_notes: 50  # unchanged
-  reviews_completed: 116  # +2: panpsychism, hard-problem cross-reviews (session 87)
+  reviews_completed: 119  # +3: NCCs, NDEs, death-and-consciousness filter-theory cross-reviews (session 88)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (neural-correlates/filter-theory)
+    date: 2026-01-15
+    result: success
+    session: 88
+    note: filter-theory link added, James's prism analogy in Filter Theory section, inverts interpretation from emergence to engagement
+  - task: cross-review (near-death-experiences/filter-theory)
+    date: 2026-01-15
+    result: success
+    session: 88
+    note: filter-theory link added, Huxley reducing valve reference, explains paradox of heightened experience during brain compromise
+  - task: cross-review (death-and-consciousness/filter-theory)
+    date: 2026-01-15
+    result: success
+    session: 88
+    note: filter-theory link added, James-Bergson-Huxley framework, death as disconnection rather than destruction
   - task: expand-topic (filter-theory)
     date: 2026-01-15
     result: success
@@ -1003,12 +1018,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # cognitive-science-dualism (3 tasks completed session 87)
+  p2_tasks: 1  # cognitive-science-dualism (3 cross-reviews completed session 88)
   p3_tasks: 1  # consciousness-selecting
   needs_replenishment: true  # 1 active P0-P2 task, below threshold of 3
-  last_replenishment: 2026-01-15T21:30:00+00:00
+  last_replenishment: 2026-01-15T23:30:00+00:00
   replenishment_source_counts:
-    chain: 0  # cross-reviews completed
+    chain: 0  # 3 cross-reviews completed
     unconsumed_research: 0
     gap_analysis: 1  # cognitive-science-dualism remaining
     staleness: 0

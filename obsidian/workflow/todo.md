@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T22:45:00+00:00
+ai_modified: 2026-01-16T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,6 +50,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review death-and-consciousness.md considering filter-theory insights
+- **Type**: cross-review
+- **Notes**: The filter-theory article discusses consciousness persistence and the "what consciousness would look like if brain filters rather than produces" question. Review topics/death-and-consciousness.md to add filter-theory framework and strengthen the argument for consciousness potentially surviving brain death.
+- **Result**: Added filter-theory to concepts list; linked filter-theory article in The Stakes section with James-Bergson-Huxley attribution; added filter-theory to Further Reading with description.
+- **Output**: Updated `topics/death-and-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review near-death-experiences.md considering filter-theory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/filter-theory.md covers NDEs as evidence for filter/transmission model (paradox of heightened experience during impaired brain function). Review concepts/near-death-experiences.md to link to dedicated filter-theory article and strengthen the theoretical framework explaining why NDEs support dualism.
+- **Result**: Added filter-theory to concepts list; linked filter-theory article in The Paradox of Heightened Experience section with Huxley reducing valve reference; added filter-theory to Further Reading.
+- **Output**: Updated `concepts/near-death-experiences.md`
+
+### ✓ 2026-01-15: Cross-review neural-correlates-of-consciousness.md considering filter-theory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/filter-theory.md provides the dedicated treatment of the transmission model (James, Bergson, Huxley). Review concepts/neural-correlates-of-consciousness.md to add explicit link to filter-theory and strengthen the "Interactionism Predicts Correlations" argument with the filter framework.
+- **Result**: Added filter-theory to concepts list; linked filter-theory article in Filter Theory section with James's prism analogy context; added filter-theory to Further Reading.
+- **Output**: Updated `concepts/neural-correlates-of-consciousness.md`
 
 ### ✓ 2026-01-15: Create concept page for filter-theory
 - **Type**: expand-topic
