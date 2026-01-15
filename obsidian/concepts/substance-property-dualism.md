@@ -1,9 +1,9 @@
 ---
 title: "Substance Dualism vs Property Dualism"
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-14T16:45:00+00:00
+ai_modified: 2026-01-16T03:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,8 @@ concepts:
   - "[[qualia]]"
   - "[[materialism]]"
   - "[[russellian-monism]]"
+  - "[[pairing-problem]]"
+  - "[[quantum-consciousness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -90,6 +92,12 @@ Both views are compatible with [[interactionist-dualism|interactionism]]—thoug
 
 **On survival**: Substance dualism makes personal survival after bodily death conceivable in principle—if mind is a separate substance, it might persist when the body doesn't. Property dualism makes this harder to motivate—if mental properties depend on physical systems, they presumably cease when those systems do.
 
+**On the [[pairing-problem]]**: Kim's pairing problem asks: in virtue of what is *this* mind paired with *this* body? For physical causation, spatial relations answer the question—billiard ball A strikes ball B because they occupy adjacent positions. But if minds lack spatial location (traditional substance dualism), nothing grounds the pairing. Why does M1's intention move B1's hand rather than B2's?
+
+Property dualism avoids this problem trivially. Mental properties are properties *of* brains; they're "paired" with their brains by definition—a property of X is automatically connected to X. The question of pairing doesn't arise.
+
+Substance dualists respond in three ways: (1) accepting that minds are spatially located in the brain where they causally interact (Hasker, Zimmerman); (2) invoking haecceities—primitive "thisness" that grounds pairing without spatial relations (Bailey, Rasmussen, Van Horn); or (3) denying that causation requires spatial relations at all. The site's quantum framework naturally supports the first response: consciousness is located where it interfaces with neural quantum processes.
+
 **On the combination problem**: Property dualism (especially Russellian monism) faces pressure toward [[panpsychism]]—if phenomenal properties are fundamental, they might be everywhere. But panpsychism faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start.
 
 **On parsimony**: Property dualism seems more parsimonious—same objects, different properties, rather than entirely new objects. But as the site's [[tenets#^occam|Occam's Razor Has Limits]] tenet notes, parsimony is a treacherous guide when our concepts may be inadequate.
@@ -122,6 +130,7 @@ The substance/property distinction matters less than it might seem for the site'
 
 - [[russellian-monism]] — A sophisticated middle position that may be dualism under another name
 - [[interactionist-dualism]] — The site's position combining dualism with causal interaction
+- [[pairing-problem]] — Kim's challenge to substance dualism that property dualism avoids
 - [[materialism]] — The view both dualist positions reject
 - [[epiphenomenalism]] — Property dualism's temptation that the site refuses
 - [[qualia]] — The phenomenal properties that dualism holds are irreducible

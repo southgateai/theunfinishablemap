@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review substance-property-dualism.md considering pairing-problem insights
-- **Type**: cross-review
-- **Notes**: New article concepts/pairing-problem.md covers Kim's challenge to substance dualism and three major responses. Review concepts/substance-property-dualism.md to engage with the pairing problem—since it challenges substance dualism specifically, this page should address whether property dualism avoids the problem.
-- **Source**: chain (from pairing-problem.md)
-- **Generated**: 2026-01-16
-
 ### P2: Create argument page "For Interactionist Dualism"
 - **Type**: expand-topic
 - **Notes**: The arguments section has only 1 page (Against Materialism) vs target of 5. A formal argument page for interactionist dualism would consolidate the positive case: knowledge argument, conceivability arguments, unity of consciousness, intentionality, self-stultification of epiphenomenalism. Draw from arguments-for-dualism.md concept page but in structured argument form.
@@ -56,6 +50,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Cross-review substance-property-dualism.md considering pairing-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/pairing-problem.md covers Kim's challenge to substance dualism and three major responses. Review concepts/substance-property-dualism.md to engage with the pairing problem—since it challenges substance dualism specifically, this page should address whether property dualism avoids the problem.
+- **Result**: Added new "On the pairing-problem" subsection in "Where They Differ" explaining Kim's challenge, how property dualism avoids it trivially, and three substance dualist responses (spatial location, haecceity, non-spatial causation). Added pairing-problem and quantum-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/substance-property-dualism.md`
 
 ### ✓ 2026-01-16: Cross-review measurement-problem.md considering consciousness research
 - **Type**: cross-review
