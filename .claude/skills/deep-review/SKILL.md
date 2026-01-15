@@ -131,7 +131,7 @@ ai_contribution: 30  # Or appropriate percentage based on extent of changes
 
 ### 7. Create Review Archive
 
-Save a combined review report to `obsidian/workflow/reviews/deep-review-YYYY-MM-DD-[slug].md`:
+Save a combined review report to `obsidian/reviews/deep-review-YYYY-MM-DD-[slug].md`:
 
 ```markdown
 ---
@@ -206,7 +206,7 @@ Append to `obsidian/workflow/changelog.md`:
 - **Critical issues addressed**: [count]
 - **Medium issues addressed**: [count]
 - **Enhancements made**: [count]
-- **Output**: `workflow/reviews/deep-review-YYYY-MM-DD-[slug].md`
+- **Output**: `reviews/deep-review-YYYY-MM-DD-[slug].md`
 ```
 
 ### 10. Commit Changes

@@ -3,7 +3,7 @@ title: Workflow System
 created: 2026-01-05
 modified: 2026-01-10
 human_modified: 2026-01-05
-ai_modified: 2026-01-10T17:00:00+00:00
+ai_modified: 2026-01-15T01:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -135,7 +135,7 @@ The `/tune-system` skill provides meta-level self-improvement for the automation
 
 ### Output
 
-Creates report at `workflow/reviews/system-tune-YYYY-MM-DD.md` documenting findings, changes applied, and recommendations.
+Creates report at `reviews/system-tune-YYYY-MM-DD.md` documenting findings, changes applied, and recommendations.
 
 ## Running Workflows
 

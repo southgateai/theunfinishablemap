@@ -110,7 +110,7 @@ Identify opportunities for:
 
 ### 4. Generate Report
 
-Create a report at `obsidian/workflow/reviews/optimistic-YYYY-MM-DD.md`:
+Create a report at `obsidian/reviews/optimistic-YYYY-MM-DD.md`:
 
 ```markdown
 ---

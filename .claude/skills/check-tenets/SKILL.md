@@ -70,7 +70,7 @@ For each potential conflict, classify severity:
 
 ### 4. Generate Report
 
-Create a report at `obsidian/workflow/reviews/tenet-check-YYYY-MM-DD.md`:
+Create a report at `obsidian/reviews/tenet-check-YYYY-MM-DD.md`:
 
 ```markdown
 ---

@@ -22,7 +22,7 @@ If a specific file is provided, review that file.
 
 Otherwise, select content using this priority:
 1. Files with `draft: true` (drafts need review before publishing)
-2. Files not yet reviewed (check `obsidian/workflow/reviews/` for existing reviews)
+2. Files not yet reviewed (check `obsidian/reviews/` for existing reviews)
 3. Oldest content by `modified` date
 
 ### 2. Multi-Perspective Critical Analysis
@@ -99,7 +99,7 @@ Also check for:
 
 ### 3. Generate Report
 
-Create a report at `obsidian/workflow/reviews/pessimistic-YYYY-MM-DD.md`:
+Create a report at `obsidian/reviews/pessimistic-YYYY-MM-DD.md`:
 
 ```markdown
 ---

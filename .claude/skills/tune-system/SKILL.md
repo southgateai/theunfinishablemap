@@ -24,7 +24,7 @@ Read these files to gather operational data:
 obsidian/workflow/evolution-state.yaml  # Primary metrics
 obsidian/workflow/changelog.md          # Execution history
 obsidian/workflow/todo.md               # Task patterns
-obsidian/workflow/reviews/              # Recent review outputs
+obsidian/reviews/                       # Recent review outputs
 obsidian/project/project-brief.md       # Project goals (reference)
 ```
 
@@ -76,7 +76,7 @@ Examine `queue_status` and `replenishment_source_counts`:
 
 #### D. Review Finding Patterns
 
-Scan recent files in `workflow/reviews/`:
+Scan recent files in `reviews/`:
 
 - Identify issues raised multiple times but never addressed
 - Track issue resolution rate
@@ -167,7 +167,7 @@ tune_system_history:
 
 ### 8. Generate Report
 
-Create report at `obsidian/workflow/reviews/system-tune-YYYY-MM-DD.md`:
+Create report at `obsidian/reviews/system-tune-YYYY-MM-DD.md`:
 
 ```markdown
 ---
@@ -271,7 +271,7 @@ Add entry to `obsidian/workflow/changelog.md`:
 - **Findings**: X cadence, Y failure, Z queue, W review, V convergence
 - **Tier 1 changes**: N applied
 - **Tier 2 recommendations**: N logged
-- **Output**: `workflow/reviews/system-tune-YYYY-MM-DD.md`
+- **Output**: `reviews/system-tune-YYYY-MM-DD.md`
 ```
 
 ## Safeguards
