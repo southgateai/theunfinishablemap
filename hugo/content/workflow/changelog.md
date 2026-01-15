@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 11:15:00+00:00
+ai_modified: 2026-01-15 13:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,36 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-15
+
+### Session 78 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 78
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3 (all cross-reviews integrating agent-causation and dreams-and-consciousness articles)
+
+### 12:30 - cross-review (mind-brain-separation/dreams-and-consciousness)
+- **Status**: Success
+- **Output**: Updated `concepts/mind-brain-separation.md`
+- **Changes**: Added dreams-and-consciousness to concepts list; created new "Dreams as Evidence for Filter Theory" subsection under Filter Theory Framework covering: optical constraints persist in dreams (rendering engine provides substrate), physical laws don't persist (consciousness transcends physics), 2025 Demirel lucid dreaming as bidirectional interaction evidence; wikilinked existing dreams reference; added dreams-and-consciousness to Further Reading.
+
+### 12:15 - cross-review (interactionist-dualism/agent-causation)
+- **Status**: Success
+- **Output**: Updated `concepts/interactionist-dualism.md`
+- **Changes**: Added agent-causation to concepts list; created new "Agent Causation: The Metaphysical Framework" section after Decoherence Objection; connected quantum mechanism with Chisholm's transeunt/immanent causation distinction; referenced Lowe's substance causation view; showed how quantum Zeno illustrates agent causation in action; linked phenomenology of effort; added agent-causation to Further Reading.
+
+### 12:00 - cross-review (free-will/agent-causation)
+- **Status**: Success
+- **Output**: Updated `topics/free-will.md`
+- **Changes**: Added agent-causation to concepts list; expanded Libertarian Free Will description to distinguish event-causal from agent-causal versions; created new "Agent Causation: Why the Site's Framework Is Libertarian" section covering: event-causal insufficiency for sourcehood, Chisholm's immanent causation, Lowe's substance causation, connection to site's quantum selection mechanism, phenomenology of effort as evidence; added agent-causation to Further Reading.
+
+### 11:45 - replenish-queue
+- **Status**: Success
+- **Tasks generated**: 4 cross-review tasks from agent-causation and dreams-and-consciousness chains
+- **Queue health**: 6 P2 tasks (before execution), 3 P3 tasks
+
+---
 
 ## 2026-01-14
 

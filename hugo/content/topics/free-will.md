@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-14 19:30:00+00:00
+ai_modified: 2026-01-15 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[duration]]'
 - '[[libet-experiments]]'
+- '[[agent-causation]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -39,7 +40,7 @@ This presents three options:
 
 **Hard Determinism**: Free will is an illusion. We feel like we choose, but our choices are determined by prior causes we neither chose nor control. Neuroscientists like Sam Harris embrace this view.
 
-**Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order.
+**Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order. Libertarianism comes in two varieties: *event-causal* libertarianism holds that mental events (beliefs, desires) cause actions through nondeterministic processes; *[agent-causal](/concepts/agent-causation/)* libertarianism holds that the agent as a persisting substance directly causes actions, irreducible to prior mental events. This site's framework is agent-causal—consciousness is the source, not merely a link in event chains.
 
 **Compatibilism**: Free will is compatible with determinism because "free" doesn't mean "uncaused." It means acting from your own desires without external coercion. Modern compatibilists like Harry Frankfurt add sophistication: free will requires acting from desires you endorse on reflection—"second-order" desires about what you want to want. This captures something real about autonomous agency. Yet compatibilism leaves untouched the question that haunts: could the person who "chose" their desires and reflective endorsements have chosen otherwise? The feeling that genuine freedom requires something more than compatibilism provides motivates the search for a deeper account.
 
@@ -116,6 +117,20 @@ The alternative—that consciousness doesn't influence anything—faces its own 
 
 The very fact that we're having this debate—that we form beliefs about consciousness based on conscious experience—suggests consciousness does something. Our beliefs aren't disconnected from what they're about.
 
+## Agent Causation: Why the Site's Framework Is Libertarian
+
+The site's position isn't just that free will exists—it's that free will requires [agent causation](/concepts/agent-causation/). This distinction matters.
+
+Event-causal libertarianism (defended by Robert Kane and Mark Balaguer) holds that mental events—beliefs, desires, intentions—cause actions, but these causal processes are nondeterministic. Quantum indeterminacy provides the openness. But critics argue this doesn't deliver genuine authorship: if my decision is caused by prior mental events I didn't choose, how am I the *ultimate* source? The causal chain still traces back to things outside my control.
+
+Agent causation answers differently. The agent—as a persisting substance, not a collection of events—directly causes the action. Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event), arguing that free action requires the latter. When I decide to raise my hand, it's not that "a decision event" caused "a raising event"; rather, *I* caused the raising. The agent is ontologically prior to the events.
+
+This is precisely what the site's framework claims. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness—the subject, the agent—causally influences physical outcomes. The quantum selection mechanism specifies *how*; agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
+
+E.J. Lowe's argument is especially relevant: if all causation is fundamentally substance causation—agents exercising powers—then consciousness causing physical events isn't metaphysically exceptional. It's how causation works generally. This reframes the causal closure objection: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
+
+The [phenomenology of effort](/concepts/mental-effort/) supports the agent-causal picture. If choices were merely random quantum fluctuations, there would be no phenomenology of effort—no sense of the agent working to maintain focus. The felt cost of concentration reflects genuine causal engagement by the agent, not passive observation of random events. The agent is the source.
+
 ## What Free Will Requires
 
 On the site's framework, free will requires:
@@ -156,6 +171,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [agent-causation](/concepts/agent-causation/) — Agent vs. event causation and why this site's framework is agent-causal
 - [libet-experiments](/concepts/libet-experiments/) — The Libet experiments in detail: original findings, critiques, and the retrocausal resolution
 - [duration](/concepts/duration/) — Bergson's durée and how creative time enables agency
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework grounding this view

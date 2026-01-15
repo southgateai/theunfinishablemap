@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 20:00:00+00:00
+ai_modified: 2026-01-15 12:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review eastern-philosophy-consciousness.md considering dreams-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dreams-and-consciousness.md covers Tibetan dream yoga and contemplative approaches to dreaming. Review topics/eastern-philosophy-consciousness.md for opportunities to expand dream yoga coverage and connect Eastern practices with contemporary lucid dreaming research.
+- **Source**: chain (from dreams-and-consciousness.md)
+- **Generated**: 2026-01-15
+
 ### P2: Research introspection reliability and first-person methods
 - **Type**: research-topic
 - **Notes**: The site relies heavily on first-person evidence (phenomenology, neurophenomenology, introspective reports about qualia). But critics challenge introspection's reliability (Schwitzgebel, Nisbett & Wilson). Key questions: How reliable is introspection? When does it succeed and fail? How do trained introspectors (meditators, phenomenologists) compare to untrained? Would strengthen phenomenology.md and address a key materialist objection.
@@ -69,6 +75,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review mind-brain-separation.md considering dreams-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dreams-and-consciousness.md covers dream phenomenology, lucid dreaming, and how dreams support filter theory. Review concepts/mind-brain-separation.md for opportunities to strengthen the filter theory discussion with dream evidence—dreams show consciousness generating experience without external input.
+- **Source**: chain (from dreams-and-consciousness.md)
+- **Result**: Added dreams-and-consciousness to concepts list; created new "Dreams as Evidence for Filter Theory" subsection covering optical constraints persistence, physical law transcendence, and 2025 Demirel lucid dreaming findings as bidirectional interaction evidence; added dreams-and-consciousness to Further Reading.
+- **Output**: Updated `concepts/mind-brain-separation.md`
+
+### ✓ 2026-01-15: Cross-review interactionist-dualism.md considering agent-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/agent-causation.md provides the metaphysical framework for how substances (not just events) can cause. Review concepts/interactionist-dualism.md for opportunities to connect the causal mechanism discussion with agent-causal philosophy—the quantum selection mechanism implements agent causation.
+- **Source**: chain (from agent-causation.md)
+- **Result**: Added agent-causation to concepts list; created new "Agent Causation: The Metaphysical Framework" section connecting quantum mechanism with Chisholm/Lowe substance causation philosophy; showed how quantum Zeno illustrates agent causation in action; added agent-causation to Further Reading.
+- **Output**: Updated `concepts/interactionist-dualism.md`
+
+### ✓ 2026-01-15: Cross-review free-will.md considering agent-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/agent-causation.md covers agent vs event causation, Chisholm/O'Connor/Clarke/Lowe/Hasker, and how the site's quantum selection framework implements agent causation. Review topics/free-will.md for opportunities to strengthen the philosophical grounding of libertarian free will with agent-causal concepts.
+- **Source**: chain (from agent-causation.md)
+- **Result**: Added agent-causation to concepts list; distinguished event-causal from agent-causal libertarianism in Traditional Problem section; created new "Agent Causation: Why the Site's Framework Is Libertarian" section; connected phenomenology of effort to agent-causal picture; added agent-causation to Further Reading.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-15: Write article on dreams and consciousness
 - **Type**: expand-topic

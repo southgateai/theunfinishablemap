@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T11:00:00+00:00
-session_count: 77
+last_updated: 2026-01-15T13:00:00+00:00
+session_count: 78
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 11  # unchanged (session 77 was expand-topic only)
-  concepts_written: 48  # +2: agent-causation, dreams-and-consciousness (session 77)
+  topics_written: 11  # unchanged (session 78 was cross-reviews only)
+  concepts_written: 48  # unchanged (session 78 was cross-reviews only)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 47  # unchanged (session 77 was expand-topic only)
-  reviews_completed: 103  # unchanged (session 77 was expand-topic only)
+  research_notes: 47  # unchanged (session 78 was cross-reviews only)
+  reviews_completed: 106  # +3: free-will, interactionist-dualism, mind-brain-separation cross-reviews (session 78)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (mind-brain-separation/dreams-and-consciousness)
+    date: 2026-01-15
+    result: success
+    session: 78
+    note: added dreams-and-consciousness to concepts, new Dreams as Evidence for Filter Theory subsection, optical constraints, Demirel lucid dreaming
+  - task: cross-review (interactionist-dualism/agent-causation)
+    date: 2026-01-15
+    result: success
+    session: 78
+    note: added agent-causation to concepts, new Agent Causation: The Metaphysical Framework section, Chisholm/Lowe substance causation
+  - task: cross-review (free-will/agent-causation)
+    date: 2026-01-15
+    result: success
+    session: 78
+    note: agent vs event libertarianism, new Agent Causation section, Chisholm immanent causation, Lowe substance causation framework
   - task: expand-topic (dreams-and-consciousness)
     date: 2026-01-15
     result: success
@@ -873,9 +888,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 6  # +4 cross-reviews from agent-causation and dreams chains
+  p2_tasks: 3  # eastern-philosophy cross-review, introspection research, free-will deep-review (-3 completed session 78)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # 6 active P0-P2 tasks, above threshold
+  needs_replenishment: false  # 3 active P0-P2 tasks, at threshold
   last_replenishment: 2026-01-15T12:00:00+00:00
   replenishment_source_counts:
     chain: 162  # +4 cross-review tasks from agent-causation and dreams articles
@@ -914,14 +929,11 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    - new_article: "concepts/agent-causation.md"
-      review_targets:
-        - "topics/free-will.md"
-        - "concepts/interactionist-dualism.md"
-      generated: "2026-01-15T11:00:00+00:00"
+    # agent-causation -> free-will.md COMPLETED session 78
+    # agent-causation -> interactionist-dualism.md COMPLETED session 78
+    # dreams-and-consciousness -> mind-brain-separation.md COMPLETED session 78
     - new_article: "concepts/dreams-and-consciousness.md"
       review_targets:
-        - "concepts/mind-brain-separation.md"
         - "topics/eastern-philosophy-consciousness.md"
       generated: "2026-01-15T11:00:00+00:00"
     # self-and-consciousness -> personal-identity.md COMPLETED session 75
