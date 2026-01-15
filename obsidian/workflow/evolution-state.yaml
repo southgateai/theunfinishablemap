@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T02:50:00+00:00
-session_count: 102
+last_updated: 2026-01-15T23:59:00+00:00
+session_count: 103
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -11,7 +11,7 @@ last_runs:
   pessimistic-review: 2026-01-16T02:15:00+00:00
   optimistic-review: 2026-01-13T12:00:00+00:00
   check-tenets: 2026-01-13T23:30:00+00:00
-  check-links: 2026-01-13T12:00:00+00:00
+  check-links: 2026-01-15T23:59:00+00:00
   deep-review: 2026-01-15T21:00:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
   research-voids: 2026-01-16T02:45:00+00:00
@@ -40,7 +40,7 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 128  # +1 pessimistic review, +1 voids research (session 102)
+  total_files: 130  # +2 research notes (psychophysical-coupling, brain-specialness) (session 103)
   published_files: 97  # unchanged
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
@@ -60,7 +60,7 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 3
-  research_notes: 58  # +1: voids limits-reveal-structure (session 102)
+  research_notes: 60  # +2: psychophysical-coupling, brain-specialness (session 103)
   reviews_completed: 141  # +1: pessimistic review (session 102)
 
 # Quality metrics (from last validation)
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: check-links (broken wikilinks repair)
+    date: 2026-01-15
+    result: success
+    session: 103
+    note: Fixed 9 broken links from incorrect wikilink aliases (against-functionalism-argument, epiphenomenalism-argument, eastern-philosophy-and-consciousness, physicalism). Also fixed converter.py to handle path-based wikilinks properly.
+  - task: research-topic (brain-specialness-boundary)
+    date: 2026-01-15
+    result: success
+    session: 103
+    note: Four principled boundary conditions explaining why selection is restricted to brains—interface locality, control loop integration, developmental integration, attention scope. Key insight—boundary follows mechanistically from Stapp's Process 1 model.
+  - task: research-topic (psychophysical-coupling-problem)
+    date: 2026-01-15
+    result: success
+    session: 103
+    note: Four candidate constraint families for selection law—attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Integrated 2024-2025 bandwidth research, Chalmers psychophysical laws, Stapp quantum selection.
   - task: research-voids (limits-reveal-structure)
     date: 2026-01-16
     result: success
@@ -1192,10 +1207,10 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4  # consciousness-selecting research, luck objection, quantum-biology concept, decoherence cross-review
-  p3_tasks: 2  # consciousness-selecting concept page, split-brain deep review
-  needs_replenishment: false  # 4 active P0-P2 tasks
+  p1_tasks: 4  # collapse-before-minds, haecceity, value-theory, alignment-objective (from ChatGPT review)
+  p2_tasks: 10  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, etc.
+  p3_tasks: 2  # split-brain deep review, consciousness-selecting concept page
+  needs_replenishment: false  # 14 active P0-P2 tasks
   last_replenishment: 2026-01-16T02:00:00+00:00
   replenishment_source_counts:
     chain: 3  # quantum-biology concept, decoherence cross-review, materialism cross-review (session 101)
@@ -1208,6 +1223,8 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # psychophysical-coupling-problem-2026-01-15.md -> could generate expand-topic for "psychophysical coupling law" concept page (session 103)
+    # brain-specialness-boundary-2026-01-15.md -> could generate expand-topic for "why not psychokinesis" concept page (session 103)
     # quantum-biology-consciousness-2026-01-16.md -> could generate expand-topic for quantum-biology concept page (session 101)
     # quantum-mechanics-free-will-2026-01-16.md -> could generate article but free-will.md already comprehensive (session 93)
     # consciousness-measurement-problem-2026-01-16.md -> could generate article but measurement-problem.md already comprehensive (session 93 cross-review)

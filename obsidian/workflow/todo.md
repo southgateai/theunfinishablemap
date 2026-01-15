@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T02:00:00+00:00
+ai_modified: 2026-01-15T23:59:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,21 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Formalize the psychophysical coupling problem (“selection law”) and candidate constraints
-
-* **Type**: research-topic
-* **Notes**: The site repeatedly says consciousness “selects” among quantum outcomes (tenets; free will; quantum consciousness). Make explicit that this requires a psychophysical coupling law: what variables in conscious experience map to what selectable degrees of freedom? What is the bandwidth? What is not selectable? Propose candidate constraint families (e.g., selection only within attention-controlled neural subspaces; only policy-level not micro-level; only basis-choice not amplitude). Aim: turn “selection” from metaphor into a research program.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: latent_inference
-* **Generated**: 2026-01-15
-
-### P1: Define and defend the “brain specialness” boundary (why not psychokinesis)
-
-* **Type**: research-topic
-* **Notes**: Minimal Quantum Interaction + Bidirectional Interaction risks sliding into “mind can bias any quantum event.” The site rejects woo, but needs an explicit limiter: why is the interface restricted to brains (or to systems already integrated into the subject’s control loop)? Produce a principled boundary condition and show how it avoids both epiphenomenalism and parapsychology-by-implication.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: latent_inference
-* **Generated**: 2026-01-15
-
-### P1: Address “collapse before minds” (early-universe outcome selection)
+### P1: Address "collapse before minds" (early-universe outcome selection)
 
 * **Type**: research-topic
 * **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates “collapse exists” from “consciousness causes collapse,” and states which version the site commits to (or why it stays agnostic).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
@@ -172,6 +158,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research psychophysical coupling problem ("selection law")
+- **Type**: research-topic
+- **Notes**: The site repeatedly says consciousness "selects" among quantum outcomes (tenets; free will; quantum consciousness). Make explicit that this requires a psychophysical coupling law: what variables in conscious experience map to what selectable degrees of freedom? What is the bandwidth? What is not selectable? Propose candidate constraint families (e.g., selection only within attention-controlled neural subspaces; only policy-level not micro-level; only basis-choice not amplitude). Aim: turn "selection" from metaphor into a research program. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Result**: Comprehensive research identifying the coupling problem and proposing four candidate constraint families: (1) Attention-bounded selection (~10 bits/second bandwidth), (2) Policy-level selection (coarse alternatives only), (3) Basis-choice selection (choosing the question, not the answer), (4) Temporal/indexical selection. Integrated 2024-2025 research on conscious processing bandwidth, Chalmers on psychophysical laws, Stapp on quantum selection, and recent quantum consciousness developments.
+- **Output**: `research/psychophysical-coupling-problem-2026-01-15.md`
+
+### ✓ 2026-01-15: Research brain specialness boundary (why not psychokinesis)
+- **Type**: research-topic
+- **Notes**: Minimal Quantum Interaction + Bidirectional Interaction risks sliding into "mind can bias any quantum event." The site rejects woo, but needs an explicit limiter: why is the interface restricted to brains (or to systems already integrated into the subject's control loop)? Produce a principled boundary condition and show how it avoids both epiphenomenalism and parapsychology-by-implication. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Result**: Research establishing four principled boundary conditions: (1) Interface locality—only systems within neural control loop, (2) Control loop integration—selection requires awareness of alternatives, (3) Developmental/evolutionary integration—only systems the brain grew with, (4) Attention scope—only what can be attended. Key insight: the boundary follows mechanistically from Stapp's Process 1 model, not from ad hoc restriction. The quantum Zeno mechanism operates through attention, which is neurally implemented; consciousness can only bias what it observes.
+- **Output**: `research/brain-specialness-boundary-2026-01-15.md`
 
 ### ✓ 2026-01-16: Research quantum biology and consciousness
 - **Type**: research-topic
