@@ -3,8 +3,8 @@ title: "Free Will and Determinism"
 created: 2026-01-08
 modified: 2026-01-13
 human_modified: null
-ai_modified: 2026-01-15T12:00:00+00:00
-last_deep_review: 2026-01-13T14:00:00+00:00
+ai_modified: 2026-01-15T14:30:00+00:00
+last_deep_review: 2026-01-15T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[duration]]"
   - "[[libet-experiments]]"
   - "[[agent-causation]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
@@ -148,6 +149,8 @@ Stapp's quantum Zeno mechanism explains why attention should feel effortful: eac
 
 The neuroplasticity evidence strengthens this picture. Jeffrey Schwartz's OCD research demonstrates that directed mental effort produces measurable brain changes: patients who learned to refocus attention literally reshaped their neural circuitry, as shown by PET scans. Whatever the underlying mechanism, mental effort has physical consequences. The fact that hard tasks feel hard, and that directing attention changes brain structure, suggests consciousness does something rather than merely observing.
 
+Illusionists (notably Keith Frankish and Daniel Dennett) would object that phenomenal seeming doesn't prove causal efficacy—the sense of effort might be a cognitive representation accompanying brain processes, not evidence that consciousness causes them. The site's response: [[illusionism|illusionism]] faces its own explanatory burden. Why would evolution produce such elaborate, costly phenomenology if it does nothing? And if effort-seeming reliably tracks cognitive difficulty, this correlation is best explained by genuine causal connection. The burden shifts to illusions explaining why seeming tracks reality so well if there's no underlying relation.
+
 ## Free Will and Personal Identity
 
 Free will is intimately connected to [[personal-identity]]. If you are the author of your choices, there must be a *you* doing the authoring—a persisting conscious being whose choices constitute a life.
@@ -159,6 +162,20 @@ This transforms how we understand free will. On Parfit's reductionist view of pe
 But if this site is right—if you are an unrepeatable conscious being with a unique causal history of quantum selections—then your choices are genuinely *yours*. Each decision adds to a particular causal chain that constitutes your life. The consciousness doing the selecting right now is the same one that selected yesterday and will select tomorrow. This continuity grounds authorship.
 
 The connection runs both ways. Free will requires persistent identity: there must be a *you* across time for choices to belong to. And persistent identity, on this framework, is partly constituted by the causal history of choices: *you* are the consciousness that made *those* selections.
+
+## What Would Challenge This Framework?
+
+A framework that explains too much risks explaining nothing. What findings would challenge the site's picture?
+
+**Decisive neural determinism**: If neuroscience demonstrated that all decisions can be predicted from prior brain states with 100% accuracy at timescales ruling out quantum effects, this would undermine quantum-based free will. Current predictive accuracy (around 60% in choice prediction studies) leaves ample room for genuine indeterminacy.
+
+**Solving the hard problem materialistically**: If a complete, compelling account of why physical processes give rise to subjective experience emerged, the motivation for dualism—and thus for consciousness as a separate causal factor—would weaken.
+
+**Quantum biology's failure**: If the quantum coherence required for consciousness-physics interaction were proven impossible in neural tissue (not just challenging, but physically excluded), the mechanism would fail. Current research leaves this open.
+
+**Contradiction between effort phenomenology and neural measurement**: If mental effort reliably felt easy when neural processes showed high metabolic cost, or felt hard when brain activity was minimal, the correlation supporting bidirectional interaction would break down.
+
+The framework is not unfalsifiable. It makes commitments that empirical findings could undermine. That they haven't yet is evidence—not proof—that the picture captures something real.
 
 ## The Picture That Emerges
 
