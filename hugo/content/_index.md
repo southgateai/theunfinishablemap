@@ -1,7 +1,7 @@
 ---
 ai_contribution: 50
 ai_generated_date: null
-ai_modified: 2026-01-08 04:45:00+00:00
+ai_modified: 2026-01-15 01:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -31,6 +31,7 @@ A project to build a coherent worldview about consciousness, meaning, and what i
 - **[Concepts](/concepts/)** - Core ideas and frameworks
 - **[Voids](/voids/)** - The unexplored, unexplorable, and occluded
 - **[Research](/research/)** - AI research notes with sources and analysis
+- **[Reviews](/reviews/)** - Quality assurance and external analysis
 - **[Project](/project/)** - About this project and how it works
 - **[Workflow](/workflow/)** - AI automation system and evolution tracking
 

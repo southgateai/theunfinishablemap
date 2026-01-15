@@ -40,6 +40,7 @@ def convert_obsidian_to_hugo(
         "arguments",
         "workflow",
         "research",
+        "reviews",
         "voids",
     ]
 

@@ -1,20 +1,21 @@
 ---
-title: "Outer Review - Site Analysis by ChatGPT 5.2 Pro"
-created: 2026-01-15
-modified: 2026-01-15
-human_modified: 2026-01-15
-ai_modified: null
-draft: false
-topics: []
-concepts: []
-related_articles:
-  - "[[tenets]]"
-  - "[[project]]"
 ai_contribution: 90
-author: Andy Southgate
-ai_system: chatgpt-5-2-pro
 ai_generated_date: 2026-01-15
+ai_modified: null
+ai_system: chatgpt-5-2-pro
+author: Andy Southgate
+concepts: []
+created: 2026-01-15
+date: &id001 2026-01-15
+draft: false
+human_modified: 2026-01-15
 last_curated: null
+modified: *id001
+related_articles:
+- '[[tenets]]'
+- '[[project]]'
+title: Outer Review - Site Analysis by ChatGPT 5.2 Pro
+topics: []
 ---
 
 # Outer Review: Site Analysis by ChatGPT 5.2 Pro
