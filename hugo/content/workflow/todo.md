@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 00:00:00+00:00
+ai_modified: 2026-01-16 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research quantum mechanics and free will
-- **Type**: research-topic
-- **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
-- **Source**: gap_analysis (tenet support)
-- **Generated**: 2026-01-16
-
 ### P2: Create argument page "For Interactionist Dualism"
 - **Type**: expand-topic
 - **Notes**: The arguments section has only 1 page (Against Materialism) vs target of 5. A formal argument page for interactionist dualism would consolidate the positive case: knowledge argument, conceivability arguments, unity of consciousness, intentionality, self-stultification of epiphenomenalism. Draw from arguments-for-dualism.md concept page but in structured argument form.
@@ -57,6 +51,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Cross-review substance-property-dualism.md considering pairing-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/pairing-problem.md covers Kim's challenge to substance dualism and three major responses. Review concepts/substance-property-dualism.md to engage with the pairing problem—since it challenges substance dualism specifically, this page should address whether property dualism avoids the problem.
+- **Result**: Added new "On the pairing-problem" subsection in "Where They Differ" explaining Kim's challenge, how property dualism avoids it trivially, and three substance dualist responses (spatial location, haecceity, non-spatial causation). Added pairing-problem and quantum-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/substance-property-dualism.md`
+
+### ✓ 2026-01-16: Cross-review measurement-problem.md considering consciousness research
+- **Type**: cross-review
+- **Notes**: Research completed in research/consciousness-measurement-problem-2026-01-16.md covers the problem of definite outcomes, von Neumann-Wigner, Stapp's quantum Zeno, and the causal closure loophole. Review concepts/measurement-problem.md to strengthen the connection between the measurement problem and consciousness—particularly how quantum indeterminacy creates conceptual space for mental causation.
+- **Result**: Added detailed Stapp's Quantum Zeno Framework subsection explaining how mental effort protracts neural assemblies via repeated observation. Added new "The Causal Closure Loophole" section explaining how measurement indeterminacy creates space for mental causation without energy violation. Added mental-causation and mental-effort to concepts and Further Reading.
+- **Output**: Updated `concepts/measurement-problem.md`
+
+### ✓ 2026-01-16: Research quantum mechanics and free will
+- **Type**: research-topic
+- **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
+- **Result**: Comprehensive research covering the luck objection, event-causal vs agent-causal libertarianism, Kane's 2024 evolution toward substance causation, van Inwagen's consequence and mind arguments, Mele's soft libertarianism, Stapp's quantum Zeno mechanism, and O'Connor/Lowe on substance causation. Key finding: the debate confirms quantum indeterminacy provides conceptual space for mental causation but requires an account of how consciousness directs rather than randomizes outcomes—exactly what the site's framework provides.
+- **Output**: `research/quantum-mechanics-free-will-2026-01-16.md`
 
 ### ✓ 2026-01-16: Create concept page on the pairing problem
 - **Type**: expand-topic

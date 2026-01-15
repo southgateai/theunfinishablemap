@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 10:30:00+00:00
+ai_modified: 2026-01-16 03:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,8 +9,10 @@ concepts:
 - '[[decoherence]]'
 - '[[interactionist-dualism]]'
 - '[[causal-closure]]'
+- '[[mental-causation]]'
+- '[[mental-effort]]'
 created: 2026-01-14
-date: &id001 2026-01-14
+date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
@@ -18,6 +20,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[measurement-problem-quantum-mechanics-2026-01-14]]'
+- '[[consciousness-measurement-problem-2026-01-16]]'
 title: The Measurement Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -87,6 +90,14 @@ Conscious observation precipitates collapse. Von Neumann showed mathematically t
 
 **Relation to site tenets:** **Most aligned** with [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). However, the site prefers Stapp's quantum Zeno mechanism—where attention acts as repeated observation—over von Neumann-Wigner style consciousness-collapse. The Zeno approach uses orthodox quantum mechanics without adding consciousness as a fundamental force.
 
+#### Stapp's Quantum Zeno Framework
+
+Henry Stapp developed the most sophisticated consciousness-based approach within orthodox quantum mechanics. His key insight: mental effort (attention) can protract the lifetime of desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution.
+
+The mechanism works as follows: persistent probing of a neural state produces the same "answer" repeatedly from the physical world, effectively sustaining that state against decoherence. Ion channels in synaptic walls serve as sites where consciousness interfaces with brain dynamics. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" already built into von Neumann's formalism.
+
+Stapp's framework treats mental and physical as co-equal aspects of reality. As he summarizes orthodox quantum mechanics: "these events [are] instigated by choices made by conscious agents." The site's position is essentially a philosophical elaboration of Stapp's scientific framework.
+
 ## The Observer Problem
 
 What makes an observer? This remains unresolved.
@@ -98,6 +109,24 @@ Recent no-go theorems (Frauchiger-Renner, 2019) place constraints stronger than 
 Experiments have tested Wigner's friend scenarios using photons as "observers." But as Tim Maudlin noted: "Nobody thinks a photon is an observer." The experiments demonstrate quantum mechanics works as predicted; they don't settle whether consciousness is relevant to collapse.
 
 The observer problem remains exactly where it started: we know measurements yield definite results, but we don't know what physical conditions are sufficient for "measurement" to occur.
+
+## The Causal Closure Loophole
+
+The measurement problem reveals a genuine gap in physical explanation—and this gap is exactly where [mental-causation](/concepts/mental-causation/) becomes possible.
+
+[Causal closure](/concepts/causal-closure/) claims every physical event has a sufficient physical cause. But at quantum measurement, this fails. The Born rule yields *probabilities* for outcomes, not determinate causes. It predicts statistics for ensembles but doesn't explain why *this* particular measurement yielded *this* particular outcome.
+
+This creates what might be called the "causal closure loophole": physics fixes the *distribution* of outcomes but leaves the *selection* of individual outcomes unexplained. The formalism is silent on what actualizes one possibility rather than another.
+
+This loophole has important features:
+
+1. **No energy violation**: Selecting among outcomes that quantum mechanics already permits doesn't require adding energy. The outcomes are equiprobable and equi-energetic; consciousness biasing the selection adds no detectable force.
+
+2. **Genuine indeterminacy**: Unlike classical "randomness" (which might be deterministic chaos in disguise), quantum indeterminacy appears to be fundamental—not merely epistemic but ontic.
+
+3. **The right location**: The causal closure objection to [interactionist-dualism](/concepts/interactionist-dualism/) assumes physics is closed. But at measurement, it isn't. This is precisely where non-physical causes *could* operate without conflicting with physical law.
+
+The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine.
 
 ## Relation to Site Perspective
 
@@ -119,6 +148,8 @@ The measurement problem directly supports the site's framework:
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework for mind-body interaction
 - [causal-closure](/concepts/causal-closure/) — Why physics isn't causally closed
+- [mental-causation](/concepts/mental-causation/) — How consciousness can influence physics
+- [mental-effort](/concepts/mental-effort/) — The phenomenology of attentional control
 - [tenets](/tenets/) — The site's foundational commitments
 
 ## References
