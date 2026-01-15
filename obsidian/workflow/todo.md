@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page on the pairing problem
-- **Type**: expand-topic
-- **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
-- **Source**: gap_analysis (from objections research)
-- **Generated**: 2026-01-15
-
 ### P2: Research quantum mechanics and free will
 - **Type**: research-topic
 - **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
@@ -62,6 +56,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Create concept page on the pairing problem
+- **Type**: expand-topic
+- **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
+- **Result**: Created ~2000 word concept page covering the problem statement, Kim's principle (causation requires spatial relations), three major responses (spatial location of minds, haecceity response, non-spatial causation), and how the site's quantum framework addresses the problem by locating consciousness where it causally interfaces with the brain.
+- **Output**: `concepts/pairing-problem.md`
 
 ### ✓ 2026-01-16: Research consciousness and the measurement problem
 - **Type**: research-topic
