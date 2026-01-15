@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T14:00:00+00:00
-session_count: 86
+last_updated: 2026-01-15T23:00:00+00:00
+session_count: 87
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 116  # +1: analytic-idealism.md (session 86)
-  published_files: 91  # +1: analytic-idealism.md (session 86)
+  total_files: 117  # +1: filter-theory.md (session 87)
+  published_files: 92  # +1: filter-theory.md (session 87)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 11  # unchanged
-  concepts_written: 52  # +1: analytic-idealism.md (session 86)
+  concepts_written: 53  # +1: filter-theory.md (session 87)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 50  # unchanged (session 86 used existing research)
-  reviews_completed: 114  # +2: free-will, quantum-consciousness cross-reviews (session 86)
+  research_notes: 50  # unchanged
+  reviews_completed: 116  # +2: panpsychism, hard-problem cross-reviews (session 87)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (filter-theory)
+    date: 2026-01-15
+    result: success
+    session: 87
+    note: James's prism analogy, Bergson's eliminative brain, Huxley's reducing valve, psychedelic paradox, NDE evidence, covert consciousness, rendering engine analogy
+  - task: cross-review (panpsychism/analytic-idealism)
+    date: 2026-01-15
+    result: success
+    session: 87
+    note: analytic idealism as alternative, dissociation vs combination problem comparison, idealism claims to avoid panpsychism's central challenge
+  - task: cross-review (hard-problem/analytic-idealism)
+    date: 2026-01-15
+    result: success
+    session: 87
+    note: idealism dissolves hard problem by inverting it (consciousness fundamental, matter appearance), regularity problem as idealism's challenge, updated comparison table
   - task: expand-topic (analytic-idealism)
     date: 2026-01-15
     result: success
@@ -988,14 +1003,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # filter-theory, cognitive-science-dualism (3 tasks completed this session)
+  p2_tasks: 1  # cognitive-science-dualism (3 tasks completed session 87)
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
-  last_replenishment: 2026-01-15T12:00:00+00:00
+  needs_replenishment: true  # 1 active P0-P2 task, below threshold of 3
+  last_replenishment: 2026-01-15T21:30:00+00:00
   replenishment_source_counts:
-    chain: 2  # cross-reviews from mental-causation.md (completed this session)
-    unconsumed_research: 1  # analytic-idealism (completed this session)
-    gap_analysis: 2  # filter-theory, cognitive-science-dualism
+    chain: 0  # cross-reviews completed
+    unconsumed_research: 0
+    gap_analysis: 1  # cognitive-science-dualism remaining
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

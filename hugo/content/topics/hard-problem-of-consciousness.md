@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-15 23:30:00+00:00
+ai_modified: 2026-01-15 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[panpsychism]]'
 - '[[emergence]]'
+- '[[analytic-idealism]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -222,6 +223,18 @@ The view faces its own hard problem: the combination problem. If electrons have 
 
 The site's [explicit dualism](/tenets/#dualism) takes a cleaner approach. Rather than positing mysterious quiddities that are somehow both physical and phenomenal, it acknowledges that consciousness is distinct from physical structure. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism provides concrete content to the mind-matter interface that Russellian monism leaves schematic. Yet Russellian monism's core insight—that physics is silent on intrinsic nature—aligns with the site's recognition that physical explanation cannot reach experience.
 
+### Analytic Idealism: Dissolving the Problem by Inverting It
+
+[Analytic idealism](/concepts/analytic-idealism/), developed primarily by Bernardo Kastrup, offers perhaps the most radical response to the hard problem: deny that matter is fundamental. If consciousness is the sole ontological primitive and matter is merely how consciousness appears to itself, there's nothing for experience to emerge *from*. The hard problem dissolves because there is no non-experiential substrate that somehow generates experience.
+
+Kastrup's argument has two prongs. First, consciousness is the only thing we know directly—we infer matter from experience, but experience itself is immediate. Starting with consciousness as fundamental is therefore more epistemically honest than starting with matter and trying to explain consciousness. Second, idealism claims superior parsimony: why posit two fundamentally different kinds of thing (mind and matter) when one (consciousness appearing to itself in different guises) suffices?
+
+Individual minds, on this view, are "dissociated alters" of universal consciousness—fragments of one cosmic mind temporarily forgetting their unity, analogous to dissociative identity disorder at cosmic scale. The brain doesn't produce consciousness; it's what the dissociation boundary *looks like* when one alter observes another's mental processes from outside.
+
+This elegantly sidesteps the hard problem. There's no explanatory gap between physical and phenomenal because "physical" *is* phenomenal—the extrinsic appearance of mental processes. But idealism trades the hard problem for a different challenge: why does this "appearance" follow regular laws? If matter is just how consciousness appears, why can't it appear differently? Why must fire burn and gravity attract? Kastrup invokes the intrinsic nature of universal consciousness as constraining how it can appear—but this structure plays the role physical law plays in dualism. Whether we call it "physical reality" or "intrinsic structure of universal consciousness," something independent of individual minds constrains experience.
+
+The site's framework differs by maintaining that physical reality exists distinctly from consciousness and that the two interact bidirectionally. This makes the regularity of physical law less puzzling—physics describes genuine external constraints—while preserving what idealism gets right: consciousness cannot emerge from what is wholly non-conscious.
+
 ### The Combination Problem: Panpsychism's Parallel Challenge
 
 The hard problem asks how experience arises from non-experience. [Panpsychism](/concepts/panpsychism/) proposes a radical solution: experience doesn't arise—it was there all along. Fundamental physical entities (electrons, quarks, photons) have some form of micro-experience. Macro-consciousness is built from these building blocks.
@@ -238,9 +251,10 @@ This creates a striking parallel across major frameworks:
 |-----------|---------------|
 | Physicalism | Hard problem: how does experience arise from non-experience? |
 | Panpsychism | Combination problem: how do micro-experiences combine? |
+| Idealism | Regularity problem: why does "appearance" follow law-like patterns? |
 | Dualism | Interaction problem: how do distinct substances causally connect? |
 
-Each position faces a deep difficulty. None has solved its respective problem. But the comparison is instructive. The site's [interactionist framework](/concepts/interactionist-dualism/) addresses its challenge—the interaction problem—through the [quantum mechanism](/concepts/quantum-consciousness/). Consciousness selects among outcomes physics leaves undetermined, so no physical law is violated. Neither physicalism nor panpsychism has comparable progress on the hard problem or combination problem respectively.
+Each position faces a deep difficulty. None has solved its respective problem. But the comparison is instructive. The site's [interactionist framework](/concepts/interactionist-dualism/) addresses its challenge—the interaction problem—through the [quantum mechanism](/concepts/quantum-consciousness/). Consciousness selects among outcomes physics leaves undetermined, so no physical law is violated. Neither physicalism nor panpsychism has comparable progress on the hard problem or combination problem respectively. Idealism's regularity problem—explaining why "appearance" behaves lawfully—may ultimately smuggle physical reality back in under another name.
 
 See [combination-problem](/concepts/combination-problem/) for detailed treatment of the subject-summing, palette, grain, and structure problems, proposed solutions (phenomenal bonding, cosmopsychism), and why the site's interactionism avoids the problem entirely.
 
@@ -299,6 +313,7 @@ Whether this specific proposal is correct matters less than the underlying point
 ## Further Reading
 
 ### On This Site
+- [analytic-idealism](/concepts/analytic-idealism/) — Idealism's claim to dissolve the hard problem by making consciousness fundamental
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge: how micro-experiences combine
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and the site's framework
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses

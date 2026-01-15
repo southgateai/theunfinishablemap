@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-14 16:30:00+00:00
+ai_modified: 2026-01-15 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[russellian-monism]]'
 - '[[combination-problem]]'
+- '[[analytic-idealism]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 draft: false
@@ -102,6 +103,16 @@ Despite disagreeing on the solution, this site affirms panpsychism's key insight
 
 The disagreement is about *how* consciousness is fundamental—as the intrinsic nature of all matter, or as a distinct category that interacts with matter.
 
+## Analytic Idealism: An Alternative to Panpsychism
+
+[Analytic idealism](/concepts/analytic-idealism/), developed by Bernardo Kastrup, offers another anti-physicalist alternative that shares panpsychism's rejection of emergence but reaches a different conclusion. Where panpsychism says every particle has micro-experience, idealism says there is one universal consciousness and individual minds (including particle-experiences) are dissociated fragments of it.
+
+Idealism claims to solve the combination problem by inverting it. Rather than asking how many micro-experiences combine into unified consciousness, idealism asks how unified consciousness *divides* into separate experiences. Kastrup argues this dissociation problem is easier than the combination problem: we have an empirical model (dissociative identity disorder) for how unity becomes apparent plurality, but no model for how plurality becomes genuine unity.
+
+This puts panpsychism in a difficult position. If the combination problem is as hard as the hard problem it was meant to solve, and idealism avoids it entirely, why not accept idealism? The panpsychist might respond that dissociation at cosmic scale is equally mysterious—DID involves a brain already functioning as a unified system; applying dissociation to universal consciousness is a large extrapolation.
+
+The site's interactionist framework avoids both the combination problem (consciousness doesn't emerge from micro-experiences) and the dissociation problem (individual consciousnesses are genuinely distinct, not fragments of a cosmic mind). But this comes at the cost of the interaction problem, which quantum mechanics may address.
+
 ## Integrated Information Theory: A Scientific Panpsychism?
 
 [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT) offers what may be the most rigorous scientific version of panpsychism. Developed by neuroscientist Giulio Tononi, IIT holds that consciousness *is* integrated information—any system with non-zero phi (the measure of integration) is conscious to some degree.
@@ -132,6 +143,7 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
+- [analytic-idealism](/concepts/analytic-idealism/) — An alternative anti-physicalist view that claims to avoid the combination problem
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both views address
 - [panpsychism-consciousness-2026-01-08](/research/panpsychism-consciousness-2026-01-08/) — Detailed research notes
 - [tenets](/tenets/) — The site's foundational commitments

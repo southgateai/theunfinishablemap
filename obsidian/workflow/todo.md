@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T00:45:00+00:00
+ai_modified: 2026-01-15T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page for filter-theory
-- **Type**: expand-topic
-- **Notes**: Referenced across multiple articles (mind-brain-separation.md, loss-of-consciousness.md, dreams-and-consciousness.md) but has no dedicated treatment. The James-Bergson-Huxley filter/transmission theory is central to site's framework—consciousness isn't produced by brain but transmitted/filtered through it.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-15
-
 ### P2: Research cognitive science of dualism
 - **Type**: research-topic
 - **Notes**: The phenomenology-first-person-methods research noted that "intuitive dualism" is empirically widespread—most people naturally think in dualist terms. What does cognitive science say about folk dualism? Bloom's "Descartes' Baby," developmental studies, cross-cultural evidence. Would strengthen Occam's Razor Has Limits argument—if dualism is cognitively natural, dismissing it as "unscientific" may miss something.
@@ -56,6 +50,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Create concept page for filter-theory
+- **Type**: expand-topic
+- **Notes**: Referenced across multiple articles (mind-brain-separation.md, loss-of-consciousness.md, dreams-and-consciousness.md) but has no dedicated treatment. The James-Bergson-Huxley filter/transmission theory is central to site's framework—consciousness isn't produced by brain but transmitted/filtered through it.
+- **Result**: Created ~2000 word concept page covering the core claim (transmission vs production), historical development (James's prism, Bergson's eliminative brain, Huxley's reducing valve), supporting evidence (psychedelic paradox, NDEs, covert consciousness, dreams, hemispherectomy), the rendering engine analogy, objections and responses, and relation to site tenets.
+- **Output**: `concepts/filter-theory.md`
+
+### ✓ 2026-01-15: Cross-review panpsychism.md considering analytic-idealism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/analytic-idealism.md presents idealism as solving the combination problem by starting unified (dissociation rather than combination). Review concepts/panpsychism.md to strengthen the comparison—analytic idealism is a competing anti-physicalist position that claims to avoid panpsychism's combination problem entirely.
+- **Result**: Added analytic-idealism to concepts list; created new "Analytic Idealism: An Alternative to Panpsychism" section comparing idealism's dissociation model with panpsychism's combination problem; added analytic-idealism to Further Reading.
+- **Output**: Updated `concepts/panpsychism.md`
+
+### ✓ 2026-01-15: Cross-review hard-problem-of-consciousness.md considering analytic-idealism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/analytic-idealism.md offers a different solution to the hard problem—consciousness is fundamental, matter is appearance. Review topics/hard-problem-of-consciousness.md to add idealism as an alternative response alongside materialism, dualism, and panpsychism.
+- **Result**: Added analytic-idealism to concepts list; created new "Analytic Idealism: Dissolving the Problem by Inverting It" subsection covering Kastrup's view; updated comparison table to include idealism's regularity problem; added analytic-idealism to Further Reading.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-15: Write article on analytic idealism
 - **Type**: expand-topic
