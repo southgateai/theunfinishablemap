@@ -1173,15 +1173,15 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # consciousness-selecting research (2 cross-reviews completed session 100)
-  p3_tasks: 1  # consciousness-selecting concept page
-  needs_replenishment: true  # 1 active P0-P2 task, below threshold of 3
-  last_replenishment: 2026-01-15T22:00:00+00:00
+  p2_tasks: 4  # consciousness-selecting research, quantum biology, luck objection, materialism cross-review
+  p3_tasks: 2  # consciousness-selecting concept page, split-brain deep review
+  needs_replenishment: false  # 4 active P0-P2 tasks, above threshold of 3
+  last_replenishment: 2026-01-16T00:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # decoherence cross-reviews completed session 100
+    chain: 1  # materialism cross-review from decoherence research
     unconsumed_research: 0
-    gap_analysis: 1  # consciousness-selecting research
-    staleness: 0
+    gap_analysis: 3  # consciousness-selecting, quantum biology, luck objection
+    staleness: 1  # split-brain deep review
 
 # Task chain tracking - maps completed tasks to their successors
 # Used by /replenish-queue to generate follow-up tasks

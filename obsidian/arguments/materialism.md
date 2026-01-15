@@ -3,7 +3,7 @@ title: "Against Materialism"
 created: 2026-01-06
 modified: 2026-01-07
 human_modified: 2026-01-06
-ai_modified: 2026-01-07T17:30:00+00:00
+ai_modified: 2026-01-16T00:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-selecting-neural-patterns]]"
+  - "[[quantum-decoherence-objection-responses-2026-01-15]]"
 ai_contribution: 90
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -113,7 +114,13 @@ Whether Stapp's specific proposal is correct is less important than what it demo
 
 **The decoherence objection**: Critics, notably Max Tegmark, argue that quantum effects in the brain decohere too quickly to be relevant. Decoherence—the process by which quantum superpositions collapse through environmental interaction—occurs on timescales of femtoseconds (10⁻¹⁵ seconds) in warm, wet biological systems. Neural processes operate on millisecond timescales, nine orders of magnitude slower. By the time any neuron fires, quantum coherence has long since been destroyed.
 
-This is a serious challenge, but not a decisive one. First, decoherence explains why macroscopic superpositions don't persist—it doesn't explain why collapse happens at all (this is the measurement problem). Second, Penrose and Hameroff's Orch OR theory proposes that quantum coherence might be protected in microtubules within neurons, though this remains highly speculative. Third, the relevant question is not whether large-scale quantum coherence persists, but whether consciousness might influence the *outcome* of decoherence events—selecting which classical state emerges from the quantum foam.
+This is a serious challenge, but not a decisive one for several reasons:
+
+**The Tegmark-Hameroff dispute**: Hameroff's group (Hagan et al., 2002) challenged Tegmark's calculations, arguing he used the wrong model and parameters. Corrected estimates yield decoherence times of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark claimed. With revised timescale requirements based on faster microtubule dynamics (Hameroff & Penrose, 2014), coherence times of just 10⁻⁷ seconds may suffice. The "settled science" of rapid decoherence is far from settled.
+
+**Biological quantum effects prove evolution can harness coherence**: Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A January 2026 Princeton study (published in JACS) provided computational confirmation of this radical pair mechanism. If evolution can optimise quantum effects for navigation, the claim that it cannot do so for neural processes requires explanation, not mere assertion.
+
+**[[decoherence|Decoherence doesn't solve the measurement problem]]**: This is the crucial point materialists overlook. Decoherence explains *basis selection*—why we see definite states rather than superpositions. But as a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Physics remains silent on why *this particular* outcome occurs rather than another. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred. The role for consciousness at collapse remains open—decoherence doesn't close it.
 
 This is not "quantum woo" or mysticism. It is a constrained philosophical hypothesis: if consciousness causally influences physical outcomes, it might do so by biasing quantum indeterminacy in the brain—selecting among superposed states without violating conservation laws or injecting energy. The mechanism is speculative but not incoherent, and it answers the causal closure objection directly.
 
