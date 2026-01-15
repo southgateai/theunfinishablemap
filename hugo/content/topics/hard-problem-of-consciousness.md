@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-14 21:20:00+00:00
+ai_modified: 2026-01-15 23:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,9 @@ concepts:
 - '[[near-death-experiences]]'
 - '[[russellian-monism]]'
 - '[[mind-brain-separation]]'
+- '[[combination-problem]]'
+- '[[panpsychism]]'
+- '[[emergence]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -219,6 +222,28 @@ The view faces its own hard problem: the combination problem. If electrons have 
 
 The site's [explicit dualism](/tenets/#dualism) takes a cleaner approach. Rather than positing mysterious quiddities that are somehow both physical and phenomenal, it acknowledges that consciousness is distinct from physical structure. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism provides concrete content to the mind-matter interface that Russellian monism leaves schematic. Yet Russellian monism's core insight—that physics is silent on intrinsic nature—aligns with the site's recognition that physical explanation cannot reach experience.
 
+### The Combination Problem: Panpsychism's Parallel Challenge
+
+The hard problem asks how experience arises from non-experience. [Panpsychism](/concepts/panpsychism/) proposes a radical solution: experience doesn't arise—it was there all along. Fundamental physical entities (electrons, quarks, photons) have some form of micro-experience. Macro-consciousness is built from these building blocks.
+
+But this trades one hard problem for another. The [combination problem](/concepts/combination-problem/) asks: if electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory.
+
+David Chalmers systematised the problem into dimensions: the *subject-summing problem* (how do many micro-subjects become one macro-subject?), the *palette problem* (how do simple micro-qualia generate rich macro-qualia?), the *grain problem* (how does discrete physical structure yield continuous phenomenal experience?), and the *structure problem* (why does this physical organization yield this experience?). Each seems as intractable as the original hard problem.
+
+The combination problem reveals something important: merely making consciousness fundamental doesn't dissolve the explanatory gap—it relocates it. Instead of asking how experience emerges from non-experience, we must ask how micro-experiences combine into macro-experience. The gap reappears at a different level.
+
+This creates a striking parallel across major frameworks:
+
+| Framework | Core Challenge |
+|-----------|---------------|
+| Physicalism | Hard problem: how does experience arise from non-experience? |
+| Panpsychism | Combination problem: how do micro-experiences combine? |
+| Dualism | Interaction problem: how do distinct substances causally connect? |
+
+Each position faces a deep difficulty. None has solved its respective problem. But the comparison is instructive. The site's [interactionist framework](/concepts/interactionist-dualism/) addresses its challenge—the interaction problem—through the [quantum mechanism](/concepts/quantum-consciousness/). Consciousness selects among outcomes physics leaves undetermined, so no physical law is violated. Neither physicalism nor panpsychism has comparable progress on the hard problem or combination problem respectively.
+
+See [combination-problem](/concepts/combination-problem/) for detailed treatment of the subject-summing, palette, grain, and structure problems, proposed solutions (phenomenal bonding, cosmopsychism), and why the site's interactionism avoids the problem entirely.
+
 ### Mysterianism
 
 [Mysterianism](/concepts/mysterianism/) proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp how mind relates to matter. Colin McGinn developed this position through the concept of *cognitive closure*: just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness.
@@ -274,6 +299,8 @@ Whether this specific proposal is correct matters less than the underlying point
 ## Further Reading
 
 ### On This Site
+- [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge: how micro-experiences combine
+- [emergence](/concepts/emergence/) — Strong vs weak emergence and the site's framework
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why empirical progress doesn't solve the problem
 - [near-death-experiences](/concepts/near-death-experiences/) — Empirical anomalies that challenge brain-production models

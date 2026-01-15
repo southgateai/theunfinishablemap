@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 12:00:00+00:00
+ai_modified: 2026-01-15 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[duration]]'
 - '[[mysterianism]]'
+- '[[introspection]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -88,7 +89,16 @@ If consciousness were identical to neural activity, cessation should correspond 
 
 ## Microphenomenology
 
-Claire Petitmengin developed microphenomenology from Varela's neurophenomenology. The method uses specialized interview techniques to elicit fine-grained descriptions of brief moments of experience. The interviewer guides subjects through a re-enactment of the experience, accessing details that ordinary recall misses.
+Claire Petitmengin developed microphenomenology from Varela's neurophenomenology. The method uses specialized interview techniques to elicit fine-grained descriptions of brief moments of experience. The goal is triggering what Husserl called the phenomenological reduction—attending to experience itself rather than our theories about experience.
+
+Key techniques distinguish microphenomenology from ordinary introspective report:
+
+- **Present-tense indicators**: directing attention to current experience rather than memory
+- **Non-leading questions**: avoiding suggestion about what subjects should find
+- **Re-enactment**: having subjects relive experiences rather than abstract from them
+- **Content over process**: asking "how did that unfold?" rather than "why did that happen?"
+
+The interviewer guides subjects through a re-enactment of the experience, accessing details that ordinary recall misses. "Performative coherence" replaces correspondence as the validity criterion: does the description cohere with the actual texture of lived experience?
 
 Applications include:
 
@@ -111,15 +121,19 @@ These correlates are consistent with multiple interpretations. The materialist r
 
 ## The Reliability of Trained Introspection
 
-Skeptics (notably Daniel Dennett and Eric Schwitzgebel) argue that introspection is fundamentally unreliable and cannot provide scientific data. Neurophenomenology responds:
+Skeptics (notably Daniel Dennett and Eric Schwitzgebel) argue that [introspection](/concepts/introspection/) is fundamentally unreliable and cannot provide scientific data. The introspection debate, however, reveals a crucial distinction that neurophenomenology exploits: the difference between access to cognitive *processes* (how we decide things) and access to phenomenal *content* (what it is like to have experience). Nisbett and Wilson's famous critique concerned process access; contemplative science targets content access, which remains far more plausible.
 
-1. **Training matters**: A 2025 study found "large differences in trait introspective accuracy between long-term and beginner meditators." Introspective reliability improves with practice, like any skill.
+Neurophenomenology responds to the skeptical challenge on multiple fronts:
 
-2. **Convergent findings**: Microphenomenological interviews produce convergent results across subjects—fine-grained phenomenological categories that replicate.
+1. **Training matters**: Fox and colleagues (2012) found that meditation experience predicts introspective accuracy following a logarithmic learning curve—the same pattern seen in other skill acquisition. Significantly, no novice meditators showed high introspective accuracy. Just as an untrained person cannot reliably identify bird species from song while an ornithologist can, introspection requires cultivated attention.
 
-3. **Predictive power**: First-person reports from trained observers predict neural signatures that untrained reports do not. The data have empirical consequences.
+2. **Content, not process**: Contemplatives are not introspecting why they choose one option over another (where confabulation dominates). They are attending to the phenomenal character of experience itself—what it is like to be in jhana, how temporal flow presents itself, whether the sense of self is present or absent. This is the domain where even critics acknowledge some access.
 
-This does not make introspection infallible. But the claim that first-person data are inherently unscientific is too strong. Rigorous methods produce reliable results.
+3. **Convergent findings**: Microphenomenological interviews produce convergent results across subjects—fine-grained phenomenological categories that replicate.
+
+4. **Predictive power**: First-person reports from trained observers predict neural signatures that untrained reports do not. The data have empirical consequences.
+
+This does not make introspection infallible. But the claim that first-person data are inherently unscientific is too strong. Rigorous methods produce reliable results—and contemplative traditions have been refining those methods for millennia.
 
 ## Relation to This Site's Perspective
 
@@ -135,6 +149,7 @@ Neurophenomenology and contemplative science support the site's framework:
 
 ## Further Reading
 
+- [introspection](/concepts/introspection/) — The reliability debate and process/content distinction
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding neurophenomenology
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How contemplative observation reveals time's structure
 - [duration](/concepts/duration/) — Bergson's analysis of lived time, convergent with contemplative reports
@@ -148,6 +163,8 @@ Neurophenomenology and contemplative science support the site's framework:
 - Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+- Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
 - Brewer, J.A. et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
 - Laukkonen, R.E. et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*, 280, 61-87.
 - Neuroscience of Consciousness (2025). Deep computational neurophenomenology. *Oxford Academic*.

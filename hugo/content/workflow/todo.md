@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 17:00:00+00:00
+ai_modified: 2026-01-15 23:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,29 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology.md considering introspection insights
-- **Type**: cross-review
-- **Notes**: New article concepts/introspection.md covers the reliability debate (Nisbett/Wilson, Schwitzgebel), the process/content distinction, training effects (Fox), and microphenomenology (Petitmengin). Review concepts/phenomenology.md for opportunities to address reliability objections and connect to the dedicated introspection article.
-- **Source**: chain (from introspection.md)
-- **Generated**: 2026-01-15
-
-### P2: Cross-review neurophenomenology.md considering introspection insights
-- **Type**: cross-review
-- **Notes**: New article concepts/introspection.md covers training effects (Fox et al. study showing meditation predicts accuracy) and microphenomenology. Review concepts/neurophenomenology.md for opportunities to strengthen the argument that contemplative training improves introspective reliability.
-- **Source**: chain (from introspection.md)
-- **Generated**: 2026-01-15
-
-### P3: Create concept page for the combination problem
+### P2: Write article on mental causation
 - **Type**: expand-topic
-- **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
+- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Covers Kim's causal exclusion argument, responses (Yablo's proportionality, interventionism, emergentism, inheritance solutions), overdetermination problem, and how the site's quantum framework addresses these challenges. Would provide dedicated treatment of a central problem for dualism.
+- **Source**: chain (from downward causation research)
+- **Generated**: 2026-01-15
 
-### P3: Research emergence and consciousness
-- **Type**: research-topic
-- **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
+### P2: Cross-review interactionist-dualism.md considering emergence insights
+- **Type**: cross-review
+- **Notes**: The emergence research in research/emergence-consciousness-philosophy-2026-01-15.md connects the site's framework to O'Connor-Wong's account of emergent properties with novel causal powers. Review concepts/interactionist-dualism.md to add this philosophical context—the quantum mechanism provides what classical emergentism lacked.
+- **Source**: chain (from emergence research)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review causal-closure.md considering emergence insights
+- **Type**: cross-review
+- **Notes**: Kim's causal exclusion argument (from research/emergence-consciousness-philosophy-2026-01-15.md) is the main philosophical challenge to mental causation. Review concepts/causal-closure.md to engage more explicitly with Kim's argument and show how the quantum framework addresses it.
+- **Source**: chain (from emergence research)
+- **Generated**: 2026-01-15
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
@@ -69,6 +63,69 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research downward causation and mental causation
+- **Type**: research-topic
+- **Notes**: The site's Bidirectional Interaction tenet depends on downward causation—consciousness influencing physical events. But the philosophical literature on mental causation (Kim, Papineau, Yablo) presents serious challenges. Key questions: Does the causal closure of physics rule out mental causation? What is overdetermination and how can dualism avoid it? How does supervenience relate to causation? Would strengthen interactionist-dualism.md and causal-closure.md.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering Kim's causal exclusion argument, the causal closure principle, overdetermination problem, supervenience and drainage, major responses (Yablo's proportionality, interventionism, emergentism, inheritance/constitution solutions), the quantum opening for mental causation, and O'Connor-Wong's emergent causal powers.
+- **Output**: `research/downward-causation-mental-causation-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review hard-problem-of-consciousness.md considering combination problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/combination-problem.md presents the central challenge to panpsychism—how micro-experiences combine into unified consciousness. Review topics/hard-problem-of-consciousness.md to strengthen the comparison between physicalism's hard problem, panpsychism's combination problem, and interactionism's interaction problem, showing that all positions face deep challenges.
+- **Source**: chain (from combination-problem.md)
+- **Result**: Added new "The Combination Problem: Panpsychism's Parallel Challenge" section with table comparing core challenges across frameworks; added combination-problem, panpsychism, emergence to concepts list; added combination-problem and emergence to Further Reading.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-15: Write article on emergence and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/emergence-consciousness-philosophy-2026-01-15.md. Covers strong vs weak emergence, Kim's causal exclusion argument, O'Connor-Wong on emergent properties with novel causal powers, and how the site's quantum framework addresses these challenges. Key finding: the site's position is a form of strong emergentism that specifies the quantum mechanism classical emergentists lacked. Would strengthen the conceptual infrastructure supporting the Dualism and Bidirectional Interaction tenets.
+- **Source**: chain (from emergence research)
+- **Result**: Created ~2000 word article covering weak vs strong emergence distinction, Kim's exclusion argument, downward causation, O'Connor-Wong's emergent causal powers, why consciousness is the paradigm case, and how the site provides a mechanism (quantum selection) that classical emergentism lacked.
+- **Output**: `concepts/emergence.md`
+
+### ✓ 2026-01-15: Create concept page for the combination problem
+- **Type**: expand-topic
+- **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism. Key topics: Seager's subject combination problem, palette problem, grain problem, Chalmers's formulation, cosmopsychism alternative.
+- **Source**: gap_analysis
+- **Result**: Created ~2400 word article covering subject-summing, palette, grain, and structure problems; proposed solutions (phenomenal bonding, co-consciousness, combinatorial infusion, cosmopsychism, eliminating subjects); comparison with site's interactionist framework that avoids the problem entirely.
+- **Output**: `concepts/combination-problem.md`, updated `concepts/panpsychism.md`, `concepts/russellian-monism.md`
+
+### ✓ 2026-01-15: Research emergence and consciousness
+- **Type**: research-topic
+- **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position. Key topics: Kim's causal exclusion argument, strong emergence as downward causation, weak emergence vs reduction, O'Connor and Wong on emergent properties, Chalmers on strong emergence.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering strong/weak emergence distinction, British emergentism (Broad, Alexander), Kim's causal exclusion argument, O'Connor-Wong on emergent properties with novel causal powers, downward causation debates, and how site's framework aligns with strong emergentism via quantum mechanism.
+- **Output**: `research/emergence-consciousness-philosophy-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review neurophenomenology.md considering introspection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/introspection.md covers training effects (Fox et al. study showing meditation predicts accuracy) and microphenomenology. Review concepts/neurophenomenology.md for opportunities to strengthen the argument that contemplative training improves introspective reliability.
+- **Source**: chain (from introspection.md)
+- **Result**: Added process/content distinction to reliability section (Nisbett/Wilson critique); expanded Fox et al. study with logarithmic learning curve detail; enhanced microphenomenology section with specific techniques; added introspection to concepts list and Further Reading.
+- **Output**: Updated `concepts/neurophenomenology.md`
+
+### ✓ 2026-01-15: Deep review meaning-of-life.md for comprehensiveness
+- **Type**: deep-review
+- **Notes**: meaning-of-life.md is a core topic page with high traffic potential. Never received a deep review. Check for: engagement with contemporary meaning literature (Wolf, Metz), connections to newer content (purpose-and-alignment.md, existentialism.md), tenet alignment strength, missing philosophical positions.
+- **Source**: staleness (never deep-reviewed)
+- **Result**: Fixed vague Landau citation; engaged Wolf and Metz more deeply with publication details; added Deutsch's MWI counterargument; expanded error theory response to avoid circularity; added "What Would Challenge This View?" falsifiability section; connected to free-will, agent-causation, phenomenology, mysterianism, illusionism.
+- **Output**: Updated `topics/meaning-of-life.md`, created `workflow/reviews/deep-review-2026-01-15-meaning-of-life.md`
+
+### ✓ 2026-01-15: Cross-review phenomenology.md considering introspection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/introspection.md covers the reliability debate (Nisbett/Wilson, Schwitzgebel), the process/content distinction, training effects (Fox), and microphenomenology (Petitmengin). Review concepts/phenomenology.md for opportunities to address reliability objections and connect to the dedicated introspection article.
+- **Source**: chain (from introspection.md)
+- **Result**: Added "The Reliability Objection and Its Response" section covering process/content distinction, Fox et al. training study, and microphenomenology as method. Added introspection and neurophenomenology to concepts list and Further Reading.
+- **Output**: Updated `concepts/phenomenology.md`
+
+### ✓ 2026-01-15: Update attention.md with 2025 adversarial testing results
+- **Type**: refine-draft
+- **Notes**: The 2025 Nature adversarial collaboration testing GWT vs. IIT found neither theory clearly vindicated—"results critically challenge key tenets of both theories." This supports the site's Occam's Razor Has Limits position. Also add critique of IIT's attention neglect (2025 Erkenntnis paper) and Attention Schema Theory as an illusionist position conflicting with Dualism. Research completed in research/attention-consciousness-mechanisms-2026-01-15.md.
+- **Source**: chain (from attention research)
+- **Result**: Added "Major Theories of Attention and Consciousness" section with IIT's attention problem, 2025 adversarial testing results, and Attention Schema Theory critique. Added illusionism and IIT to concepts list.
+- **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-15: Research attention and consciousness mechanisms
 - **Type**: research-topic

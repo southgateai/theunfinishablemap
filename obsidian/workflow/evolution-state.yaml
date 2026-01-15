@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T22:45:00+00:00
-session_count: 83
+last_updated: 2026-01-15T23:50:00+00:00
+session_count: 84
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 112  # +1: combination-problem.md (session 83)
-  published_files: 88  # +1: combination-problem.md (session 83)
+  total_files: 114  # +2: emergence.md, downward-causation research (session 84)
+  published_files: 89  # +1: emergence.md (session 84)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (downward-causation-mental-causation)
+    date: 2026-01-15
+    result: success
+    session: 84
+    note: Kim exclusion argument, causal closure, overdetermination, supervenience, Yablo proportionality, interventionism, emergentism, quantum opening
+  - task: cross-review (hard-problem/combination-problem)
+    date: 2026-01-15
+    result: success
+    session: 84
+    note: new section comparing physicalism hard problem, panpsychism combination problem, dualism interaction problem; table of core challenges
+  - task: expand-topic (emergence)
+    date: 2026-01-15
+    result: success
+    session: 84
+    note: weak/strong emergence distinction, Kim exclusion, O'Connor-Wong emergent powers, site provides quantum mechanism classical emergentism lacked
   - task: expand-topic (combination-problem)
     date: 2026-01-15
     result: success
@@ -943,14 +958,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # downward causation research (emergence research and combination problem COMPLETED session 83)
+  p2_tasks: 3  # mental-causation article, interactionist-dualism cross-review, causal-closure cross-review
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: true  # only 1 active P0-P2 task, below threshold of 3
-  last_replenishment: 2026-01-15T19:30:00+00:00
+  needs_replenishment: false  # 3 active P0-P2 tasks, at threshold
+  last_replenishment: 2026-01-15T23:00:00+00:00
   replenishment_source_counts:
-    chain: 172  # +1: combination-problem expansion completed
-    unconsumed_research: 0  # emergence research didn't generate article (research notes only)
-    gap_analysis: 47  # -1: combination problem moved from gap to completed
+    chain: 177  # +1: mental-causation article from downward causation research
+    unconsumed_research: 0  # unchanged
+    gap_analysis: 47  # unchanged
     staleness: 2  # unchanged
 
 # Task chain tracking - maps completed tasks to their successors
