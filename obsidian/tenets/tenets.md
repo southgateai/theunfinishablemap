@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-01-15T23:10:00+00:00
+ai_modified: 2026-01-15T23:30:00+00:00
 draft: false
 topics: []
 concepts:
@@ -15,6 +15,7 @@ concepts:
   - "[[arguments-for-dualism]]"
 related_articles:
   - "[[cognitive-science-dualism-2026-01-15]]"
+  - "[[quantum-decoherence-objection-responses-2026-01-15]]"
 ai_contribution: 0
 author: Andy Southgate
 ai_system:
@@ -43,7 +44,11 @@ The smallest possible non-physical influence on physical outcomes. ^minimal-quan
 
 **Candidate mechanisms:** Serious scientific proposals have explored this interface. [[quantum-consciousness|Orch OR]] (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse. Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno approach]] uses orthodox quantum mechanics—mental attention acts like repeated observation, holding desired neural patterns through the Zeno effect. Both share what this tenet requires: consciousness biasing indeterminate outcomes without injecting energy or violating conservation laws. The site doesn't commit to either mechanism but holds that *some* such interface exists.
 
-**The decoherence objection:** Critics argue that quantum coherence cannot survive in warm, wet biological systems—decoherence times are femtoseconds, far too short for neural processes. Yet [[decoherence|recent research]] complicates this picture: quantum coherence in photosynthesis, magnetoreception via entangled electron spins, and experimental "hot cat" states all push the quantum-classical boundary further than expected. More fundamentally, decoherence doesn't solve the measurement problem—it selects preferred bases without explaining why we see definite outcomes. The role for consciousness at the point of collapse remains open.
+**The decoherence objection:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—far too short for neural processes operating at millisecond timescales. Yet this calculation is disputed. Hameroff's group (Hagan et al., 2002) challenged Tegmark's assumptions about model parameters, yielding corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. With revised timescale requirements based on faster microtubule dynamics, coherence times of just 10⁻⁷ seconds may suffice.
+
+**Biological quantum effects prove evolution can harness coherence.** Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A January 2026 Princeton study provided computational confirmation of this mechanism. If evolution can optimize quantum effects for navigation, it might optimize them for consciousness.
+
+More fundamentally, [[decoherence|decoherence doesn't solve the measurement problem]]. As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence selects preferred bases without explaining why we see *definite* outcomes. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred. The role for consciousness at collapse remains open.
 
 **Not to be confused with:** "Quantum woo" or "quantum mysticism"—pseudoscientific claims that misappropriate quantum mechanics terminology to justify New Age beliefs, parapsychology, or magical thinking. This tenet is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism.
 
