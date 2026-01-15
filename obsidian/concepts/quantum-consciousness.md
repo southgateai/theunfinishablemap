@@ -3,7 +3,7 @@ title: "Quantum Consciousness Mechanisms"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-15T12:30:00+00:00
+ai_modified: 2026-01-15T22:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-consciousness-mechanisms-2026-01-08]]"
+  - "[[many-worlds]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -44,7 +45,7 @@ This is the opening for mental causation. At quantum indeterminacies, physical c
 
 The measurement problem creates logical space for consciousness at collapse—something must select among possibilities, and physics doesn't specify what. This transforms the exclusion argument: rather than mental causes being crowded out by physical causes, mental causes operate precisely where physical causation runs out.
 
-The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
+The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. The [[many-worlds|Against Many-Worlds]] argument page details five arguments against this interpretation: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and that consciousness has no role. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
 
 ## Orchestrated Objective Reduction (Orch OR)
 
@@ -142,7 +143,7 @@ Despite differences, quantum consciousness theories agree on several points:
 
 3. **No energy violation.** Consciousness shapes outcomes without adding energy, respecting conservation laws.
 
-4. **Many Worlds is rejected.** These theories assume collapse is real—outcomes are genuinely selected, not merely branched into.
+4. **Many Worlds is rejected.** These theories assume collapse is real—outcomes are genuinely selected, not merely branched into. See the [[many-worlds|argument against many-worlds]] for why this matters: MWI eliminates the role for consciousness by having all outcomes occur, making consciousness epiphenomenal with respect to quantum events.
 
 These shared features align with the site's tenets.
 
@@ -209,6 +210,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [[many-worlds]] — Why the site rejects the many-worlds interpretation
 - [[mental-causation]] — Why quantum consciousness theories address the exclusion problem
 - [[causal-closure]] — The principle that quantum indeterminacy allows consciousness to challenge
 - [[emergence]] — How the quantum framework provides strong emergentism with a mechanism
