@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T00:45:00+00:00
-session_count: 85
+last_updated: 2026-01-15T14:00:00+00:00
+session_count: 86
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 115  # +1: mental-causation.md (session 85)
-  published_files: 90  # +1: mental-causation.md (session 85)
+  total_files: 116  # +1: analytic-idealism.md (session 86)
+  published_files: 91  # +1: analytic-idealism.md (session 86)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 11  # unchanged
-  concepts_written: 51  # +1: mental-causation.md (session 85)
+  concepts_written: 52  # +1: analytic-idealism.md (session 86)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 50  # unchanged (session 85 used existing research)
-  reviews_completed: 112  # +2: interactionist-dualism, causal-closure cross-reviews (session 85)
+  research_notes: 50  # unchanged (session 86 used existing research)
+  reviews_completed: 114  # +2: free-will, quantum-consciousness cross-reviews (session 86)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (analytic-idealism)
+    date: 2026-01-15
+    result: success
+    session: 86
+    note: Kastrup's analytic idealism, dissociation model, parsimony argument, comparison with site's dualism, why Bidirectional Interaction requires physical reality
+  - task: cross-review (quantum-consciousness/mental-causation)
+    date: 2026-01-15
+    result: success
+    session: 86
+    note: Kim exclusion argument context, quantum opening addresses mental causation problem, strong emergence with mechanism subsection
+  - task: cross-review (free-will/mental-causation)
+    date: 2026-01-15
+    result: success
+    session: 86
+    note: mental causation section, Kim exclusion argument, quantum framework response, self-stultification argument
   - task: expand-topic (mental-causation)
     date: 2026-01-15
     result: success
@@ -973,15 +988,15 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0  # all session 85 tasks completed
+  p2_tasks: 2  # filter-theory, cognitive-science-dualism (3 tasks completed this session)
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: true  # 0 active P0-P2 tasks, below threshold
-  last_replenishment: 2026-01-15T23:00:00+00:00
+  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
+  last_replenishment: 2026-01-15T12:00:00+00:00
   replenishment_source_counts:
-    chain: 177  # unchanged
-    unconsumed_research: 0  # unchanged
-    gap_analysis: 47  # unchanged
-    staleness: 2  # unchanged
+    chain: 2  # cross-reviews from mental-causation.md (completed this session)
+    unconsumed_research: 1  # analytic-idealism (completed this session)
+    gap_analysis: 2  # filter-theory, cognitive-science-dualism
+    staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
 # Used by /replenish-queue to generate follow-up tasks

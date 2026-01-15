@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-14 18:15:00+00:00
+ai_modified: 2026-01-15 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,9 @@ concepts:
 - '[[attention]]'
 - '[[measurement-problem]]'
 - '[[collapse-and-time]]'
+- '[[mental-causation]]'
+- '[[causal-closure]]'
+- '[[emergence]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -34,9 +37,13 @@ This site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) 
 
 ## The Quantum Opening
 
+The quantum opening addresses a deep philosophical problem: [mental causation](/concepts/mental-causation/). Jaegwon Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded—consciousness either reduces to physics or causes nothing. The standard response accepts this within classical physics. But quantum mechanics provides an alternative.
+
 Standard quantum mechanics describes particles as existing in superpositions—simultaneously in multiple states—until "measured," at which point the superposition "collapses" to a definite outcome. The [measurement problem](/concepts/measurement-problem/) asks: what counts as a measurement, and why does it collapse the superposition? As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Physics leaves this question open.
 
-If measurement genuinely requires something beyond the physical—consciousness, say—then consciousness has a role in determining physical outcomes. This is the opening quantum theories exploit. The measurement problem creates logical space for consciousness at collapse—something must select among possibilities, and physics doesn't specify what.
+This is the opening for mental causation. At quantum indeterminacies, physical causes are *necessary but not sufficient*. [Causal closure](/concepts/causal-closure/)—the thesis that every physical event has a sufficient physical cause—fails at exactly these points. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. No overdetermination, no exclusion.
+
+The measurement problem creates logical space for consciousness at collapse—something must select among possibilities, and physics doesn't specify what. This transforms the exclusion argument: rather than mental causes being crowded out by physical causes, mental causes operate precisely where physical causation runs out.
 
 The site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
 
@@ -189,10 +196,23 @@ The site's tenets don't commit to any specific quantum consciousness mechanism. 
 
 Both Orch OR and Stapp's quantum Zeno approach are compatible with these commitments. The site remains agnostic about which (if either) is correct. What matters is that *some* such mechanism exists—that consciousness has a point of entry into physics at the quantum level.
 
+### Strong Emergence with a Mechanism
+
+The site's position can be understood as strong [emergentism](/concepts/emergence/) that specifies its mechanism. Classical emergentists (Broad, Alexander, O'Connor and Wong) affirmed that consciousness has genuinely novel causal powers not reducible to physical constituents—this is [mental causation](/concepts/mental-causation/). But they couldn't explain *how* such powers operate without violating physical law.
+
+Quantum consciousness theories provide the mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This respects the spirit of causal closure (physics explains what physics determines) while denying its letter (physics doesn't determine everything). Consciousness's "novel causal powers" consist in selecting among quantum outcomes—exactly where selection is needed and physics offers none.
+
+This is why the quantum opening matters philosophically, not just scientifically. It transforms mental causation from a philosophical puzzle requiring mysterious "downward causation" into a precise proposal: consciousness causes physical effects by determining what physics leaves undetermined.
+
+### The Empirical Question
+
 The decoherence objection remains the most serious challenge. If quantum coherence truly cannot persist long enough in the brain to be relevant, these mechanisms fail. But recent empirical work suggests the story may be more complex than Tegmark's early calculations indicated. The question is empirical, not philosophical.
 
 ## Further Reading
 
+- [mental-causation](/concepts/mental-causation/) — Why quantum consciousness theories address the exclusion problem
+- [causal-closure](/concepts/causal-closure/) — The principle that quantum indeterminacy allows consciousness to challenge
+- [emergence](/concepts/emergence/) — How the quantum framework provides strong emergentism with a mechanism
 - [measurement-problem](/concepts/measurement-problem/) — Why the measurement problem creates logical space for consciousness
 - [attention](/concepts/attention/) — The attention-consciousness dissociation and its implications for Stapp's mechanism
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity

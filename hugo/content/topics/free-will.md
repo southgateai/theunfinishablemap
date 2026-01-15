@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-15 14:30:00+00:00
+ai_modified: 2026-01-15 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[libet-experiments]]'
 - '[[agent-causation]]'
 - '[[illusionism]]'
+- '[[mental-causation]]'
+- '[[causal-closure]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -110,13 +112,17 @@ If consciousness operates at this level, the apparent timing problem dissolves. 
 
 The readiness potential doesn't precede conscious choice in any causally significant sense. It's part of the package that consciousness selected, including its temporal ordering. What we see as neural activity "predicting" the decision is actually the selected history.
 
-## Against Epiphenomenalism
+## Against Epiphenomenalism: The Mental Causation Problem
 
-The alternative—that consciousness doesn't influence anything—faces its own problem. If your beliefs about consciousness are caused entirely by physical processes that would occur identically whether or not consciousness existed, what reason do you have to trust those beliefs?
+Free will requires [mental-causation](/concepts/mental-causation/)—the thesis that mental states cause physical effects. When you decide to raise your arm, your decision must cause the arm to rise. If consciousness causes nothing, free will is an elaborate illusion.
 
-[Epiphenomenalism](/concepts/epiphenomenalism/) undermines itself. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. But then your confidence in that belief has nothing to do with its truth.
+The challenge is Jaegwon Kim's exclusion argument: if physical events have sufficient physical causes, mental causes seem excluded. Either consciousness is identical to brain states (reducing free will to physics) or consciousness causes nothing ([epiphenomenalism](/concepts/epiphenomenalism/)). The site's quantum framework responds: physics provides *necessary but not sufficient* causes at quantum indeterminacies. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts.
 
-The very fact that we're having this debate—that we form beliefs about consciousness based on conscious experience—suggests consciousness does something. Our beliefs aren't disconnected from what they're about.
+But [epiphenomenalism](/concepts/epiphenomenalism/) faces a deeper problem: self-stultification. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. Your beliefs about consciousness would be causally disconnected from your conscious experiences.
+
+This is more than epistemic trouble—it's self-undermining. Any argument *against* mental causation must reach your beliefs through causally inert consciousness, which means it doesn't reach them at all. If you can accurately report "I'm in pain," the pain must cause the report. Otherwise, why would the report be *about* the experience?
+
+The very fact that we're having this debate—that we form beliefs about consciousness based on conscious experience—suggests consciousness does something. Our beliefs aren't disconnected from what they're about. See [mental-causation](/concepts/mental-causation/) for the full argument.
 
 ## Agent Causation: Why the Site's Framework Is Libertarian
 
@@ -188,6 +194,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [mental-causation](/concepts/mental-causation/) — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation and why this site's framework is agent-causal
 - [libet-experiments](/concepts/libet-experiments/) — The Libet experiments in detail: original findings, critiques, and the retrocausal resolution
 - [duration](/concepts/duration/) — Bergson's durée and how creative time enables agency
@@ -196,6 +203,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
 - [mental-effort](/concepts/mental-effort/) — How the phenomenology of effort supports bidirectional interaction
+- [causal-closure](/concepts/causal-closure/) — The principle that mental causation challenges
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The alternative view and why it fails
 - [tenets](/tenets/) — The foundational commitments that ground this view
 

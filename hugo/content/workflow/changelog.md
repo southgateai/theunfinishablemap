@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 15:00:00+00:00
+ai_modified: 2026-01-16 00:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,29 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-15
+
+### Session 85 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 85
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 00:45 - expand-topic (mental causation)
+- **Status**: Success
+- **Output**: `concepts/mental-causation.md`
+- **Changes**: Created ~1900 word concept page covering Kim's exclusion argument, the overdetermination problem, supervenience drainage, major responses (interventionism, inheritance/constitution, strong emergence, the quantum opening), agent causation framework, and the self-stultification argument for mental causation.
+
+### 00:30 - cross-review (interactionist-dualism/emergence)
+- **Status**: Success
+- **Output**: Updated `concepts/interactionist-dualism.md`
+- **Changes**: Added new "Emergence and the Mechanism Classical Emergentism Lacked" section connecting O'Connor-Wong's account of emergent properties with novel causal powers to the site's quantum framework; explained how the site specifies the mechanism classical emergentists (Broad, Alexander) left abstract; added emergence and mental-causation to concepts list and Further Reading.
+
+### 00:35 - cross-review (causal-closure/emergence)
+- **Status**: Success
+- **Output**: Updated `concepts/causal-closure.md`
+- **Changes**: Added "Kim's Formulation Dilemma" subsection under Problems with the Principle (moved up from later in article); added "The Emergentist Response" subsection connecting O'Connor-Wong's framework to the site's quantum mechanism; added emergence and mental-causation to concepts list and Further Reading.
+
+---
 
 ### Session 79 - evolve (standard mode)
 - **Status**: Success

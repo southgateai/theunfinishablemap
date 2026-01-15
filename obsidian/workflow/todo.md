@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Create concept page for filter-theory
+- **Type**: expand-topic
+- **Notes**: Referenced across multiple articles (mind-brain-separation.md, loss-of-consciousness.md, dreams-and-consciousness.md) but has no dedicated treatment. The James-Bergson-Huxley filter/transmission theory is central to site's framework—consciousness isn't produced by brain but transmitted/filtered through it.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-15
+
+### P2: Research cognitive science of dualism
+- **Type**: research-topic
+- **Notes**: The phenomenology-first-person-methods research noted that "intuitive dualism" is empirically widespread—most people naturally think in dualist terms. What does cognitive science say about folk dualism? Bloom's "Descartes' Baby," developmental studies, cross-cultural evidence. Would strengthen Occam's Razor Has Limits argument—if dualism is cognitively natural, dismissing it as "unscientific" may miss something.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-15
+
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -44,6 +56,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Write article on analytic idealism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/analytic-idealism-2026-01-08.md. Kastrup's view that universal consciousness is fundamental and matter is appearance. Important alternative position that shares anti-physicalism but goes further than dualism. Should engage critically—does Bidirectional Interaction make sense if matter isn't real?
+- **Result**: Created ~1900 word concept page covering Kastrup's analytic idealism, core position (universal consciousness as sole primitive, matter as appearance, dissociation model), parsimony argument, historical roots (Berkeley, German idealism, Advaita Vedanta), comparison with site's dualism, and the regularity challenge.
+- **Output**: `concepts/analytic-idealism.md`
+
+### ✓ 2026-01-15: Cross-review quantum-consciousness.md considering mental-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-causation.md explains how the quantum framework addresses the exclusion problem by locating mental causation at indeterminacies. Review concepts/quantum-consciousness.md to strengthen the philosophical grounding—the exclusion problem is the main philosophical challenge quantum consciousness theories address.
+- **Result**: Added mental-causation, causal-closure, emergence to concepts; expanded "The Quantum Opening" section with Kim's exclusion argument context; added "Strong Emergence with a Mechanism" subsection; updated Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review free-will.md considering mental-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-causation.md covers Kim's exclusion argument, the quantum opening for mental causation, and the self-stultification argument. Review topics/free-will.md for opportunities to strengthen the connection between free will and mental causation—both depend on consciousness causing physical effects.
+- **Result**: Added mental-causation, causal-closure to concepts; expanded epiphenomenalism section into "Against Epiphenomenalism: The Mental Causation Problem" with Kim's argument, quantum framework response, and self-stultification; added Further Reading entries.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-15: Write article on mental causation
 - **Type**: expand-topic
