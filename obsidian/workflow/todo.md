@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T00:00:00+00:00
+ai_modified: 2026-01-15T15:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,6 +43,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-15
 
+### P2: Cross-review materialism.md considering analytic-idealism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/analytic-idealism.md presents Kastrup's view that consciousness is fundamental and matter is appearance. Review concepts/materialism.md to add idealism as a competing alternative—the materialism page should engage with this challenge to the physicalist worldview.
+- **Source**: chain (from analytic-idealism.md)
+- **Generated**: 2026-01-15
+
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -50,6 +56,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review epiphenomenalism.md considering mental-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-causation.md covers arguments against epiphenomenalism (self-stultification, quantum opening). Review concepts/epiphenomenalism.md to strengthen the objections section and link to the dedicated mental-causation treatment.
+- **Result**: Added mental-causation, causal-closure, interactionist-dualism to concepts; expanded closure argument with Kim's exclusion structure and quantum response; linked self-stultification section to mental-causation article; expanded Further Reading.
+- **Output**: Updated `concepts/epiphenomenalism.md`
+
+### ✓ 2026-01-15: Research objections to interactionist dualism
+- **Type**: research-topic
+- **Notes**: The site has strong positive arguments for dualism but could engage more deeply with the strongest objections. Research the strongest contemporary objections beyond causal closure: conservation laws (Papineau), pairing problem (Kim), evolutionary arguments, parsimony arguments. Would strengthen interactionist-dualism.md and arguments-for-dualism.md by engaging opponents directly.
+- **Result**: Comprehensive research covering 5 major objections: Kim's pairing problem (spatial location), conservation laws (Papineau), parsimony/simplicity, evolutionary argument (actually supports interactionism), and exclusion argument. Includes responses and assessment for each.
+- **Output**: `research/objections-to-interactionist-dualism-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review interactionist-dualism.md considering mental-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-causation.md covers the exclusion argument, overdetermination, and how the quantum framework addresses these challenges. Review concepts/interactionist-dualism.md to engage more explicitly with Kim's exclusion argument—this is the main philosophical challenge to interactionism.
+- **Result**: Expanded causal closure section with Kim's 4-premise structure; added explicit links to causal-closure.md and mental-causation.md; added self-stultification argument as positive motivation for interactionism.
+- **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-15: Cross-review death-and-consciousness.md considering filter-theory insights
 - **Type**: cross-review

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T00:00:00+00:00
-session_count: 88
+last_updated: 2026-01-15T15:00:00+00:00
+session_count: 89
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 11  # unchanged
-  concepts_written: 53  # +1: filter-theory.md (session 87)
+  concepts_written: 53  # unchanged
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 50  # unchanged
-  reviews_completed: 119  # +3: NCCs, NDEs, death-and-consciousness filter-theory cross-reviews (session 88)
+  research_notes: 51  # +1: objections-to-interactionist-dualism (session 89)
+  reviews_completed: 121  # +2: interactionist-dualism, epiphenomenalism cross-reviews (session 89)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (epiphenomenalism/mental-causation)
+    date: 2026-01-15
+    result: success
+    session: 89
+    note: Kim's exclusion structure added, quantum response, mental-causation link, expanded Further Reading
+  - task: research-topic (objections-to-interactionist-dualism)
+    date: 2026-01-15
+    result: success
+    session: 89
+    note: 5 major objections covered—pairing problem, conservation laws, parsimony, evolutionary (supports interactionism), exclusion
+  - task: cross-review (interactionist-dualism/mental-causation)
+    date: 2026-01-15
+    result: success
+    session: 89
+    note: Kim's 4-premise structure, causal-closure link, self-stultification as positive motivation
   - task: cross-review (neural-correlates/filter-theory)
     date: 2026-01-15
     result: success
@@ -1018,12 +1033,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # cognitive-science-dualism (3 cross-reviews completed session 88)
+  p2_tasks: 2  # cognitive-science-dualism, materialism cross-review remaining
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: true  # 1 active P0-P2 task, below threshold of 3
-  last_replenishment: 2026-01-15T23:30:00+00:00
+  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
+  last_replenishment: 2026-01-15T12:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # 3 cross-reviews completed
+    chain: 1  # materialism cross-review remaining
     unconsumed_research: 0
     gap_analysis: 1  # cognitive-science-dualism remaining
     staleness: 0
