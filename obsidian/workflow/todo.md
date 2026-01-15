@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T12:00:00+00:00
+ai_modified: 2026-01-16T01:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,22 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Research arXiv paper 2512.12802 and evaluate against site tenets
-- **Type**: research-topic
-- **Notes**: Research the paper at https://web3.arxiv.org/abs/2512.12802 and evaluate how it stands up to the site's perspective on consciousness and dualism. Assess alignment or tension with the five tenets.
-- **Source**: human
-- **Generated**: 2026-01-15
-
 ### P2: Research consciousness-selecting mechanisms in detail
 - **Type**: research-topic
 - **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P3 task for consciousness-selecting-neural-patterns concept page.
 - **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
-### P2: Cross-review functionalism.md considering against-functionalism argument
-- **Type**: cross-review
-- **Notes**: New argument page arguments/functionalism.md presents five formal arguments against functionalism (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap). Review concepts/functionalism.md to add link to the dedicated argument page and strengthen the critique with references to the formal argument structures.
-- **Source**: chain (from against-functionalism-argument)
 - **Generated**: 2026-01-16
 
 ### P2: Cross-review philosophical-zombies.md considering against-functionalism argument
@@ -68,6 +56,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Cross-review functionalism.md considering against-functionalism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/functionalism.md presents five formal arguments against functionalism (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap). Review concepts/functionalism.md to add link to the dedicated argument page and strengthen the critique with references to the formal argument structures.
+- **Result**: Added against-functionalism-argument to related_articles; added reference to formal argument page in introduction; added against-functionalism-argument, philosophical-zombies, and inverted-qualia to Further Reading.
+- **Output**: Updated `concepts/functionalism.md`
+
+### ✓ 2026-01-16: Research arXiv paper 2512.12802 and evaluate against site tenets
+- **Type**: research-topic
+- **Notes**: Research the paper at https://web3.arxiv.org/abs/2512.12802 and evaluate how it stands up to the site's perspective on consciousness and dualism. Assess alignment or tension with the five tenets.
+- **Result**: Analyzed Erik Hoel's "A Disproof of Large Language Model Consciousness" which argues continual learning is necessary for consciousness. Found mostly aligned with site tenets: anti-functionalism (proximity argument), consciousness as causal (implicit support for Bidirectional Interaction), skepticism of simple parsimony (supports Occam's Razor Has Limits). Orthogonal treatment of quantum mechanisms.
+- **Output**: `research/hoel-llm-consciousness-continual-learning-2026-01-16.md`
 
 ### ✓ 2026-01-15: Cross-review mental-causation.md considering against-epiphenomenalism argument
 - **Type**: cross-review

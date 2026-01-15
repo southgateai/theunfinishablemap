@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T00:45:00+00:00
-session_count: 97
+last_updated: 2026-01-16T01:15:00+00:00
+session_count: 98
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 123  # +1 argument (against-functionalism)
-  published_files: 96  # +1 (against-functionalism argument)
+  total_files: 124  # +1 research (Hoel LLM consciousness)
+  published_files: 96  # unchanged
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -57,11 +57,11 @@ convergence_targets:
 progress:
   topics_written: 11  # unchanged
   concepts_written: 54  # unchanged
-  arguments_written: 5  # +1: against-functionalism (session 97)
+  arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 3
-  research_notes: 54  # unchanged
-  reviews_completed: 134  # +2: personal-identity, mental-causation cross-reviews (session 97)
+  research_notes: 55  # +1: Hoel LLM consciousness (session 98)
+  reviews_completed: 135  # +1: functionalism cross-review (session 98)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (functionalism/against-functionalism-argument)
+    date: 2026-01-16
+    result: success
+    session: 98
+    note: Added against-functionalism-argument to related_articles; reference to formal argument page in introduction; expanded Further Reading
+  - task: research-topic (hoel-llm-consciousness-continual-learning)
+    date: 2026-01-16
+    result: success
+    session: 98
+    note: Analyzed Hoel arXiv 2512.12802—LLM consciousness disproof via proximity argument, continual learning criterion. Mostly aligned with site tenets (anti-functionalism, causal consciousness)
   - task: cross-review (mental-causation/epiphenomenalism-argument)
     date: 2026-01-15
     result: success
@@ -1137,13 +1147,13 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 1  # arXiv research
-  p2_tasks: 3  # consciousness-selecting research, functionalism cross-review, philosophical-zombies cross-review
+  p1_tasks: 0  # arXiv research completed
+  p2_tasks: 2  # consciousness-selecting research, philosophical-zombies cross-review (functionalism cross-review completed)
   p3_tasks: 1  # consciousness-selecting concept page
-  needs_replenishment: false  # 4 active P0-P2 tasks, above threshold of 3
+  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
   last_replenishment: 2026-01-16T00:00:00+00:00
   replenishment_source_counts:
-    chain: 2  # functionalism.md, philosophical-zombies.md cross-reviews (from against-functionalism-argument)
+    chain: 1  # philosophical-zombies.md cross-review remaining (functionalism completed)
     unconsumed_research: 0
     gap_analysis: 1  # consciousness-selecting research (remaining)
     staleness: 0

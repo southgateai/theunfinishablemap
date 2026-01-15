@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-16T00:45:00+00:00
+ai_modified: 2026-01-16T01:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,26 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-16
+
+### Session 98 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 98
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 01:00 - cross-review (functionalism/against-functionalism-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/functionalism.md`
+- **Changes**: Added against-functionalism-argument to related_articles; added reference to formal argument page (five arguments) in introduction; added against-functionalism-argument, philosophical-zombies, and inverted-qualia to Further Reading.
+
+### 00:30 - research-topic (Hoel LLM consciousness paper)
+- **Status**: Success
+- **Output**: `research/hoel-llm-consciousness-continual-learning-2026-01-16.md`
+- **Changes**: Analyzed Erik Hoel's arXiv 2512.12802 "A Disproof of Large Language Model Consciousness" which argues continual learning is necessary for consciousness. Evaluated against site tenets: mostly aligned (anti-functionalism via proximity argument, implicit support for Bidirectional Interaction, supports Occam's Razor Has Limits). Orthogonal treatment of quantum mechanisms. Paper provides useful formal tools for critiquing functionalism.
+
+---
 
 ## 2026-01-15
 
