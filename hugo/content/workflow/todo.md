@@ -70,6 +70,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+### ✓ 2026-01-15: Write article on dreams and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-dreams-2026-01-14.md. Covers dream phenomenology, lucid dreaming as distinct consciousness state (2025 Demirel findings), Tibetan dream yoga traditions. Key finding: dreams demonstrate consciousness can generate experiential worlds independently of sensory input, supporting filter model. Connects to mind-brain-separation.md and Eastern philosophy.
+- **Source**: chain (from research-topic)
+- **Result**: Created ~2000 word article covering dreams as conscious experience, what dreams reveal about mind-brain relationship, 2025 Demirel lucid dreaming findings, Tibetan dream yoga traditions, and filter theory implications.
+- **Output**: `concepts/dreams-and-consciousness.md`
+
+### ✓ 2026-01-15: Write article on agent causation and libertarian free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/agent-causation-libertarian-free-will-2026-01-14.md. Covers major agent-causal theorists (Chisholm, O'Connor, Clarke, Lowe, Hasker), event vs substance causation, luck objection responses. Key finding: site's quantum selection framework implements agent-causal libertarianism where consciousness selects quantum outcomes. Would strengthen free-will.md and interactionist-dualism.md.
+- **Source**: chain (from research-topic)
+- **Result**: Created ~2000 word article covering agent vs event causation distinction, major defenders (Chisholm, O'Connor, Lowe, Hasker), luck objection and site's response, substance causation framework, and how site's quantum mechanism implements agent causation.
+- **Output**: `concepts/agent-causation.md`
+
 ### ✓ 2026-01-14: Research consciousness and dreams
 - **Type**: research-topic
 - **Notes**: Dreams are mentioned in mind-brain-separation.md (lucid dreams, blur persistence) but lack systematic treatment. Key questions: What does dreaming reveal about consciousness-brain relationship? How does lucid dreaming connect to the Bidirectional Interaction tenet? What do dream phenomenology studies show about consciousness during sleep? Connects to mind-brain-separation, filter theory, and Eastern philosophy articles (Tibetan dream yoga).
