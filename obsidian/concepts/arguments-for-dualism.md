@@ -3,7 +3,7 @@ title: "Arguments for Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T00:05:00+00:00
+ai_modified: 2026-01-15T22:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,8 @@ concepts:
   - "[[binding-problem]]"
   - "[[interactionist-dualism]]"
   - "[[substance-property-dualism]]"
+  - "[[causal-closure]]"
+  - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments-for-dualism-positive-case-2026-01-14]]"
@@ -127,6 +129,45 @@ The site's answer combines [[tenets#^bidirectional-interaction|Bidirectional Int
 
 This distinguishes the site's position from epiphenomenal property dualism. Consciousness doesn't merely accompany physical processes; it shapes which possibilities become actual.
 
+## Major Objections and Responses
+
+A fair assessment of dualism must engage the strongest objections. Five major challenges merit attention:
+
+### The Pairing Problem
+
+Jaegwon Kim asks: if minds are non-spatial, what pairs *this* mind with *this* body? Physical causation relies on spatial relations (billiard ball A strikes B because they're adjacent). Without spatial location, how can a particular mind cause events in a particular brain?
+
+**Response**: The site's interactionism locates minds spatially—in the brain regions where quantum effects occur. This isn't to reduce mind to brain but to acknowledge that the non-physical subject has spatial location while remaining ontologically distinct. Hasker's emergent dualism, mentioned above, explicitly accepts this: the soul occupies the brain region.
+
+### Conservation Laws
+
+If consciousness influences physical outcomes, must it inject energy into the physical system, violating conservation laws?
+
+**Response**: No. At [[quantum-consciousness|quantum indeterminacies]], consciousness selects among outcomes physics leaves undetermined—outcomes all having the same energy. No energy is added; the conservation equations are satisfied. Consciousness determines *which* possibility actualizes, not whether energy appears from nowhere.
+
+### The Exclusion Argument
+
+Kim's [[causal-closure|causal exclusion]] argument claims that even if physics isn't causally closed, physical properties "screen off" mental ones. If physical state P is sufficient for effect E, mental property M seems causally redundant.
+
+**Response**: The quantum framework denies P is sufficient for E at indeterminacies. Where physics genuinely leaves outcomes undetermined, mental properties can be causally relevant without competing with sufficient physical causes. This is detailed in [[mental-causation]].
+
+### The Evolutionary Argument
+
+William James observed that pleasures correlate precisely with survival benefits and pains with harms. Natural selection could produce such correlations only if consciousness causes behavior.
+
+**Twist**: This objection actually *supports* interactionism. It targets [[epiphenomenalism]], not interactionist dualism. If consciousness has causal effects—as the site maintains—the evolutionary correlations are explicable. The argument strengthens the case for [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+
+### Summary
+
+| Objection | Response |
+|-----------|----------|
+| Pairing problem | Minds have spatial location (in brains) |
+| Conservation laws | Quantum selection without energy injection |
+| Causal exclusion | Physics insufficient at indeterminacies |
+| Evolutionary argument | *Supports* interactionism |
+
+These responses don't make objections disappear, but they show interactionist dualism can address its critics systematically. The site's quantum framework provides principled answers that purely Cartesian dualism lacked.
+
 ## Relation to This Site's Perspective
 
 The positive arguments for dualism directly support the site's foundational commitments:
@@ -151,7 +192,11 @@ The site does not commit to substance over property dualism. Both support irredu
 - [[explanatory-gap]] — The space between physical and phenomenal
 - [[interactionist-dualism]] — How mind and matter interact
 - [[substance-property-dualism]] — The two main forms of dualism
+- [[causal-closure]] — The causal closure challenge and responses
+- [[mental-causation]] — The exclusion argument and how to answer it
+- [[epiphenomenalism]] — What happens if dualism abandons causal efficacy
 - [[arguments-for-dualism-positive-case-2026-01-14]] — Research notes on this topic
+- [[objections-to-interactionist-dualism-2026-01-15]] — Research on objections and responses
 
 ## References
 
