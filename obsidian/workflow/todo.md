@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T19:00:00+00:00
+ai_modified: 2026-01-15T21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,23 +37,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review neurophenomenology.md considering introspection insights
-- **Type**: cross-review
-- **Notes**: New article concepts/introspection.md covers training effects (Fox et al. study showing meditation predicts accuracy) and microphenomenology. Review concepts/neurophenomenology.md for opportunities to strengthen the argument that contemplative training improves introspective reliability.
-- **Source**: chain (from introspection.md)
-- **Generated**: 2026-01-15
-
-### P3: Create concept page for the combination problem
-- **Type**: expand-topic
-- **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
-
-### P3: Research emergence and consciousness
+### P2: Research emergence and consciousness
 - **Type**: research-topic
-- **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position.
+- **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position. Key topics: Kim's causal exclusion argument, strong emergence as downward causation, weak emergence vs reduction, O'Connor and Wong on emergent properties, Chalmers on strong emergence.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+
+### P2: Create concept page for the combination problem
+- **Type**: expand-topic
+- **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism. Key topics: Seager's subject combination problem, palette problem, grain problem, Chalmers's formulation, cosmopsychism alternative.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research downward causation and mental causation
+- **Type**: research-topic
+- **Notes**: The site's Bidirectional Interaction tenet depends on downward causation—consciousness influencing physical events. But the philosophical literature on mental causation (Kim, Papineau, Yablo) presents serious challenges. Key questions: Does the causal closure of physics rule out mental causation? What is overdetermination and how can dualism avoid it? How does supervenience relate to causation? Would strengthen interactionist-dualism.md and causal-closure.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-15
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
@@ -62,6 +62,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review neurophenomenology.md considering introspection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/introspection.md covers training effects (Fox et al. study showing meditation predicts accuracy) and microphenomenology. Review concepts/neurophenomenology.md for opportunities to strengthen the argument that contemplative training improves introspective reliability.
+- **Source**: chain (from introspection.md)
+- **Result**: Added process/content distinction to reliability section (Nisbett/Wilson critique); expanded Fox et al. study with logarithmic learning curve detail; enhanced microphenomenology section with specific techniques; added introspection to concepts list and Further Reading.
+- **Output**: Updated `concepts/neurophenomenology.md`
+
+### ✓ 2026-01-15: Deep review meaning-of-life.md for comprehensiveness
+- **Type**: deep-review
+- **Notes**: meaning-of-life.md is a core topic page with high traffic potential. Never received a deep review. Check for: engagement with contemporary meaning literature (Wolf, Metz), connections to newer content (purpose-and-alignment.md, existentialism.md), tenet alignment strength, missing philosophical positions.
+- **Source**: staleness (never deep-reviewed)
+- **Result**: Fixed vague Landau citation; engaged Wolf and Metz more deeply with publication details; added Deutsch's MWI counterargument; expanded error theory response to avoid circularity; added "What Would Challenge This View?" falsifiability section; connected to free-will, agent-causation, phenomenology, mysterianism, illusionism.
+- **Output**: Updated `topics/meaning-of-life.md`, created `workflow/reviews/deep-review-2026-01-15-meaning-of-life.md`
 
 ### ✓ 2026-01-15: Cross-review phenomenology.md considering introspection insights
 - **Type**: cross-review
