@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T22:30:00+00:00
+ai_modified: 2026-01-15T23:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,22 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review interactionist-dualism.md considering objections research
-- **Type**: cross-review
-- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md covers Kim's pairing problem and conservation laws. Review concepts/interactionist-dualism.md to add dedicated treatment of these objections—especially the pairing problem which is distinct from causal closure and requires a spatial location response.
-- **Source**: chain (from objections-to-interactionist-dualism research)
-- **Generated**: 2026-01-15
-
 ### P2: Create concept page on the pairing problem
 - **Type**: expand-topic
 - **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
 - **Source**: gap_analysis (from objections research)
-- **Generated**: 2026-01-15
-
-### P2: Cross-review tenets.md considering cognitive-science-dualism research
-- **Type**: cross-review
-- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md covers Bloom's "natural-born dualists," developmental evidence, and Barrett et al.'s cross-cultural study (finding "intuitive materialism" as default). Review tenets.md, particularly the Occam's Razor Has Limits section, to address whether dualism is cognitively natural or learned. Key finding: evidence is mixed—cognitive naturalness doesn't determine metaphysical truth, but this nuance is worth noting.
-- **Source**: chain (from cognitive-science-dualism research)
 - **Generated**: 2026-01-15
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
@@ -62,6 +50,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review tenets.md considering cognitive-science-dualism research
+- **Type**: cross-review
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md covers Bloom's "natural-born dualists," developmental evidence, and Barrett et al.'s cross-cultural study (finding "intuitive materialism" as default). Review tenets.md, particularly the Occam's Razor Has Limits section, to address whether dualism is cognitively natural or learned. Key finding: evidence is mixed—cognitive naturalness doesn't determine metaphysical truth, but this nuance is worth noting.
+- **Result**: Added "folk error" subsection to Occam's Razor Has Limits tenet. Covers Bloom vs Barrett et al. debate on whether dualism is innate or learned; emphasizes that cognitive naturalness doesn't determine metaphysical truth.
+- **Output**: Updated `tenets/tenets.md`
+
+### ✓ 2026-01-15: Cross-review interactionist-dualism.md considering objections research
+- **Type**: cross-review
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md covers Kim's pairing problem and conservation laws. Review concepts/interactionist-dualism.md to add dedicated treatment of these objections—especially the pairing problem which is distinct from causal closure and requires a spatial location response.
+- **Result**: Added new Pairing Problem section after Causal Closure. Covers Kim's distinct challenge (what pairs mind with body without spatial relations), spatial location response (Hasker, Zimmerman), and haecceity response (Bailey, Rasmussen, Van Horn). Added Kim 2005 and Bailey et al. 2011 to references.
+- **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-15: Research cognitive science of dualism
 - **Type**: research-topic

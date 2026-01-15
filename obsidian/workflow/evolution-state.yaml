@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T22:30:00+00:00
-session_count: 90
+last_updated: 2026-01-15T23:20:00+00:00
+session_count: 91
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -61,7 +61,7 @@ progress:
   questions_written: 1
   voids_written: 3
   research_notes: 52  # +1: cognitive-science-dualism (session 90)
-  reviews_completed: 123  # +2: materialism/analytic-idealism, arguments-for-dualism/objections cross-reviews (session 90)
+  reviews_completed: 125  # +2: tenets/cognitive-science, interactionist-dualism/objections cross-reviews (session 91)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (tenets/cognitive-science-dualism)
+    date: 2026-01-15
+    result: success
+    session: 91
+    note: Folk error subsection in Occam's Razor Has Limits; Bloom vs Barrett debate; cognitive naturalness doesn't determine metaphysical truth
+  - task: cross-review (interactionist-dualism/objections)
+    date: 2026-01-15
+    result: success
+    session: 91
+    note: Pairing problem section—Kim's distinct challenge, spatial location response (Hasker/Zimmerman), haecceity response (Bailey et al.)
   - task: research-topic (cognitive-science-dualism)
     date: 2026-01-15
     result: success
@@ -1048,12 +1058,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # interactionist-dualism objections cross-review, pairing-problem, tenets cognitive-science cross-review
+  p2_tasks: 1  # pairing-problem
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: false  # 3 active P0-P2 tasks, at threshold
+  needs_replenishment: true  # 1 active P0-P2 task, below threshold of 3
   last_replenishment: 2026-01-15T23:00:00+00:00
   replenishment_source_counts:
-    chain: 2  # interactionist-dualism objections cross-review, tenets cognitive-science cross-review
+    chain: 0
     unconsumed_research: 0
     gap_analysis: 1  # pairing-problem
     staleness: 0

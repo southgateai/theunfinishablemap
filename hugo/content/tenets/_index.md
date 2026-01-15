@@ -1,7 +1,7 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-15 00:00:00+00:00
+ai_modified: 2026-01-15 23:10:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts:
@@ -17,7 +17,8 @@ draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
 modified: *id001
-related_articles: []
+related_articles:
+- '[[cognitive-science-dualism-2026-01-15]]'
 title: Tenets
 topics: []
 ---
@@ -89,5 +90,7 @@ Simplicity is not a reliable guide to truth when knowledge is incomplete. <span 
 - *General relativity* curved spacetime itself rather than keeping flat space with forces—vastly more complex, yet correct.
 
 **Rationale:** When confronting the hard problem of consciousness, we face a domain where our conceptual tools may be fundamentally inadequate. Dismissing dualism because [materialism](/arguments/materialism/) seems "simpler" assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight—as the [failure of materialist explanations](/arguments/materialism/#why-materialism-fails) suggests.
+
+**The "folk error" accusation:** Critics sometimes dismiss dualism as "folk intuition" to be outgrown—a cognitive bias rather than a philosophical conclusion. But cognitive science complicates this picture. Paul Bloom argued humans are "natural-born dualists," processing minds and bodies through separate cognitive systems. Yet Barrett et al.'s cross-cultural study (2021) found that most people across diverse cultures default to "intuitive materialism"—expecting mental states to cease with bodily death. Barlev and Shtulman (2021) suggest dualism is *learned* rather than innate. The evidence is mixed: neither intuitive dualism nor intuitive materialism is clearly the human default. More fundamentally, cognitive naturalness doesn't determine metaphysical truth. Folk physics fails at quantum scales yet captures everyday reality. The question of whether consciousness is reducible to physics must be settled by philosophical argument, not cognitive anthropology.
 
 **Rules out:** Using parsimony as a decisive argument against dualism, and treating Occam's Razor as anything more than a defeasible heuristic.

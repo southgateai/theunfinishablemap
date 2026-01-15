@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-15 13:00:00+00:00
+ai_modified: 2026-01-15 23:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[interactionist-dualism-2026-01-06]]'
+- '[[objections-to-interactionist-dualism-2026-01-15]]'
 title: Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -57,6 +58,22 @@ These premises are jointly inconsistent. Kim concludes that mental properties mu
 The site's response: reject premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that physics is *not* causally closed at quantum indeterminacies. At these points, physics specifies probabilities but not outcomes. The physical story is incomplete, leaving room for consciousness to select among possibilities without adding energy or violating conservation laws.
 
 Kim's argument fails at quantum indeterminacies because there is no sufficient physical cause to exclude mental causation. Physics provides necessary but not sufficient causes—the probabilities but not which outcome actualizes. Consciousness fills a genuine gap rather than competing with complete physical causes.
+
+## The Pairing Problem
+
+Kim raises a distinct challenge beyond causal closure: the *pairing problem*. Even if we grant that consciousness could affect physics at quantum indeterminacies, what pairs a particular mind with a particular body?
+
+Consider two minds M1 and M2 interacting with two bodies B1 and B2. Both minds intend to raise their hand. M1's intention causes B1's hand to rise; M2's intention causes B2's hand to rise. But *in virtue of what* is M1 paired with B1 rather than B2?
+
+For physical causation, spatial relations provide the answer. The billiard ball strikes *this* ball because they occupy adjacent spatial positions. But if minds are non-spatial (as traditional substance dualism holds), no spatial relation can ground the pairing. Kim concludes that causation requires spatial relations, so non-spatial minds cannot enter into causal relations at all.
+
+**The spatial location response**: Many contemporary dualists (Hasker, Zimmerman) accept that minds are spatially located—specifically, in the brain region where they interact. M1 is paired with B1 because M1 occupies B1's brain. This dissolves the pairing problem while maintaining that minds are ontologically distinct from bodies.
+
+This response fits naturally with the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
+
+**Alternative responses**: Andrew Bailey, Joshua Rasmussen, and Luke Van Horn argue that haecceities (primitive "thisness") could ground pairing relations without spatial location. If haecceities exist for physical objects too, the pairing problem generalizes to all causation and isn't specifically a problem for dualism. If they don't exist, we need some other account of what individuates physical causes—and whatever works for physics might work for minds.
+
+The pairing problem is philosophically significant because it challenges substance dualism specifically—property dualism, which doesn't posit separate mental substances, faces no comparable difficulty. But given the site's commitment to [Bidirectional Interaction](/tenets/#bidirectional-interaction), accepting that consciousness has spatial location (in the brain, where it causally interfaces) seems the most natural resolution.
 
 ## Quantum Interactionism
 
@@ -177,11 +194,14 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The ontological options for dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this site rejects
 - [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/) — Detailed research notes
+- [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research on pairing problem, conservation laws, and other objections
 
 ## References
 
+- Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 - Descartes, R. (1641). *Meditations on First Philosophy*.
 - Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
+- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Stapp, H. P., Schwartz, J. M., & Beauregard, M. (2005). "Quantum theory in neuroscience and psychology." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
