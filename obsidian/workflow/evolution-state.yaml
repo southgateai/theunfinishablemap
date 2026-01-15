@@ -1068,14 +1068,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # qm-free-will research, arguments page (pairing-problem completed, measurement-problem completed)
+  p2_tasks: 4  # measurement-problem cross-review, substance-property cross-review, qm-free-will research, arguments page
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
-  last_replenishment: 2026-01-16T00:00:00+00:00
+  needs_replenishment: false  # 4 active P0-P2 tasks, above threshold of 3
+  last_replenishment: 2026-01-16T02:00:00+00:00
   replenishment_source_counts:
-    chain: 0
+    chain: 2  # measurement-problem cross-review, substance-property cross-review
     unconsumed_research: 0
-    gap_analysis: 2  # qm-free-will, arguments-page (2 completed this session)
+    gap_analysis: 2  # qm-free-will, arguments-page
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

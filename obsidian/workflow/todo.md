@@ -37,10 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research quantum mechanics and free will
-- **Type**: research-topic
-- **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
-- **Source**: gap_analysis (tenet support)
+### P2: Cross-review measurement-problem.md considering consciousness research
+- **Type**: cross-review
+- **Notes**: Research completed in research/consciousness-measurement-problem-2026-01-16.md covers the problem of definite outcomes, von Neumann-Wigner, Stapp's quantum Zeno, and the causal closure loophole. Review concepts/measurement-problem.md to strengthen the connection between the measurement problem and consciousness—particularly how quantum indeterminacy creates conceptual space for mental causation.
+- **Source**: chain (from consciousness-measurement-problem research)
+- **Generated**: 2026-01-16
+
+### P2: Cross-review substance-property-dualism.md considering pairing-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/pairing-problem.md covers Kim's challenge to substance dualism and three major responses. Review concepts/substance-property-dualism.md to engage with the pairing problem—since it challenges substance dualism specifically, this page should address whether property dualism avoids the problem.
+- **Source**: chain (from pairing-problem.md)
 - **Generated**: 2026-01-16
 
 ### P2: Create argument page "For Interactionist Dualism"
@@ -56,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Research quantum mechanics and free will
+- **Type**: research-topic
+- **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
+- **Result**: Comprehensive research covering the luck objection, event-causal vs agent-causal libertarianism, Kane's 2024 evolution toward substance causation, van Inwagen's consequence and mind arguments, Mele's soft libertarianism, Stapp's quantum Zeno mechanism, and O'Connor/Lowe on substance causation. Key finding: the debate confirms quantum indeterminacy provides conceptual space for mental causation but requires an account of how consciousness directs rather than randomizes outcomes—exactly what the site's framework provides.
+- **Output**: `research/quantum-mechanics-free-will-2026-01-16.md`
 
 ### ✓ 2026-01-16: Create concept page on the pairing problem
 - **Type**: expand-topic
