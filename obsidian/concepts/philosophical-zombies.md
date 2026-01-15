@@ -73,7 +73,7 @@ The idea: when we think about consciousness using phenomenal concepts (concepts 
 
 ## Zombies and Functionalism
 
-The zombie thought experiment also targets [[functionalism]]—the view that mental states are defined by their functional roles. The [[against-functionalism-argument|argument against functionalism]] presents this as the first of five convergent attacks on the functionalist position.
+The zombie thought experiment also targets [[functionalism]]—the view that mental states are defined by their functional roles. The [[arguments/functionalism|argument against functionalism]] presents this as the first of five convergent attacks on the functionalist position.
 
 If a system can be functionally identical to you (same inputs, outputs, and internal causal structure) while lacking experience, then experience is not a matter of functional organization. Functionalism would be false because mental states would have properties (qualitative character) that their functional role doesn't capture.
 

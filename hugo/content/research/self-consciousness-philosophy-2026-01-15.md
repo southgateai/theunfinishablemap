@@ -15,7 +15,7 @@ human_modified: null
 last_curated: null
 modified: *id001
 related_articles:
-- '[[eastern-philosophy-and-consciousness]]'
+- '[[eastern-philosophy-consciousness]]'
 title: 'Research: The Self and Consciousness'
 topics:
 - '[[hard-problem-of-consciousness]]'

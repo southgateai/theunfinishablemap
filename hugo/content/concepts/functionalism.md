@@ -26,7 +26,7 @@ topics:
 
 Functionalism is the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
 
-This site rejects functionalism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes, and functional organization is a physical (or at least physically implementable) property. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the site denies. For a systematic presentation of the case against functionalism, see [Against Functionalism](/against-functionalism-argument/)—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
+This site rejects functionalism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes, and functional organization is a physical (or at least physically implementable) property. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the site denies. For a systematic presentation of the case against functionalism, see [Against Functionalism](/arguments/functionalism/)—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
 
 ## The Functionalist View
 
@@ -150,7 +150,7 @@ The site's response: the substrate matters because consciousness involves someth
 
 ## Further Reading
 
-- [functionalism](/argumentsfunctionalism/) — Five formal arguments against functionalism
+- [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds
 - [qualia](/concepts/qualia/) — What functionalism may leave out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail

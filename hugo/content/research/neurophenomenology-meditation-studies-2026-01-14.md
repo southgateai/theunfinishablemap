@@ -18,7 +18,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[eastern-philosophy-and-consciousness]]'
+- '[[eastern-philosophy-consciousness]]'
 title: Research Notes - Neurophenomenology and Meditation Studies
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -224,7 +224,7 @@ Meditation findings are compatible with filter theory:
 - Cessation might represent complete filtering (consciousness continues but without phenomenal content)
 
 ### Connection to Eastern Philosophy
-Site's [eastern-philosophy-and-consciousness](/eastern-philosophy-and-consciousness/) article should cross-reference this research. Key points:
+Site's [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) article should cross-reference this research. Key points:
 - Buddhist phenomenology provides systematic first-person investigation spanning millennia
 - Neurophenomenology validates contemplative insights with modern neuroscience
 - Non-dual awareness traditions (Advaita, Dzogchen, Zen) converge on similar descriptions despite different metaphysics

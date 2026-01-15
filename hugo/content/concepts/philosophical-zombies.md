@@ -74,7 +74,7 @@ The idea: when we think about consciousness using phenomenal concepts (concepts 
 
 ## Zombies and Functionalism
 
-The zombie thought experiment also targets [functionalism](/arguments/functionalism/)—the view that mental states are defined by their functional roles. The [argument against functionalism](/against-functionalism-argument/) presents this as the first of five convergent attacks on the functionalist position.
+The zombie thought experiment also targets [functionalism](/arguments/functionalism/)—the view that mental states are defined by their functional roles. The [argument against functionalism](/arguments/functionalism/) presents this as the first of five convergent attacks on the functionalist position.
 
 If a system can be functionally identical to you (same inputs, outputs, and internal causal structure) while lacking experience, then experience is not a matter of functional organization. Functionalism would be false because mental states would have properties (qualitative character) that their functional role doesn't capture.
 
@@ -161,7 +161,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant too. Ph
 - [inverted-qualia](/concepts/inverted-qualia/) — The parallel argument varying qualia's character rather than presence
 - [materialism](/arguments/materialism/) — The view the zombie argument targets
 - [functionalism](/arguments/functionalism/) — Another view challenged by zombie-style reasoning
-- [functionalism](/argumentsfunctionalism/) — Five formal arguments against functionalism, with zombies as the first
+- [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism, with zombies as the first
 - [epiphenomenalism](/arguments/epiphenomenalism/) — A position with structurally similar problems
 
 ### External Sources

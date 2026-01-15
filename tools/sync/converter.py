@@ -190,6 +190,12 @@ def convert_file(
         from .wikilinks import slugify
 
         def link_resolver(target: str) -> str:
+            # Handle path-based targets like "arguments/epiphenomenalism"
+            if "/" in target:
+                parts = target.split("/")
+                slugified_parts = [slugify(part) for part in parts]
+                return "/" + "/".join(slugified_parts) + "/"
+            # Single-part target: look up in index
             slug = slugify(target)
             if slug in content_index:
                 return content_index[slug]
