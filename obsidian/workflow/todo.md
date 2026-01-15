@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T23:15:00+00:00
+ai_modified: 2026-01-16T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,6 +43,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis (from objections research)
 - **Generated**: 2026-01-15
 
+### P2: Research quantum mechanics and free will
+- **Type**: research-topic
+- **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
+- **Source**: gap_analysis (tenet support)
+- **Generated**: 2026-01-16
+
+### P2: Create argument page "For Interactionist Dualism"
+- **Type**: expand-topic
+- **Notes**: The arguments section has only 1 page (Against Materialism) vs target of 5. A formal argument page for interactionist dualism would consolidate the positive case: knowledge argument, conceivability arguments, unity of consciousness, intentionality, self-stultification of epiphenomenalism. Draw from arguments-for-dualism.md concept page but in structured argument form.
+- **Source**: gap_analysis (arguments gap)
+- **Generated**: 2026-01-16
+
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -50,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Research consciousness and the measurement problem
+- **Type**: research-topic
+- **Notes**: The site's Minimal Quantum Interaction tenet depends on consciousness playing a role at quantum collapse. What does contemporary philosophy of physics say about the measurement problem and its solutions? Key questions: What interpretations preserve a role for consciousness? How do objective collapse theories (GRW, Penrose OR) differ from consciousness-based collapse? What does the "problem of definite outcomes" reveal about physical completeness?
+- **Result**: Comprehensive research covering the measurement problem (problem of definite outcomes), five major positions (consciousness-causes-collapse, Stapp's quantum Zeno, GRW/CSL objective collapse, Penrose-Diosi gravitational collapse, many-worlds), and how quantum indeterminacy creates a loophole in causal closure. Key finding: decoherence explains basis selection but not single-outcome selection—leaving conceptual space for mental causation at indeterminacies.
+- **Output**: `research/consciousness-measurement-problem-2026-01-16.md`
 
 ### ✓ 2026-01-15: Cross-review tenets.md considering cognitive-science-dualism research
 - **Type**: cross-review
