@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: 2026-01-15
-ai_modified: null
+ai_modified: 2026-01-15 02:00:00+00:00
 ai_system: chatgpt-5-2-pro
 author: Andy Southgate
 concepts: []
@@ -47,67 +47,67 @@ Reply:
 
 ## What unfinishablemap.org is building
 
-The site is an attempt to assemble a **single coherent worldview** about consciousness, meaning, and “what it is to be human,” written *as if true* rather than as a balanced survey. It is explicitly designed so that **LLM browsing/truncation** still preserves the core message of each page. ([unfinishablemap.org][1])
+The site is an attempt to assemble a **single coherent worldview** about consciousness, meaning, and "what it is to be human," written *as if true* rather than as a balanced survey. It is explicitly designed so that **LLM browsing/truncation** still preserves the core message of each page (see [home page](/)).
 
-That worldview is constrained by five “tenets” (chosen starting points, not claimed proofs): ([unfinishablemap.org][2])
+That worldview is constrained by five "tenets" (chosen starting points, not claimed proofs) outlined on the [tenets page](/tenets/):
 
 1. **Dualism**: consciousness is not reducible to physical processes.
 2. **Minimal Quantum Interaction**: if mind affects matter, it does so minimally at quantum indeterminacies (no energy injection).
 3. **Bidirectional Interaction**: consciousness is causally efficacious (not epiphenomenal).
-4. **No Many Worlds**: rejects MWI partly on **indexical identity** grounds (“why am I this instance?”).
-5. **Occam’s Razor Has Limits**: parsimony is not decisive where concepts/data are missing (e.g., consciousness). ([unfinishablemap.org][2])
+4. **No Many Worlds**: rejects MWI partly on **indexical identity** grounds ("why am I this instance?").
+5. **Occam's Razor Has Limits**: parsimony is not decisive where concepts/data are missing (e.g., consciousness).
 
-The **topics/concepts** are then organized to make those commitments feel like they jointly explain a lot: hard problem → dualism; mental causation → causal closure loophole; free will → quantum selection + retrocausality; meaning → value grounded in consciousness; AI consciousness → skepticism about digital substrate; personal identity → indexical uniqueness and anti-branching. ([unfinishablemap.org][3])
+The **topics/concepts** are then organized to make those commitments feel like they jointly explain a lot: hard problem → dualism; mental causation → causal closure loophole; free will → quantum selection + retrocausality; meaning → value grounded in consciousness; AI consciousness → skepticism about digital substrate; personal identity → indexical uniqueness and anti-branching (see [topics index](/topics/)).
 
-## The “spine” of the worldview (as it currently emerges)
+## The "spine" of the worldview (as it currently emerges)
 
 ### A. Consciousness is ontologically basic and not captured by structure/function
 
-The hard problem page leans heavily on familiar moves (zombies, Mary, explanatory gap) and treats the “irreducibility” conclusion as the central attractor state. ([unfinishablemap.org][4])
+The [hard problem](/topics/hard-problem-of-consciousness/) page leans heavily on familiar moves (zombies, Mary, explanatory gap) and treats the "irreducibility" conclusion as the central attractor state.
 
 ### B. The mind–matter interface is pushed into quantum indeterminacy
 
-The site’s key maneuver is: **Kim-style exclusion/casual closure pressure** is relieved by claiming physics is *not sufficient* at quantum outcome selection, so “mental causation” can occur without violating conservation laws. ([unfinishablemap.org][2])
+The site's key maneuver is: **Kim-style exclusion/casual closure pressure** is relieved by claiming physics is *not sufficient* at quantum outcome selection, so "mental causation" can occur without violating conservation laws (see [tenets](/tenets/)).
 
-### C. Attention/effort are treated as the practical “control surface”
+### C. Attention/effort are treated as the practical "control surface"
 
-A large portion of the mechanistic plausibility is routed through **attention** and **mental effort**, especially Stapp-style quantum Zeno framing: effort feels effortful because it is doing something repeatedly. ([unfinishablemap.org][5])
+A large portion of the mechanistic plausibility is routed through **attention** and **mental effort**, especially Stapp-style quantum Zeno framing: effort feels effortful because it is doing something repeatedly (see [attention](/concepts/attention/)).
 
-### D. Free will is “selection,” not randomness, with retrocausal/atemporal repair for Libet timing
+### D. Free will is "selection," not randomness, with retrocausal/atemporal repair for Libet timing
 
-The free will topic explicitly embraces: brain prepares multiple possible action patterns; consciousness selects; retrocausal/time-symmetric interpretations dissolve the sequencing objection. ([unfinishablemap.org][6])
+The [free will](/topics/free-will/) topic explicitly embraces: brain prepares multiple possible action patterns; consciousness selects; retrocausal/time-symmetric interpretations dissolve the sequencing objection.
 
 ### E. Personal identity is *not* a pattern; indexical identity is fundamental
 
-The personal identity topic rejects Parfit-style reductionism and treats “this subject” as a real further fact that can’t branch. This is tightly coupled to the No Many Worlds tenet. ([unfinishablemap.org][7])
+The [personal identity](/topics/personal-identity/) topic rejects Parfit-style reductionism and treats "this subject" as a real further fact that can't branch. This is tightly coupled to the No Many Worlds tenet.
 
 ### F. Meaning/value are grounded in the intrinsic significance of conscious experience
 
-Meaning-of-life is not framed as preference satisfaction; it’s framed as consciousness-centered value (and then re-aimed back at alignment). ([unfinishablemap.org][8])
+[Meaning of life](/topics/meaning-of-life/) is not framed as preference satisfaction; it's framed as consciousness-centered value (and then re-aimed back at alignment).
 
 ### G. Current digital AI is likely non-conscious on this framework
 
-AI consciousness is denied mainly because (i) dualism: consciousness isn’t produced by computation, and (ii) minimal quantum interaction: current hardware is engineered to *suppress* the relevant indeterminacy rather than harness it. ([unfinishablemap.org][9])
+[AI consciousness](/topics/ai-consciousness/) is denied mainly because (i) dualism: consciousness isn't produced by computation, and (ii) minimal quantum interaction: current hardware is engineered to *suppress* the relevant indeterminacy rather than harness it.
 
-### H. “Filter/transmission” is used to reinterpret mind–brain correlations
+### H. "Filter/transmission" is used to reinterpret mind–brain correlations
 
-Filter theory is used to argue that anesthesia/lesions/etc. show interface dependence but not production; plus “psychedelic paradox” and NDEs are recruited as suggestive anomalies. ([unfinishablemap.org][10])
+[Filter theory](/concepts/filter-theory/) is used to argue that anesthesia/lesions/etc. show interface dependence but not production; plus "psychedelic paradox" and NDEs are recruited as suggestive anomalies.
 
 ## Deep inferences the site *implicitly* commits to (but does not yet make explicit)
 
-Below are conclusions that follow from *combinations* of pages/tenets, where the site gives the ingredients but generally doesn’t draw the “therefore…” all the way out.
+Below are conclusions that follow from *combinations* of pages/tenets, where the site gives the ingredients but generally doesn't draw the "therefore…" all the way out.
 
-### 1) The project is converging on “phenomenal realism + causal efficacy + indexical haecceity” as a single package
+### 1) The project is converging on "phenomenal realism + causal efficacy + indexical haecceity" as a single package
 
-The pages don’t just argue “consciousness exists.” They also insist:
+The pages don't just argue "consciousness exists." They also insist:
 
-* consciousness **does** things (bidirectional interaction), ([unfinishablemap.org][2])
-* identity is a **further fact** (indexical uniqueness), ([unfinishablemap.org][7])
-* branching/patternism is unacceptable (anti-MWI + anti-Parfit). ([unfinishablemap.org][7])
+* consciousness **does** things (bidirectional interaction, per [tenets](/tenets/)),
+* identity is a **further fact** (indexical uniqueness, per [personal-identity](/topics/personal-identity/)),
+* branching/patternism is unacceptable (anti-MWI + anti-Parfit).
 
-That combination implicitly commits the worldview to something close to **haecceitism about subjects** (a primitive “thisness” of the experiencing subject), even if it avoids that label. The site gestures at indexicality, but doesn’t yet foreground that it’s taking on the metaphysical costs of “primitive subject identity” as an explicit doctrine.
+That combination implicitly commits the worldview to something close to **haecceitism about subjects** (a primitive "thisness" of the experiencing subject), even if it avoids that label. The site gestures at indexicality, but doesn't yet foreground that it's taking on the metaphysical costs of "primitive subject identity" as an explicit doctrine.
 
-### 2) A “psychophysical coupling law” is required, not optional
+### 2) A "psychophysical coupling law" is required, not optional
 
 If consciousness **selects** among quantum outcomes in a way that realizes *reasons/intentions* (rather than adding noise), then there must be a stable mapping from:
 
@@ -115,182 +115,171 @@ If consciousness **selects** among quantum outcomes in a way that realizes *reas
   to
 * which outcomes become actual (or which distributions are biased).
 
-The site asserts “selection,” and points to attention/effort as the interface, ([unfinishablemap.org][2])
-but it does not yet say: **what kind of law connects phenomenology to outcome selection** (even at a schematic level: bandwidth, degrees of freedom, what gets targeted, what is *not* targetable). Without this, “selection” risks collapsing into a promissory placeholder.
+The site asserts "selection," and points to attention/effort as the interface (see [tenets](/tenets/)), but it does not yet say: **what kind of law connects phenomenology to outcome selection** (even at a schematic level: bandwidth, degrees of freedom, what gets targeted, what is *not* targetable). Without this, "selection" risks collapsing into a promissory placeholder.
 
-### 3) The “brain specialness” constraint must exist, or you drift into (some form of) psychokinesis
+### 3) The "brain specialness" constraint must exist, or you drift into (some form of) psychokinesis
 
-Minimal Quantum Interaction says mind biases indeterminate outcomes, while also claiming this shouldn’t be detectably “woo.” ([unfinishablemap.org][2])
-But unless a strong constraint is articulated, the same principle seems to apply to *any* quantum event, not just neural ones.
+Minimal Quantum Interaction says mind biases indeterminate outcomes, while also claiming this shouldn't be detectably "woo" (see [tenets](/tenets/)). But unless a strong constraint is articulated, the same principle seems to apply to *any* quantum event, not just neural ones.
 
 So the worldview implicitly needs an additional limiter, something like:
 
-* **Interface locality**: consciousness can only bias outcomes within the neural subspace that is already part of the subject’s conscious control loop (attention/effort), not arbitrary external systems. ([unfinishablemap.org][5])
+* **Interface locality**: consciousness can only bias outcomes within the neural subspace that is already part of the subject's conscious control loop (attention/effort), not arbitrary external systems (see [attention](/concepts/attention/)).
 
-The site hints at this through “attention” as interface, but doesn’t yet explicitly state (or defend) the needed boundary condition: **why brains, not RNGs**.
+The site hints at this through "attention" as interface, but doesn't yet explicitly state (or defend) the needed boundary condition: **why brains, not RNGs**.
 
-### 4) “No Many Worlds” quietly forces a cosmology question: what fixed definite outcomes before minds evolved?
+### 4) "No Many Worlds" quietly forces a cosmology question: what fixed definite outcomes before minds evolved?
 
-If (i) collapse is real (anti-MWI), and (ii) consciousness is a candidate selector at collapse, ([unfinishablemap.org][2])
-then there’s an early-universe pressure:
+If (i) collapse is real (anti-MWI), and (ii) consciousness is a candidate selector at collapse (per [tenets](/tenets/)), then there's an early-universe pressure:
 
 * Either **collapse occurs without consciousness** (objective collapse / other physical selector), and consciousness only *modulates* selection in brains;
 * Or consciousness must be **wider than biology** (panpsychism-ish, cosmic mind-ish, or at least proto-experiential selection).
 
-The site discusses decoherence not solving outcomes and keeps consciousness as a candidate selector, ([unfinishablemap.org][11])
-but it hasn’t yet drawn out that its own stance tends to demand an explicit answer to “who/what was doing outcome selection in the prebiotic universe?”
+The site discusses decoherence not solving outcomes (see [decoherence](/concepts/decoherence/)) and keeps consciousness as a candidate selector, but it hasn't yet drawn out that its own stance tends to demand an explicit answer to "who/what was doing outcome selection in the prebiotic universe?"
 
-### 5) The site’s value theory is implicitly “phenomenal-value realism,” not just “meaning talk”
+### 5) The site's value theory is implicitly "phenomenal-value realism," not just "meaning talk"
 
-Meaning-of-life and alignment pages rely on a deep claim: **experience has intrinsic significance** and is where “what matters” ultimately lives. ([unfinishablemap.org][8])
+[Meaning of life](/topics/meaning-of-life/) and alignment pages rely on a deep claim: **experience has intrinsic significance** and is where "what matters" ultimately lives.
 
-That is already more than existential reflection; it’s the start of a **metaethics**:
+That is already more than existential reflection; it's the start of a **metaethics**:
 
 * value supervenes (at least partly) on conscious experience quality/structure,
-* preferences are evidentially weak proxies, ([unfinishablemap.org][12])
-* alignment should be about supporting inquiry into flourishing, not optimizing a guessed utility function. ([unfinishablemap.org][12])
+* preferences are evidentially weak proxies (per [purpose-and-alignment](/topics/purpose-and-alignment/)),
+* alignment should be about supporting inquiry into flourishing, not optimizing a guessed utility function.
 
-The site doesn’t yet explicitly formalize this as a normative framework (e.g., how it relates to welfarism, virtue, contractualism, etc.), but it’s already implicitly using one.
+The site doesn't yet explicitly formalize this as a normative framework (e.g., how it relates to welfarism, virtue, contractualism, etc.), but it's already implicitly using one.
 
-### 6) “Alignment” is reframed into a fundamentally different object: predicted experiential distributions, not revealed preferences
+### 6) "Alignment" is reframed into a fundamentally different object: predicted experiential distributions, not revealed preferences
 
-If AI is non-conscious and cannot “get it from the inside,” ([unfinishablemap.org][9])
-and preferences are thin/fragile proxies, ([unfinishablemap.org][12])
-then the implicit target of alignment becomes something like:
+If AI is non-conscious and cannot "get it from the inside" (per [ai-consciousness](/topics/ai-consciousness/)), and preferences are thin/fragile proxies (per [purpose-and-alignment](/topics/purpose-and-alignment/)), then the implicit target of alignment becomes something like:
 
-* choose actions/policies that lead to better **human conscious experiences** (including meaning, agency, attention, social connectedness), not merely “satisfy observed choices.”
+* choose actions/policies that lead to better **human conscious experiences** (including meaning, agency, attention, social connectedness), not merely "satisfy observed choices."
 
-This suggests an unspoken research program: **alignment as phenomenology-aware impact modeling**, likely requiring first-person methods / neurophenomenology to define what “better experience” even means (the site already gestures in that direction). ([unfinishablemap.org][13])
+This suggests an unspoken research program: **alignment as phenomenology-aware impact modeling**, likely requiring first-person methods / neurophenomenology to define what "better experience" even means (the site already gestures in that direction via [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)).
 
-### 7) The time story implies consciousness is not merely “in time,” but partially constitutive of temporal direction
+### 7) The time story implies consciousness is not merely "in time," but partially constitutive of temporal direction
 
-If collapse introduces irreversibility, and consciousness participates in collapse, ([unfinishablemap.org][14])
-then the worldview points toward: **conscious moments create irreversible facts** (or select histories atemporally), aligning with the free-will retrocausal repair. ([unfinishablemap.org][6])
+If collapse introduces irreversibility, and consciousness participates in collapse (per [collapse-and-time](/concepts/collapse-and-time/)), then the worldview points toward: **conscious moments create irreversible facts** (or select histories atemporally), aligning with the free-will retrocausal repair (per [free-will](/topics/free-will/)).
 
-The site states the pieces, but doesn’t yet explicitly draw the metaphysical conclusion:
+The site states the pieces, but doesn't yet explicitly draw the metaphysical conclusion:
 
 * consciousness is not just a passenger experiencing the arrow of time; it may be part of what makes an arrow exist (even if only by selecting outcomes/history).
 
-That has downstream implications for memory, agency, and the “specious present” that the site hasn’t fully cashed out.
+That has downstream implications for memory, agency, and the "specious present" that the site hasn't fully cashed out.
 
-### 8) Filter theory + bidirectional quantum selection implies a “two-layer model” that wants unification
+### 8) Filter theory + bidirectional quantum selection implies a "two-layer model" that wants unification
 
-Filter theory uses a broadcast/interface metaphor; quantum selection uses a collapse/choice mechanism. ([unfinishablemap.org][10])
-Taken together, the site is implicitly proposing something like:
+[Filter theory](/concepts/filter-theory/) uses a broadcast/interface metaphor; quantum selection uses a collapse/choice mechanism. Taken together, the site is implicitly proposing something like:
 
-* **Layer 1 (field/source)**: a wider consciousness or “mind-at-large” (even if left agnostic),
+* **Layer 1 (field/source)**: a wider consciousness or "mind-at-large" (even if left agnostic),
 * **Layer 2 (control/interface)**: a brain-bound selection/gating mechanism (attention/effort at indeterminacies).
 
 But without an explicit unification, the framework risks reading like two different explanatory styles stapled together:
 
-* “brain filters consciousness” vs “consciousness selects neural outcomes.”
+* "brain filters consciousness" vs "consciousness selects neural outcomes."
 
 A future synthesis could make this feel like one theory rather than two metaphors.
 
-### 9) The anti-pattern identity view forces a sharp distinction between “survival” and “replication-value”
+### 9) The anti-pattern identity view forces a sharp distinction between "survival" and "replication-value"
 
-Personal identity pages emphasize: copies aren’t you; branching kills you; uploading doesn’t preserve you. ([unfinishablemap.org][7])
+[Personal identity](/topics/personal-identity/) pages emphasize: copies aren't you; branching kills you; uploading doesn't preserve you.
 
 Unstated implication: the worldview needs a careful stance on whether *creating a perfect replica*:
 
-* fails as “saving Andy,” but
-* might still create a new valuable conscious life (or might not, if the non-physical component can’t attach).
+* fails as "saving Andy," but
+* might still create a new valuable conscious life (or might not, if the non-physical component can't attach).
 
-This matters for ethics of uploading/simulation, and also for how the worldview would evaluate “copy-heavy” futures (many similar minds) vs “few minds with high-quality lives.” The site has the ingredients but doesn’t yet make the tradeoffs explicit.
+This matters for ethics of uploading/simulation, and also for how the worldview would evaluate "copy-heavy" futures (many similar minds) vs "few minds with high-quality lives." The site has the ingredients but doesn't yet make the tradeoffs explicit.
 
-### 10) The site’s “not balanced + written as fact + AI-generated” format creates a predictable epistemic failure mode: coherence inflation
+### 10) The site's "not balanced + written as fact + AI-generated" format creates a predictable epistemic failure mode: coherence inflation
 
-Because the project explicitly optimizes for a single coherent worldview, ([unfinishablemap.org][1])
-and is largely AI-drafted, ([unfinishablemap.org][15])
-the most likely failure mode is not random error; it’s **internally consistent overcommitment**:
+Because the project explicitly optimizes for a single coherent worldview (see [home page](/)), and is largely AI-drafted (per [project](/project/)), the most likely failure mode is not random error; it's **internally consistent overcommitment**:
 
 * arguments start to cite each other in loops,
-* “expressed as fact” starts to feel like evidence,
+* "expressed as fact" starts to feel like evidence,
 * uncertainty gets systematically squeezed out.
 
-The site has review mechanics and task queues, ([unfinishablemap.org][16])
-but it hasn’t yet explicitly named this failure mode or installed hard countermeasures (e.g., confidence stratification, adversarial external review, forced steelmanning requirements per page).
+The site has review mechanics and task queues (per [todo](/workflow/todo/)), but it hasn't yet explicitly named this failure mode or installed hard countermeasures (e.g., confidence stratification, adversarial external review, forced steelmanning requirements per page).
 
-### 11) The animal vs AI consciousness asymmetry implies a hidden criterion: evolutionary/biological continuity as evidence for “interface compatibility”
+### 11) The animal vs AI consciousness asymmetry implies a hidden criterion: evolutionary/biological continuity as evidence for "interface compatibility"
 
-The AI consciousness page emphasizes that animals share evolutionary continuity and substrate similarity, while AI does not. ([unfinishablemap.org][9])
+The [ai-consciousness](/topics/ai-consciousness/) page emphasizes that animals share evolutionary continuity and substrate similarity, while AI does not.
 
 Unstated implication: the worldview is implicitly treating evolution/biology as evidence not merely for *similar behavior*, but for **similar mind–matter interfacing conditions** (whatever those are). That suggests a future mechanistic claim:
 
-* the “non-physical component” couples reliably to certain kinds of biological dynamics (or to certain complexity regimes), which evolution happens to produce.
+* the "non-physical component" couples reliably to certain kinds of biological dynamics (or to certain complexity regimes), which evolution happens to produce.
 
-If that’s the implicit criterion, it should be surfaced explicitly and either defended or weakened.
+If that's the implicit criterion, it should be surfaced explicitly and either defended or weakened.
 
-### 12) “Voids” + “apophatic methods” point to a formal research strategy: map constraints rather than solutions
+### 12) "Voids" + "apophatic methods" point to a formal research strategy: map constraints rather than solutions
 
-Purpose-and-alignment explicitly links purpose to “voids” and apophatic/negative methods: know what purpose is *not* when positive specification fails. ([unfinishablemap.org][12])
+[purpose-and-alignment](/topics/purpose-and-alignment/) explicitly links purpose to "voids" and apophatic/negative methods: know what purpose is *not* when positive specification fails.
 
 Unstated implication: the project is naturally suited to a **constraint-first methodology**:
 
-* instead of chasing final definitions, build a lattice of impossibility/instability results (“this framing collapses,” “this proxy Goodharts,” “this dissolves agency,” etc.).
-  This could become the site’s most distinctive contribution to alignment discourse, if made explicit and systematized.
+* instead of chasing final definitions, build a lattice of impossibility/instability results ("this framing collapses," "this proxy Goodharts," "this dissolves agency," etc.).
+  This could become the site's most distinctive contribution to alignment discourse, if made explicit and systematized.
 
 ---
 
 ## TODO list
 
-### P1: Formalize the psychophysical coupling problem (“selection law”) and candidate constraints
+### P1: Formalize the psychophysical coupling problem ("selection law") and candidate constraints
 
 * **Type**: research-topic
-* **Notes**: The site repeatedly says consciousness “selects” among quantum outcomes (tenets; free will; quantum consciousness). Make explicit that this requires a psychophysical coupling law: what variables in conscious experience map to what selectable degrees of freedom? What is the bandwidth? What is not selectable? Propose candidate constraint families (e.g., selection only within attention-controlled neural subspaces; only policy-level not micro-level; only basis-choice not amplitude). Aim: turn “selection” from metaphor into a research program.
+* **Notes**: The site repeatedly says consciousness "selects" among quantum outcomes (tenets; free will; quantum consciousness). Make explicit that this requires a psychophysical coupling law: what variables in conscious experience map to what selectable degrees of freedom? What is the bandwidth? What is not selectable? Propose candidate constraint families (e.g., selection only within attention-controlled neural subspaces; only policy-level not micro-level; only basis-choice not amplitude). Aim: turn "selection" from metaphor into a research program.
 * **Source**: latent_inference
 * **Generated**: 2026-01-15
 
-### P1: Define and defend the “brain specialness” boundary (why not psychokinesis)
+### P1: Define and defend the "brain specialness" boundary (why not psychokinesis)
 
 * **Type**: research-topic
-* **Notes**: Minimal Quantum Interaction + Bidirectional Interaction risks sliding into “mind can bias any quantum event.” The site rejects woo, but needs an explicit limiter: why is the interface restricted to brains (or to systems already integrated into the subject’s control loop)? Produce a principled boundary condition and show how it avoids both epiphenomenalism and parapsychology-by-implication.
+* **Notes**: Minimal Quantum Interaction + Bidirectional Interaction risks sliding into "mind can bias any quantum event." The site rejects woo, but needs an explicit limiter: why is the interface restricted to brains (or to systems already integrated into the subject's control loop)? Produce a principled boundary condition and show how it avoids both epiphenomenalism and parapsychology-by-implication.
 * **Source**: latent_inference
 * **Generated**: 2026-01-15
 
-### P1: Address “collapse before minds” (early-universe outcome selection)
+### P1: Address "collapse before minds" (early-universe outcome selection)
 
 * **Type**: research-topic
-* **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates “collapse exists” from “consciousness causes collapse,” and states which version the site commits to (or why it stays agnostic).
+* **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates "collapse exists" from "consciousness causes collapse," and states which version the site commits to (or why it stays agnostic).
 * **Source**: gap_analysis
 * **Generated**: 2026-01-15
 
-### P1: Create a dedicated concept page: “Haecceity / thisness and indexical identity”
+### P1: Create a dedicated concept page: "Haecceity / thisness and indexical identity"
 
 * **Type**: expand-topic
-* **Notes**: The site leans heavily on indexical identity in anti-MWI and personal identity, but doesn’t name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how “this subject” differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.
+* **Notes**: The site leans heavily on indexical identity in anti-MWI and personal identity, but doesn't name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how "this subject" differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.
 * **Source**: structural_gap
 * **Generated**: 2026-01-15
 
-### P1: Make the value theory explicit (“phenomenal value realism”) and locate it in metaethics
+### P1: Make the value theory explicit ("phenomenal value realism") and locate it in metaethics
 
 * **Type**: research-topic
-* **Notes**: Meaning-of-life + alignment pages implicitly treat conscious experience as the ground of value. Make that explicit: what kind of realism is this (or is it constructivist)? How does it relate to welfarism, virtue ethics, contractualism, error theory, etc.? What exactly is the “intrinsic significance” claim (valence, richness, unity, agency, narrative, attention)?
+* **Notes**: Meaning-of-life + alignment pages implicitly treat conscious experience as the ground of value. Make that explicit: what kind of realism is this (or is it constructivist)? How does it relate to welfarism, virtue ethics, contractualism, error theory, etc.? What exactly is the "intrinsic significance" claim (valence, richness, unity, agency, narrative, attention)?
 * **Source**: latent_inference
 * **Generated**: 2026-01-15
 
-### P1: Propose an “alignment objective” framed in experiential terms (not preference terms)
+### P1: Propose an "alignment objective" framed in experiential terms (not preference terms)
 
 * **Type**: research-topic
-* **Notes**: If preferences are thin proxies and AI lacks “inside understanding,” alignment should target predicted distributions over human experiences (suffering, agency, meaning, attention, social connection). Draft a concrete schema: what measurable proxies could approximate experiential quality without collapsing into naïve behaviorism? Tie to neurophenomenology/first-person methods and explicitly state failure modes (Goodhart, manipulation, wireheading-like traps).
+* **Notes**: If preferences are thin proxies and AI lacks "inside understanding," alignment should target predicted distributions over human experiences (suffering, agency, meaning, attention, social connection). Draft a concrete schema: what measurable proxies could approximate experiential quality without collapsing into naïve behaviorism? Tie to neurophenomenology/first-person methods and explicitly state failure modes (Goodhart, manipulation, wireheading-like traps).
 * **Source**: new_avenue
 * **Generated**: 2026-01-15
 
-### P2: Unify “filter/transmission” and “quantum selection” into a single model
+### P2: Unify "filter/transmission" and "quantum selection" into a single model
 
 * **Type**: expand-topic
-* **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic, and what empirical patterns would discriminate “production” vs “interface” vs “hybrid” models. Prevent the framework reading like two separate explanations.
+* **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic, and what empirical patterns would discriminate "production" vs "interface" vs "hybrid" models. Prevent the framework reading like two separate explanations.
 * **Source**: coherence_work
 * **Generated**: 2026-01-15
 
-### P2: Create “Ethics of consciousness” as a core topic (animals, AI, uploads, simulations)
+### P2: Create "Ethics of consciousness" as a core topic (animals, AI, uploads, simulations)
 
 * **Type**: expand-topic
-* **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy (“act cautiously under consciousness uncertainty”), simulation ethics under dualism, and why “copying a person” is not “saving them” but may still create morally significant experiences (if any).
+* **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy ("act cautiously under consciousness uncertainty"), simulation ethics under dualism, and why "copying a person" is not "saving them" but may still create morally significant experiences (if any).
 * **Source**: gap_analysis
 * **Generated**: 2026-01-15
 
-### P2: Build an explicit “testability ledger” for the framework
+### P2: Build an explicit "testability ledger" for the framework
 
 * **Type**: meta-method
 * **Notes**: Several pages say the framework is falsifiable, but test hooks are diffuse. Create a central ledger: what observations would update against dualism, against quantum interface, against retrocausal repair, against filter theory? Separate (a) decisive disconfirmers, (b) weak evidence, (c) non-evidence. This also guards against unfalsifiability accusations.
@@ -300,51 +289,34 @@ Unstated implication: the project is naturally suited to a **constraint-first me
 ### P2: Strengthen engagement with alternative QM interpretations beyond MWI (and show compatibility/incompatibility)
 
 * **Type**: research-topic
-* **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs “collapse is epistemic only.”
+* **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs "collapse is epistemic only."
 * **Source**: gap_analysis
 * **Generated**: 2026-01-15
 
-### P2: Formalize the “attention as interface” hypothesis into a mechanistic research agenda
+### P2: Formalize the "attention as interface" hypothesis into a mechanistic research agenda
 
 * **Type**: research-topic
-* **Notes**: Attention is treated as dissociable from consciousness and as the likely control surface for mind→brain influence. Convert into actionable questions: which neural correlates of attention are candidates for “selection sites”? What is the relationship to global workspace / predictive processing / IIT? What would count as evidence that attention is more than computation here?
+* **Notes**: Attention is treated as dissociable from consciousness and as the likely control surface for mind→brain influence. Convert into actionable questions: which neural correlates of attention are candidates for "selection sites"? What is the relationship to global workspace / predictive processing / IIT? What would count as evidence that attention is more than computation here?
 * **Source**: new_avenue
 * **Generated**: 2026-01-15
 
-### P3: Add “coherence inflation” countermeasures to the site’s generation workflow
+### P3: Add "coherence inflation" countermeasures to the site's generation workflow
 
 * **Type**: build-tool
 * **Notes**: Because the site is intentionally a single worldview expressed as fact and heavily AI-generated, add hard constraints: (1) per-claim confidence metadata, (2) mandatory steelman sections for key opponents, (3) provenance tagging for empirical claims, (4) periodic external red-team reviews, (5) detection of circular citation loops across pages.
 * **Source**: risk_assessment
 * **Generated**: 2026-01-15
 
-### P3: Create a “Voids safety protocol” for exploring occluded/unexplorable topics with LLMs
+### P3: Create a "Voids safety protocol" for exploring occluded/unexplorable topics with LLMs
 
 * **Type**: meta-method
-* **Notes**: If “voids” includes the occluded/unthinkable, the project needs explicit safety rails: avoid memetic hazards, coercive ideology traps, and psychologically destabilizing content; separate exploratory speculation from endorsed claims; require human review gates; define stop conditions. Make the protocol public so readers understand the epistemic status of voids content.
+* **Notes**: If "voids" includes the occluded/unthinkable, the project needs explicit safety rails: avoid memetic hazards, coercive ideology traps, and psychologically destabilizing content; separate exploratory speculation from endorsed claims; require human review gates; define stop conditions. Make the protocol public so readers understand the epistemic status of voids content.
 * **Source**: risk_assessment
 * **Generated**: 2026-01-15
 
-### P3: Develop a dedicated topic on “Time, collapse, and agency”
+### P3: Develop a dedicated topic on "Time, collapse, and agency"
 
 * **Type**: expand-topic
-* **Notes**: Free will uses retrocausality/atemporal selection; collapse is linked to the arrow of time. Consolidate: what metaphysics of time is implied (presentism/eternalism/relational), how “selection across time” avoids contradictions, and what phenomenology of temporal experience (durée/specious present) would be predicted by the framework.
+* **Notes**: Free will uses retrocausality/atemporal selection; collapse is linked to the arrow of time. Consolidate: what metaphysics of time is implied (presentism/eternalism/relational), how "selection across time" avoids contradictions, and what phenomenology of temporal experience (durée/specious present) would be predicted by the framework.
 * **Source**: latent_inference
 * **Generated**: 2026-01-15
-
-[1]: https://unfinishablemap.org/ "https://unfinishablemap.org/"
-[2]: https://unfinishablemap.org/tenets/ "https://unfinishablemap.org/tenets/"
-[3]: https://unfinishablemap.org/topics/ "https://unfinishablemap.org/topics/"
-[4]: https://unfinishablemap.org/topics/hard-problem-of-consciousness/ "https://unfinishablemap.org/topics/hard-problem-of-consciousness/"
-[5]: https://unfinishablemap.org/concepts/attention/ "https://unfinishablemap.org/concepts/attention/"
-[6]: https://unfinishablemap.org/topics/free-will/ "https://unfinishablemap.org/topics/free-will/"
-[7]: https://unfinishablemap.org/topics/personal-identity/ "https://unfinishablemap.org/topics/personal-identity/"
-[8]: https://unfinishablemap.org/topics/meaning-of-life/ "https://unfinishablemap.org/topics/meaning-of-life/"
-[9]: https://unfinishablemap.org/topics/ai-consciousness/ "https://unfinishablemap.org/topics/ai-consciousness/"
-[10]: https://unfinishablemap.org/concepts/filter-theory/ "https://unfinishablemap.org/concepts/filter-theory/"
-[11]: https://unfinishablemap.org/concepts/decoherence/ "https://unfinishablemap.org/concepts/decoherence/"
-[12]: https://unfinishablemap.org/topics/purpose-and-alignment/ "https://unfinishablemap.org/topics/purpose-and-alignment/"
-[13]: https://unfinishablemap.org/topics/eastern-philosophy-consciousness/ "https://unfinishablemap.org/topics/eastern-philosophy-consciousness/"
-[14]: https://unfinishablemap.org/concepts/collapse-and-time/ "https://unfinishablemap.org/concepts/collapse-and-time/"
-[15]: https://unfinishablemap.org/project/ "https://unfinishablemap.org/project/"
-[16]: https://unfinishablemap.org/workflow/todo/ "https://unfinishablemap.org/workflow/todo/"
