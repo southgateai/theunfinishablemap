@@ -3,7 +3,7 @@ title: "Personal Identity"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-14T14:15:00+00:00
+ai_modified: 2026-01-16T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[death-and-consciousness]]"
   - "[[split-brain-consciousness]]"
   - "[[self-and-consciousness]]"
+  - "[[many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
@@ -78,9 +79,13 @@ This site cannot accept Parfit's reductionism. The tenets commit us to a stronge
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the Many-Worlds interpretation of quantum mechanics partly because it creates "unanswerable indexical questions: why am I *this* instance and not another?" This presupposes that indexical identity is meaningful—that there's a real question about which conscious being you are.
 
-On Parfit's view, there's nothing more to being *this* person than instantiating *this* pattern of psychological continuity. If the pattern is replicated, so is everything that matters. But the site's framework suggests that's wrong. *You* are not interchangeable with a replica that has your psychology. There's a fact about which one is you.
+The [[many-worlds|argument against many-worlds]] develops this concern in formal detail. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another where you see spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which one is "really" you.
 
-This connects to quantum selection. If consciousness influences which quantum outcomes occur, and the site's framework is right, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be you—wouldn't be the consciousness that was making selections—even if psychologically identical.
+This dissolution is precisely what the site rejects. Before measurement, there is one you. After measurement, many-worlds posits two equally real continuations. Yet you find yourself in exactly one. The experience of being this one rather than that one seems to be a fact—but many-worlds says it's not. If personal identity can be fragmented across infinite branches with no determinate answer about which branch is "really" you, then personal identity is radically non-unique—arguably incoherent.
+
+On Parfit's view, there's nothing more to being *this* person than instantiating *this* pattern of psychological continuity. If the pattern is replicated, so is everything that matters. Many-worlds and Parfit converge here: both treat identity as a matter of pattern rather than particular. But the site's framework suggests that's wrong. *You* are not interchangeable with a replica that has your psychology. There's a fact about which one is you.
+
+This connects to quantum selection. If consciousness influences which quantum outcomes occur, and the site's framework is right, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be you—wouldn't be the consciousness that was making selections—even if psychologically identical. Many-worlds eliminates this role entirely: there is nothing for consciousness to select because everything happens in some branch.
 
 ### The Dualism Connection
 
@@ -168,6 +173,7 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 
 ## Further Reading
 
+- [[many-worlds]] — Why the site rejects many-worlds (the indexical problem is central)
 - [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
