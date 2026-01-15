@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T15:30:00+00:00
+ai_modified: 2026-01-15T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,6 +50,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review tenets.md with decoherence research
+- **Type**: cross-review
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md provides detailed responses to the main scientific objection against quantum consciousness. Review tenets.md to strengthen the Minimal Quantum Interaction rationale with specific scientific responses to the decoherence challenge.
+- **Result**: Strengthened Minimal Quantum Interaction tenet with Tegmark-Hameroff debate specifics (7 orders of magnitude), avian magnetoreception as biological proof of evolved quantum coherence, Jan 2026 Princeton JACS confirmation, and key finding that decoherence doesn't eliminate indeterminacy at measurement.
+- **Output**: Updated `tenets/tenets.md`
+
+### ✓ 2026-01-15: Cross-review quantum-consciousness.md with decoherence research
+- **Type**: cross-review
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md provides comprehensive coverage of decoherence objection responses: Tegmark-Hameroff debate, protective mechanisms (Debye layer, actin gel), biological quantum effects (photosynthesis, avian magnetoreception), and key finding that decoherence doesn't eliminate quantum indeterminacy. Review quantum-consciousness.md to strengthen the decoherence objection section with specific responses and timescale arguments.
+- **Result**: Added Tegmark-Hameroff Debate section with 7 orders of magnitude dispute, specific protective mechanisms, revised timescale requirements (10⁻⁷s), avian magnetoreception example with Jan 2026 Princeton JACS paper, and key finding about indeterminacy persisting after decoherence.
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-15: Research quantum decoherence objection responses in detail
 - **Type**: research-topic
