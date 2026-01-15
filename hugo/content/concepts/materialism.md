@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-15 00:20:00+00:00
+ai_modified: 2026-01-15 21:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[illusionism]]'
 - '[[knowledge-argument]]'
 - '[[arguments-for-dualism]]'
+- '[[analytic-idealism]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -136,6 +137,16 @@ The explanatory gap reflects how we conceptualize experience, not what experienc
 
 Problem: why would we have concepts that so systematically misrepresent a physical phenomenon? If consciousness is physical, why don't we recognize it as such? The conceptual gap points to an ontological gap.
 
+### Idealism as an Alternative
+
+[Analytic idealism](/concepts/analytic-idealism/), developed by Bernardo Kastrup, challenges materialism from a different angle than dualism. Where dualism posits two kinds of substance (mental and physical), idealism posits only one—consciousness—and treats matter as its appearance. On this view, the hard problem dissolves: consciousness doesn't emerge from matter because matter *is* patterns within consciousness.
+
+The idealist challenge sharpens the materialist dilemma. Materialism's appeal lies in parsimony—one kind of stuff. But idealism offers equal parsimony with consciousness as the one stuff, and it avoids the hard problem that plagues physicalism. If simplicity is the goal, idealism may achieve it better than materialism.
+
+Physicalists respond that idealism has its own challenges: explaining why "appearances" follow lawful regularities (why can't consciousness appear however it wants?), and accounting for the apparent independence of the physical world from any particular mind. But these challenges are arguably less severe than the hard problem: regularities can be attributed to the structure of universal consciousness, whereas materialism struggles to explain why *any* physical process should feel like anything.
+
+This site's framework differs from both idealism and materialism. It agrees with idealism that consciousness is fundamental, but maintains that physical reality exists distinctly and that consciousness interacts with it through [quantum mechanisms](/concepts/quantum-consciousness/). The interaction problem for dualism is addressed; the hard problem for materialism remains unanswered.
+
 ## Relation to This Site's Perspective
 
 Materialism is the site's primary opponent. Understanding its failure motivates the [tenet framework](/tenets/):
@@ -157,6 +168,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 - [explanatory-gap](/concepts/explanatory-gap/) — What physical explanations leave out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie argument against materialism in detail
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem materialism cannot solve
+- [analytic-idealism](/concepts/analytic-idealism/) — Idealism's challenge to both materialism and dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
 - [illusionism](/concepts/illusionism/) — Materialism's most radical response to the hard problem
 - [functionalism](/concepts/functionalism/) — A materialist theory the site rejects

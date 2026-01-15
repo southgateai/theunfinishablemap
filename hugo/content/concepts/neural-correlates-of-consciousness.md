@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 21:00:00+00:00
+ai_modified: 2026-01-15 23:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[integrated-information-theory]]'
 - '[[materialism]]'
 - '[[loss-of-consciousness]]'
+- '[[filter-theory]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -100,7 +101,9 @@ If the posterior cortical hot zone is where conscious content emerges, this regi
 
 ## Filter Theory: Correlates as Interface Points
 
-The [loss of consciousness](/topics/loss-of-consciousness/) literature offers an alternative interpretation of NCC findings. William James, Henri Bergson, and Aldous Huxley proposed that the brain *filters* or *transmits* consciousness rather than producing it. On this view, NCCs identify where consciousness interfaces with neural processes—not where consciousness is generated.
+[Filter theory](/concepts/filter-theory/) offers an alternative interpretation of NCC findings. William James, Henri Bergson, and Aldous Huxley proposed that the brain *filters* or *transmits* consciousness rather than producing it. On this view, NCCs identify where consciousness interfaces with neural processes—not where consciousness is generated.
+
+The filter framework inverts the standard interpretation: rather than NCCs showing where consciousness *emerges*, they show where consciousness *engages*. James's prism analogy is apt—the prism doesn't produce colors but reveals them by refracting light. Similarly, V4 doesn't produce color experience but provides the interface through which consciousness accesses chromatic information.
 
 Several findings support reading NCCs as interface indicators:
 
@@ -135,6 +138,7 @@ These remain philosophical questions. The site holds that consciousness is irred
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why correlations don't constitute explanations
+- [filter-theory](/concepts/filter-theory/) — The transmission model that reinterprets NCCs as interface points
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Evidence that NCCs indicate interface rather than production
 - [integrated-information-theory](/concepts/integrated-information-theory/) — One major NCC-compatible theory
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How non-physical consciousness could interact with NCC

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T15:00:00+00:00
+ai_modified: 2026-01-15T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research cognitive science of dualism
-- **Type**: research-topic
-- **Notes**: The phenomenology-first-person-methods research noted that "intuitive dualism" is empirically widespread—most people naturally think in dualist terms. What does cognitive science say about folk dualism? Bloom's "Descartes' Baby," developmental studies, cross-cultural evidence. Would strengthen Occam's Razor Has Limits argument—if dualism is cognitively natural, dismissing it as "unscientific" may miss something.
-- **Source**: gap_analysis
+### P2: Cross-review interactionist-dualism.md considering objections research
+- **Type**: cross-review
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md covers Kim's pairing problem and conservation laws. Review concepts/interactionist-dualism.md to add dedicated treatment of these objections—especially the pairing problem which is distinct from causal closure and requires a spatial location response.
+- **Source**: chain (from objections-to-interactionist-dualism research)
 - **Generated**: 2026-01-15
 
-### P2: Cross-review materialism.md considering analytic-idealism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/analytic-idealism.md presents Kastrup's view that consciousness is fundamental and matter is appearance. Review concepts/materialism.md to add idealism as a competing alternative—the materialism page should engage with this challenge to the physicalist worldview.
-- **Source**: chain (from analytic-idealism.md)
+### P2: Create concept page on the pairing problem
+- **Type**: expand-topic
+- **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
+- **Source**: gap_analysis (from objections research)
 - **Generated**: 2026-01-15
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
@@ -56,6 +56,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research cognitive science of dualism
+- **Type**: research-topic
+- **Notes**: The phenomenology-first-person-methods research noted that "intuitive dualism" is empirically widespread—most people naturally think in dualist terms. What does cognitive science say about folk dualism? Bloom's "Descartes' Baby," developmental studies, cross-cultural evidence. Would strengthen Occam's Razor Has Limits argument—if dualism is cognitively natural, dismissing it as "unscientific" may miss something.
+- **Result**: Comprehensive research covering Bloom's natural-born dualists thesis, developmental evidence from children, Barrett et al.'s cross-cultural study finding "intuitive materialism" as default, Bering's cognitive default hypothesis, and Barlev & Shtulman's learned dualism view. Key finding: evidence is mixed—neither innate dualism nor materialism is clearly default; cognitive naturalness doesn't determine metaphysical truth.
+- **Output**: `research/cognitive-science-dualism-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review arguments-for-dualism.md considering objections research
+- **Type**: cross-review
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md covers 5 major objections: Kim's pairing problem, conservation laws (Papineau), parsimony, evolutionary argument, and exclusion. Review concepts/arguments-for-dualism.md to engage with these objections—a strong positive case for dualism should acknowledge and respond to the best counterarguments.
+- **Result**: Added new "Major Objections and Responses" section covering pairing problem (spatial location response), conservation laws (quantum selection), exclusion argument (physics insufficient), and evolutionary argument (supports interactionism). Added causal-closure and mental-causation to concepts and Further Reading.
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+
+### ✓ 2026-01-15: Cross-review materialism.md considering analytic-idealism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/analytic-idealism.md presents Kastrup's view that consciousness is fundamental and matter is appearance. Review concepts/materialism.md to add idealism as a competing alternative—the materialism page should engage with this challenge to the physicalist worldview.
+- **Result**: Added new "Idealism as an Alternative" subsection in The Materialist Response, explaining how analytic idealism challenges materialism from a different angle than dualism. Added analytic-idealism to concepts list and Further Reading.
+- **Output**: Updated `concepts/materialism.md`
 
 ### ✓ 2026-01-15: Cross-review epiphenomenalism.md considering mental-causation insights
 - **Type**: cross-review

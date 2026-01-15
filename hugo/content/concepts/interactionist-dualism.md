@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-16 00:30:00+00:00
+ai_modified: 2026-01-15 13:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -41,18 +41,22 @@ Leibniz sharpened the objection by appealing to conservation of momentum. If min
 
 For centuries, this "interaction problem" pushed philosophers toward alternatives: parallelism (mind and body don't interact, just run in sync), [epiphenomenalism](/concepts/epiphenomenalism/) (body affects mind but not vice versa), or materialism (mind just is body). Interactionism seemed to require either abandoning dualism or accepting mystery.
 
+Yet epiphenomenalism faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [self-stultification argument](/concepts/mental-causation/) shows that denying mental causation is epistemically self-defeating. Your belief that you're in pain must be caused by your pain—otherwise why would the belief be about that experience at all? This gives positive motivation for interactionism beyond merely answering objections.
+
 ## The Causal Closure Argument
 
-The contemporary version of the interaction problem centers on causal closure. The argument runs:
+The contemporary version of the interaction problem centers on [causal closure](/concepts/causal-closure/). Jaegwon Kim's exclusion argument provides the most influential formulation (see [mental-causation](/concepts/mental-causation/) for detailed treatment). The argument runs:
 
-1. Every physical event that has a cause has a *sufficient* physical cause.
-2. If mental events cause physical events, they would have to add something beyond the physical causes.
-3. But sufficient means nothing more is needed.
-4. Therefore mental events either are physical (identity theory) or cause nothing (epiphenomenalism).
+1. **Causal closure**: Every physical event that has a cause has a sufficient physical cause.
+2. **Mental causation**: Mental events cause physical effects.
+3. **No systematic overdetermination**: Mental and physical causes don't systematically overdetermine the same effects.
+4. **Non-reductionism**: Mental properties are not identical to physical properties.
 
-This is the central argument against interactionism. Accept the premises, and you must choose between reducing consciousness to physics or denying that it does anything.
+These premises are jointly inconsistent. Kim concludes that mental properties must be either identical to physical properties (reductionism) or causally inert ([epiphenomenalism](/concepts/epiphenomenalism/)). This is the central argument against interactionism.
 
 The site's response: reject premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that physics is *not* causally closed at quantum indeterminacies. At these points, physics specifies probabilities but not outcomes. The physical story is incomplete, leaving room for consciousness to select among possibilities without adding energy or violating conservation laws.
+
+Kim's argument fails at quantum indeterminacies because there is no sufficient physical cause to exclude mental causation. Physics provides necessary but not sufficient causes—the probabilities but not which outcome actualizes. Consciousness fills a genuine gap rather than competing with complete physical causes.
 
 ## Quantum Interactionism
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 22:45:00+00:00
+ai_modified: 2026-01-15 22:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research cognitive science of dualism
-- **Type**: research-topic
-- **Notes**: The phenomenology-first-person-methods research noted that "intuitive dualism" is empirically widespread—most people naturally think in dualist terms. What does cognitive science say about folk dualism? Bloom's "Descartes' Baby," developmental studies, cross-cultural evidence. Would strengthen Occam's Razor Has Limits argument—if dualism is cognitively natural, dismissing it as "unscientific" may miss something.
-- **Source**: gap_analysis
+### P2: Cross-review interactionist-dualism.md considering objections research
+- **Type**: cross-review
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md covers Kim's pairing problem and conservation laws. Review concepts/interactionist-dualism.md to add dedicated treatment of these objections—especially the pairing problem which is distinct from causal closure and requires a spatial location response.
+- **Source**: chain (from objections-to-interactionist-dualism research)
+- **Generated**: 2026-01-15
+
+### P2: Create concept page on the pairing problem
+- **Type**: expand-topic
+- **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
+- **Source**: gap_analysis (from objections research)
 - **Generated**: 2026-01-15
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
@@ -51,6 +57,60 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research cognitive science of dualism
+- **Type**: research-topic
+- **Notes**: The phenomenology-first-person-methods research noted that "intuitive dualism" is empirically widespread—most people naturally think in dualist terms. What does cognitive science say about folk dualism? Bloom's "Descartes' Baby," developmental studies, cross-cultural evidence. Would strengthen Occam's Razor Has Limits argument—if dualism is cognitively natural, dismissing it as "unscientific" may miss something.
+- **Result**: Comprehensive research covering Bloom's natural-born dualists thesis, developmental evidence from children, Barrett et al.'s cross-cultural study finding "intuitive materialism" as default, Bering's cognitive default hypothesis, and Barlev & Shtulman's learned dualism view. Key finding: evidence is mixed—neither innate dualism nor materialism is clearly default; cognitive naturalness doesn't determine metaphysical truth.
+- **Output**: `research/cognitive-science-dualism-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review arguments-for-dualism.md considering objections research
+- **Type**: cross-review
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md covers 5 major objections: Kim's pairing problem, conservation laws (Papineau), parsimony, evolutionary argument, and exclusion. Review concepts/arguments-for-dualism.md to engage with these objections—a strong positive case for dualism should acknowledge and respond to the best counterarguments.
+- **Result**: Added new "Major Objections and Responses" section covering pairing problem (spatial location response), conservation laws (quantum selection), exclusion argument (physics insufficient), and evolutionary argument (supports interactionism). Added causal-closure and mental-causation to concepts and Further Reading.
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+
+### ✓ 2026-01-15: Cross-review materialism.md considering analytic-idealism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/analytic-idealism.md presents Kastrup's view that consciousness is fundamental and matter is appearance. Review concepts/materialism.md to add idealism as a competing alternative—the materialism page should engage with this challenge to the physicalist worldview.
+- **Result**: Added new "Idealism as an Alternative" subsection in The Materialist Response, explaining how analytic idealism challenges materialism from a different angle than dualism. Added analytic-idealism to concepts list and Further Reading.
+- **Output**: Updated `concepts/materialism.md`
+
+### ✓ 2026-01-15: Cross-review epiphenomenalism.md considering mental-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-causation.md covers arguments against epiphenomenalism (self-stultification, quantum opening). Review concepts/epiphenomenalism.md to strengthen the objections section and link to the dedicated mental-causation treatment.
+- **Result**: Added mental-causation, causal-closure, interactionist-dualism to concepts; expanded closure argument with Kim's exclusion structure and quantum response; linked self-stultification section to mental-causation article; expanded Further Reading.
+- **Output**: Updated `concepts/epiphenomenalism.md`
+
+### ✓ 2026-01-15: Research objections to interactionist dualism
+- **Type**: research-topic
+- **Notes**: The site has strong positive arguments for dualism but could engage more deeply with the strongest objections. Research the strongest contemporary objections beyond causal closure: conservation laws (Papineau), pairing problem (Kim), evolutionary arguments, parsimony arguments. Would strengthen interactionist-dualism.md and arguments-for-dualism.md by engaging opponents directly.
+- **Result**: Comprehensive research covering 5 major objections: Kim's pairing problem (spatial location), conservation laws (Papineau), parsimony/simplicity, evolutionary argument (actually supports interactionism), and exclusion argument. Includes responses and assessment for each.
+- **Output**: `research/objections-to-interactionist-dualism-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review interactionist-dualism.md considering mental-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-causation.md covers the exclusion argument, overdetermination, and how the quantum framework addresses these challenges. Review concepts/interactionist-dualism.md to engage more explicitly with Kim's exclusion argument—this is the main philosophical challenge to interactionism.
+- **Result**: Expanded causal closure section with Kim's 4-premise structure; added explicit links to causal-closure.md and mental-causation.md; added self-stultification argument as positive motivation for interactionism.
+- **Output**: Updated `concepts/interactionist-dualism.md`
+
+### ✓ 2026-01-15: Cross-review death-and-consciousness.md considering filter-theory insights
+- **Type**: cross-review
+- **Notes**: The filter-theory article discusses consciousness persistence and the "what consciousness would look like if brain filters rather than produces" question. Review topics/death-and-consciousness.md to add filter-theory framework and strengthen the argument for consciousness potentially surviving brain death.
+- **Result**: Added filter-theory to concepts list; linked filter-theory article in The Stakes section with James-Bergson-Huxley attribution; added filter-theory to Further Reading with description.
+- **Output**: Updated `topics/death-and-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review near-death-experiences.md considering filter-theory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/filter-theory.md covers NDEs as evidence for filter/transmission model (paradox of heightened experience during impaired brain function). Review concepts/near-death-experiences.md to link to dedicated filter-theory article and strengthen the theoretical framework explaining why NDEs support dualism.
+- **Result**: Added filter-theory to concepts list; linked filter-theory article in The Paradox of Heightened Experience section with Huxley reducing valve reference; added filter-theory to Further Reading.
+- **Output**: Updated `concepts/near-death-experiences.md`
+
+### ✓ 2026-01-15: Cross-review neural-correlates-of-consciousness.md considering filter-theory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/filter-theory.md provides the dedicated treatment of the transmission model (James, Bergson, Huxley). Review concepts/neural-correlates-of-consciousness.md to add explicit link to filter-theory and strengthen the "Interactionism Predicts Correlations" argument with the filter framework.
+- **Result**: Added filter-theory to concepts list; linked filter-theory article in Filter Theory section with James's prism analogy context; added filter-theory to Further Reading.
+- **Output**: Updated `concepts/neural-correlates-of-consciousness.md`
 
 ### ✓ 2026-01-15: Create concept page for filter-theory
 - **Type**: expand-topic
