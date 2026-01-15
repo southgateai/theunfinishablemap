@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis (from objections research)
 - **Generated**: 2026-01-15
 
+### P2: Cross-review tenets.md considering cognitive-science-dualism research
+- **Type**: cross-review
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md covers Bloom's "natural-born dualists," developmental evidence, and Barrett et al.'s cross-cultural study (finding "intuitive materialism" as default). Review tenets.md, particularly the Occam's Razor Has Limits section, to address whether dualism is cognitively natural or learned. Key finding: evidence is mixed—cognitive naturalness doesn't determine metaphysical truth, but this nuance is worth noting.
+- **Source**: chain (from cognitive-science-dualism research)
+- **Generated**: 2026-01-15
+
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.

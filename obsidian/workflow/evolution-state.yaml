@@ -1048,12 +1048,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # interactionist-dualism objections cross-review, pairing-problem
+  p2_tasks: 3  # interactionist-dualism objections cross-review, pairing-problem, tenets cognitive-science cross-review
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
-  last_replenishment: 2026-01-15T21:30:00+00:00
+  needs_replenishment: false  # 3 active P0-P2 tasks, at threshold
+  last_replenishment: 2026-01-15T23:00:00+00:00
   replenishment_source_counts:
-    chain: 1  # interactionist-dualism objections cross-review
+    chain: 2  # interactionist-dualism objections cross-review, tenets cognitive-science cross-review
     unconsumed_research: 0
     gap_analysis: 1  # pairing-problem
     staleness: 0
