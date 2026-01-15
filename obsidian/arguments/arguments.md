@@ -3,7 +3,7 @@ title: "Arguments"
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-01-15T12:30:00+00:00
+ai_modified: 2026-01-15T14:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -41,4 +41,16 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 - Quantum indeterminacy provides the mechanism for mental causation
 
 **Discussion:** [[interactionist-dualism]]
+
+### Against Many-Worlds
+
+The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page argues that many-worlds fails on multiple fronts and is incompatible with the site's framework.
+
+**Key claims:**
+- Ontological extravagance: mathematical simplicity purchased with metaphysical inflation
+- The indexical problem: personal identity becomes incoherent across branches
+- The probability problem: the Born rule remains unexplained
+- Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
+
+**Discussion:** [[many-worlds]]
 
