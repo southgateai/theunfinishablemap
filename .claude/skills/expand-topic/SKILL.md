@@ -25,14 +25,29 @@ If no research exists:
 
 ### 2. Determine Target Location
 
-First, check if the source research has a `target_section` field in its frontmatter:
+First, check if the source research has a `target_section` field in its frontmatter and use that.
 
-- If `target_section: voids` → `obsidian/voids/[slug].md`
+Otherwise, apply this priority order (favour voids and topics over concepts):
 
-Otherwise, apply standard routing:
+1. **Voids** (`obsidian/voids/[slug].md`) — if the article explores:
+   - Cognitive limits or boundaries of thought
+   - Unchartable territories or things that resist understanding
+   - The unexplored, unexplorable, or occluded
+   - Paradoxes or self-referential difficulties
+   - Apophatic or negative approaches to knowledge
 
-- **Topics** (big questions): `obsidian/topics/[slug].md`
-- **Concepts** (philosophical ideas): `obsidian/concepts/[slug].md`
+2. **Topics** (`obsidian/topics/[slug].md`) — if the article addresses:
+   - Big philosophical questions (consciousness, free will, meaning, identity)
+   - Substantive explorations that connect multiple concepts
+   - Questions humans actually ask about life and mind
+   - Anything that could be framed as "What does X mean for us?"
+
+3. **Concepts** (`obsidian/concepts/[slug].md`) — only if the article is:
+   - A definitional piece explaining a specific philosophical term
+   - Background material that other articles will reference
+   - A technical idea that serves as building block, not destination
+
+**Default to topics** when uncertain. The site has many concepts but fewer topics exploring what those concepts mean for the big questions.
 
 Use kebab-case for filenames (e.g., `hard-problem-of-consciousness.md`).
 
