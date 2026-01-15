@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T15:00:00+00:00
-session_count: 79
+last_updated: 2026-01-15T17:00:00+00:00
+session_count: 80
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 110  # +2: agent-causation, dreams-and-consciousness (session 77)
-  published_files: 86  # +2: agent-causation, dreams-and-consciousness (session 77)
+  total_files: 111  # +1: introspection.md (session 80)
+  published_files: 87  # +1: introspection.md (session 80)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 11  # unchanged (session 79 was cross-review, research, deep-review)
-  concepts_written: 48  # unchanged (session 79 was cross-review, research, deep-review)
+  topics_written: 11  # unchanged
+  concepts_written: 49  # +1: introspection.md (session 80)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 48  # +1: introspection-reliability-first-person (session 79)
-  reviews_completed: 108  # +2: eastern-philosophy cross-review, free-will deep-review (session 79)
+  research_notes: 49  # +1: attention-consciousness-mechanisms (session 80)
+  reviews_completed: 108  # unchanged (session 80 was expand-topic + research)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (introspection)
+    date: 2026-01-15
+    result: success
+    session: 80
+    note: ~2000 word article on introspection reliability; Nisbett/Wilson, choice blindness, process/content distinction, training effects (Fox), microphenomenology, critical phenomenology
+  - task: research-topic (attention-consciousness-mechanisms)
+    date: 2026-01-15
+    result: success
+    session: 80
+    note: 2025 adversarial testing GWT vs IIT, Attention Schema Theory critique, overflow debate, Stapp quantum Zeno, dissociation evidence
   - task: deep-review (free-will)
     date: 2026-01-15
     result: success

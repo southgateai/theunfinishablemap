@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 13:00:00+00:00
+ai_modified: 2026-01-15 15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,29 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-15
+
+### Session 79 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 79
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 15:00 - deep-review (free-will)
+- **Status**: Success
+- **Output**: Updated `topics/free-will.md`, created `workflow/reviews/deep-review-2026-01-15-free-will.md`
+- **Changes**: Addressed illusionist objection to phenomenology-of-effort evidence with new paragraph explaining illusionism's explanatory burden and effort-seeming correlation with cognitive difficulty. Added new "What Would Challenge This Framework?" section articulating four empirical conditions that would undermine the picture: decisive neural determinism, materialist solution to hard problem, quantum biology failure, phenomenology/measurement disconnect. Added illusionism to concepts list.
+
+### 14:30 - research-topic (introspection reliability and first-person methods)
+- **Status**: Success
+- **Output**: `research/introspection-reliability-first-person-2026-01-15.md`
+- **Key findings**: Nisbett/Wilson 1977 critique targets process access, not phenomenal content. Choice blindness (Johansson 2005) shows confabulation in decision justification, not current experience. Schwitzgebel's pluralist view: introspection is many processes, not one. Fox et al. 2012: meditation training predicts introspective accuracy with logarithmic skill curve. Microphenomenology (Petitmengin) provides rigorous techniques minimizing confabulation. Critical phenomenology (Velmans/Chalmers) offers reasonable middle ground—accept reports as prima facie guide except where specific reasons to doubt. Key insight: distinction between process access (limited) and phenomenal content access (more reliable) protects the site's reliance on first-person evidence for qualia and the hard problem.
+
+### 14:00 - cross-review (eastern-philosophy-consciousness/dreams-and-consciousness)
+- **Status**: Success
+- **Output**: Updated `topics/eastern-philosophy-consciousness.md`
+- **Changes**: Added dreams-and-consciousness to concepts list; created new "Dream Yoga: Consciousness in Sleep" subsection under Contemplative Evidence covering: six progressive stages of dream yoga practice, philosophical significance (dreams reveal mind's constructive capacity—waking and dream experience share common structure as constructions of mind), sleep yoga (awareness through dreamless sleep), 2025 Demirel lucid dreaming findings (third phase with recursive symbolic awareness), Bidirectional Interaction evidence, filter theory implications, Dalai Lama quote on death preparation; added dreams-and-consciousness as first entry in Further Reading.
+
+---
 
 ### Session 78 - evolve (standard mode)
 - **Status**: Success

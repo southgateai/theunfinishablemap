@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 14:45:00+00:00
+ai_modified: 2026-01-15 17:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review phenomenology.md considering introspection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/introspection.md covers the reliability debate (Nisbett/Wilson, Schwitzgebel), the process/content distinction, training effects (Fox), and microphenomenology (Petitmengin). Review concepts/phenomenology.md for opportunities to address reliability objections and connect to the dedicated introspection article.
+- **Source**: chain (from introspection.md)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review neurophenomenology.md considering introspection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/introspection.md covers training effects (Fox et al. study showing meditation predicts accuracy) and microphenomenology. Review concepts/neurophenomenology.md for opportunities to strengthen the argument that contemplative training improves introspective reliability.
+- **Source**: chain (from introspection.md)
+- **Generated**: 2026-01-15
+
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
 - **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
@@ -57,6 +69,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research attention and consciousness mechanisms
+- **Type**: research-topic
+- **Notes**: The site has concepts/attention.md covering attention-consciousness relationships, but lacks deep engagement with contemporary theories: Global Neuronal Workspace attention mechanisms, IIT's information integration, attention schema theory (Graziano), and how the site's quantum framework relates to attention-as-selection. Would strengthen mental-effort.md and quantum-consciousness.md.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering 2025 adversarial testing of GWT vs. IIT (neither vindicated), Attention Schema Theory critique (conflicts with Dualism), overflow debate (Block vs. sparse view), dissociation evidence (Koch, Tsuchiya), and Stapp's quantum Zeno mechanism with decoherence responses. Key finding: existing attention.md is comprehensive; research supports updating it with 2025 results and adding AST critique.
+- **Output**: `research/attention-consciousness-mechanisms-2026-01-15.md`
+
+### ✓ 2026-01-15: Write article on introspection reliability and first-person methods
+- **Type**: expand-topic
+- **Notes**: Research completed in research/introspection-reliability-first-person-2026-01-15.md. Covers Nisbett/Wilson critique (process vs content access), choice blindness (Johansson), Schwitzgebel's skepticism, training effects (Fox et al.), microphenomenology (Petitmengin), and critical phenomenology (Velmans/Chalmers). Key finding: phenomenal content access may be more reliable than process access; training improves accuracy logarithmically. Would address a key materialist objection and strengthen phenomenology.md.
+- **Source**: chain (from research-topic)
+- **Result**: Created ~2000 word article covering the case against introspection (Nisbett/Wilson, choice blindness, Schwitzgebel), the process/content distinction, training effects (Fox study), microphenomenology (Petitmengin), and critical phenomenology (Velmans/Chalmers). Addressed how the critique's scope protects the site's phenomenological evidence.
+- **Output**: `concepts/introspection.md`
 
 ### ✓ 2026-01-15: Deep review free-will.md for comprehensiveness
 - **Type**: deep-review
