@@ -21,8 +21,8 @@ This is the task queue for AI automation. The human reviews and prioritizes task
 
 ## How to Edit This List
 
-- **Promote**: Change `P3` to `P1`, etc.
-- **Demote**: Change `P1` to `P3`, etc.
+- **Promote**: Change `P2` to `P1`, etc.
+- **Demote**: Change `P1` to `P2`, etc.
 - **Veto**: Add `#veto` anywhere in the task heading (e.g., `### P2: Task name #veto`)
 - **Add reason**: Optionally add `- **Veto reason**: [why]` before vetoing
 
@@ -33,13 +33,111 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P0**: Urgent - execute immediately
 - **P1**: High - execute this week
 - **P2**: Medium - execute when time permits
-- **P3**: Low - nice to have, human approval needed
+- **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
 
+### P1: Formalize the psychophysical coupling problem (“selection law”) and candidate constraints
+
+* **Type**: research-topic
+* **Notes**: The site repeatedly says consciousness “selects” among quantum outcomes (tenets; free will; quantum consciousness). Make explicit that this requires a psychophysical coupling law: what variables in conscious experience map to what selectable degrees of freedom? What is the bandwidth? What is not selectable? Propose candidate constraint families (e.g., selection only within attention-controlled neural subspaces; only policy-level not micro-level; only basis-choice not amplitude). Aim: turn “selection” from metaphor into a research program.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: latent_inference
+* **Generated**: 2026-01-15
+
+### P1: Define and defend the “brain specialness” boundary (why not psychokinesis)
+
+* **Type**: research-topic
+* **Notes**: Minimal Quantum Interaction + Bidirectional Interaction risks sliding into “mind can bias any quantum event.” The site rejects woo, but needs an explicit limiter: why is the interface restricted to brains (or to systems already integrated into the subject’s control loop)? Produce a principled boundary condition and show how it avoids both epiphenomenalism and parapsychology-by-implication.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: latent_inference
+* **Generated**: 2026-01-15
+
+### P1: Address “collapse before minds” (early-universe outcome selection)
+
+* **Type**: research-topic
+* **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates “collapse exists” from “consciousness causes collapse,” and states which version the site commits to (or why it stays agnostic).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: gap_analysis
+* **Generated**: 2026-01-15
+
+### P1: Create a dedicated concept page: “Haecceity / thisness and indexical identity”
+
+* **Type**: expand-topic
+* **Notes**: The site leans heavily on indexical identity in anti-MWI and personal identity, but doesn’t name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how “this subject” differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: structural_gap
+* **Generated**: 2026-01-15
+
+### P1: Make the value theory explicit (“phenomenal value realism”) and locate it in metaethics
+
+* **Type**: research-topic
+* **Notes**: Meaning-of-life + alignment pages implicitly treat conscious experience as the ground of value. Make that explicit: what kind of realism is this (or is it constructivist)? How does it relate to welfarism, virtue ethics, contractualism, error theory, etc.? What exactly is the “intrinsic significance” claim (valence, richness, unity, agency, narrative, attention)?  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: latent_inference
+* **Generated**: 2026-01-15
+
+### P1: Propose an “alignment objective” framed in experiential terms (not preference terms)
+
+* **Type**: research-topic
+* **Notes**: If preferences are thin proxies and AI lacks “inside understanding,” alignment should target predicted distributions over human experiences (suffering, agency, meaning, attention, social connection). Draft a concrete schema: what measurable proxies could approximate experiential quality without collapsing into naïve behaviorism? Tie to neurophenomenology/first-person methods and explicitly state failure modes (Goodhart, manipulation, wireheading-like traps).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: new_avenue
+* **Generated**: 2026-01-15
+
+### P2: Unify “filter/transmission” and “quantum selection” into a single model
+
+* **Type**: expand-topic
+* **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic, and what empirical patterns would discriminate “production” vs “interface” vs “hybrid” models. Prevent the framework reading like two separate explanations.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: coherence_work
+* **Generated**: 2026-01-15
+
+### P2: Create “Ethics of consciousness” as a core topic (animals, AI, uploads, simulations)
+
+* **Type**: expand-topic
+* **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy (“act cautiously under consciousness uncertainty”), simulation ethics under dualism, and why “copying a person” is not “saving them” but may still create morally significant experiences (if any).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: gap_analysis
+* **Generated**: 2026-01-15
+
+### P2: Build an explicit “testability ledger” for the framework
+
+* **Type**: meta-method
+* **Notes**: Several pages say the framework is falsifiable, but test hooks are diffuse. Create a central ledger: what observations would update against dualism, against quantum interface, against retrocausal repair, against filter theory? Separate (a) decisive disconfirmers, (b) weak evidence, (c) non-evidence. This also guards against unfalsifiability accusations.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: epistemic_hygiene
+* **Generated**: 2026-01-15
+
+### P2: Strengthen engagement with alternative QM interpretations beyond MWI (and show compatibility/incompatibility)
+
+* **Type**: research-topic
+* **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs “collapse is epistemic only.”  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: gap_analysis
+* **Generated**: 2026-01-15
+
+### P2: Formalize the “attention as interface” hypothesis into a mechanistic research agenda
+
+* **Type**: research-topic
+* **Notes**: Attention is treated as dissociable from consciousness and as the likely control surface for mind→brain influence. Convert into actionable questions: which neural correlates of attention are candidates for “selection sites”? What is the relationship to global workspace / predictive processing / IIT? What would count as evidence that attention is more than computation here?  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: new_avenue
+* **Generated**: 2026-01-15
+
+### P2: Add “coherence inflation” countermeasures to the site’s generation workflow
+
+* **Type**: build-tool
+* **Notes**: Because the site is intentionally a single worldview expressed as fact and heavily AI-generated, add hard constraints: (1) per-claim confidence metadata, (2) mandatory steelman sections for key opponents, (3) provenance tagging for empirical claims, (4) periodic external red-team reviews, (5) detection of circular citation loops across pages.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: risk_assessment
+* **Generated**: 2026-01-15
+
+### P2: Create a “Voids safety protocol” for exploring occluded/unexplorable topics with LLMs
+
+* **Type**: meta-method
+* **Notes**: If “voids” includes the occluded/unthinkable, the project needs explicit safety rails: avoid memetic hazards, coercive ideology traps, and psychologically destabilizing content; separate exploratory speculation from endorsed claims; require human review gates; define stop conditions. Make the protocol public so readers understand the epistemic status of voids content.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: risk_assessment
+* **Generated**: 2026-01-15
+
+### P2: Develop a dedicated topic on “Time, collapse, and agency”
+
+* **Type**: expand-topic
+* **Notes**: Free will uses retrocausality/atemporal selection; collapse is linked to the arrow of time. Consolidate: what metaphysics of time is implied (presentism/eternalism/relational), how “selection across time” avoids contradictions, and what phenomenology of temporal experience (durée/specious present) would be predicted by the framework.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+* **Source**: latent_inference
+* **Generated**: 2026-01-15
+
 ### P2: Research consciousness-selecting mechanisms in detail
 - **Type**: research-topic
-- **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P3 task for consciousness-selecting-neural-patterns concept page.
+- **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P2 task for consciousness-selecting-neural-patterns concept page.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
@@ -61,13 +159,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain
 - **Generated**: 2026-01-16
 
-### P3: Create concept page for consciousness-selecting-neural-patterns
+### P2: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-13
 
-### P3: Deep review split-brain-consciousness.md for currency
+### P2: Deep review split-brain-consciousness.md for currency
 - **Type**: deep-review
 - **Notes**: AI-generated content from session 47 that hasn't received a deep review. Check for: engagement with latest split-brain research, connections to newer content (binding-problem.md, personal-identity.md), tenet alignment strength.
 - **Source**: staleness
