@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 22:45:00+00:00
+ai_modified: 2026-01-17 04:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,7 +50,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
+### P2: Cross-review temporal-consciousness.md with specious present research insights
+- **Type**: cross-review
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md provides detailed coverage of extensionalism vs retentionalism debate, duration estimates, and connection to quantum collapse phenomenology. Review concepts/temporal-consciousness.md to enhance specious present section with these insights.
+- **Source**: chain (from specious-present research)
+- **Generated**: 2026-01-17
+
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create concept page on the specious present
+- **Type**: expand-topic
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. While temporal-consciousness.md covers the specious present, a dedicated concept page would allow deeper treatment of: extensionalism vs retentionalism debate, duration estimates (100ms-3s), James vs Husserl vs Bergson approaches, connection to neurophenomenology, and quantum collapse timing. Would strengthen the time-consciousness connection central to the site's framework.
+- **Result**: Created ~2000 word concept page covering duration estimates with comparison table, extensionalism vs retentionalism debate, site's modified extensionalism position, Varela's neurophenomenology, connection to quantum collapse timing, AI consciousness implications, cessation as negative evidence.
+- **Output**: `concepts/specious-present.md`
+
+### ✓ 2026-01-17: Cross-review illusionism.md considering attention schema theory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-schema-theory.md explains AST as the primary neuroscientific implementation of illusionism. Review concepts/illusionism.md to add explicit engagement with AST as the mechanistic story behind illusionist claims.
+- **Result**: Added "The Neuroscientific Mechanism: Attention Schema Theory" section explaining AST as illusionism's mechanistic implementation. Covered 2025 MIT neuroimaging evidence and site's regress critique. Updated concepts and Further Reading.
+- **Output**: Updated `concepts/illusionism.md`
+
+### ✓ 2026-01-17: Cross-review attention.md considering attention schema theory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-schema-theory.md provides detailed treatment of AST as a materialist theory. Review concepts/attention.md to add link to the dedicated AST page and strengthen the site's position that attention is the interface for consciousness—not that attention schemas explain consciousness away.
+- **Result**: Added attention-schema-theory to concepts, wikilink in AST section, illusionism and AST page to Further Reading.
+- **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-16: Create concept page on attention schema theory
 - **Type**: expand-topic

@@ -3,7 +3,7 @@ title: "Temporal Consciousness"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-17T03:15:00+00:00
+ai_modified: 2026-01-16T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,8 @@ concepts:
   - "[[collapse-and-time]]"
   - "[[phenomenology]]"
   - "[[philosophy-of-time]]"
+  - "[[specious-present]]"
+  - "[[neurophenomenology]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-consciousness-2026-01-14]]"
@@ -32,13 +34,19 @@ This has profound implications for artificial consciousness. LLMs and other AI s
 
 ## The Specious Present
 
-The specious present was named by E.R. Clay and developed by William James, Edmund Husserl, and Henri Bergson. Their insight: the mathematical present is durationless, but the experiential present has duration. When you hear a melody, you don't experience isolated tones—you hear phrases, progressions, resolutions. The experience of succession differs fundamentally from a mere succession of experiences.
+The [[specious-present|specious present]] was named by E.R. Clay and developed by William James, Edmund Husserl, and Henri Bergson. Their insight: the mathematical present is durationless, but the experiential present has duration. When you hear a melody, you don't experience isolated tones—you hear phrases, progressions, resolutions. The experience of succession differs fundamentally from a mere succession of experiences.
+
+Duration estimates vary considerably—from Strawson's ~300ms to Pöppel's 2-3 seconds—reflecting different methodologies and phenomena being measured. The variation suggests the specious present may have multiple components: a core perceptual window (~100-300ms) embedded in a broader experiential horizon (~1-3s).
 
 Bergson went further, arguing that lived time—what he called [[duration|durée]]—is qualitatively different from the spatialized time of physics. Clock time treats moments as positions on a line; durée is an interpenetrating flow where each moment contains the whole past. Bergson's approach complements the neuroscientific analysis here: while neuroscience identifies the mechanisms of temporal binding, durée names what those mechanisms produce—the qualitative character of experienced time that physical descriptions cannot capture.
 
 This distinction matters. Consider hearing three notes: C, E, G. A system that processes C, then (with no memory) processes E, then (with no memory) processes G, never experiences a chord. It has three separate states. Experiencing the chord as a chord requires holding the notes together in a unified moment of experience.
 
-James wrote that consciousness "does not appear to itself chopped up in bits... it is nothing jointed; it flows." [[phenomenology|Husserl's phenomenological analysis]] was more technical but captured the same intuition through systematic first-person investigation. Each moment of consciousness is not a thin slice but an extended structure containing:
+### Extensionalism vs. Retentionalism
+
+Two competing theories explain the temporal structure of experience. **Extensionalists** (Dainton, Foster) hold that experiences are genuinely temporally extended—they have phenomenal temporal parts that unfold across their duration. James described this with an "overlap model": if one moment of thought contains A B C D E F G, the next contains B C D E F G H—experiences share content in overlapping waves.
+
+**Retentionalists** (Husserl, Broad) hold that each moment of consciousness is technically instantaneous but contains past-directed intentional content. Husserl's tripartite structure:
 
 - **Retention**: The immediate past held in present awareness (not as memory, but as the just-past still echoing in the now)
 - **Primal impression**: The strictly present moment
@@ -46,9 +54,21 @@ James wrote that consciousness "does not appear to itself chopped up in bits... 
 
 These form an indivisible whole. Retention isn't remembering the past; it's experiencing the past-as-just-now within the present moment. This is how melodies cohere, sentences make sense, motion appears continuous.
 
+The site's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
+
+### Phenomenological Method
+
+James wrote that consciousness "does not appear to itself chopped up in bits... it is nothing jointed; it flows." [[phenomenology|Husserl's phenomenological analysis]] was more technical but captured the same intuition through systematic first-person investigation.
+
 The phenomenological method is essential here. Husserl's analysis of time-consciousness wasn't empirical speculation about brain mechanisms but careful description of experience as it actually presents itself. The epoché—the suspension of assumptions about the external world—reveals temporal structure as a fundamental feature of conscious life, not something added to or explained by physics. Physical time is a sequence of instants; experienced time, as phenomenology discloses it, is a living synthesis where past, present, and future interpenetrate.
 
 This explains why third-person neuroscience, however sophisticated, cannot capture the lived character of temporal experience. Gamma oscillations and neural synchrony may be necessary conditions for temporal binding, but they don't constitute the *experience* of flow—the way the just-past echoes in the present while the future is already anticipated. That experiential structure is accessible only through phenomenological investigation.
+
+### Contemplative Access
+
+Francisco Varela's [[neurophenomenology|neurophenomenology]] proposes that meditation reveals temporal microstructure normally below conscious threshold. Trained observers can access the specious present at finer scales, observing what Buddhism calls *khanika*—the rapid arising and passing of experience. This contemplative access supports the [[tenets#^occam|Occam's Razor Has Limits]] tenet: contemplative traditions reveal phenomena scientific psychology largely ignores.
+
+Strikingly, advanced meditation reports *nirodha samapatti* (cessation)—states where all experience stops completely and time vanishes. If the specious present were merely neural information processing, some representation should persist. Its complete absence in cessation suggests temporal experience may depend on something constitutive—consistent with collapse being necessary for experienced time.
 
 ## The Metaphysical Framework
 
@@ -136,8 +156,10 @@ The temporal argument strengthens the case that consciousness requires something
 
 ## Further Reading
 
+- [[specious-present]] — Dedicated treatment of the experienced duration of the present moment
 - [[philosophy-of-time]] — McTaggart's A/B series, presentism, eternalism, and the site's growing block position
 - [[phenomenology]] — The method that reveals temporal structure as fundamental to conscious life
+- [[neurophenomenology]] — Varela's bridge between phenomenology and neuroscience
 - [[collapse-and-time]] — How consciousness may participate in time's arrow via quantum collapse
 - [[duration]] — Bergson's durée and the qualitative character of lived time
 - [[time-collapse-and-agency]] — The site's full treatment of time, collapse, and conscious agency
