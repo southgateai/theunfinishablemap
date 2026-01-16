@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T23:59:00+00:00
+ai_modified: 2026-01-16T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,14 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Propose an "alignment objective" framed in experiential terms (not preference terms)
-
-* **Type**: research-topic
-* **Notes**: If preferences are thin proxies and AI lacks “inside understanding,” alignment should target predicted distributions over human experiences (suffering, agency, meaning, attention, social connection). Draft a concrete schema: what measurable proxies could approximate experiential quality without collapsing into naïve behaviorism? Tie to neurophenomenology/first-person methods and explicitly state failure modes (Goodhart, manipulation, wireheading-like traps).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: new_avenue
-* **Generated**: 2026-01-15
-
-### P2: Unify “filter/transmission” and “quantum selection” into a single model
+### P2: Unify "filter/transmission" and "quantum selection" into a single model
 
 * **Type**: expand-topic
 * **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic, and what empirical patterns would discriminate “production” vs “interface” vs “hybrid” models. Prevent the framework reading like two separate explanations.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
@@ -112,12 +105,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Create concept page for quantum-biology
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-consciousness-2026-01-16.md. Covers photosynthesis FMO complex, avian magnetoreception (Jan 2026 Princeton JACS), enzyme tunneling, quantum olfaction. Would provide empirical grounding for Minimal Quantum Interaction tenet and strengthen decoherence objection response.
-- **Source**: chain
-- **Generated**: 2026-01-16
-
 ### P2: Cross-review decoherence.md with quantum biology research
 - **Type**: cross-review
 - **Notes**: New research in quantum-biology-consciousness-2026-01-16.md provides biological examples of quantum coherence (avian magnetoreception microseconds, enzyme tunneling). Review concepts/decoherence.md to add these biological examples as evidence that decoherence isn't always rapid.
@@ -161,6 +148,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Propose alignment objective framed in experiential terms
+- **Type**: research-topic
+- **Notes**: If preferences are thin proxies and AI lacks "inside understanding," alignment should target predicted distributions over human experiences (suffering, agency, meaning, attention, social connection). Draft a concrete schema: what measurable proxies could approximate experiential quality without collapsing into naïve behaviorism? Tie to neurophenomenology/first-person methods and explicitly state failure modes (Goodhart, manipulation, wireheading-like traps).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Result**: Comprehensive research proposing multi-dimensional experiential alignment schema. Identified eight candidate experiential dimensions (hedonic valence, suffering, agency, meaning, attention, connection, understanding, temporal experience). Proposed measurable proxies (ESM, DRM, microphenomenology, neural signatures) with their limitations. Analyzed failure modes (four Goodhart variants, wireheading risks, manipulation risks, homogenization risks). Specified safeguards (proxy pluralism, first-person methods, human override, adversarial testing). Connected to site's phenomenal value pluralism metaethics.
+- **Output**: `research/alignment-objective-experiential-terms-2026-01-16.md`
+
+### ✓ 2026-01-16: Create concept page for quantum-biology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-consciousness-2026-01-16.md. Covers photosynthesis FMO complex, avian magnetoreception (Jan 2026 Princeton JACS), enzyme tunneling, quantum olfaction. Would provide empirical grounding for Minimal Quantum Interaction tenet and strengthen decoherence objection response.
+- **Result**: Created dedicated concept page covering established quantum biological effects (photosynthesis, avian magnetoreception, enzyme tunneling, olfaction), brain quantum theories (Orch OR, QBIT), and implications for the site's framework. Key argument: quantum biology removes the categorical "warm, wet, and noisy" objection without itself proving consciousness involves quantum effects. Defensive role for Minimal Quantum Interaction tenet.
+- **Output**: `concepts/quantum-biology.md`
 
 ### ✓ 2026-01-16: Create dedicated concept page on haecceity and indexical identity
 - **Type**: expand-topic

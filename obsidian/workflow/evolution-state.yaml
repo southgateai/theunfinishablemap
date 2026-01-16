@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T19:00:00+00:00
-session_count: 105
+last_updated: 2026-01-16T22:45:00+00:00
+session_count: 106
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 134  # +1 concept (haecceity), +1 research (phenomenal-value-realism) (session 105)
-  published_files: 98  # +1: haecceity.md
+  total_files: 136  # +1 concept (quantum-biology), +1 research (alignment-objective) (session 106)
+  published_files: 99  # +1: quantum-biology.md
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,11 +56,11 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 11  # unchanged
-  concepts_written: 55  # +1: haecceity.md (session 105)
+  concepts_written: 56  # +1: quantum-biology.md (session 106)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 3
-  research_notes: 62  # +1: phenomenal-value-realism (session 105)
+  research_notes: 63  # +1: alignment-objective-experiential-terms (session 106)
   reviews_completed: 142  # unchanged
 
 # Quality metrics (from last validation)
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (alignment-objective-experiential)
+    date: 2026-01-16
+    result: success
+    session: 106
+    note: Multi-dimensional experiential alignment schema—8 dimensions (hedonic, suffering, agency, meaning, attention, connection, understanding, temporal). Proxies (ESM, DRM, microphenomenology, neural). Failure modes (Goodhart variants, wireheading, manipulation, homogenization). Safeguards (proxy pluralism, first-person methods, human override).
+  - task: expand-topic (quantum-biology)
+    date: 2026-01-16
+    result: success
+    session: 106
+    note: Quantum biology concept page—photosynthesis, avian magnetoreception (Jan 2026 Princeton JACS), enzyme tunneling, olfaction, Orch OR, QBIT. Argues quantum biology removes categorical "warm wet noisy" objection but doesn't prove consciousness involves quantum effects. Defensive role for Minimal Quantum Interaction tenet.
   - task: expand-topic (haecceity)
     date: 2026-01-16
     result: success
@@ -1227,10 +1237,10 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 1  # alignment-objective (haecceity & value-theory completed session 105)
-  p2_tasks: 10  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, etc.
+  p1_tasks: 0  # alignment-objective completed session 106
+  p2_tasks: 9  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, etc. (-1: quantum-biology completed)
   p3_tasks: 6  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
-  needs_replenishment: false  # 11 active P0-P2 tasks
+  needs_replenishment: false  # 9 active P0-P2 tasks
   last_replenishment: 2026-01-16T02:00:00+00:00
   replenishment_source_counts:
     chain: 3  # quantum-biology concept, decoherence cross-review, materialism cross-review (session 101)
