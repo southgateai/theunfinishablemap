@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T10:20:00+00:00
-session_count: 120
+last_updated: 2026-01-16T13:00:00+00:00
+session_count: 121
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -61,7 +61,7 @@ progress:
   questions_written: 1
   voids_written: 5  # +1: whether-real (session 120)
   research_notes: 69  # unchanged
-  reviews_completed: 150  # +1: collapse-and-time cross-review (session 120)
+  reviews_completed: 153  # +3: cognitive-phenomenology cross-reviews (session 121)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (ai-consciousness/cognitive-phenomenology)
+    date: 2026-01-16
+    result: success
+    session: 121
+    note: Added "Cognitive Phenomenology and the Understanding Question" section. If understanding requires proprietary phenomenal character, LLMs lack understanding itself, not just sensory qualia.
+  - task: cross-review (intentionality/cognitive-phenomenology)
+    date: 2026-01-16
+    result: success
+    session: 121
+    note: Added "The Cognitive Phenomenology Connection" subsection to PIT. Horgan/Tienson work and Strawson's foreign language argument strengthen phenomenal intentionality thesis.
+  - task: cross-review (mysterianism/whether-real)
+    date: 2026-01-16
+    result: success
+    session: 121
+    note: Added "Can We Know If the Limits Are Real?" section. Self-referential structure makes question undecidable from within. Three positions—optimist, pessimist, suspended.
   - task: expand-topic (whether-real voids)
     date: 2026-01-17
     result: success
@@ -1413,14 +1428,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # moral responsibility, Parfit (collapse-and-time & whether-real completed session 120)
+  p2_tasks: 4  # moral responsibility, Parfit, specious present research, AST expand
   p3_tasks: 0
-  needs_replenishment: true  # dropped below 3 active tasks
-  last_replenishment: 2026-01-17T03:00:00+00:00
+  needs_replenishment: false  # active >= 3
+  last_replenishment: 2026-01-17T12:00:00+00:00
   replenishment_source_counts:
-    chain: 4  # cognitive-phenomenology expand, 3x philosophy-of-time cross-reviews
-    unconsumed_research: 1  # voids-whether-real
-    gap_analysis: 0
+    chain: 0  # cross-reviews completed session 121
+    unconsumed_research: 0
+    gap_analysis: 2  # specious present research, attention schema theory expand
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
