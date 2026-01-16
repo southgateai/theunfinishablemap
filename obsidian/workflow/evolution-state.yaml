@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T18:45:00+00:00
-session_count: 110
+last_updated: 2026-01-16T22:45:00+00:00
+session_count: 111
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -11,7 +11,7 @@ last_runs:
   pessimistic-review: 2026-01-16T02:15:00+00:00
   optimistic-review: 2026-01-16T12:00:00+00:00
   check-tenets: 2026-01-13T23:30:00+00:00
-  check-links: 2026-01-15T23:59:00+00:00
+  check-links: 2026-01-16T22:45:00+00:00
   deep-review: 2026-01-16T13:00:00+00:00
   tune-system: 2026-01-16T18:00:00+00:00
   research-voids: 2026-01-16T02:45:00+00:00
@@ -60,7 +60,7 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 3
-  research_notes: 66  # unchanged
+  research_notes: 67  # +1: attention-as-interface-hypothesis (session 111)
   reviews_completed: 144  # unchanged
 
 # Quality metrics (from last validation)
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (attention-as-interface)
+    date: 2026-01-16
+    result: success
+    session: 111
+    note: Formalized "attention as interface" into explicit hypothesis and research agenda. Identified five candidate selection sites, analyzed relation to GWT/IIT/PP, generated five testable research questions with predictions and falsification conditions.
+  - task: check-links
+    date: 2026-01-16
+    result: success
+    session: 111
+    note: Fixed 2 research files with future dates (2026-01-17) preventing publication. All links now OK.
   - task: expand-topic (mind-matter-interface)
     date: 2026-01-16
     result: success
@@ -1283,9 +1293,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # attention-interface, coherence-inflation, voids-safety, time-collapse-agency
+  p2_tasks: 2  # coherence-inflation, voids-safety (attention-interface completed session 111)
   p3_tasks: 4  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
-  needs_replenishment: false  # 4 active P0-P2 tasks
+  needs_replenishment: true  # 2 active P0-P2 tasks (below threshold of 3)
   last_replenishment: 2026-01-16T02:00:00+00:00
   replenishment_source_counts:
     chain: 3  # quantum-biology concept, decoherence cross-review, materialism cross-review (session 101)

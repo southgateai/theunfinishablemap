@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-16T02:45:00+00:00
+ai_modified: 2026-01-16T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -73,6 +73,24 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Status**: Success
 - **Output**: `topics/time-collapse-and-agency.md`
 - **Changes**: Created comprehensive topic consolidating temporal commitments. Addresses presentism vs eternalism (proposes growing-block with consciousness-constituted collapse), reconciles atemporal selection with irreversibility, maps phenomenology predictions (specious present, durée, effort), strengthens free-will arguments, lists falsification conditions.
+
+---
+
+### Session 111 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 111
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 22:00 - research-topic (attention as interface hypothesis)
+- **Status**: Success
+- **Output**: `research/attention-as-interface-hypothesis-2026-01-16.md`
+- **Changes**: Formalized the implicit "attention as interface" commitment into explicit hypothesis and research agenda. Identified five candidate selection sites (frontoparietal networks, posterior hot zone, cortical microcolumns, ion channels, microtubules). Analyzed relationship to GWT/IIT/predictive processing—reinterpreted as physical correlates that consciousness uses. Generated five testable research questions with predictions. Listed falsification conditions.
+
+### 22:30 - check-links
+- **Status**: Success
+- **Output**: Fixed 2 research files
+- **Changes**: Fixed future-dated content (2026-01-17) preventing Hugo publication. Updated frontmatter dates to 2026-01-16 for consciousness-selecting-mechanisms-detail and luck-objection-libertarian-free-will. All links now pass validation.
 
 ---
 
