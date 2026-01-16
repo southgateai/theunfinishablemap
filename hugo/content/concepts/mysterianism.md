@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-17 00:05:00+00:00
+ai_modified: 2026-01-16 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ related_articles:
 - '[[tenets]]'
 - '[[mysterianism-cognitive-closure-2026-01-14]]'
 - '[[limits-reveal-structure]]'
+- '[[whether-real]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,6 +62,29 @@ The key inversion: what we cannot think is as informative about cognitive archit
 This transforms mysterianism from pessimism into method. If we map *where* thought systematically fails—where concepts refuse to form, where the same problems remain mysteries across cultures and centuries—we trace the shape of human cognition itself. Cognitive closure isn't just what blocks us; it's what defines us.
 
 For the site's [voids](/voids/) framework, this is crucial. Mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker). The blindspot isn't empty absence—it's structured absence, revealing architecture by silhouette.
+
+## Can We Know If the Limits Are Real?
+
+A deeper challenge to mysterianism asks whether we can determine if cognitive limits are genuine or merely apparent. The [voids article on this question](/voids/whether-real/) reveals a peculiar epistemic situation: the question itself may be undecidable from within any limited cognitive system.
+
+The problem has a self-referential structure:
+
+1. To determine if limits are real, we must use our cognitive faculties
+2. If those faculties are limited, our determination may be systematically wrong
+3. We cannot step outside our faculties to check from a neutral position
+4. Therefore the question cannot be conclusively answered from within
+
+This is not ordinary empirical uncertainty. It is structural. The tool examining its own limitations cannot establish whether those limitations are genuine or merely apparent. The inference problem is asymmetric: progress on a problem proves contingency for that problem, but lack of progress never proves permanent closure. We can never be certain we aren't being limited by an undetectable limit.
+
+Three positions emerge:
+
+**The Optimist** (Dennett): Cognitive closure remains undemonstrated. McGinn should provide an empirical example of a creature that grasps a question but cannot grasp its answer. Without such examples, "unimaginable" slides illegitimately into "impossible." Past mysteries—vitalism, atomism—dissolved when right concepts emerged.
+
+**The Pessimist** (McGinn, Chomsky): Cognitive limits follow from basic biology. Any endowment providing scope also imposes limits. "If there were no limits to human intelligence," Chomsky writes, "it would lack internal structure, and would therefore have no scope." The persistence of the hard problem across centuries is weak evidence for permanent closure.
+
+**The Suspended**: The question itself may be formally undecidable. A sufficiently deep cognitive closure would hide itself. Both verification (solving the problem) and falsification (proving permanent closure) seem blocked. This isn't agnosticism from laziness but from logical necessity.
+
+For the site's purposes, the suspended position has a virtue: recognising that we cannot determine whether limits are permanent mandates epistemic humility. If we cannot know what we cannot know, we cannot assume our current best theories are close to final truth.
 
 ## Temporary Versus Permanent
 
@@ -119,6 +143,7 @@ The site's [voids](/voids/) framework resonates with mysterian themes. McGinn's 
 ## Further Reading
 
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture (detailed treatment)
+- [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
 - [qualia](/concepts/qualia/) — The subjective properties at the heart of the mystery

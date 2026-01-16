@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T12:45:00+00:00
+ai_modified: 2026-01-16T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,19 +49,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
-### P2: Research specious present and temporal experience
-- **Type**: research-topic
-- **Notes**: The site's philosophy-of-time.md and temporal-consciousness.md reference the specious present but could develop it further. Key questions: What is the specious present exactly (James, Husserl)? How does it relate to quantum collapse timing? What are the phenomenological investigations (Varela, microphenomenology)? Would strengthen the consciousness-time connection.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
+## Completed Tasks
 
-### P2: Create concept page on attention schema theory
+### ✓ 2026-01-16: Create concept page on attention schema theory
 - **Type**: expand-topic
 - **Notes**: Graziano's attention schema theory (AST) is a major functionalist account of consciousness that the site should engage. Currently mentioned briefly in attention.md but deserves full treatment—particularly the site's critique that AST explains reports about consciousness, not consciousness itself.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
+- **Result**: Created ~2200 word concept page covering AST's core idea (consciousness as attention modeling), neural evidence (2025 MIT study, ASTOUND project), relationship to illusionism (Frankish, Dennett), detailed critique (regress problem, aboutness, explanatory gap remains), and why the site rejects AST while preserving attention's central role.
+- **Output**: `concepts/attention-schema-theory.md`
 
-## Completed Tasks
+### ✓ 2026-01-16: Research specious present and temporal experience
+- **Type**: research-topic
+- **Notes**: The site's philosophy-of-time.md and temporal-consciousness.md reference the specious present but could develop it further. Key questions: What is the specious present exactly (James, Husserl)? How does it relate to quantum collapse timing? What are the phenomenological investigations (Varela, microphenomenology)? Would strengthen the consciousness-time connection.
+- **Result**: Comprehensive research covering extensionalism vs retentionalism debate, duration estimates (100ms-3s range), Varela's neurophenomenology of time, contemplative access to temporal microstructure, and connection to quantum collapse phenomenology. Key finding: specious present may be phenomenological manifestation of consciousness's constitutive role in time.
+- **Output**: `research/specious-present-temporal-experience-2026-01-16.md`
 
 ### ✓ 2026-01-16: Cross-review mysterianism.md considering whether-real voids insights
 - **Type**: cross-review

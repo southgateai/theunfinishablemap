@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 10:45:00+00:00
+ai_modified: 2026-01-16 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[functionalism]]'
 - '[[materialism]]'
 - '[[phenomenology]]'
+- '[[cognitive-phenomenology]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -69,6 +70,16 @@ A growing movement in philosophy of mind argues that phenomenal consciousness is
 
 The key argument concerns *content determinacy*. Physical facts alone underdetermine what a representation is about. When you think about rabbits, what makes your thought *about* rabbits rather than rabbit-parts or undetached-rabbit-stages? Purely physical description cannot distinguish these contents. But phenomenology can: there's something it's like to think about rabbits, and that phenomenal character determines the content.
 
+### The Cognitive Phenomenology Connection
+
+PIT gains strength from the [cognitive phenomenology](/concepts/cognitive-phenomenology/) debate. If thinking itself has phenomenal character—not just sensory accompaniments like imagery or inner speech, but *proprietary* phenomenal quality unique to cognition—then that phenomenal character is precisely what determines intentional content.
+
+Horgan and Tienson's work on "the intentionality of phenomenology and the phenomenology of intentionality" makes this connection explicit: phenomenal consciousness is inherently intentional (directed at objects), and intentionality is inherently phenomenal (grounded in what it's like to think). The two are inseparable.
+
+Consider Galen Strawson's foreign language argument: a French speaker and English speaker hear the same French sentence with identical acoustic experiences, but only the French speaker *understands*. The phenomenal difference—what it's like to grasp the meaning versus to hear mere sounds—tracks the intentional difference. If such cognitive phenomenology exists, it provides exactly what PIT needs: phenomenal character that distinguishes thoughts with different contents.
+
+This strengthens the case against naturalized intentionality. If intentionality derives from phenomenal character, and phenomenal character resists physical reduction (the [hard problem](/topics/hard-problem-of-consciousness/)), then intentionality is doubly irreducible. The failure to naturalize aboutness isn't a temporary gap but a deep constraint on physicalist explanation.
+
 If PIT is correct, the implications are profound:
 
 **For dualism**: If intentionality requires consciousness, and consciousness is irreducible to physical processes (the [hard problem](/topics/hard-problem-of-consciousness/)), then intentionality is doubly irreducible. The aboutness of thought depends on something that physics cannot explain.
@@ -124,6 +135,7 @@ Intentionality connects to all five foundational tenets:
 ## Further Reading
 
 - [phenomenology](/concepts/phenomenology/) — The tradition that discovered and systematically investigates intentionality
+- [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Does thinking itself have phenomenal character that grounds content?
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
 - [functionalism](/arguments/functionalism/) — A view that PIT challenges

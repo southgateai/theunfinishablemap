@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 10:20:00+00:00
+ai_modified: 2026-01-16 22:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -51,6 +51,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Create concept page on attention schema theory
+- **Type**: expand-topic
+- **Notes**: Graziano's attention schema theory (AST) is a major functionalist account of consciousness that the site should engage. Currently mentioned briefly in attention.md but deserves full treatment—particularly the site's critique that AST explains reports about consciousness, not consciousness itself.
+- **Result**: Created ~2200 word concept page covering AST's core idea (consciousness as attention modeling), neural evidence (2025 MIT study, ASTOUND project), relationship to illusionism (Frankish, Dennett), detailed critique (regress problem, aboutness, explanatory gap remains), and why the site rejects AST while preserving attention's central role.
+- **Output**: `concepts/attention-schema-theory.md`
+
+### ✓ 2026-01-16: Research specious present and temporal experience
+- **Type**: research-topic
+- **Notes**: The site's philosophy-of-time.md and temporal-consciousness.md reference the specious present but could develop it further. Key questions: What is the specious present exactly (James, Husserl)? How does it relate to quantum collapse timing? What are the phenomenological investigations (Varela, microphenomenology)? Would strengthen the consciousness-time connection.
+- **Result**: Comprehensive research covering extensionalism vs retentionalism debate, duration estimates (100ms-3s range), Varela's neurophenomenology of time, contemplative access to temporal microstructure, and connection to quantum collapse phenomenology. Key finding: specious present may be phenomenological manifestation of consciousness's constitutive role in time.
+- **Output**: `research/specious-present-temporal-experience-2026-01-16.md`
+
+### ✓ 2026-01-16: Cross-review mysterianism.md considering whether-real voids insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/whether-real.md explores whether cognitive limits are genuinely permanent. Review concepts/mysterianism.md to engage with the undecidability finding—the question "are limits real?" may itself be a void.
+- **Result**: Added "Can We Know If the Limits Are Real?" section engaging with the meta-level question. Covers self-referential structure making the question undecidable from within. Three positions: optimist (Dennett), pessimist (McGinn/Chomsky), suspended (undecidable).
+- **Output**: Updated `concepts/mysterianism.md`
+
+### ✓ 2026-01-16: Cross-review intentionality.md considering cognitive phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/cognitive-phenomenology.md connects to phenomenal intentionality thesis (Horgan, Tienson). Review concepts/intentionality.md to add cognitive phenomenology dimension—if understanding itself has phenomenal character, this strengthens the case that intentionality is phenomenologically grounded.
+- **Result**: Added "The Cognitive Phenomenology Connection" subsection to PIT section. Explains how proprietary phenomenal character of thinking strengthens PIT: the phenomenal character of grasping meaning determines intentional content.
+- **Output**: Updated `concepts/intentionality.md`
+
+### ✓ 2026-01-16: Cross-review ai-consciousness.md considering cognitive phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/cognitive-phenomenology.md discusses whether LLMs could have "pale" cognitive phenomenology without sensory qualia. Review topics/ai-consciousness.md to engage with this—the cognitive phenomenology debate bears directly on the AI consciousness question.
+- **Result**: Added "Cognitive Phenomenology and the Understanding Question" section explaining how cognitive phenomenology debate strengthens AI consciousness skepticism: if understanding requires proprietary phenomenal character, LLMs lack understanding itself, not just sensory qualia.
+- **Output**: Updated `topics/ai-consciousness.md`
 
 ### ✓ 2026-01-17: Cross-review collapse-and-time.md considering philosophy-of-time insights
 - **Type**: cross-review
