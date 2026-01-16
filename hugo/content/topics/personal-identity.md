@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-16 00:00:00+00:00
+ai_modified: 2026-01-17 13:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,8 @@ concepts:
 - '[[split-brain-consciousness]]'
 - '[[self-and-consciousness]]'
 - '[[many-worlds]]'
+- '[[parfit-reductionism]]'
+- '[[haecceity]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 draft: false
@@ -70,7 +72,7 @@ Derek Parfit's work transformed the debate. He argued that personal identity isn
 
 His thought experiments make the point vivid. Imagine teletransportation: your body is scanned, destroyed, and recreated from new matter on Mars. The resulting person has all your memories, beliefs, and intentions. Is that person you? Parfit says: the question may have no determinate answer, and it doesn't matter. What matters—psychological continuity—is preserved.
 
-On Parfit's "reductionist" view, personal identity consists in nothing over and above bodily and psychological continuity. There's no separate entity—a soul, an ego—that persists; there's just the continued existence of a brain, body, and interrelated mental events. Persons exist, but their existence is not a further fact beyond these components.
+On [Parfit's "reductionist" view](/concepts/parfit-reductionism/), personal identity consists in nothing over and above bodily and psychological continuity. There's no separate entity—a soul, an ego—that persists; there's just the continued existence of a brain, body, and interrelated mental events. Persons exist, but their existence is not a further fact beyond these components. The dedicated [parfit-reductionism](/concepts/parfit-reductionism/) article develops the site's critique in detail.
 
 ## Why This Site Disagrees
 
@@ -174,6 +176,7 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 
 ## Further Reading
 
+- [parfit-reductionism](/concepts/parfit-reductionism/) — The site's detailed critique of Parfit's view
 - [many-worlds](/arguments/many-worlds/) — Why the site rejects many-worlds (the indexical problem is central)
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division

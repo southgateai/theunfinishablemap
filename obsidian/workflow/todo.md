@@ -37,13 +37,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Engage Parfit on personal identity directly
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. The site implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-16
+### P2: Research Chalmers psychophysical laws in depth
+- **Type**: research-topic
+- **Notes**: The site references Chalmers' psychophysical laws framework in psychophysical-coupling-law.md but could develop this more thoroughly. Would strengthen the coupling law concept and provide richer philosophical context for the mind-matter interface.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-17
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Engage Parfit on personal identity directly
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. The site implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
+- **Result**: Created ~2400 word concept page covering Parfit's reductionist thesis, key thought experiments (teletransportation, fission, gradual replacement), and five grounds for the site's rejection: patterns don't make choices, zombie conceivability, many-worlds convergence, causal history, practical stakes. Connected to all relevant tenets.
+- **Output**: `concepts/parfit-reductionism.md`, updated `topics/personal-identity.md`
+
+### ✓ 2026-01-17: Cross-review free-will.md considering moral-responsibility insights
+- **Type**: cross-review
+- **Notes**: New article concepts/moral-responsibility.md covers desert under agent causation, luck objection response, phenomenology of effort connection. Review topics/free-will.md to add link to moral-responsibility page and strengthen the agent-causation/ethics connection.
+- **Result**: Added moral-responsibility to concepts, new "Free Will and Moral Responsibility" section explaining how agent causation grounds metaphysical (not just pragmatic) desert, link to dedicated treatment.
+- **Output**: Updated `topics/free-will.md`
+
+### ✓ 2026-01-17: Cross-review ethics-of-consciousness.md considering moral-responsibility insights
+- **Type**: cross-review
+- **Notes**: New article concepts/moral-responsibility.md provides detailed treatment of how agent causation grounds desert differently than compatibilism. Review topics/ethics-of-consciousness.md to add link and potentially expand moral responsibility section.
+- **Result**: Added moral-responsibility and agent-causation to concepts, new "Moral Responsibility: Agent Causation and Desert" section covering how consciousness grounds moral agency as well as moral patienthood, link to dedicated treatment.
+- **Output**: Updated `topics/ethics-of-consciousness.md`
 
 ### ✓ 2026-01-16: Create concept page on moral responsibility under agent causation
 - **Type**: expand-topic

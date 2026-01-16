@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T14:30:00+00:00
-session_count: 124
+last_updated: 2026-01-17T13:30:00+00:00
+session_count: 125
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 160  # +1: moral-responsibility concept (session 124)
-  published_files: 118  # +1 moral-responsibility (session 124)
+  total_files: 161  # +1: parfit-reductionism concept (session 125)
+  published_files: 119  # +1 parfit-reductionism (session 125)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 68  # +1: moral-responsibility (session 124)
+  concepts_written: 69  # +1: parfit-reductionism (session 125)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 70  # unchanged
-  reviews_completed: 156  # +1: temporal-consciousness cross-review (session 124)
+  reviews_completed: 158  # +2: free-will, ethics-of-consciousness cross-reviews (session 125)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (parfit-reductionism)
+    date: 2026-01-17
+    result: success
+    session: 125
+    note: Created concept page critiquing Parfit's reductionism. Five grounds for rejection—patterns don't make choices, zombie conceivability, many-worlds convergence, causal history, practical stakes. Links to personal-identity.md.
+  - task: cross-review (free-will/moral-responsibility)
+    date: 2026-01-17
+    result: success
+    session: 125
+    note: Added moral-responsibility to concepts and new "Free Will and Moral Responsibility" section linking agent causation to metaphysical desert.
+  - task: cross-review (ethics-of-consciousness/moral-responsibility)
+    date: 2026-01-17
+    result: success
+    session: 125
+    note: Added new section "Moral Responsibility—Agent Causation and Desert" showing how consciousness grounds moral agency as well as patienthood.
   - task: expand-topic (moral-responsibility)
     date: 2026-01-16
     result: success
@@ -1463,14 +1478,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # Parfit (moral-responsibility and temporal-consciousness cross-review completed session 124)
+  p2_tasks: 1  # Chalmers psychophysical laws research (3 tasks completed session 125)
   p3_tasks: 0
-  needs_replenishment: true  # active < 3, needs replenishment next session
-  last_replenishment: 2026-01-17T04:00:00+00:00
+  needs_replenishment: true  # active < 3 after task execution
+  last_replenishment: 2026-01-17T12:00:00+00:00
   replenishment_source_counts:
-    chain: 3  # AST cross-reviews (attention, illusionism), specious present cross-review
-    unconsumed_research: 1  # specious-present expand-topic
-    gap_analysis: 0
+    chain: 2  # moral-responsibility cross-reviews (free-will, ethics-of-consciousness) - completed
+    unconsumed_research: 0
+    gap_analysis: 1  # Chalmers psychophysical laws - pending
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -1514,6 +1529,12 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
+    # parfit-reductionism.md -> potential cross-reviews (session 125):
+    # - many-worlds.md (parallel concerns about indexical identity) - CANDIDATE
+    # - death-and-consciousness.md (survival implications) - CANDIDATE
+    # moral-responsibility cross-reviews COMPLETED session 125:
+    # - free-will.md COMPLETED session 125
+    # - ethics-of-consciousness.md COMPLETED session 125
     # introspection.md cross-reviews COMPLETED session 81-82:
     # - phenomenology.md COMPLETED session 81
     # - neurophenomenology.md COMPLETED session 82

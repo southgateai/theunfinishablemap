@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 15:30:00+00:00
+ai_modified: 2026-01-17 12:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,8 @@ concepts:
 - '[[personal-identity]]'
 - '[[qualia]]'
 - '[[phenomenal-concepts-strategy]]'
+- '[[moral-responsibility]]'
+- '[[agent-causation]]'
 created: 2026-01-16
 date: &id001 2026-01-16
 draft: false
@@ -43,6 +45,21 @@ Several philosophical traditions converge on consciousness as the foundation of 
 **Rights-based approaches**: Tom Regan's animal rights position holds that "subjects of a life"—beings with beliefs, desires, perception, memory, sense of future—have inherent value. Being a subject of a life requires consciousness.
 
 The convergence is striking: traditions disagreeing about almost everything else agree that consciousness matters morally. The site's [dualism](/tenets/#dualism) strengthens this: if consciousness is irreducible to physical processes—if there's genuinely "something it is like" to be conscious—then that something grounds moral significance in a way physicalism struggles to explain.
+
+## Moral Responsibility: Agent Causation and Desert
+
+Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). The site's framework provides distinctive grounding for both.
+
+If agents genuinely originate their choices through [agent causation](/concepts/agent-causation/)—exercising irreducible causal power rather than being links in deterministic chains—then [moral responsibility](/concepts/moral-responsibility/) has metaphysical backing. Desert becomes more than a useful social fiction: the wrongdoer who exercised causal power to harm when kindness was available genuinely deserves blame. This differs from compatibilist desert, which treats responsibility as pragmatically useful regardless of whether anyone "really" deserves anything.
+
+The connection to consciousness is direct. Agent causation requires a conscious agent—a subject who experiences alternatives, exercises effort, and knows what they're doing. The [phenomenology of effort](/concepts/mental-effort/) supports this: choosing feels effortful because the agent is genuinely engaged in causing the outcome. Without consciousness, there's no agent to bear responsibility; with it, responsibility tracks who caused what.
+
+This matters practically. If agents genuinely author their choices:
+- **Retribution becomes intelligible** (though not required)—wrongdoers deserve proportional consequences because they really did the wrong
+- **Mitigation has limits**—prior causes influenced but didn't determine, so understanding someone's history doesn't eliminate their responsibility
+- **Character responsibility makes sense**—agents shape who they become through repeated choices
+
+The detailed treatment in [moral-responsibility](/concepts/moral-responsibility/) covers how agent causation grounds desert differently than compatibilism, the luck objection and its resolution, and practical implications for criminal justice and moral education.
 
 ## Moral Patienthood: Who Counts?
 
@@ -292,6 +309,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for and implications of animal experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why current AI systems likely lack consciousness
 - [personal-identity](/topics/personal-identity/) — Why copies aren't continuations
+- [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — AI alignment under consciousness constraints
 - [meaning-of-life](/topics/meaning-of-life/) — Why consciousness grounds value
 - [qualia](/concepts/qualia/) — The felt quality that creates moral significance

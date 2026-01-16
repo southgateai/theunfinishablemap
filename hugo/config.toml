@@ -7,7 +7,7 @@ contentDir = "content"
 
 # Build settings
 buildDrafts = false
-buildFuture = false
+buildFuture = true
 
 # Disable default taxonomies (using regular sections instead)
 [taxonomies]

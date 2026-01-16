@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-17 00:30:00+00:00
+ai_modified: 2026-01-17 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[illusionism]]'
 - '[[mental-causation]]'
 - '[[causal-closure]]'
+- '[[moral-responsibility]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -204,6 +205,12 @@ But if this site is right—if you are an unrepeatable conscious being with a un
 
 The connection runs both ways. Free will requires persistent identity: there must be a *you* across time for choices to belong to. And persistent identity, on this framework, is partly constituted by the causal history of choices: *you* are the consciousness that made *those* selections.
 
+### Free Will and Moral Responsibility
+
+If agents genuinely author their choices through agent causation, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding. Desert becomes more than a useful social fiction—it tracks something real about who caused what. The wrongdoer who exercised causal power to harm when they could have chosen differently genuinely deserves blame; the benefactor who selected kindness genuinely deserves praise.
+
+This matters practically. Compatibilist desert is ultimately pragmatic—holding people responsible has good consequences regardless of metaphysical facts. Agent-causal desert is metaphysical—people deserve what they deserve because they really did what they did. The dedicated [moral-responsibility](/concepts/moral-responsibility/) treatment develops this distinction in detail, covering how agent causation grounds desert differently than compatibilism, why retribution becomes intelligible (though not required), and why mitigation has limits even when causal history is understood.
+
 ## What Would Challenge This Framework?
 
 A framework that explains too much risks explaining nothing. What findings would challenge the site's picture?
@@ -230,6 +237,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 - [mental-causation](/concepts/mental-causation/) — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation and why this site's framework is agent-causal
+- [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert differently than compatibilism
 - [libet-experiments](/concepts/libet-experiments/) — The Libet experiments in detail: original findings, critiques, and the retrocausal resolution
 - [duration](/concepts/duration/) — Bergson's durée and how creative time enables agency
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The philosophical framework grounding this view
