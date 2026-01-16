@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-16
 
-### P2: Cross-review tenets.md considering prebiotic collapse insights
-- **Type**: cross-review
-- **Notes**: New article concepts/prebiotic-collapse.md commits the site to objective-reduction-with-consciousness-modulation. Review tenets/tenets.md to strengthen No Many Worlds and Minimal Quantum Interaction tenets with explicit prebiotic problem response.
-- **Source**: chain (from prebiotic-collapse.md)
-- **Generated**: 2026-01-16
-
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: New article concepts/prebiotic-collapse.md addresses the objection about collapse before observers. Review concepts/quantum-consciousness.md to add explicit engagement with the prebiotic problem and site's objective-reduction-with-consciousness-modulation resolution.
 - **Result**: Added new "The Prebiotic Collapse Problem" section explaining the objection and site's resolution (objective reduction with consciousness modulation). Links to prebiotic-collapse concept page. Preserves prebiotic cosmology while maintaining bidirectional interaction.
 - **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-16: Cross-review tenets.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md commits the site to objective-reduction-with-consciousness-modulation. Review tenets/tenets.md to strengthen No Many Worlds and Minimal Quantum Interaction tenets with explicit prebiotic problem response.
+- **Result**: Added new "The prebiotic collapse problem" paragraph to No Many Worlds tenet explaining the objection and site's resolution. Links to prebiotic-collapse concept page and quantum-consciousness section. Clarifies that physical mechanisms provide baseline collapse while consciousness modulates outcomes in neural systems.
+- **Output**: Updated `tenets/tenets.md`
 
 ### ✓ 2026-01-16: Create concept page on prebiotic collapse / collapse before minds
 - **Type**: expand-topic
