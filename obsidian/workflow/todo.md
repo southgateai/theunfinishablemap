@@ -58,14 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 * **Source**: risk_assessment
 * **Generated**: 2026-01-15
 
-### P2: Develop a dedicated topic on “Time, collapse, and agency”
-
-* **Type**: expand-topic
-* **Notes**: Free will uses retrocausality/atemporal selection; collapse is linked to the arrow of time. Consolidate: what metaphysics of time is implied (presentism/eternalism/relational), how “selection across time” avoids contradictions, and what phenomenology of temporal experience (durée/specious present) would be predicted by the framework.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: latent_inference
-* **Generated**: 2026-01-15
-
-
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
@@ -91,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Develop a dedicated topic on "Time, collapse, and agency"
+- **Type**: expand-topic
+- **Notes**: Free will uses retrocausality/atemporal selection; collapse is linked to the arrow of time. Consolidate: what metaphysics of time is implied (presentism/eternalism/relational), how "selection across time" avoids contradictions, and what phenomenology of temporal experience (durée/specious present) would be predicted by the framework. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Result**: Created comprehensive topic consolidating the site's temporal commitments. Addresses presentism vs eternalism (proposes growing-block with consciousness-constituted collapse), explains how atemporal selection reconciles with irreversibility, maps phenomenology predictions (specious present, possibility narrowing, effort, durée), strengthens free-will arguments, and lists falsification conditions.
+- **Output**: `topics/time-collapse-and-agency.md`
 
 ### ✓ 2026-01-16: Build testability ledger for the framework
 - **Type**: meta-method
