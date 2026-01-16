@@ -11,12 +11,12 @@ concepts:
 - '[[duration]]'
 - '[[quantum-consciousness]]'
 created: 2026-01-16
-date: 2026-01-16
+date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-modified: 2026-01-16
+modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[time-collapse-and-agency]]'

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T03:45:00+00:00
-session_count: 119
+last_updated: 2026-01-17T10:20:00+00:00
+session_count: 120
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 155  # +1: cognitive-phenomenology (session 119)
-  published_files: 114  # +1 cognitive-phenomenology (session 119)
+  total_files: 156  # +1: whether-real voids (session 120)
+  published_files: 115  # +1 whether-real voids (session 120)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 65  # +1: cognitive-phenomenology (session 119)
+  concepts_written: 65  # unchanged
   arguments_written: 5  # unchanged
   questions_written: 1
-  voids_written: 4  # unchanged
+  voids_written: 5  # +1: whether-real (session 120)
   research_notes: 69  # unchanged
-  reviews_completed: 149  # +2: temporal-consciousness, retrocausality cross-reviews (session 119)
+  reviews_completed: 150  # +1: collapse-and-time cross-review (session 120)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (whether-real voids)
+    date: 2026-01-17
+    result: success
+    session: 120
+    note: Created voids article on whether cognitive limits are real. Key finding—the question may be formally undecidable from within, which is itself informative about cognitive architecture. Covers optimist/pessimist/suspended positions.
+  - task: cross-review (collapse-and-time/philosophy-of-time)
+    date: 2026-01-17
+    result: success
+    session: 120
+    note: Added "Collapse and the Philosophy of Time" section connecting collapse to McTaggart's A/B-series. Collapse realism supports A-theory; decoherence supports B-theory. Site proposes modified growing block.
   - task: expand-topic (cognitive-phenomenology)
     date: 2026-01-17
     result: success
@@ -1403,9 +1413,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # moral responsibility, Parfit, collapse-and-time cross-review, voids whether-real
+  p2_tasks: 2  # moral responsibility, Parfit (collapse-and-time & whether-real completed session 120)
   p3_tasks: 0
-  needs_replenishment: false  # replenished session 119; 3 tasks completed
+  needs_replenishment: true  # dropped below 3 active tasks
   last_replenishment: 2026-01-17T03:00:00+00:00
   replenishment_source_counts:
     chain: 4  # cognitive-phenomenology expand, 3x philosophy-of-time cross-reviews

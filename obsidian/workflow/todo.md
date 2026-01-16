@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T03:45:00+00:00
+ai_modified: 2026-01-17T10:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,19 +49,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
-### P2: Create voids article on whether cognitive limits are real
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-whether-real-2026-01-17.md. Key meta-level question: are cognitive limits genuine (structural) or merely current ignorance? Finding—the question may be formally undecidable from within, which is itself informative about cognitive architecture. Connects to mysterianism and limits-reveal-structure.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-17
+## Completed Tasks
 
-### P2: Cross-review collapse-and-time.md considering philosophy-of-time insights
+### ✓ 2026-01-17: Cross-review collapse-and-time.md considering philosophy-of-time insights
 - **Type**: cross-review
 - **Notes**: New article concepts/philosophy-of-time.md provides systematic framework for time ontology. Review concepts/collapse-and-time.md to add references to A-theory/B-theory distinction and how site's position relates to standard positions in philosophy of time.
-- **Source**: chain (from philosophy-of-time.md)
-- **Generated**: 2026-01-17
+- **Result**: Added new "Collapse and the Philosophy of Time" section connecting collapse interpretations to McTaggart's A-series/B-series, explaining how collapse realism supports A-theory while decoherence supports B-theory, and the site's modified growing block proposal.
+- **Output**: Updated `concepts/collapse-and-time.md`
 
-## Completed Tasks
+### ✓ 2026-01-17: Create voids article on whether cognitive limits are real
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-whether-real-2026-01-17.md. Key meta-level question: are cognitive limits genuine (structural) or merely current ignorance? Finding—the question may be formally undecidable from within, which is itself informative about cognitive architecture. Connects to mysterianism and limits-reveal-structure.
+- **Result**: Created ~1900 word voids article exploring the meta-level question of whether cognitive limits are permanent or contingent. Covers optimist (Dennett), pessimist (McGinn/Chomsky), and suspended positions. Key finding: the question may be formally undecidable from within, which is itself informative about cognitive architecture.
+- **Output**: `voids/whether-real.md`
 
 ### ✓ 2026-01-17: Create concept page on cognitive phenomenology
 - **Type**: expand-topic

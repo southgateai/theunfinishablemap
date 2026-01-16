@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 14:30:00+00:00
+ai_modified: 2026-01-17 10:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[retrocausality]]'
 - '[[measurement-problem]]'
 - '[[decoherence]]'
+- '[[philosophy-of-time]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -62,6 +63,20 @@ In these views, "collapse" isn't a moment when superposition ends. It's the sati
 
 For consciousness, this is revelatory. If [retrocausal](/concepts/retrocausality/) influence is real, consciousness's role in collapse needn't be temporally located. Consciousness might select *which transaction completes*, operating atemporally to determine which correlations hold between past preparation and future measurement. The flow of time would emerge from the pattern of such selections, not precede them.
 
+## Collapse and the Philosophy of Time
+
+The debate over collapse maps onto traditional [philosophy of time](/concepts/philosophy-of-time/) positions in illuminating ways. McTaggart distinguished the A-series (past/present/future as genuinely different) from the B-series (merely earlier-than/later-than relations). A-theorists hold that temporal becoming is real; B-theorists reduce tense to indexical perspective within an eternally existing block.
+
+**Collapse realism supports A-theory.** If collapse is genuine—not decoherence or branching—then something categorically changes when superposition becomes outcome. The world before collapse (open, superposed) differs objectively from the world after (definite, decided). This is temporal becoming in the metaphysically robust sense that A-theorists defend.
+
+**Decoherence supports B-theory.** If apparent collapse is really entanglement spreading through the block, nothing fundamentally changes at measurement. The block exists tenselessly; our inability to access macroscopic superpositions is practical limitation, not ontological transition. "Collapse" is how the B-series looks from embedded perspective.
+
+**Time-symmetric interpretations complicate both.** If transactions are constrained by future and past boundaries jointly, simple presentism fails (future must exist to provide constraints), but so does simple eternalism (the transaction "completing" implies something about temporal becoming). The TSVF framework suggests that what fundamentally exists might be the pattern of correlations, with both A-series and B-series as partial perspectives.
+
+The site's framework proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" of the block *is* collapse—the resolution of quantum superposition into definite history. Consciousness participates in this growth through its role in collapse. The present is where superpositions resolve; the past is accumulated collapsed structure; the future awaits selection.
+
+This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within.
+
 ## What Un-Collapse Reveals
 
 A thought experiment sharpens the issues: what would it mean to reverse a collapse?
@@ -98,6 +113,7 @@ The connection between collapse and time strengthens multiple tenets:
 
 ## Further Reading
 
+- [philosophy-of-time](/concepts/philosophy-of-time/) - McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [retrocausality](/concepts/retrocausality/) - How time-symmetric physics grounds backward causation
 - [measurement-problem](/concepts/measurement-problem/) - Why collapse remains unexplained
 - [quantum-consciousness](/concepts/quantum-consciousness/) - Mechanisms for consciousness-collapse interaction

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-17 01:30:00+00:00
+ai_modified: 2026-01-17 10:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -21,6 +21,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[self-reference-paradox]]'
 - '[[limits-reveal-structure]]'
+- '[[whether-real]]'
 - '[[mysterianism]]'
 title: Voids in the Map
 topics: []
@@ -113,7 +114,7 @@ This section will explore:
 
 **[The self-reference paradox](/voids/self-reference-paradox/)**: Consciousness trying to understand itself faces structural obstacles—the eye that cannot see itself, the calibration problem, the dissolving insight. This may be the deepest void: territory the mapper cannot map because it *is* the mapper.
 
-**Whether the voids are real**: Perhaps what seems unthinkable is merely unthought. Perhaps what feels occluded is merely difficult. The distinction between unexplored, unexplorable, and occluded is itself a question we must explore.
+**[Whether the voids are real](/voids/whether-real/)**: Perhaps what seems unthinkable is merely unthought. Perhaps what feels occluded is merely difficult. The question of whether cognitive limits are genuine or merely current ignorance may itself be formally undecidable from within—which tells us something about what kind of minds we are.
 
 ## A Note on Intellectual Honesty
 
