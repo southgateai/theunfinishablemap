@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-16
 
-### P2: Cross-review quantum-consciousness.md considering prebiotic collapse insights
-- **Type**: cross-review
-- **Notes**: New article concepts/prebiotic-collapse.md addresses the objection about collapse before observers. Review concepts/quantum-consciousness.md to add explicit engagement with the prebiotic problem and site's objective-reduction-with-consciousness-modulation resolution.
-- **Source**: chain (from prebiotic-collapse.md)
-- **Generated**: 2026-01-16
-
 ### P2: Cross-review tenets.md considering prebiotic collapse insights
 - **Type**: cross-review
 - **Notes**: New article concepts/prebiotic-collapse.md commits the site to objective-reduction-with-consciousness-modulation. Review tenets/tenets.md to strengthen No Many Worlds and Minimal Quantum Interaction tenets with explicit prebiotic problem response.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Dualism opens far more possibilities than materialism allows. Examples: (1) whatever "runs" consciousness might one day rebel or reject what we do (e.g., keeping brains alive in jars); (2) the non-physical realm could have its own complex dynamics we're unaware of. Materialists risk stumbling into these problems while denying their existence. Dualism brings the most open mind. Tie to the No Occam's Razor tenet—allowing the mind realm to be arbitrarily complex widens our epistemic possibilities rather than prematurely closing them. Frame as: why epistemically humble positions favour taking dualism seriously, even if unproven.
 - **Result**: Created ~2000 word topic article arguing that dualism is the epistemically humble stance. Covers: materialism's closing moves (foreclosing possibilities by assumption), what dualism opens (complex mental reality, risks materialists cannot see, scenarios excluded a priori), and the argument from epistemic humility (asymmetric costs of being wrong). Connected to all five tenets with Occam's Razor Has Limits as central.
 - **Output**: `topics/epistemic-advantages-of-dualism.md`
+
+### ✓ 2026-01-16: Cross-review quantum-consciousness.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md addresses the objection about collapse before observers. Review concepts/quantum-consciousness.md to add explicit engagement with the prebiotic problem and site's objective-reduction-with-consciousness-modulation resolution.
+- **Result**: Added new "The Prebiotic Collapse Problem" section explaining the objection and site's resolution (objective reduction with consciousness modulation). Links to prebiotic-collapse concept page. Preserves prebiotic cosmology while maintaining bidirectional interaction.
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-16: Create concept page on prebiotic collapse / collapse before minds
 - **Type**: expand-topic
