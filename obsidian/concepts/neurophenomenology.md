@@ -3,7 +3,7 @@ title: "Neurophenomenology and Contemplative Science"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T20:30:00+00:00
+ai_modified: 2026-01-16T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[qualia]]"
   - "[[temporal-consciousness]]"
   - "[[duration]]"
+  - "[[specious-present]]"
   - "[[mysterianism]]"
   - "[[introspection]]"
 related_articles:
@@ -50,7 +51,11 @@ Contemplative traditions have systematically investigated consciousness for mill
 
 What meditation reveals about consciousness:
 
-**Temporal microstructure**: Long-term meditators report access to the "specious present"—Husserl's retention-primal impression-protention structure—at fine temporal scales. Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them.
+**Temporal microstructure**: Long-term meditators report access to the [[specious-present|specious present]]—the experienced duration of "now" ranging from roughly 100 milliseconds to 3 seconds. Husserl's retention-primal impression-protention structure provides the phenomenological framework; Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them.
+
+The specious present debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) concerns whether experience is genuinely temporally extended or consists of instantaneous moments with past-directed intentional content. The site adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. This explains both the extended phenomenology and the retention-like structure—the echoing of the past in the present may reflect retrocausal boundary conditions in the collapse process. Contemplative access to *khanika* may be access to collapse-constituted duration-blocks at fine temporal resolution.
+
+Neural correlates support the phenomenological findings: gamma-range synchronies (30-70 Hz) during perceptual tasks may implement temporal binding, with the ~25-35ms gamma cycle corresponding roughly to the lower bound of perceptual simultaneity. The correspondence between phenomenologically disclosed temporal structure and these neural dynamics exemplifies exactly the mutual constraint Varela envisioned.
 
 **The constructed self**: Advanced meditation reveals the self as dynamic process rather than fixed entity. Moments of "selfless" awareness occur where the usual subject-object structure dissolves. This is phenomenological data about personal identity's construction, invisible to third-person methods.
 
@@ -151,6 +156,7 @@ Neurophenomenology and contemplative science support the site's framework:
 - [[introspection]] — The reliability debate and process/content distinction
 - [[phenomenology]] — The philosophical tradition grounding neurophenomenology
 - [[temporal-consciousness]] — How contemplative observation reveals time's structure
+- [[specious-present]] — The experienced duration of "now" and the extensionalism debate
 - [[duration]] — Bergson's analysis of lived time, convergent with contemplative reports
 - [[qualia]] — The qualitative features that contemplative training discloses
 - [[eastern-philosophy-consciousness]] — The contemplative traditions informing this research
