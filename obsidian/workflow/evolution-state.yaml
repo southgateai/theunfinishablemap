@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T22:45:00+00:00
-session_count: 106
+last_updated: 2026-01-17T01:00:00+00:00
+session_count: 107
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 136  # +1 concept (quantum-biology), +1 research (alignment-objective) (session 106)
-  published_files: 99  # +1: quantum-biology.md
+  total_files: 138  # +2 research (luck-objection, consciousness-selecting-mechanisms) (session 107)
+  published_files: 99  # unchanged
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 11  # unchanged
-  concepts_written: 56  # +1: quantum-biology.md (session 106)
+  concepts_written: 56  # unchanged (session 107)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 3
-  research_notes: 63  # +1: alignment-objective-experiential-terms (session 106)
-  reviews_completed: 142  # unchanged
+  research_notes: 65  # +2: luck-objection, consciousness-selecting-mechanisms (session 107)
+  reviews_completed: 143  # +1: decoherence cross-review (session 107)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (decoherence/quantum-biology)
+    date: 2026-01-17
+    result: success
+    session: 107
+    note: Enhanced quantum biology sections in decoherence.md—microsecond coherence for avian magnetoreception, Jan 2026 Princeton JACS, enzyme tunneling 10^12-10^17 acceleration, kinetic isotope evidence. Added quantum-biology to related_articles.
+  - task: research-topic (luck-objection)
+    date: 2026-01-17
+    result: success
+    session: 107
+    note: Van Inwagen rollback argument, Mele present/remote luck, Kane SFAs, agent-causal responses. Key contribution—site's quantum selection is reasons-guided not random; phenomenology of effort distinguishes selection from luck.
+  - task: research-topic (consciousness-selecting-mechanisms)
+    date: 2026-01-17
+    result: success
+    session: 107
+    note: Candidate selection sites (microtubules, QBIT spintronic, ion channels, microcolumns, attention networks). Bandwidth ~10 bits/sec implies coarse-grained policy selection. Stapp Zeno mechanism. Ensemble vs single-site. Brain specialness.
   - task: research-topic (alignment-objective-experiential)
     date: 2026-01-16
     result: success
@@ -1237,9 +1252,9 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0  # alignment-objective completed session 106
-  p2_tasks: 9  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, etc. (-1: quantum-biology completed)
-  p3_tasks: 6  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
+  p1_tasks: 0
+  p2_tasks: 9  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, QM interpretations, attention-interface, coherence-inflation, voids-safety, time-collapse-agency, consciousness-selecting-concept, split-brain deep-review
+  p3_tasks: 4  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
   needs_replenishment: false  # 9 active P0-P2 tasks
   last_replenishment: 2026-01-16T02:00:00+00:00
   replenishment_source_counts:

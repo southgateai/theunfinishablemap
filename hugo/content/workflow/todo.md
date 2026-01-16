@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 22:45:00+00:00
+ai_modified: 2026-01-17 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -94,24 +94,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 * **Source**: latent_inference
 * **Generated**: 2026-01-15
 
-### P2: Research consciousness-selecting mechanisms in detail
-- **Type**: research-topic
-- **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P2 task for consciousness-selecting-neural-patterns concept page.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
-### P2: Research the luck objection to libertarian free will
-- **Type**: research-topic
-- **Notes**: The luck objection (van Inwagen, Mele) argues that indeterminism makes actions random rather than free. Kane's response appeals to self-forming actions; agent-causation theorists appeal to substance causation. How does the site's quantum selection framework address this? Is consciousness-directed selection different from mere randomness? Would strengthen free-will.md and agent-causation.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
-### P2: Cross-review decoherence.md with quantum biology research
-- **Type**: cross-review
-- **Notes**: New research in quantum-biology-consciousness-2026-01-16.md provides biological examples of quantum coherence (avian magnetoreception microseconds, enzyme tunneling). Review concepts/decoherence.md to add these biological examples as evidence that decoherence isn't always rapid.
-- **Source**: chain
-- **Generated**: 2026-01-16
-
 ### P2: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -149,6 +131,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review decoherence.md with quantum biology research
+- **Type**: cross-review
+- **Notes**: New research in quantum-biology-consciousness-2026-01-16.md provides biological examples of quantum coherence (avian magnetoreception microseconds, enzyme tunneling). Review concepts/decoherence.md to add these biological examples as evidence that decoherence isn't always rapid.
+- **Result**: Enhanced quantum biology sections in decoherence.md. Added microsecond coherence times for avian magnetoreception (million times longer than typical molecular decoherence), Jan 2026 Princeton JACS confirmation, specific enzyme tunneling acceleration factors (10^12-10^17), kinetic isotope evidence. Added quantum-biology to related_articles and Further Reading.
+- **Output**: Updated `concepts/decoherence.md`
+
+### ✓ 2026-01-17: Research the luck objection to libertarian free will
+- **Type**: research-topic
+- **Notes**: The luck objection (van Inwagen, Mele) argues that indeterminism makes actions random rather than free. Kane's response appeals to self-forming actions; agent-causation theorists appeal to substance causation. How does the site's quantum selection framework address this? Is consciousness-directed selection different from mere randomness? Would strengthen free-will.md and agent-causation.md.
+- **Result**: Comprehensive research covering van Inwagen's rollback argument, Mele's present/remote luck distinction, Kane's SFAs and dual efforts response, agent-causal responses (O'Connor, Lowe, Chisholm). Key contribution: how site's quantum selection framework addresses the objection—reasons-guided selection is distinct from mere randomness; phenomenology of effort distinguishes selection from luck.
+- **Output**: `research/luck-objection-libertarian-free-will-2026-01-17.md`
+
+### ✓ 2026-01-17: Research consciousness-selecting mechanisms in detail
+- **Type**: research-topic
+- **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P2 task for consciousness-selecting-neural-patterns concept page.
+- **Result**: Comprehensive research covering candidate selection sites (microtubules/Orch OR, spintronic coherence/QBIT, ion channels, cortical microcolumns, attention networks), 2025 experimental support, bandwidth constraints (~10 bits/second implies coarse-grained policy-level selection), how attention maps to quantum systems via Stapp's Zeno mechanism, ensemble vs single-site selection, brain specialness boundary.
+- **Output**: `research/consciousness-selecting-mechanisms-detail-2026-01-17.md`
 
 ### ✓ 2026-01-16: Propose alignment objective framed in experiential terms
 - **Type**: research-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 06:05:00+00:00
+ai_modified: 2026-01-17 00:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
+- '[[quantum-biology]]'
 title: Decoherence and Quantum Biology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -74,11 +75,17 @@ Subsequent research has debated how long this coherence persists and whether it'
 
 Birds navigate using Earth's magnetic field through a mechanism involving cryptochrome proteins in their eyes. The leading explanation involves quantum entanglement between electron spins in radical pairs. Magnetic fields affect the spin dynamics, which affects chemical yields, which the bird can somehow perceive.
 
-This too is quantum mechanics operating in warm biology—not despite the environment, but through mechanisms evolved to exploit quantum effects.
+The coherence times here are striking: spin coherence in the radical pair mechanism persists for *microseconds*—a million times longer than typical molecular decoherence in solution. In January 2026, Princeton researchers published computational confirmation in JACS, identifying the electron transfer pathway (over 18 angstroms) and showing how protein reorganisation stabilises the radical pair for magnetic sensing.
+
+This is warm, wet biology maintaining quantum coherence on functionally relevant timescales—not despite the environment, but through mechanisms evolution has optimised to exploit quantum effects.
 
 ### Enzyme Catalysis
 
-Enzymes accelerate chemical reactions by factors of millions or billions. Quantum tunnelling—where particles pass through energy barriers they classically couldn't surmount—appears to play a role in some enzymatic mechanisms. Biology didn't evolve to avoid quantum effects; it evolved to use them.
+Enzymes accelerate chemical reactions by factors of 10¹² to 10¹⁷—far beyond what classical transition state theory can fully explain. Quantum tunnelling—where particles pass through energy barriers they classically couldn't surmount—plays a significant role.
+
+The evidence is clear in kinetic isotope effects: when hydrogen is replaced with heavier deuterium, reaction rates change more than classical mechanics predicts. Soybean lipoxygenase-1 and aromatic amine dehydrogenase show particularly large effects. The mechanism involves protons, hydrogen atoms, and electrons tunnelling through barriers rather than climbing over them. Protein dynamics create conformational ensembles that optimise these tunnelling events.
+
+Biology didn't evolve to avoid quantum effects; it evolved to harness them for a 10¹⁷-fold acceleration in reaction rates.
 
 ## Hot Schrödinger Cats
 
@@ -116,6 +123,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
+- [quantum-biology](/concepts/quantum-biology/) — Comprehensive coverage of biological quantum effects
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The broader framework
 - [tenets](/tenets/) — The site's foundational commitments
 - [decoherence-macroscopic-superposition-2026-01-14](/research/decoherence-macroscopic-superposition-2026-01-14/) — Detailed research notes
