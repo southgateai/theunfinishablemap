@@ -43,6 +43,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-17
 
+### P2: Cross-review ai-consciousness.md considering experiential alignment insights
+- **Type**: cross-review
+- **Notes**: New article concepts/experiential-alignment.md proposes alignment objective framed in experiential terms. Review topics/ai-consciousness.md to add link and consider how experiential alignment bears on the AI consciousness question—if AI lacks consciousness, experiential alignment becomes impossible to verify.
+- **Source**: chain (from experiential-alignment.md)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review ethics-of-consciousness.md considering experiential alignment insights
+- **Type**: cross-review
+- **Notes**: New article concepts/experiential-alignment.md connects phenomenal value realism to AI alignment. Review topics/ethics-of-consciousness.md to add link and strengthen the connection between consciousness ethics and alignment theory.
+- **Source**: chain (from experiential-alignment.md)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review arguments-for-dualism.md considering cognitive science research
+- **Type**: cross-review
+- **Notes**: Research in cognitive-science-dualism-2026-01-15.md covers Bloom's natural-born dualists thesis, Barrett's cross-cultural challenges, and the folk error vs cognitive naturalness debate. This bears on whether dualism is a mere cognitive bias. Review concepts/arguments-for-dualism.md to engage with this evidence.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-17
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.

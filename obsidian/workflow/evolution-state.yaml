@@ -1508,13 +1508,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # attention-interface article
+  p2_tasks: 4  # attention-interface, ai-consciousness x-review, ethics x-review, arguments-for-dualism x-review
   p3_tasks: 1  # personal-identity cross-review
-  needs_replenishment: true  # dropped below 3 after session 127 completed 3 tasks
-  last_replenishment: 2026-01-17T18:00:00+00:00
+  needs_replenishment: false  # replenished session 128
+  last_replenishment: 2026-01-17T21:00:00+00:00
   replenishment_source_counts:
-    chain: 2  # psychophysical-coupling and hard-problem cross-reviews from Chalmers research - COMPLETED session 127
-    unconsumed_research: 2  # experiential alignment (COMPLETED session 127), attention-interface (pending)
+    chain: 2  # ai-consciousness and ethics-of-consciousness cross-reviews from experiential-alignment
+    unconsumed_research: 1  # arguments-for-dualism cross-review from cognitive-science research
     gap_analysis: 0
     staleness: 0
 
