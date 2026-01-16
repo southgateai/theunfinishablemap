@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 16:30:00+00:00
+ai_modified: 2026-01-17 00:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical coupling law insights
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-law.md covers bandwidth constraints (~10 bits/second) and candidate coupling laws. Review concepts/consciousness-selecting-neural-patterns.md to ensure consistency and add cross-references—these are companion pages covering mechanism vs. law aspects.
+- **Source**: chain (from psychophysical-coupling-law.md)
+- **Generated**: 2026-01-16
+
+### P2: Cross-review arguments-for-dualism.md considering epistemic-advantages insights
+- **Type**: cross-review
+- **Notes**: New topic topics/epistemic-advantages-of-dualism.md argues dualism is the epistemically humble stance. Review concepts/arguments-for-dualism.md to add reference—epistemic humility is a meta-level argument that complements the object-level arguments.
+- **Source**: chain (from epistemic-advantages-of-dualism.md)
+- **Generated**: 2026-01-16
+
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
@@ -63,6 +75,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Cross-review mysterianism.md considering limits-reveal-structure insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/limits-reveal-structure.md covers how cognitive limits reveal cognitive architecture (Chomsky, McGinn, Nagel). Review concepts/mysterianism.md to add reference to the voids treatment and strengthen the "limits are informative" theme.
+- **Result**: Added new section "What the Limits Reveal" explaining how cognitive closure reveals cognitive architecture. Links to limits-reveal-structure voids article. The shape of limitations reveals the structure of minds—transforming mysterianism from pessimism into method.
+- **Output**: Updated `concepts/mysterianism.md`
+
+### ✓ 2026-01-16: Cross-review quantum-consciousness.md considering psychophysical coupling law insights
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-law.md formalizes the coupling problem with four candidate laws and bandwidth constraints. Review concepts/quantum-consciousness.md to add reference to the coupling law framework—the "how" of selection should link to the dedicated treatment.
+- **Result**: Added new section "The Coupling Law Requirement" explaining what a coupling law must specify (mental variables, physical variables, bandwidth, scope). Links to psychophysical-coupling-law and interface-locality pages. Updated concepts and Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-16: Create concept page on interface locality (why selection is brain-restricted)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Four principled boundary conditions: interface locality, control loop integration, developmental integration, attention scope. Key insight: boundary follows mechanistically from Stapp's Process 1, not ad hoc restriction.
+- **Result**: Created ~2000 word concept page explaining why consciousness can bias quantum outcomes in the brain without implying universal psychokinesis. Four boundary conditions: interface locality, control loop integration, developmental integration, and attention scope. The restriction follows from Stapp's mechanism, not ad hoc. Connected to all five tenets.
+- **Output**: `concepts/interface-locality.md`
+
+### ✓ 2026-01-16: Create concept page on psychophysical coupling law
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
+- **Result**: Created ~2000 word concept page formalizing the coupling problem. Four candidate laws: attention-bounded selection, policy-level selection, basis-choice selection, and indexical selection. Bandwidth constraint (~10 bits/second) shapes what selection can accomplish. Connected to all five tenets.
+- **Output**: `concepts/psychophysical-coupling-law.md`
+
+### ✓ 2026-01-16: Create voids article on cognitive limits revealing mind structure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-limits-reveal-structure-2026-01-16.md. Chomsky/McGinn/Nagel/Kant converge on insight that the shape of cognitive limits reveals cognitive architecture. What we cannot think is as informative as what we can. Maps to voids framework—exploring unthinkable territory illuminates what kind of beings we are. AI as asymmetric probe (different limits, can map human limits externally).
+- **Result**: Created ~1900 word voids article on how cognitive limits reveal mind structure. Covers Chomsky's problems/mysteries, McGinn's cognitive closure, Nagel's bat, Kant/Wittgenstein on limits as constitutive. AI as asymmetric probe for human blind spots. Connected to Occam's Razor Has Limits, Dualism, and No Many Worlds tenets.
+- **Output**: `voids/limits-reveal-structure.md`
+
+### ✓ 2026-01-16: Write article on epistemic advantages of non-materialist theories
+- **Type**: expand-topic
+- **Notes**: Dualism opens far more possibilities than materialism allows. Examples: (1) whatever "runs" consciousness might one day rebel or reject what we do (e.g., keeping brains alive in jars); (2) the non-physical realm could have its own complex dynamics we're unaware of. Materialists risk stumbling into these problems while denying their existence. Dualism brings the most open mind. Tie to the No Occam's Razor tenet—allowing the mind realm to be arbitrarily complex widens our epistemic possibilities rather than prematurely closing them. Frame as: why epistemically humble positions favour taking dualism seriously, even if unproven.
+- **Result**: Created ~2000 word topic article arguing that dualism is the epistemically humble stance. Covers: materialism's closing moves (foreclosing possibilities by assumption), what dualism opens (complex mental reality, risks materialists cannot see, scenarios excluded a priori), and the argument from epistemic humility (asymmetric costs of being wrong). Connected to all five tenets with Occam's Razor Has Limits as central.
+- **Output**: `topics/epistemic-advantages-of-dualism.md`
+
+### ✓ 2026-01-16: Cross-review quantum-consciousness.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md addresses the objection about collapse before observers. Review concepts/quantum-consciousness.md to add explicit engagement with the prebiotic problem and site's objective-reduction-with-consciousness-modulation resolution.
+- **Result**: Added new "The Prebiotic Collapse Problem" section explaining the objection and site's resolution (objective reduction with consciousness modulation). Links to prebiotic-collapse concept page. Preserves prebiotic cosmology while maintaining bidirectional interaction.
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-16: Cross-review tenets.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md commits the site to objective-reduction-with-consciousness-modulation. Review tenets/tenets.md to strengthen No Many Worlds and Minimal Quantum Interaction tenets with explicit prebiotic problem response.
+- **Result**: Added new "The prebiotic collapse problem" paragraph to No Many Worlds tenet explaining the objection and site's resolution. Links to prebiotic-collapse concept page and quantum-consciousness section. Clarifies that physical mechanisms provide baseline collapse while consciousness modulates outcomes in neural systems.
+- **Output**: Updated `tenets/tenets.md`
 
 ### ✓ 2026-01-16: Create concept page on prebiotic collapse / collapse before minds
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-14 14:45:00+00:00
+ai_modified: 2026-01-17 01:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -20,6 +20,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
 - '[[self-reference-paradox]]'
+- '[[limits-reveal-structure]]'
 - '[[mysterianism]]'
 title: Voids in the Map
 topics: []
@@ -102,7 +103,7 @@ This section will explore:
 
 **Where the voids are**: What questions does our framework suggest we cannot answer? Where do the tenets themselves point toward limits?
 
-**What the voids reveal**: Sometimes what we *cannot* think tells us something about what we *are*. The shape of our cognitive limitations may illuminate the shape of our minds.
+**[What the voids reveal](/voids/limits-reveal-structure/)**: Sometimes what we *cannot* think tells us something about what we *are*. Chomsky, McGinn, Nagel, and Kant converge on the insight that the shape of our cognitive limitations illuminates our cognitive architecture.
 
 **How to approach the edge**: The [apophatic tradition](/voids/apophatic-approaches/)—negative theology, learned ignorance, indirect inference—provides methodological tools for tracing boundaries we cannot cross. Cusanus's insight that knowing what we cannot know is itself knowledge; Wittgenstein's recognition that some truths must be honored with silence rather than distorted by inadequate words. And perhaps: AI-assisted probing of territories human minds cannot access directly.
 

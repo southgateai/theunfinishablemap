@@ -1,7 +1,7 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-15 23:30:00+00:00
+ai_modified: 2026-01-17 00:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts:
@@ -20,6 +20,7 @@ modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
+- '[[prebiotic-collapse]]'
 title: Tenets
 topics: []
 ---
@@ -79,6 +80,8 @@ The many-worlds interpretation of quantum mechanics is rejected. <span id="no-ma
 **Definition:** Many-worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real.
 
 **Rationale:** Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful.
+
+**The [prebiotic collapse problem](/concepts/prebiotic-collapse/):** If collapse is real and consciousness participates in it, what determined outcomes before conscious observers existed? Stars formed, chemistry proceeded, mutations accumulated—billions of years before the first mind. This apparent problem motivates some toward many-worlds (where no selection is needed) or panpsychism (where proto-consciousness always existed). The site's resolution: *objective reduction with consciousness modulation*. Physical mechanisms (gravitational collapse, spontaneous localization, or unknown processes) provide baseline collapse throughout the universe. Consciousness interfaces with collapse specifically in neural systems, modulating outcomes where the brain provides the right interface. This preserves prebiotic cosmology while maintaining that collapse is real and that consciousness participates in it locally. See [quantum-consciousness](/concepts/quantum-consciousness/#the-prebiotic-collapse-problem) for detailed treatment.
 
 **Rules out:** Interpretations that treat all quantum branches as equally real, and approaches that dismiss indexical identity as meaningless.
 

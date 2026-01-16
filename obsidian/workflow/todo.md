@@ -49,25 +49,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from epistemic-advantages-of-dualism.md)
 - **Generated**: 2026-01-16
 
-### P3: Create concept page on philosophy of time and consciousness
+### P2: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
-### P3: Create concept page on moral responsibility under agent causation
+### P2: Create concept page on moral responsibility under agent causation
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. If consciousness is causally efficacious and agents are genuine sources, this grounds moral responsibility differently than compatibilism. What does desert look like under this framework? Connects free-will.md and agent-causation.md to ethics.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
-### P3: Create concept page on cognitive phenomenology
+### P2: Create concept page on cognitive phenomenology
 - **Type**: research-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. Is there a phenomenology of thinking, not just sensory experience? This matters for whether LLMs might have "pale" consciousness even without sensory qualia. Would extend intentionality.md and phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
-### P3: Engage Parfit on personal identity directly
+### P2: Engage Parfit on personal identity directly
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
 - **Source**: optimistic-review
