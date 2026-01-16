@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P1: Write article on epistemic advantages of non-materialist theories
+- **Type**: expand-topic
+- **Notes**: Dualism opens far more possibilities than materialism allows. Examples: (1) whatever "runs" consciousness might one day rebel or reject what we do (e.g., keeping brains alive in jars); (2) the non-physical realm could have its own complex dynamics we're unaware of. Materialists risk stumbling into these problems while denying their existence. Dualism brings the most open mind. Tie to the No Occam's Razor tenet—allowing the mind realm to be arbitrarily complex widens our epistemic possibilities rather than prematurely closing them. Frame as: why epistemically humble positions favour taking dualism seriously, even if unproven.
+- **Source**: human
+- **Generated**: 2026-01-15
+
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
