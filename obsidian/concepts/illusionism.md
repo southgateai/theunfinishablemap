@@ -3,7 +3,7 @@ title: "Illusionism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T16:30:00+00:00
+ai_modified: 2026-01-17T04:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,8 @@ concepts:
   - "[[materialism]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[functionalism]]"
+  - "[[attention-schema-theory]]"
+  - "[[attention]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -53,6 +55,16 @@ Michael Graziano distinguishes two versions:
 **Soft (small) illusionism** holds that consciousness is a distorted representation of real neural processes. Something is being represented, but we systematically misunderstand its nature.
 
 Graziano favors soft illusionism, arguing evolution wouldn't invest resources modeling nonexistent phenomena. Something real must be the target of our introspective representations, even if we mischaracterize it.
+
+## The Neuroscientific Mechanism: Attention Schema Theory
+
+Graziano's [[attention-schema-theory|Attention Schema Theory]] (AST) provides the most developed neuroscientific implementation of illusionism. Where philosophical illusionists like Frankish and Dennett argue that introspection misrepresents experience, AST explains *how* the brain generates this misrepresentation.
+
+The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [[attention]]. This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
+
+AST gains empirical traction from neuroimaging findings. A 2025 MIT study found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
+
+**Why AST doesn't escape the hard problem:** The site rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. The seeming is the phenomenon that needs explaining. See [[attention-schema-theory]] for a detailed treatment.
 
 ## Major Objections
 
@@ -107,6 +119,8 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 ## Further Reading
 
 ### Site Content
+- [[attention-schema-theory]] — The neuroscientific mechanism for illusionism, and the site's critique
+- [[attention]] — What AST claims consciousness is a model of
 - [[explanatory-gap]] — The gap illusionism claims doesn't need bridging
 - [[phenomenal-concepts-strategy]] — A less radical physicalist approach
 - [[qualia]] — The properties illusionism denies
