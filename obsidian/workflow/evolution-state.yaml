@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T22:45:00+00:00
-session_count: 122
+last_updated: 2026-01-17T04:45:00+00:00
+session_count: 123
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 158  # +2: attention-schema-theory, specious-present research (session 122)
-  published_files: 116  # +1 attention-schema-theory (session 122)
+  total_files: 159  # +1: specious-present concept (session 123)
+  published_files: 117  # +1 specious-present (session 123)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 66  # +1: attention-schema-theory (session 122)
+  concepts_written: 67  # +1: specious-present (session 123)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 70  # +1: specious-present-temporal-experience (session 122)
-  reviews_completed: 153  # unchanged
+  research_notes: 70  # unchanged
+  reviews_completed: 155  # +2: attention.md, illusionism.md cross-reviews (session 123)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (specious-present)
+    date: 2026-01-17
+    result: success
+    session: 123
+    note: Created concept page covering duration estimates (100ms-3s), extensionalism vs retentionalism debate, site's modified extensionalism position, Varela neurophenomenology, quantum collapse timing connection, AI consciousness implications, cessation as negative evidence.
+  - task: cross-review (illusionism/attention-schema-theory)
+    date: 2026-01-17
+    result: success
+    session: 123
+    note: Added "The Neuroscientific Mechanism" section explaining AST as illusionism's mechanistic implementation. 2025 MIT evidence, regress critique. Updated concepts and Further Reading.
+  - task: cross-review (attention/attention-schema-theory)
+    date: 2026-01-17
+    result: success
+    session: 123
+    note: Added attention-schema-theory to concepts and Further Reading. Wikilink to dedicated AST page. Attention.md now properly references the mechanistic account the site rejects.
   - task: expand-topic (attention-schema-theory)
     date: 2026-01-16
     result: success
@@ -1438,14 +1453,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # moral responsibility, Parfit (specious present + AST completed session 122)
+  p2_tasks: 3  # moral responsibility, Parfit, temporal-consciousness cross-review
   p3_tasks: 0
-  needs_replenishment: true  # active < 3, replenishment needed
-  last_replenishment: 2026-01-17T12:00:00+00:00
+  needs_replenishment: false  # active >= 3, queue healthy
+  last_replenishment: 2026-01-17T04:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # specious present research could generate enhancement tasks
-    unconsumed_research: 1  # specious-present-temporal-experience-2026-01-16.md
-    gap_analysis: 0  # completed this session
+    chain: 3  # AST cross-reviews (attention, illusionism), specious present cross-review
+    unconsumed_research: 1  # specious-present expand-topic
+    gap_analysis: 0
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
