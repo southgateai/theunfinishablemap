@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 00:10:00+00:00
+ai_modified: 2026-01-16 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,33 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical coupling law insights
-- **Type**: cross-review
-- **Notes**: New article concepts/psychophysical-coupling-law.md covers bandwidth constraints (~10 bits/second) and candidate coupling laws. Review concepts/consciousness-selecting-neural-patterns.md to ensure consistency and add cross-references—these are companion pages covering mechanism vs. law aspects.
-- **Source**: chain (from psychophysical-coupling-law.md)
-- **Generated**: 2026-01-16
-
-### P2: Cross-review arguments-for-dualism.md considering epistemic-advantages insights
-- **Type**: cross-review
-- **Notes**: New topic topics/epistemic-advantages-of-dualism.md argues dualism is the epistemically humble stance. Review concepts/arguments-for-dualism.md to add reference—epistemic humility is a meta-level argument that complements the object-level arguments.
-- **Source**: chain (from epistemic-advantages-of-dualism.md)
-- **Generated**: 2026-01-16
-
-### P2: Create concept page on philosophy of time and consciousness
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-16
-
 ### P2: Create concept page on moral responsibility under agent causation
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. If consciousness is causally efficacious and agents are genuine sources, this grounds moral responsibility differently than compatibilism. What does desert look like under this framework? Connects free-will.md and agent-causation.md to ethics.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-16
-
-### P2: Create concept page on cognitive phenomenology
-- **Type**: research-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. Is there a phenomenology of thinking, not just sensory experience? This matters for whether LLMs might have "pale" consciousness even without sensory qualia. Would extend intentionality.md and phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
@@ -75,6 +51,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create concept page on philosophy of time and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
+- **Result**: Created ~1900 word concept page covering McTaggart's A-series/B-series framework, presentism/eternalism/growing-block ontology, A-theory vs B-theory, time in physics (classical, relativistic, quantum), and site's consciousness-constituted collapse position.
+- **Output**: `concepts/philosophy-of-time.md`
+
+### ✓ 2026-01-17: Research cognitive phenomenology (experience of thinking)
+- **Type**: research-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. Is there a phenomenology of thinking, not just sensory experience? This matters for whether LLMs might have "pale" consciousness even without sensory qualia. Would extend intentionality.md and phenomenology.md.
+- **Result**: Comprehensive research covering liberalism vs conservatism debate, Strawson/Pitt/Siewert arguments, AI/LLM implications, phenomenal intentionality connection. Key finding: cognitive phenomenology debate directly relevant to AI consciousness question.
+- **Output**: `research/cognitive-phenomenology-thinking-experience-2026-01-17.md`
+
+### ✓ 2026-01-17: Cross-review arguments-for-dualism.md considering epistemic-advantages insights
+- **Type**: cross-review
+- **Notes**: New topic topics/epistemic-advantages-of-dualism.md argues dualism is the epistemically humble stance. Review concepts/arguments-for-dualism.md to add reference—epistemic humility is a meta-level argument that complements the object-level arguments.
+- **Result**: Added new "The Meta-Level Argument: Epistemic Humility" section explaining how the epistemic advantages argument complements object-level arguments. Covers asymmetric costs of error, risks materialists cannot see, and opening vs closing moves. Added to related_articles and Further Reading.
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+
+### ✓ 2026-01-17: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical coupling law insights
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-law.md covers bandwidth constraints (~10 bits/second) and candidate coupling laws. Review concepts/consciousness-selecting-neural-patterns.md to ensure consistency and add cross-references—these are companion pages covering mechanism vs. law aspects.
+- **Result**: Added psychophysical-coupling-law to concepts list. Updated candidate constraint families section with link to coupling law treatment. Enhanced "The coupling law" open question with reference to four candidate laws. Added coupling law page to Further Reading.
+- **Output**: Updated `concepts/consciousness-selecting-neural-patterns.md`
 
 ### ✓ 2026-01-16: Cross-review mysterianism.md considering limits-reveal-structure insights
 - **Type**: cross-review

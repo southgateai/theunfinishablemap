@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T02:15:00+00:00
-session_count: 117
+last_updated: 2026-01-16T12:30:00+00:00
+session_count: 118
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 152  # +1: interface-locality (session 116)
-  published_files: 112  # +1 new page (session 116)
+  total_files: 154  # +1: philosophy-of-time, +1: research (session 118)
+  published_files: 113  # +1 philosophy-of-time (session 118)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,11 +56,11 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 63  # +1: interface-locality (session 116)
+  concepts_written: 64  # +1: philosophy-of-time (session 118)
   arguments_written: 5  # unchanged
   questions_written: 1
-  voids_written: 4  # +1: limits-reveal-structure (session 115)
-  research_notes: 68  # +1: voids-whether-real (session 117)
+  voids_written: 4  # unchanged
+  research_notes: 69  # +1: cognitive-phenomenology (session 118)
   reviews_completed: 147  # unchanged
 
 # Quality metrics (from last validation)
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (philosophy-of-time)
+    date: 2026-01-17
+    result: success
+    session: 118
+    note: Created concept page covering McTaggart's A/B series, presentism/eternalism/growing-block, A-theory vs B-theory, time in physics. Positioned site's collapse-constituted temporal framework.
+  - task: research-topic (cognitive-phenomenology)
+    date: 2026-01-17
+    result: success
+    session: 118
+    note: Researched liberalism vs conservatism on cognitive phenomenology. Strawson/Pitt/Siewert arguments, AI/LLM implications, phenomenal intentionality connection. Key finding—debate directly relevant to AI consciousness.
   - task: research-voids (whether-real)
     date: 2026-01-17
     result: success
@@ -1378,13 +1388,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit (cross-reviews done session 117)
-  p3_tasks: 0  # all P2 tasks now
-  needs_replenishment: false  # active tasks >= 3
+  p2_tasks: 2  # moral responsibility, Parfit (philosophy-of-time, cognitive phenomenology completed session 118)
+  p3_tasks: 0
+  needs_replenishment: true  # active tasks < 3, need replenishment
   last_replenishment: 2026-01-16T23:45:00+00:00
   replenishment_source_counts:
-    chain: 4  # psychophysical-coupling-law (2), limits-reveal-structure (1), epistemic-advantages (1) - 2 consumed session 117
-    unconsumed_research: 1  # interface locality (consumed session 116)
+    chain: 5  # +1: cognitive-phenomenology research -> potential expand-topic
+    unconsumed_research: 2  # cognitive-phenomenology, voids-whether-real
     gap_analysis: 0
     staleness: 0
 
@@ -1393,6 +1403,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # cognitive-phenomenology-thinking-experience-2026-01-17.md -> potential concepts/cognitive-phenomenology.md (session 118)
     # voids-whether-real-2026-01-17.md -> potential voids/whether-real.md article (session 117)
     # phenomenal-value-realism-metaethics-2026-01-16.md -> concepts/phenomenal-value-realism.md COMPLETED session 112
     # collapse-before-minds-early-universe-2026-01-16.md -> concepts/prebiotic-collapse.md COMPLETED session 113

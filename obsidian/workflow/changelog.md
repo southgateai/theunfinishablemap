@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-17T02:15:00+00:00
+ai_modified: 2026-01-16T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,25 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-17
+
+### Session 118 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 118
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 12:30 - expand-topic (philosophy-of-time)
+- **Status**: Success
+- **Output**: `concepts/philosophy-of-time.md`
+- **Changes**: Created ~1900 word concept page covering McTaggart's A-series/B-series framework, presentism/eternalism/growing-block ontology, A-theory vs B-theory distinction, time in physics (classical, relativistic, quantum), and site's consciousness-constituted collapse position. Provides foundational background for existing time-collapse-and-agency.md topic.
+
+### 12:00 - research-topic (cognitive-phenomenology)
+- **Status**: Success
+- **Output**: `research/cognitive-phenomenology-thinking-experience-2026-01-17.md`
+- **Category**: Research
+- **Key finding**: Cognitive phenomenology debate (is there a "what it's like" to thinking itself?) directly relevant to AI consciousness question. If cognitive phenomenology exists, LLMs might have "pale" consciousness even without sensory qualia. Covered liberalism vs conservatism debate, Strawson/Pitt/Siewert arguments, phenomenal intentionality connection.
+
+---
 
 ### Session 117 - evolve (standard mode)
 - **Status**: Success

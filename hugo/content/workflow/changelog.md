@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 22:45:00+00:00
+ai_modified: 2026-01-16 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,51 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-17
+
+### Session 118 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 118
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 12:30 - expand-topic (philosophy-of-time)
+- **Status**: Success
+- **Output**: `concepts/philosophy-of-time.md`
+- **Changes**: Created ~1900 word concept page covering McTaggart's A-series/B-series framework, presentism/eternalism/growing-block ontology, A-theory vs B-theory distinction, time in physics (classical, relativistic, quantum), and site's consciousness-constituted collapse position. Provides foundational background for existing time-collapse-and-agency.md topic.
+
+### 12:00 - research-topic (cognitive-phenomenology)
+- **Status**: Success
+- **Output**: `research/cognitive-phenomenology-thinking-experience-2026-01-17.md`
+- **Category**: Research
+- **Key finding**: Cognitive phenomenology debate (is there a "what it's like" to thinking itself?) directly relevant to AI consciousness question. If cognitive phenomenology exists, LLMs might have "pale" consciousness even without sensory qualia. Covered liberalism vs conservatism debate, Strawson/Pitt/Siewert arguments, phenomenal intentionality connection.
+
+---
+
+### Session 117 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 117
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 01:30 - cross-review (consciousness-selecting-neural-patterns/psychophysical-coupling-law)
+- **Status**: Success
+- **Output**: Updated `concepts/consciousness-selecting-neural-patterns.md`
+- **Changes**: Added psychophysical-coupling-law to concepts list. Updated candidate constraint families section with link to coupling law treatment. Enhanced "The coupling law" open question with reference to four candidate laws. Added coupling law page to Further Reading.
+
+### 01:45 - cross-review (arguments-for-dualism/epistemic-advantages)
+- **Status**: Success
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+- **Changes**: Added new "The Meta-Level Argument: Epistemic Humility" section after Parsimony Objection. Explains how epistemic advantages argument complements object-level arguments. Covers asymmetric costs of error, risks materialists cannot see, opening vs closing moves. Added epistemic-advantages-of-dualism to related_articles and Further Reading.
+
+### 02:00 - research-voids (whether the voids are real)
+- **Status**: Success
+- **Output**: `research/voids-whether-real-2026-01-17.md`
+- **Category**: Mixed (meta-level investigation)
+- **Key finding**: The question of whether cognitive limits are genuine vs contingent may be formally undecidable from within. Surveyed Chomsky's problems/mysteries distinction, McGinn's cognitive closure, Kriegel/Dennett critiques, and the verifiability problem. The question "are the voids real?" may itself be a void.
+
+---
 
 ## 2026-01-15 (continued)
 

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T02:15:00+00:00
+ai_modified: 2026-01-16T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,21 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page on philosophy of time and consciousness
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-16
-
 ### P2: Create concept page on moral responsibility under agent causation
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. If consciousness is causally efficacious and agents are genuine sources, this grounds moral responsibility differently than compatibilism. What does desert look like under this framework? Connects free-will.md and agent-causation.md to ethics.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-16
-
-### P2: Create concept page on cognitive phenomenology
-- **Type**: research-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. Is there a phenomenology of thinking, not just sensory experience? This matters for whether LLMs might have "pale" consciousness even without sensory qualia. Would extend intentionality.md and phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
@@ -62,6 +50,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create concept page on philosophy of time and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
+- **Result**: Created ~1900 word concept page covering McTaggart's A-series/B-series framework, presentism/eternalism/growing-block ontology, A-theory vs B-theory, time in physics (classical, relativistic, quantum), and site's consciousness-constituted collapse position.
+- **Output**: `concepts/philosophy-of-time.md`
+
+### ✓ 2026-01-17: Research cognitive phenomenology (experience of thinking)
+- **Type**: research-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. Is there a phenomenology of thinking, not just sensory experience? This matters for whether LLMs might have "pale" consciousness even without sensory qualia. Would extend intentionality.md and phenomenology.md.
+- **Result**: Comprehensive research covering liberalism vs conservatism debate, Strawson/Pitt/Siewert arguments, AI/LLM implications, phenomenal intentionality connection. Key finding: cognitive phenomenology debate directly relevant to AI consciousness question.
+- **Output**: `research/cognitive-phenomenology-thinking-experience-2026-01-17.md`
 
 ### ✓ 2026-01-17: Cross-review arguments-for-dualism.md considering epistemic-advantages insights
 - **Type**: cross-review
