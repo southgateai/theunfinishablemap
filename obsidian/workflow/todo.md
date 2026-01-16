@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T01:30:00+00:00
+ai_modified: 2026-01-17T00:10:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page on interface locality (why selection is brain-restricted)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Four principled boundary conditions: interface locality, control loop integration, developmental integration, attention scope. Key insight: boundary follows mechanistically from Stapp's Process 1, not ad hoc restriction.
-- **Source**: unconsumed_research
+### P2: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical coupling law insights
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-law.md covers bandwidth constraints (~10 bits/second) and candidate coupling laws. Review concepts/consciousness-selecting-neural-patterns.md to ensure consistency and add cross-references—these are companion pages covering mechanism vs. law aspects.
+- **Source**: chain (from psychophysical-coupling-law.md)
+- **Generated**: 2026-01-16
+
+### P2: Cross-review arguments-for-dualism.md considering epistemic-advantages insights
+- **Type**: cross-review
+- **Notes**: New topic topics/epistemic-advantages-of-dualism.md argues dualism is the epistemically humble stance. Review concepts/arguments-for-dualism.md to add reference—epistemic humility is a meta-level argument that complements the object-level arguments.
+- **Source**: chain (from epistemic-advantages-of-dualism.md)
 - **Generated**: 2026-01-16
 
 ### P3: Create concept page on philosophy of time and consciousness
@@ -68,6 +74,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Cross-review mysterianism.md considering limits-reveal-structure insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/limits-reveal-structure.md covers how cognitive limits reveal cognitive architecture (Chomsky, McGinn, Nagel). Review concepts/mysterianism.md to add reference to the voids treatment and strengthen the "limits are informative" theme.
+- **Result**: Added new section "What the Limits Reveal" explaining how cognitive closure reveals cognitive architecture. Links to limits-reveal-structure voids article. The shape of limitations reveals the structure of minds—transforming mysterianism from pessimism into method.
+- **Output**: Updated `concepts/mysterianism.md`
+
+### ✓ 2026-01-16: Cross-review quantum-consciousness.md considering psychophysical coupling law insights
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-law.md formalizes the coupling problem with four candidate laws and bandwidth constraints. Review concepts/quantum-consciousness.md to add reference to the coupling law framework—the "how" of selection should link to the dedicated treatment.
+- **Result**: Added new section "The Coupling Law Requirement" explaining what a coupling law must specify (mental variables, physical variables, bandwidth, scope). Links to psychophysical-coupling-law and interface-locality pages. Updated concepts and Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-16: Create concept page on interface locality (why selection is brain-restricted)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Four principled boundary conditions: interface locality, control loop integration, developmental integration, attention scope. Key insight: boundary follows mechanistically from Stapp's Process 1, not ad hoc restriction.
+- **Result**: Created ~2000 word concept page explaining why consciousness can bias quantum outcomes in the brain without implying universal psychokinesis. Four boundary conditions: interface locality, control loop integration, developmental integration, and attention scope. The restriction follows from Stapp's mechanism, not ad hoc. Connected to all five tenets.
+- **Output**: `concepts/interface-locality.md`
 
 ### ✓ 2026-01-16: Create concept page on psychophysical coupling law
 - **Type**: expand-topic

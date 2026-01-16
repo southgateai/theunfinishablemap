@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T01:30:00+00:00
-session_count: 115
+last_updated: 2026-01-17T00:15:00+00:00
+session_count: 116
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 151  # +2: limits-reveal-structure, psychophysical-coupling-law (session 115)
-  published_files: 111  # +2 new pages (session 115)
+  total_files: 152  # +1: interface-locality (session 116)
+  published_files: 112  # +1 new page (session 116)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,7 +56,7 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 62  # +1: psychophysical-coupling-law (session 115)
+  concepts_written: 63  # +1: interface-locality (session 116)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 4  # +1: limits-reveal-structure (session 115)
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (mysterianism/limits-reveal-structure)
+    date: 2026-01-16
+    result: success
+    session: 116
+    note: Added "What the Limits Reveal" section—cognitive closure reveals cognitive architecture. Links to limits-reveal-structure voids article.
+  - task: cross-review (quantum-consciousness/psychophysical-coupling-law)
+    date: 2026-01-16
+    result: success
+    session: 116
+    note: Added "The Coupling Law Requirement" section explaining what coupling law must specify. Links to psychophysical-coupling-law and interface-locality pages.
+  - task: expand-topic (interface-locality)
+    date: 2026-01-16
+    result: success
+    session: 116
+    note: Created concept page explaining why consciousness can only select quantum outcomes in own brain. Four boundary conditions—interface locality, control loop integration, developmental integration, attention scope. The restriction follows mechanistically from Stapp's Process 1, not ad hoc.
   - task: expand-topic (psychophysical-coupling-law)
     date: 2026-01-16
     result: success
@@ -1348,13 +1363,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # interface locality only (two tasks completed session 115)
+  p2_tasks: 2  # consciousness-selecting-neural-patterns cross-review, arguments-for-dualism cross-review
   p3_tasks: 4  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
-  needs_replenishment: true  # Below threshold of 3 active P0-P2 tasks
-  last_replenishment: 2026-01-16T23:30:00+00:00
+  needs_replenishment: false  # Replenished session 116, tasks executed
+  last_replenishment: 2026-01-16T23:45:00+00:00
   replenishment_source_counts:
-    chain: 2  # prebiotic-collapse cross-reviews (now completed)
-    unconsumed_research: 1  # brain-specialness (two consumed session 115)
+    chain: 4  # psychophysical-coupling-law (2), limits-reveal-structure (1), epistemic-advantages (1)
+    unconsumed_research: 1  # interface locality (consumed session 116)
     gap_analysis: 0
     staleness: 0
 
