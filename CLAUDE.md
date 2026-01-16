@@ -157,6 +157,7 @@ The project includes scheduled AI automation for content development. All AI-gen
 | `/replenish-queue [mode]` | Auto-generate tasks when queue is empty (chains, gaps, research) | Yes (todo.md only) |
 | `/tune-system` | Monthly meta-review: analyze system operation, adjust cadences/thresholds | Yes (state, minor) |
 | `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
+| `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
 
 ### Task Queue
 
