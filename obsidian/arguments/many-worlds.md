@@ -1,9 +1,9 @@
 ---
 title: "Against Many-Worlds"
 created: 2026-01-15
-modified: 2026-01-15
+modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-15T14:00:00+00:00
+ai_modified: 2026-01-17T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[decoherence]]"
   - "[[personal-identity]]"
   - "[[binding-problem]]"
+  - "[[parfit-reductionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -67,6 +68,20 @@ But this dissolves rather than answers the question. Before measurement, there i
 This connects to [[personal-identity]] and the [[binding-problem]]. Consciousness is unified. We experience ourselves as single subjects persisting through time. Many-worlds fragments this unity across branches—and then tells us the fragmentation isn't real, or doesn't matter, or is the wrong question. None of these responses satisfy.
 
 The indexical problem is not merely epistemic (we don't know which branch we're in). It's metaphysical: in what sense is the person in branch A the same person as the one in branch B? If both are equally "you," then personal identity becomes radically non-unique. If neither is more "you" than the other, then what are you?
+
+### The Parfit Convergence
+
+Many-worlds shares a deep structural problem with [[parfit-reductionism|Parfit's reductionism]] about personal identity. Parfit holds that identity consists in nothing over and above psychological continuity—there's no further fact about "who is really you." Many-worlds makes the analogous move for quantum branching: all continuations are equally real, and there's no fact about which branch "is" you.
+
+| Thesis | Parfit | Many-Worlds |
+|--------|--------|-------------|
+| What matters | Psychological pattern | Physical continuity across branches |
+| Identity question | May lack determinate answer | All answers equally true |
+| Indexical fact | Not a deep fact | Not a fact at all |
+
+Both views face the same objection: they cannot accommodate the apparent fact that you will experience exactly one future. Parfit asks us to accept that there may be no fact about whether a teletransported replica is you. Many-worlds asks us to accept that there is no fact about which branch-continuation is you—they all are. But in both cases, *you* will wake up tomorrow as exactly one person, in exactly one circumstance. That seeming fact—which copy, which branch, am I?—is precisely what both views tell us to abandon.
+
+If you find Parfit's reductionism troubling (most people do, when confronting teletransporter and fission cases), you should find many-worlds equally troubling. The indexical question "which one is me?" has the same structure in both contexts—and the same unsatisfying answer: there is no "which one."
 
 ## Argument 3: The Probability Problem
 
@@ -174,6 +189,7 @@ The site's framework requires that quantum measurement is real—that definite o
 - [[quantum-consciousness]] — Alternative frameworks for mind-matter interaction
 - [[decoherence]] — What decoherence explains and what it doesn't
 - [[personal-identity]] — Why identity matters for quantum interpretation
+- [[parfit-reductionism]] — Parallel problems with identity reductionism
 - [[binding-problem]] — The unity of consciousness that branching threatens
 - [[tenets]] — The site's foundational commitments
 - [[interactionist-dualism]] — The positive case for the alternative
