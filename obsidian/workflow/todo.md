@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T16:30:00+00:00
+ai_modified: 2026-01-16T23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,11 +37,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Write article on epistemic advantages of non-materialist theories
+### P2: Create voids article on cognitive limits revealing mind structure
 - **Type**: expand-topic
-- **Notes**: Dualism opens far more possibilities than materialism allows. Examples: (1) whatever "runs" consciousness might one day rebel or reject what we do (e.g., keeping brains alive in jars); (2) the non-physical realm could have its own complex dynamics we're unaware of. Materialists risk stumbling into these problems while denying their existence. Dualism brings the most open mind. Tie to the No Occam's Razor tenet—allowing the mind realm to be arbitrarily complex widens our epistemic possibilities rather than prematurely closing them. Frame as: why epistemically humble positions favour taking dualism seriously, even if unproven.
-- **Source**: human
-- **Generated**: 2026-01-15
+- **Notes**: Research completed in research/voids-limits-reveal-structure-2026-01-16.md. Chomsky/McGinn/Nagel/Kant converge on insight that the shape of cognitive limits reveals cognitive architecture. What we cannot think is as informative as what we can. Maps to voids framework—exploring unthinkable territory illuminates what kind of beings we are. AI as asymmetric probe (different limits, can map human limits externally).
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-16
+
+### P2: Create concept page on psychophysical coupling law
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-16
+
+### P2: Create concept page on interface locality (why selection is brain-restricted)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Four principled boundary conditions: interface locality, control loop integration, developmental integration, attention scope. Key insight: boundary follows mechanistically from Stapp's Process 1, not ad hoc restriction.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-16
+
+### P2: Cross-review quantum-consciousness.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md addresses the objection about collapse before observers. Review concepts/quantum-consciousness.md to add explicit engagement with the prebiotic problem and site's objective-reduction-with-consciousness-modulation resolution.
+- **Source**: chain (from prebiotic-collapse.md)
+- **Generated**: 2026-01-16
+
+### P2: Cross-review tenets.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md commits the site to objective-reduction-with-consciousness-modulation. Review tenets/tenets.md to strengthen No Many Worlds and Minimal Quantum Interaction tenets with explicit prebiotic problem response.
+- **Source**: chain (from prebiotic-collapse.md)
+- **Generated**: 2026-01-16
 
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
@@ -68,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Write article on epistemic advantages of non-materialist theories
+- **Type**: expand-topic
+- **Notes**: Dualism opens far more possibilities than materialism allows. Examples: (1) whatever "runs" consciousness might one day rebel or reject what we do (e.g., keeping brains alive in jars); (2) the non-physical realm could have its own complex dynamics we're unaware of. Materialists risk stumbling into these problems while denying their existence. Dualism brings the most open mind. Tie to the No Occam's Razor tenet—allowing the mind realm to be arbitrarily complex widens our epistemic possibilities rather than prematurely closing them. Frame as: why epistemically humble positions favour taking dualism seriously, even if unproven.
+- **Result**: Created ~2000 word topic article arguing that dualism is the epistemically humble stance. Covers: materialism's closing moves (foreclosing possibilities by assumption), what dualism opens (complex mental reality, risks materialists cannot see, scenarios excluded a priori), and the argument from epistemic humility (asymmetric costs of being wrong). Connected to all five tenets with Occam's Razor Has Limits as central.
+- **Output**: `topics/epistemic-advantages-of-dualism.md`
 
 ### ✓ 2026-01-16: Create concept page on prebiotic collapse / collapse before minds
 - **Type**: expand-topic
