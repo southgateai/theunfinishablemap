@@ -37,13 +37,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research Chalmers psychophysical laws in depth
-- **Type**: research-topic
-- **Notes**: The site references Chalmers' psychophysical laws framework in psychophysical-coupling-law.md but could develop this more thoroughly. Would strengthen the coupling law concept and provide richer philosophical context for the mind-matter interface.
-- **Source**: gap_analysis
+### P2: Write article on experiential alignment for AI
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes alignment objective framed in experiential terms (suffering, agency, meaning) rather than preference satisfaction. Key insight: if preferences are thin proxies, target experiential distributions directly.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-17
+
+### P3: Cross-review personal-identity.md for Parfit treatment completeness
+- **Type**: cross-review
+- **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
+- **Source**: chain (from parfit-reductionism.md)
 - **Generated**: 2026-01-17
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review many-worlds.md considering Parfit's reductionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/parfit-reductionism.md develops the "many-worlds convergence" argument—Parfit's reductionism and MWI face parallel problems about which copy/branch is "really you". Review arguments/many-worlds.md to add cross-reference and strengthen the indexical identity argument.
+- **Result**: Added "The Parfit Convergence" subsection to Argument 2 (indexical problem). New table comparing Parfit and MWI on what matters, identity questions, and indexical facts. Added parfit-reductionism to concepts and Further Reading.
+- **Output**: Updated `arguments/many-worlds.md`
+
+### ✓ 2026-01-17: Research Chalmers psychophysical laws in depth
+- **Type**: research-topic
+- **Notes**: The site references Chalmers' psychophysical laws framework in psychophysical-coupling-law.md but could develop this more thoroughly. Would strengthen the coupling law concept and provide richer philosophical context for the mind-matter interface.
+- **Result**: Comprehensive research covering Chalmers' three principles (structural coherence, organizational invariance, double-aspect information), naturalistic dualism framework, recent quantum development with McQueen (super-resistance principle), and how site's coupling laws relate to Chalmers' upward-direction laws.
+- **Output**: `research/chalmers-psychophysical-laws-2026-01-17.md`
+
+### ✓ 2026-01-17: Cross-review death-and-consciousness.md considering Parfit's reductionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/parfit-reductionism.md argues the site rejects Parfit's "what matters" move—survival requires identity, not just psychological continuity. Review topics/death-and-consciousness.md to engage with Parfit's position that death is less bad if identity is reducible.
+- **Result**: Added "Parfit's 'Liberating' View of Death" subsection explaining Parfit's claim that death is metaphysically shallow if identity is reducible, and why the site rejects this. Added parfit-reductionism to concepts.
+- **Output**: Updated `topics/death-and-consciousness.md`
 
 ### ✓ 2026-01-17: Engage Parfit on personal identity directly
 - **Type**: expand-topic

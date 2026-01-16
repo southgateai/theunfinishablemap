@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T13:30:00+00:00
-session_count: 125
+last_updated: 2026-01-17T16:00:00+00:00
+session_count: 126
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 161  # +1: parfit-reductionism concept (session 125)
-  published_files: 119  # +1 parfit-reductionism (session 125)
+  total_files: 162  # +1: chalmers-psychophysical-laws research (session 126)
+  published_files: 120  # +1 chalmers research (session 126)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 69  # +1: parfit-reductionism (session 125)
+  concepts_written: 69  # unchanged (session 126)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 70  # unchanged
-  reviews_completed: 158  # +2: free-will, ethics-of-consciousness cross-reviews (session 125)
+  research_notes: 71  # +1: chalmers-psychophysical-laws (session 126)
+  reviews_completed: 160  # +2: many-worlds, death-and-consciousness cross-reviews (session 126)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (many-worlds/parfit-reductionism)
+    date: 2026-01-17
+    result: success
+    session: 126
+    note: Added "The Parfit Convergence" subsection showing Parfit and MWI face same indexical problem. Added parfit-reductionism to concepts and Further Reading.
+  - task: research-topic (chalmers-psychophysical-laws)
+    date: 2026-01-17
+    result: success
+    session: 126
+    note: Comprehensive research on Chalmers' three psychophysical principles, naturalistic dualism, Chalmers-McQueen quantum development, and relationship to site's coupling laws.
+  - task: cross-review (death-and-consciousness/parfit-reductionism)
+    date: 2026-01-17
+    result: success
+    session: 126
+    note: Added "Parfit's 'Liberating' View of Death" subsection explaining and rejecting Parfit's claim that death is metaphysically shallow under reductionism.
   - task: expand-topic (parfit-reductionism)
     date: 2026-01-17
     result: success
@@ -1478,14 +1493,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # Chalmers psychophysical laws research (3 tasks completed session 125)
-  p3_tasks: 0
-  needs_replenishment: true  # active < 3 after task execution
-  last_replenishment: 2026-01-17T12:00:00+00:00
+  p2_tasks: 1  # experiential alignment article
+  p3_tasks: 1  # personal-identity cross-review
+  needs_replenishment: true  # active < 3 after session 126
+  last_replenishment: 2026-01-17T14:00:00+00:00
   replenishment_source_counts:
-    chain: 2  # moral-responsibility cross-reviews (free-will, ethics-of-consciousness) - completed
-    unconsumed_research: 0
-    gap_analysis: 1  # Chalmers psychophysical laws - pending
+    chain: 3  # parfit-reductionism cross-reviews (many-worlds, death completed; personal-identity pending)
+    unconsumed_research: 1  # experiential alignment article (pending)
+    gap_analysis: 0  # Chalmers psychophysical laws - completed
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
