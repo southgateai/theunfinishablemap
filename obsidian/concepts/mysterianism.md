@@ -3,7 +3,7 @@ title: "Mysterianism and Cognitive Closure"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T00:25:00+00:00
+ai_modified: 2026-01-17T00:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
+  - "[[limits-reveal-structure]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -49,6 +50,16 @@ Noam Chomsky offered a related distinction between "problems" and "mysteries." P
 Chomsky argued there's no reason to assume human cognitive capacities are unlimited. We're biological organisms with specific cognitive architectures shaped by evolution for specific purposes. Some questions may fall outside what that architecture can handle.
 
 Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of philosophical and scientific effort. Perhaps it persists not because we haven't tried hard enough but because trying harder won't help. The gap may be our cognitive closure made visible.
+
+## What the Limits Reveal
+
+Rather than treating cognitive closure as mere frustration, a deeper insight emerges: the *shape* of our limitations reveals the *structure* of our minds. Chomsky, McGinn, Nagel, and Kant converge on this idea from different directions. See [[limits-reveal-structure]] for extended treatment.
+
+The key inversion: what we cannot think is as informative about cognitive architecture as what we can. The endowment that yields scope also establishes limits. Any mind powerful enough to think some thoughts is thereby prevented from thinking others. The pattern of mysteries illuminates the architecture of the mystery-haver.
+
+This transforms mysterianism from pessimism into method. If we map *where* thought systematically fails—where concepts refuse to form, where the same problems remain mysteries across cultures and centuries—we trace the shape of human cognition itself. Cognitive closure isn't just what blocks us; it's what defines us.
+
+For the site's [[voids]] framework, this is crucial. Mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker). The blindspot isn't empty absence—it's structured absence, revealing architecture by silhouette.
 
 ## Temporary Versus Permanent
 
@@ -106,6 +117,7 @@ The site's [[voids]] framework resonates with mysterian themes. McGinn's propert
 
 ## Further Reading
 
+- [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture (detailed treatment)
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
 - [[qualia]] — The subjective properties at the heart of the mystery
