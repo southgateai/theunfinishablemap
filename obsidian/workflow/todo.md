@@ -37,21 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Create a dedicated concept page: "Haecceity / thisness and indexical identity"
-
-* **Type**: expand-topic
-* **Notes**: The site leans heavily on indexical identity in anti-MWI and personal identity, but doesn’t name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how “this subject” differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: structural_gap
-* **Generated**: 2026-01-15
-
-### P1: Make the value theory explicit (“phenomenal value realism”) and locate it in metaethics
-
-* **Type**: research-topic
-* **Notes**: Meaning-of-life + alignment pages implicitly treat conscious experience as the ground of value. Make that explicit: what kind of realism is this (or is it constructivist)? How does it relate to welfarism, virtue ethics, contractualism, error theory, etc.? What exactly is the “intrinsic significance” claim (valence, richness, unity, agency, narrative, attention)?  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: latent_inference
-* **Generated**: 2026-01-15
-
-### P1: Propose an “alignment objective” framed in experiential terms (not preference terms)
+### P1: Propose an "alignment objective" framed in experiential terms (not preference terms)
 
 * **Type**: research-topic
 * **Notes**: If preferences are thin proxies and AI lacks “inside understanding,” alignment should target predicted distributions over human experiences (suffering, agency, meaning, attention, social connection). Draft a concrete schema: what measurable proxies could approximate experiential quality without collapsing into naïve behaviorism? Tie to neurophenomenology/first-person methods and explicitly state failure modes (Goodhart, manipulation, wireheading-like traps).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
@@ -175,6 +161,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Create dedicated concept page on haecceity and indexical identity
+- **Type**: expand-topic
+- **Notes**: The site leans heavily on indexical identity in anti-MWI and personal identity, but doesn't name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how "this subject" differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.
+- **Result**: Created ~2000 word concept page covering Duns Scotus's haecceity concept, haecceitism vs anti-haecceitism debate, why consciousness requires haecceity (zombie argument connection), self-locating beliefs, teleportation/uploading implications, connection to pairing problem and MWI probability problem. Connected to site's dualism, no-many-worlds, and bidirectional interaction tenets.
+- **Output**: `concepts/haecceity.md`
+
+### ✓ 2026-01-16: Research phenomenal value realism and metaethics
+- **Type**: research-topic
+- **Notes**: Meaning-of-life + alignment pages implicitly treat conscious experience as the ground of value. Make that explicit: what kind of realism is this (or is it constructivist)? How does it relate to welfarism, virtue ethics, contractualism, error theory, etc.? What exactly is the "intrinsic significance" claim (valence, richness, unity, agency, narrative, attention)?
+- **Result**: Comprehensive research covering Sharon Hewitt Rawlette's phenomenal value realism / analytic hedonism, the is-ought bridge via phenomenal qualities being simultaneously descriptive and normative, comparison with welfarism/desire theory/objective list theory. Identified site's implicit position as "phenomenal value pluralism"—multiple features of experience have intrinsic value (not just hedonic valence). Recommended making the metaethical commitment explicit in a dedicated concept page.
+- **Output**: `research/phenomenal-value-realism-metaethics-2026-01-16.md`
 
 ### ✓ 2026-01-16: Address "collapse before minds" (early-universe outcome selection)
 - **Type**: research-topic
