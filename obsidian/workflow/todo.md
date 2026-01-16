@@ -43,6 +43,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-17
 
+### P2: Cross-review quantum-consciousness.md considering attention-as-interface hypothesis
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-as-interface.md formalizes attention as the interface layer between consciousness and neural systems. Review concepts/quantum-consciousness.md to add link and consider how the attention-as-interface hypothesis provides a specific mechanism for the quantum selection process.
+- **Source**: chain (from attention-as-interface.md)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review mental-effort.md considering attention-as-interface hypothesis
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-as-interface.md develops the relationship between attention and consciousness's causal influence. Review concepts/mental-effort.md to add link and strengthen the connection between the phenomenology of effort and attention's role as interface.
+- **Source**: chain (from attention-as-interface.md)
+- **Generated**: 2026-01-17
+
+### P2: Research consciousness and episodic memory
+- **Type**: research-topic
+- **Notes**: The site has extensive coverage of attention, temporal consciousness, and the specious present, but the relationship between consciousness and memory—particularly episodic memory's role in constituting the self and grounding narrative identity—remains underexplored. Research could inform personal-identity.md and self-and-consciousness.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-17
+
+### P2: Cross-review neurophenomenology.md considering specious-present insights
+- **Type**: cross-review
+- **Notes**: The specious-present.md page (session 123) develops extensionalism vs retentionalism debate and Varela's neurophenomenology approach. Review concepts/neurophenomenology.md to add explicit cross-reference and strengthen the temporal phenomenology section.
+- **Source**: chain (from specious-present.md)
+- **Generated**: 2026-01-17
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.

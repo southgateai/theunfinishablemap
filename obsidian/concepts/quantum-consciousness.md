@@ -3,7 +3,7 @@ title: "Quantum Consciousness Mechanisms"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-17T00:00:00+00:00
+ai_modified: 2026-01-17T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[binding-problem]]"
   - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[measurement-problem]]"
   - "[[collapse-and-time]]"
   - "[[mental-causation]]"
@@ -108,6 +109,8 @@ Unlike Orch OR, Stapp's mechanism doesn't locate consciousness in microtubules o
 **Attention as mechanism, consciousness as subject**: Recent research on the [[attention|attention-consciousness relationship]] strengthens Stapp's proposal. Koch and Tsuchiya documented that attention and consciousness are dissociable: blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. This dissociation has important implications for Stapp's mechanism.
 
 If attention *were* consciousness—as some functionalist theories claim—then "attention as observation" would be circular: consciousness would just be another physical process. But the dissociation evidence suggests attention is the *mechanism* that consciousness *uses*, not consciousness itself. This is exactly what Stapp's proposal requires: a non-physical subject (consciousness) deploying a physical mechanism (attention) to influence quantum outcomes. The dissociation evidence supports rather than undermines the quantum Zeno approach.
+
+The [[attention-as-interface|attention as interface hypothesis]] formalizes this insight. Attention serves as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates. The hypothesis identifies candidate selection sites (frontoparietal networks, posterior hot zone, ion channels, microcolumns, and potentially microtubules), specifies bandwidth constraints (~10 bits/second), and explains why consciousness can only influence what it attends to. This transforms Stapp's proposal from a general framework into a specific research program with testable predictions and falsification conditions.
 
 **Phenomenological match**: The [[mental-effort|phenomenology of mental effort]]—documented by William James and confirmed by Daniel Kahneman's cognitive psychology—fits Stapp's mechanism remarkably well. James observed that "sustained voluntary attention is a repetition of successive efforts." This is exactly what the quantum Zeno mechanism predicts: each "observation" is an effort, and sustained attention requires repeated efforts. The fact that attention *feels* effortful makes sense if it genuinely requires continuous mental engagement.
 
@@ -257,6 +260,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 - [[psychophysical-coupling-law]] — What a coupling law between mind and physics must specify
 - [[interface-locality]] — Why consciousness can only select quantum outcomes in its own brain
+- [[attention-as-interface]] — Formalizes attention as the interface layer for consciousness-matter interaction
 - [[many-worlds]] — Why the site rejects the many-worlds interpretation
 - [[mental-causation]] — Why quantum consciousness theories address the exclusion problem
 - [[causal-closure]] — The principle that quantum indeterminacy allows consciousness to challenge

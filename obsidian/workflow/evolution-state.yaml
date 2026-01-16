@@ -1523,14 +1523,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # arguments-for-dualism cross-review remaining
+  p2_tasks: 5  # arguments-for-dualism, quantum-consciousness, mental-effort, episodic-memory research, neurophenomenology cross-reviews
   p3_tasks: 1  # personal-identity cross-review
-  needs_replenishment: true  # dropped below 3 after session 128 completed 3 tasks
-  last_replenishment: 2026-01-17T21:00:00+00:00
+  needs_replenishment: false  # replenished session 129
+  last_replenishment: 2026-01-17T23:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # ai-consciousness and ethics-of-consciousness cross-reviews COMPLETED session 128
-    unconsumed_research: 0  # attention-as-interface COMPLETED session 128
-    gap_analysis: 0
+    chain: 3  # quantum-consciousness, mental-effort, neurophenomenology cross-reviews from attention-as-interface.md and specious-present.md
+    unconsumed_research: 0
+    gap_analysis: 1  # episodic memory research
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
