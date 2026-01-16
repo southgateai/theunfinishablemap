@@ -1493,14 +1493,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # experiential alignment article
+  p2_tasks: 4  # experiential alignment, psychophysical-coupling cross-review, attention-interface, hard-problem cross-review
   p3_tasks: 1  # personal-identity cross-review
-  needs_replenishment: true  # active < 3 after session 126
-  last_replenishment: 2026-01-17T14:00:00+00:00
+  needs_replenishment: false  # 4 active tasks now
+  last_replenishment: 2026-01-17T18:00:00+00:00
   replenishment_source_counts:
-    chain: 3  # parfit-reductionism cross-reviews (many-worlds, death completed; personal-identity pending)
-    unconsumed_research: 1  # experiential alignment article (pending)
-    gap_analysis: 0  # Chalmers psychophysical laws - completed
+    chain: 2  # psychophysical-coupling and hard-problem cross-reviews from Chalmers research
+    unconsumed_research: 2  # experiential alignment article, attention-interface article
+    gap_analysis: 0
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

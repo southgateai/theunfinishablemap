@@ -43,6 +43,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-17
 
+### P2: Cross-review psychophysical-coupling-law.md with Chalmers research
+- **Type**: cross-review
+- **Notes**: New research in research/chalmers-psychophysical-laws-2026-01-17.md provides detailed treatment of Chalmers-McQueen (2022) quantum psychophysical laws including super-resistance principle, downward vs upward direction distinction, and organizational invariance critique. Enhance existing page with this deeper engagement.
+- **Source**: chain (from chalmers-psychophysical-laws research)
+- **Generated**: 2026-01-17
+
+### P2: Create article on attention as interface hypothesis
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-as-interface-hypothesis-2026-01-16.md. Formalizes site's implicit position that attention mediates consciousness-to-matter causation. Includes candidate selection sites, relation to GWT/IIT/PP, testable predictions. Would strengthen the mechanism story.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-17
+
+### P2: Cross-review hard-problem-of-consciousness.md with Chalmers three principles
+- **Type**: cross-review
+- **Notes**: The hard problem topic references Chalmers but doesn't engage deeply with his three principles (structural coherence, organizational invariance, double-aspect information). Research in chalmers-psychophysical-laws-2026-01-17.md provides foundation for richer engagement.
+- **Source**: chain (from chalmers-psychophysical-laws research)
+- **Generated**: 2026-01-17
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.

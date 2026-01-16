@@ -1,9 +1,9 @@
 ---
 title: "The Psychophysical Coupling Law"
 created: 2026-01-16
-modified: 2026-01-16
+modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T01:00:00+00:00
+ai_modified: 2026-01-17T18:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,10 +14,14 @@ concepts:
   - "[[mental-causation]]"
   - "[[attention]]"
   - "[[interactionist-dualism]]"
+  - "[[functionalism]]"
+  - "[[haecceity]]"
+  - "[[integrated-information-theory]]"
 related_articles:
   - "[[tenets]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
+  - "[[chalmers-psychophysical-laws-2026-01-17]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -40,13 +44,46 @@ A psychophysical coupling law would specify:
 
 Without answers to these questions, "consciousness selects" is promissory—a placeholder for a theory not yet articulated.
 
-## Chalmers on Psychophysical Laws
+## Chalmers' Framework for Psychophysical Laws
 
-Chalmers proposes that consciousness is ontologically fundamental, requiring psychophysical laws to bridge phenomenal and physical domains. Where we have new fundamental properties, we need new fundamental laws specifying how they relate.
+Chalmers proposes that consciousness is ontologically fundamental, requiring psychophysical laws to bridge phenomenal and physical domains. Just as physics has fundamental laws relating mass, charge, and spacetime, a complete theory requires psychophysical laws relating phenomenal and physical properties.
 
-Chalmers' principle of organizational invariance holds that two systems with identical fine-grained functional organization have qualitatively identical experiences. This constrains what psychophysical laws can look like—they must respect functional structure.
+### The Three Principles
 
-However, Chalmers' psychophysical laws primarily concern the *upward* direction: which physical states produce which experiences. The site needs laws for the *downward* direction: which conscious states produce which physical selections. This is where the coupling law becomes essential.
+Chalmers proposes three psychophysical principles in "Facing Up to the Problem of Consciousness" (1995):
+
+**1. Structural Coherence**: The structure of conscious experience corresponds to the structure of cognitive awareness. The three-dimensional structure of color space maps onto three-dimensional wavelength analysis. This constrains but doesn't exhaust experience—inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
+
+**2. Organizational Invariance**: Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical silicon shouldn't fade experience without detection.
+
+**3. Double-Aspect Information**: Information has both physical and phenomenal aspects. The phenomenal aspect is information's intrinsic nature; the physical aspect is its extrinsic, relational properties. This suggests even simple information processing systems might have simple experiences—approaching panpsychism from information theory.
+
+### The Site's Divergence from Organizational Invariance
+
+The site's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The site's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
+
+### Upward vs. Downward Direction
+
+Crucially, Chalmers' psychophysical laws are primarily *upward* laws: they specify which physical states produce which experiences. The physical state is input; the phenomenal state is output.
+
+The site needs laws for the *downward* direction: which conscious states produce which physical selections. The physical state is output; the phenomenal state (attention, intention, effort) is input. This is where the coupling law becomes essential—it specifies the causal arrow Chalmers' framework leaves underspecified.
+
+### Chalmers and McQueen: Quantum Psychophysical Laws
+
+In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and McQueen develop a quantum version of psychophysical laws combining Integrated Information Theory with continuous spontaneous localization (CSL) collapse theory.
+
+**The Super-Resistance Principle**: Consciousness resists superposition. Systems with high integrated information don't remain in superpositions of distinct conscious states—they collapse to definite states. This addresses why distinct conscious states don't superpose: consciousness itself prevents such superpositions through coupling to collapse dynamics.
+
+**Five Constraints on Dualist Psychophysical Laws**:
+1. Experiences must cause physical effects
+2. No observable violations of causal closure
+3. Avoid overdetermination
+4. Specify how physical states yield experiences
+5. Ensure functional duplication preserves phenomenology
+
+The quantum framework addresses constraints (1) and (2) elegantly: consciousness causes collapse (affecting physical outcomes) without violating closure (collapse is physically underdetermined, leaving room for mental causation).
+
+**Site's position on Chalmers-McQueen**: Their framework is the most sophisticated recent development in consciousness-collapse theories. However, the site prefers Stapp's attention-based mechanism over IIT-based measures for two reasons: (a) IIT's phi measure faces the "wrong results" objection (attributing high consciousness to systems that seem unconscious), and (b) attention provides a phenomenologically grounded variable that maps directly to what we experience as mental effort. The super-resistance principle itself is compatible with Stapp's framework—it explains why conscious states don't superpose regardless of which psychophysical law governs the coupling.
 
 ## Stapp's Selection Mechanism
 
@@ -184,7 +221,9 @@ The site cannot resolve which coupling law is correct—this is an open empirica
 
 ## References
 
-1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
-2. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-3. Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*.
-4. Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/
+1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
+2. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
+3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+4. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+5. Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*.
+6. Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/
