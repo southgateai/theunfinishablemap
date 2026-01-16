@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-15 12:00:00+00:00
+ai_modified: 2026-01-17 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[libet-experiments-free-will-2026-01-07]]'
+- '[[luck-objection-libertarian-free-will-2026-01-17]]'
 title: Free Will and Determinism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -78,6 +79,39 @@ This preserves a role for consciousness but shifts it from initiation to selecti
 Classical physics is deterministic, but quantum mechanics isn't. Before measurement, particles exist in superposition—multiple possibilities coexisting. Measurement collapses the superposition to a definite outcome, but which outcome occurs isn't determined by prior physical states.
 
 Does this help? Critics argue quantum randomness doesn't give us free will—it gives us random will. Random choices aren't more "free" than determined ones; they're just arbitrary.
+
+This intuition has been developed into what philosophers call the **luck objection**—and addressing it is essential for any quantum approach to free will.
+
+### The Luck Objection
+
+Peter van Inwagen's "rollback argument" makes the luck challenge vivid. Imagine replaying time after an agent chooses action A at time t. Since the choice was undetermined, different outcomes appear across replays—sometimes A, sometimes B. But if the agent was identical in each replay up to the moment of decision, whatever explains the difference can't be anything about the agent. The difference is pure luck—like a die roll.
+
+Alfred Mele sharpens this into two distinct problems:
+
+**Present luck**: At the moment of decision, nothing about the agent explains why one option was chosen over another. Two possible worlds identical up to that moment diverge arbitrarily.
+
+**Remote luck**: Even if the agent sources a decision, their character and dispositions were shaped by factors they didn't choose. The agent's causal powers are ultimately products of luck in their formation.
+
+Present luck is the more devastating challenge for libertarianism specifically. Remote luck affects compatibilists too—everyone's character has unchosen origins. But present luck seems unique to indeterminism: if the choice is undetermined at the moment, what makes it *the agent's* rather than a random fluctuation?
+
+### Why the Site's Framework Escapes Luck
+
+Standard quantum indeterminism is genuinely random—outcomes within probabilities occur without explanation. But the site proposes that consciousness *selects* outcomes rather than merely receiving them. This is a different relationship to indeterminacy:
+
+| Feature | Lucky Indeterminism | Consciousness-Selected Indeterminism |
+|---------|---------------------|--------------------------------------|
+| What determines outcome | Nothing (pure chance) | The agent, based on reasons |
+| Phenomenology | None | Effort, engagement |
+| Contrastive explanation | Unavailable | Agent's reasons |
+| Agent's relationship | Passive recipient | Active selector |
+
+If selection is genuine, the luck objection fails. The agent explains the difference: the agent selected this outcome for reasons. The selection isn't arbitrary because it reflects what matters to the agent.
+
+The [phenomenology of effort](/concepts/mental-effort/) supports this picture. If choices were random fluctuations, there would be no phenomenology of effort—random processes don't feel like work. But choosing feels effortful. The felt cost of concentration corresponds to real causal engagement by the agent.
+
+Furthermore, selection is reasons-guided, not arbitrary. Consciousness selects A because A serves goals, expresses values, responds to considerations that matter. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome—alternative possibilities remained genuine—but they *guided* it.
+
+Critics might press: even if consciousness "selects," what explains why consciousness selected A rather than B? The [agent-causal](/concepts/agent-causation/) response: the agent's exercise of causal power *is* the explanation. Asking what explains the agent's selection presupposes event-causal reduction. If agent causation is sui generis, the explanatory buck stops at the agent.
 
 But this assumes consciousness has no role in determining which outcome occurs. The site's framework proposes something different.
 

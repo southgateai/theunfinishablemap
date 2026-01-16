@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T02:00:00+00:00
+ai_modified: 2026-01-16T16:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,26 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Add "coherence inflation" countermeasures to the site’s generation workflow
-
-* **Type**: build-tool
-* **Notes**: Because the site is intentionally a single worldview expressed as fact and heavily AI-generated, add hard constraints: (1) per-claim confidence metadata, (2) mandatory steelman sections for key opponents, (3) provenance tagging for empirical claims, (4) periodic external red-team reviews, (5) detection of circular citation loops across pages.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: risk_assessment
-* **Generated**: 2026-01-15
-
-### P2: Create a “Voids safety protocol” for exploring occluded/unexplorable topics with LLMs
-
-* **Type**: meta-method
-* **Notes**: If “voids” includes the occluded/unthinkable, the project needs explicit safety rails: avoid memetic hazards, coercive ideology traps, and psychologically destabilizing content; separate exploratory speculation from endorsed claims; require human review gates; define stop conditions. Make the protocol public so readers understand the epistemic status of voids content.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: risk_assessment
-* **Generated**: 2026-01-15
-
-### P2: Create concept page on prebiotic collapse / collapse before minds
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what selected outcomes before observers existed? Five major responses surveyed. Would strengthen No Many Worlds and Minimal Quantum Interaction tenets by addressing this common objection.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-17
-
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
@@ -82,6 +62,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Create concept page on prebiotic collapse / collapse before minds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what selected outcomes before observers existed? Five major responses surveyed. Would strengthen No Many Worlds and Minimal Quantum Interaction tenets by addressing this common objection.
+- **Result**: Created ~2000 word concept page covering the prebiotic collapse problem, five major responses (Wheeler's participatory universe, panpsychism, objective reduction, decoherence naturalization, Stapp's panexperientialism). Commits site to objective-reduction-with-consciousness-modulation position. Explains how this preserves all tenets while solving the prebiotic problem.
+- **Output**: `concepts/prebiotic-collapse.md`
+
+### ✓ 2026-01-16: Add coherence inflation countermeasures to generation workflow
+- **Type**: build-tool
+- **Notes**: Because the site is intentionally a single worldview expressed as fact and heavily AI-generated, add hard constraints: (1) per-claim confidence metadata, (2) mandatory steelman sections for key opponents, (3) provenance tagging for empirical claims, (4) periodic external red-team reviews, (5) detection of circular citation loops across pages.
+- **Result**: Created comprehensive protocol document with seven countermeasures: confidence stratification, mandatory steelman sections, provenance tagging, external red-team reviews, circular citation detection, freshness tracking, and explicit uncertainty propagation. Includes implementation details for workflow integration.
+- **Output**: `project/coherence-inflation-countermeasures.md`
+
+### ✓ 2026-01-16: Create Voids safety protocol
+- **Type**: meta-method
+- **Notes**: If "voids" includes the occluded/unthinkable, the project needs explicit safety rails: avoid memetic hazards, coercive ideology traps, and psychologically destabilizing content; separate exploratory speculation from endorsed claims; require human review gates; define stop conditions.
+- **Result**: Created safety protocol with seven principles: clear epistemic labeling, content boundaries (prohibited and boundary cases), exploration/endorsement separation, human review gates, exit paths, stop conditions, and no "hidden truth" framing. Includes reader notice for voids section.
+- **Output**: `project/voids-safety-protocol.md`
 
 ### ✓ 2026-01-17: Create concept page on QM interpretations
 - **Type**: expand-topic
