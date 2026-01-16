@@ -3,7 +3,7 @@ title: "Arguments for Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-17T01:45:00+00:00
+ai_modified: 2026-01-17T23:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[arguments-for-dualism-positive-case-2026-01-14]]"
   - "[[epistemic-advantages-of-dualism]]"
+  - "[[cognitive-science-dualism-2026-01-15]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -104,6 +105,38 @@ Richard Swinburne argues from the logical possibility of disembodied existence:
 3. Therefore, I am a non-physical substance
 
 What makes you *you* is not any qualitative property—not your memories, personality, or body—but what Swinburne calls "thisness": your individual identity as this particular subject. Bodies can be duplicated; you cannot be. This suggests personal identity is grounded in something beyond the physical.
+
+## The "Folk Error" Objection
+
+Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown, like folk physics was superseded by Newton. Cognitive science provides a surprising response: the evidence is far more complex than this dismissal suggests.
+
+### The Debate in Cognitive Science
+
+Paul Bloom's *Descartes' Baby* (2004) argued humans are "natural-born dualists"—from infancy, we process physical objects and mental agents through distinct cognitive systems, making it easy to conceive of minds without bodies. If true, dualism might be dismissed as an artifact of cognitive architecture rather than a discovery about reality.
+
+But recent cross-cultural research challenges this. Barrett et al. (2021) conducted the most comprehensive study, sampling six populations including non-Western societies with diverse belief systems. Their key finding: "Most responses of most participants across all cultures were *not* dualist." They conclude that while dualist thinking is possible for human minds, it doesn't represent a cognitive default. The underlying intuitive systems for reasoning about minds and death produce, by default, judgments closer to **intuitive materialism**—the view that mental states cease with bodily death.
+
+Other researchers (Barlev & Shtulman 2021, Berent et al. 2024) argue that conceptions of disembodied beings develop slowly through learning rather than expressing innate bias. If dualism is learned rather than innate, it can't be dismissed as naive intuition but must be treated as a reflective position people arrive at.
+
+### Why This Doesn't Undermine Dualism
+
+The cognitive science is neutral on whether dualism is *true*—it only addresses whether dualism is *natural*. Several points weaken the "folk error" objection:
+
+**Cognitive naturalness doesn't determine metaphysical truth.** Folk physics fails at quantum scales but is largely accurate for everyday objects. Even if dualism is cognitively natural, it might capture something real. Even if it isn't cognitively natural, it might still be true.
+
+**The objection cuts both ways.** If cognitive naturalness disqualifies beliefs, then intuitive materialism (Barrett et al.'s proposed default) would also be suspect. Why trust evolved intuitions about death and continuity either direction?
+
+**Explaining the belief doesn't explain the explanandum.** Even if we fully account for *why* people believe in dualism cognitively, this doesn't address the hard problem of consciousness. The experiential reality that generates dualist intuitions remains unexplained.
+
+**Philosophical arguments stand independently.** The conceivability argument, knowledge argument, and arguments from qualia and unity don't rest on folk intuitions—they rest on philosophical analysis that can be evaluated regardless of whether dualism comes naturally.
+
+| Researcher | Finding | Implication |
+|------------|---------|-------------|
+| Bloom (2004) | Innate dualism from separate systems | Dualism might be folk error |
+| Barrett et al. (2021) | Intuitive materialism is default | Dualism not cognitively universal |
+| Barlev & Shtulman (2021) | Dualism is learned, not innate | Can't dismiss as naive intuition |
+
+The mixed evidence suggests treating cognitive science as informative about human psychology while maintaining that consciousness's irreducibility is a philosophical conclusion to be evaluated on its merits, not explained away by its cognitive origins.
 
 ## The Parsimony Objection
 
