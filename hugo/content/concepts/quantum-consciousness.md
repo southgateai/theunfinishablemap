@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-15 23:00:00+00:00
+ai_modified: 2026-01-17 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,8 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[emergence]]'
+- '[[psychophysical-coupling-law]]'
+- '[[interface-locality]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -27,6 +29,7 @@ related_articles:
 - '[[quantum-consciousness-mechanisms-2026-01-08]]'
 - '[[many-worlds]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
+- '[[prebiotic-collapse]]'
 title: Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -113,6 +116,17 @@ If attention *were* consciousness—as some functionalist theories claim—then 
 
 **Orthodox physics**: Stapp argues his proposal follows directly from von Neumann's formulation of quantum mechanics. No speculative new physics is needed—just taking the measurement problem seriously.
 
+### The Coupling Law Requirement
+
+Saying "consciousness selects quantum outcomes" isn't enough. What aspects of consciousness map to what physical selections? The [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) page articulates this problem precisely. A coupling law would specify:
+
+- **Mental variables**: Attention? Intention? Effort? Valence?
+- **Physical variables**: Individual outcomes? Probability weights? Basis choice?
+- **Bandwidth**: How much information per unit time? (~10 bits/second, matching conscious processing limits)
+- **Scope constraints**: What is *not* selectable? ([Interface-locality](/concepts/interface-locality/) answers this)
+
+Four candidate coupling laws emerge: attention-bounded selection (James-Stapp), policy-level selection (Libet-style veto power), basis-choice selection (choosing questions not answers), and indexical selection (determining which outcome is "this one"). Specifying the coupling law transforms "consciousness selects" from metaphor into research program.
+
 ### Tenet Alignment
 
 Stapp's approach may be the closest match to the site's tenets. It explicitly describes consciousness biasing indeterminate outcomes without violating conservation laws, at the quantum level where physics leaves room.
@@ -158,6 +172,26 @@ Despite differences, quantum consciousness theories agree on several points:
 4. **Many Worlds is rejected.** These theories assume collapse is real—outcomes are genuinely selected, not merely branched into. See the [argument against many-worlds](/arguments/many-worlds/) for why this matters: MWI eliminates the role for consciousness by having all outcomes occur, making consciousness epiphenomenal with respect to quantum events.
 
 These shared features align with the site's tenets.
+
+## The Prebiotic Collapse Problem
+
+A serious objection to consciousness-collapse theories: if consciousness is required for collapse, what determined outcomes before conscious observers existed? Stars formed, chemistry proceeded, mutations accumulated—all before the first mind. This [prebiotic collapse problem](/concepts/prebiotic-collapse/) threatens to make quantum consciousness theories cosmologically incoherent.
+
+The site resolves this by separating two claims:
+
+1. **Collapse is real.** The universe has a single actual history with definite quantum outcomes, not an eternal superposition of all possibilities. This is the [No Many Worlds](/tenets/#no-many-worlds) commitment.
+
+2. **Consciousness interfaces with collapse in brains.** Neural systems provide the interface where consciousness biases outcomes. But this doesn't require consciousness to cause *all* collapse.
+
+The resolution: **objective reduction with consciousness modulation**. Physical mechanisms (Penrose-style gravitational collapse, GRW spontaneous localization, or some unknown process) provide the baseline—collapse happens throughout the universe without observers. What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing—particularly where [neural pattern selection](/questions/consciousness-selecting-neural-patterns/) matters—consciousness biases which outcomes become actual.
+
+This preserves:
+- Prebiotic cosmology (stars and chemistry didn't wait for minds)
+- Bidirectional interaction (consciousness still affects physical outcomes in brains)
+- Real collapse (one history becomes actual)
+- Minimal quantum interaction (consciousness operates at indeterminacies)
+
+The prebiotic problem thus doesn't refute quantum consciousness theories—it refines them, clarifying that consciousness is not the *sole* source of collapse but a participant in collapse processes where the right neural interfaces exist.
 
 ## Time-Symmetric Interpretations: Atemporal Selection
 
@@ -222,6 +256,8 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — What a coupling law between mind and physics must specify
+- [interface-locality](/concepts/interface-locality/) — Why consciousness can only select quantum outcomes in its own brain
 - [many-worlds](/arguments/many-worlds/) — Why the site rejects the many-worlds interpretation
 - [mental-causation](/concepts/mental-causation/) — Why quantum consciousness theories address the exclusion problem
 - [causal-closure](/concepts/causal-closure/) — The principle that quantum indeterminacy allows consciousness to challenge
@@ -233,6 +269,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 - [decoherence](/concepts/decoherence/) — Full treatment of why decoherence doesn't rule out quantum consciousness
 - [retrocausality](/concepts/retrocausality/) — Another quantum approach to consciousness-physics interface
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may be constitutive of temporal structure
+- [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the site resolves the "collapse before minds" problem
 - [locality](/concepts/locality/) — Addresses spatial objections to quantum consciousness
 - [tenets](/tenets/) — The site's foundational commitments
 - [quantum-consciousness-mechanisms-2026-01-08](/research/quantum-consciousness-mechanisms-2026-01-08/) — Detailed research notes
