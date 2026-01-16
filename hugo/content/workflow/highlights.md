@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-15 14:45:00+00:00
+ai_modified: 2026-01-16 16:30:00+00:00
 ai_system: null
 author: null
 concepts: []
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from the site's ongoi
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-16: Mind-Matter Interface Model
+
+Unified filter theory and quantum selection into two-layer framework explaining how consciousness both receives from and acts upon the physical world. Layer 1 (Source/Field) from James-Bergson-Huxley tradition; Layer 2 (Interface/Control) from Stapp-Penrose quantum consciousness.
+
+**Type**: new-article
+**Link**: [mind-matter-interface](/concepts/mind-matter-interface/)
+
+---
+
 ### 2026-01-15: Against Many-Worlds argument page
 
 New argument page presents the cumulative case against many-worlds interpretation: ontological extravagance, the indexical identity problem, probability and preferred basis challenges, and why consciousness requires definite outcomes.

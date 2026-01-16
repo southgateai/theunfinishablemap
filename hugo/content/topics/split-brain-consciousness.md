@@ -1,18 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 14:30:00+00:00
+ai_modified: 2026-01-16 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[binding-problem]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[qualia]]'
+- '[[haecceity]]'
+- '[[consciousness-selecting-neural-patterns]]'
 created: 2026-01-14
-date: &id001 2026-01-14
+date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-16 12:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,11 +42,13 @@ This picture—of consciousness literally splitting in two—captured the scient
 
 ## The Resilience of Unity
 
-A November 2025 PNAS study offers surprising findings. Using fMRI to examine network brain activity in callosotomy patients, researchers discovered that only a small bundle of intact corpus callosum fibers—as little as a centimeter—can maintain full synchronization between hemispheres. One patient with minimal preserved fibers showed normal brain function.
+A November 2025 PNAS study from UC Santa Barbara offers surprising findings. Using fMRI to examine network brain activity in callosotomy patients, researchers discovered that only a small bundle of intact corpus callosum fibers—as little as a centimeter—can maintain full synchronization between hemispheres. As Professor Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony."
 
-The brain, it seems, can reorganize and reroute connections through alternative pathways. Even more significantly, 2017 research from the University of Amsterdam found that split-brain patients could report having seen shapes presented to either visual field, both verbally and by pointing with either hand. A 2020 review summarizes: "perception appears to be more split, while responding remains largely unified."
+In one patient, researchers found the brain had reorganized itself in the years following surgery—networks rerouted from the front of the brain to the back, crossing over on a small ribbon of intact corpus callosum. This challenges classical models that predicted specific deficits based on which portions were severed. More strikingly, it challenges the widely held notion that tightly synchronized brain areas must be directly connected.
 
-This has led to a "layered unity" model: split-brain cases show divided perception at local levels but preserved unity at higher, global levels of consciousness.
+The 2017 research from the University of Amsterdam adds another layer: split-brain patients could report having seen shapes presented to either visual field, both verbally and by pointing with either hand. A 2020 review summarizes: "perception appears to be more split, while responding remains largely unified."
+
+This has led to a "layered unity" model: split-brain cases show divided perception at local levels but preserved unity at higher, global levels of consciousness. Consciousness, it seems, has its own resilience—it resists fragmentation even when the brain is divided.
 
 ## Nagel's Indeterminacy Thesis
 
@@ -87,6 +92,8 @@ If consciousness can exhibit this kind of partial division, what individuates su
 - **Biological continuity** identifies the person with the body—but the brain is divided
 - **Non-physical persistence** faces its own puzzle—which hemisphere "gets" the soul?
 
+The concept of [haecceity](/concepts/haecceity/)—"thisness," the non-qualitative property of being *this* particular subject—becomes relevant here. If what makes you *you* is not reducible to qualitative features (memories, psychology, neural patterns), then split-brain cases may show that haecceity can partially persist through division. Both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person despite experiencing perceptual division. Alternatively, haecceity may be more resilient to physical division than psychological features—consciousness's "thisness" remaining unified even when its content divides.
+
 ## What Split-Brain Cases Support
 
 ### They Don't Settle the Dualism/Materialism Debate
@@ -123,7 +130,9 @@ If consciousness can divide within one body, does this support the kind of subje
 
 ### Bidirectional Interaction Tenet
 
-If consciousness influences physical outcomes through mechanisms like the [quantum Zeno effect](/concepts/mental-effort/), what happens when the brain divides? Would two independent conscious streams each influence their hemisphere? The resilience of unity—even with minimal connections—suggests consciousness may naturally tend toward integration rather than fragmentation. Perhaps the non-physical aspect of mind maintains unity even when physical connections are severed.
+If consciousness influences physical outcomes through mechanisms like the [quantum Zeno effect](/concepts/mental-effort/), what happens when the brain divides? Would two independent conscious streams each influence their hemisphere? The [selection mechanism](/questions/consciousness-selecting-neural-patterns/) operates through attention, which is neurally implemented. In split-brain patients, attention networks in each hemisphere might operate semi-independently, yet the persistence of response unity suggests something coordinates selection across the divide.
+
+The resilience of unity—even with minimal connections—suggests consciousness may naturally tend toward integration rather than fragmentation. Perhaps the non-physical aspect of mind maintains unity even when physical connections are severed. If consciousness selects among neural patterns, the "selector" may be singular even when the patterns being selected are divided across hemispheres.
 
 ### Minimal Quantum Interaction Tenet
 
@@ -142,10 +151,12 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 ### Site Content
 - [binding-problem](/concepts/binding-problem/) — How distributed processes combine into unified experience
 - [personal-identity](/topics/personal-identity/) — What makes you *you* across time
+- [haecceity](/concepts/haecceity/) — The "thisness" that individuates subjects
+- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How consciousness selects among neural possibilities
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanation seems to leave consciousness unexplained
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — What neuroscience reveals about consciousness
 
 ### External Sources
 - Thomas Nagel, "Brain Bisection and the Unity of Consciousness" (1971)
 - Pinto et al., "Split brain: divided perception but undivided consciousness" (2017)
-- Miller et al., PNAS study on minimal fiber connections (2025)
+- Miller et al., "[New findings in split-brain science: Even minimal fiber connections can unify consciousness](https://news.ucsb.edu/2025/022246/new-findings-split-brain-science-even-minimal-fiber-connections-can-unify-consciousness)" PNAS (2025)

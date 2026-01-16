@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 01:00:00+00:00
+ai_modified: 2026-01-16 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,35 +38,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Unify "filter/transmission" and "quantum selection" into a single model
-
-* **Type**: expand-topic
-* **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic, and what empirical patterns would discriminate “production” vs “interface” vs “hybrid” models. Prevent the framework reading like two separate explanations.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: coherence_work
-* **Generated**: 2026-01-15
-
-### P2: Create “Ethics of consciousness” as a core topic (animals, AI, uploads, simulations)
-
-* **Type**: expand-topic
-* **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy (“act cautiously under consciousness uncertainty”), simulation ethics under dualism, and why “copying a person” is not “saving them” but may still create morally significant experiences (if any).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: gap_analysis
-* **Generated**: 2026-01-15
-
-### P2: Build an explicit “testability ledger” for the framework
-
-* **Type**: meta-method
-* **Notes**: Several pages say the framework is falsifiable, but test hooks are diffuse. Create a central ledger: what observations would update against dualism, against quantum interface, against retrocausal repair, against filter theory? Separate (a) decisive disconfirmers, (b) weak evidence, (c) non-evidence. This also guards against unfalsifiability accusations.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: epistemic_hygiene
-* **Generated**: 2026-01-15
-
-### P2: Strengthen engagement with alternative QM interpretations beyond MWI (and show compatibility/incompatibility)
-
-* **Type**: research-topic
-* **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs “collapse is epistemic only.”  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: gap_analysis
-* **Generated**: 2026-01-15
-
-### P2: Formalize the “attention as interface” hypothesis into a mechanistic research agenda
+### P2: Formalize the "attention as interface" hypothesis into a mechanistic research agenda
 
 * **Type**: research-topic
 * **Notes**: Attention is treated as dissociable from consciousness and as the likely control surface for mind→brain influence. Convert into actionable questions: which neural correlates of attention are candidates for “selection sites”? What is the relationship to global workspace / predictive processing / IIT? What would count as evidence that attention is more than computation here?  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
@@ -94,17 +66,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 * **Source**: latent_inference
 * **Generated**: 2026-01-15
 
-### P2: Create concept page for consciousness-selecting-neural-patterns
-- **Type**: expand-topic
-- **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-13
-
-### P2: Deep review split-brain-consciousness.md for currency
-- **Type**: deep-review
-- **Notes**: AI-generated content from session 47 that hasn't received a deep review. Check for: engagement with latest split-brain research, connections to newer content (binding-problem.md, personal-identity.md), tenet alignment strength.
-- **Source**: staleness
-- **Generated**: 2026-01-16
 
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
@@ -131,6 +92,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Build testability ledger for the framework
+- **Type**: meta-method
+- **Notes**: Several pages say the framework is falsifiable, but test hooks are diffuse. Create a central ledger: what observations would update against dualism, against quantum interface, against retrocausal repair, against filter theory? Separate (a) decisive disconfirmers, (b) weak evidence, (c) non-evidence. This also guards against unfalsifiability accusations.
+- **Result**: Created comprehensive testability ledger covering all five tenets plus filter theory and retrocausality. For each claim: decisive disconfirmers, weak evidence against, weak evidence for, and non-evidence. Summary table with current assessment of each claim's vulnerability.
+- **Output**: `project/testability-ledger.md`
+
+### ✓ 2026-01-16: Create Ethics of consciousness as a core topic
+- **Type**: expand-topic
+- **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy, simulation ethics under dualism, and why "copying a person" is not "saving them."
+- **Result**: Created ~3000 word topic page covering foundation of consciousness-based ethics, moral patienthood (who counts), moral uncertainty (precautionary principle vs weighted consideration), animal ethics, AI ethics, identity ethics (copies, uploads, simulations), and suffering as moral core. Connected to all five tenets.
+- **Output**: `topics/ethics-of-consciousness.md`
+
+### ✓ 2026-01-16: Unify filter/transmission and quantum selection into a single model
+- **Type**: expand-topic
+- **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic.
+- **Result**: Created ~2400 word concept page proposing unified two-layer model: Layer 1 (Source/Field) from filter theory, Layer 2 (Interface/Control) from quantum selection. Explains how layers connect, what each explains, empirical discriminators, and objections/responses. The unified model implements all five tenets.
+- **Output**: `concepts/mind-matter-interface.md`
+
+### ✓ 2026-01-16: Research QM interpretations beyond MWI
+- **Type**: research-topic
+- **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs "collapse is epistemic only."
+- **Result**: Comprehensive research covering 6 major interpretations (Copenhagen, Bohmian, QBism, relational QM, TI/TSVF, GRW/CSL). Key finding: TI/TSVF align strongly with site's retrocausality framework. Bohmian mechanics conflicts with free will phenomenology. QBism is agent-centered but anti-realist. Provides recommendations for site positioning.
+- **Output**: `research/qm-interpretations-beyond-mwi-2026-01-16.md`
+
+### ✓ 2026-01-16: Deep review split-brain-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content from session 47 that hasn't received a deep review. Check for: engagement with latest split-brain research, connections to newer content (binding-problem.md, personal-identity.md), tenet alignment strength.
+- **Result**: Enhanced with 2025 PNAS study specifics (Prof. Miller quotes), added haecceity concept for identity puzzle framing, connected consciousness-selecting-neural-patterns mechanism to Bidirectional Interaction section, added hyperlinks to latest research sources.
+- **Output**: Updated `topics/split-brain-consciousness.md`
+
+### ✓ 2026-01-16: Create concept page for consciousness-selecting-neural-patterns
+- **Type**: expand-topic
+- **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
+- **Result**: Created ~2000 word concept page covering candidate selection sites (microtubules, ion channels, microcolumns, attention networks), bandwidth constraints (~10 bits/sec), brain specialness boundary, selection vs randomness distinction, four candidate constraint families. Connected to Minimal Quantum Interaction, Bidirectional Interaction, and Dualism tenets.
+- **Output**: `concepts/consciousness-selecting-neural-patterns.md`
 
 ### ✓ 2026-01-17: Cross-review decoherence.md with quantum biology research
 - **Type**: cross-review

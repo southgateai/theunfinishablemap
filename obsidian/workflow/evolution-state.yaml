@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T14:00:00+00:00
-session_count: 108
+last_updated: 2026-01-16T16:30:00+00:00
+session_count: 109
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 140  # +1 concept (consciousness-selecting-neural-patterns), +1 research (qm-interpretations) (session 108)
-  published_files: 100  # +1 consciousness-selecting-neural-patterns
+  total_files: 143  # +1 concept (mind-matter-interface), +1 topic (ethics-of-consciousness), +1 project (testability-ledger) (session 109)
+  published_files: 103  # +1 mind-matter-interface, +1 ethics-of-consciousness, +1 testability-ledger
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 11  # unchanged
-  concepts_written: 57  # +1: consciousness-selecting-neural-patterns (session 108)
+  topics_written: 12  # +1: ethics-of-consciousness (session 109)
+  concepts_written: 58  # +1: mind-matter-interface (session 109)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 3
-  research_notes: 66  # +1: qm-interpretations (session 108)
-  reviews_completed: 144  # +1: split-brain deep-review (session 108)
+  research_notes: 66  # unchanged
+  reviews_completed: 144  # unchanged
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (mind-matter-interface)
+    date: 2026-01-16
+    result: success
+    session: 109
+    note: Unified filter theory and quantum selection into two-layer model. Layer 1 (Source/Field) explains correlation without production; Layer 2 (Interface/Control) explains causal efficacy. Implements all five tenets.
+  - task: expand-topic (ethics-of-consciousness)
+    date: 2026-01-16
+    result: success
+    session: 109
+    note: Core topic consolidating moral patienthood, animal ethics, AI ethics, identity ethics (copies/uploads/simulations), moral uncertainty, and suffering as moral core. Connected to all tenets.
+  - task: meta-method (testability-ledger)
+    date: 2026-01-16
+    result: success
+    session: 109
+    note: Epistemic hygiene document tracking decisive disconfirmers, weak evidence, and non-evidence for each tenet. Summary table with current vulnerability assessment.
   - task: research-topic (qm-interpretations-beyond-mwi)
     date: 2026-01-16
     result: success
@@ -1268,9 +1283,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 6  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, attention-interface, coherence-inflation, voids-safety, time-collapse-agency
+  p2_tasks: 4  # attention-interface, coherence-inflation, voids-safety, time-collapse-agency
   p3_tasks: 4  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
-  needs_replenishment: false  # 6 active P0-P2 tasks
+  needs_replenishment: false  # 4 active P0-P2 tasks
   last_replenishment: 2026-01-16T02:00:00+00:00
   replenishment_source_counts:
     chain: 3  # quantum-biology concept, decoherence cross-review, materialism cross-review (session 101)

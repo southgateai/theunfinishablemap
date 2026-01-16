@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T13:30:00+00:00
+ai_modified: 2026-01-16T16:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,29 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Unify "filter/transmission" and "quantum selection" into a single model
-
-* **Type**: expand-topic
-* **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic, and what empirical patterns would discriminate “production” vs “interface” vs “hybrid” models. Prevent the framework reading like two separate explanations.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: coherence_work
-* **Generated**: 2026-01-15
-
-### P2: Create “Ethics of consciousness” as a core topic (animals, AI, uploads, simulations)
-
-* **Type**: expand-topic
-* **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy (“act cautiously under consciousness uncertainty”), simulation ethics under dualism, and why “copying a person” is not “saving them” but may still create morally significant experiences (if any).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: gap_analysis
-* **Generated**: 2026-01-15
-
-### P2: Build an explicit “testability ledger” for the framework
-
-* **Type**: meta-method
-* **Notes**: Several pages say the framework is falsifiable, but test hooks are diffuse. Create a central ledger: what observations would update against dualism, against quantum interface, against retrocausal repair, against filter theory? Separate (a) decisive disconfirmers, (b) weak evidence, (c) non-evidence. This also guards against unfalsifiability accusations.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: epistemic_hygiene
-* **Generated**: 2026-01-15
-
-
-### P2: Formalize the “attention as interface” hypothesis into a mechanistic research agenda
+### P2: Formalize the "attention as interface" hypothesis into a mechanistic research agenda
 
 * **Type**: research-topic
 * **Notes**: Attention is treated as dissociable from consciousness and as the likely control surface for mind→brain influence. Convert into actionable questions: which neural correlates of attention are candidates for “selection sites”? What is the relationship to global workspace / predictive processing / IIT? What would count as evidence that attention is more than computation here?  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
@@ -113,6 +91,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Build testability ledger for the framework
+- **Type**: meta-method
+- **Notes**: Several pages say the framework is falsifiable, but test hooks are diffuse. Create a central ledger: what observations would update against dualism, against quantum interface, against retrocausal repair, against filter theory? Separate (a) decisive disconfirmers, (b) weak evidence, (c) non-evidence. This also guards against unfalsifiability accusations.
+- **Result**: Created comprehensive testability ledger covering all five tenets plus filter theory and retrocausality. For each claim: decisive disconfirmers, weak evidence against, weak evidence for, and non-evidence. Summary table with current assessment of each claim's vulnerability.
+- **Output**: `project/testability-ledger.md`
+
+### ✓ 2026-01-16: Create Ethics of consciousness as a core topic
+- **Type**: expand-topic
+- **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy, simulation ethics under dualism, and why "copying a person" is not "saving them."
+- **Result**: Created ~3000 word topic page covering foundation of consciousness-based ethics, moral patienthood (who counts), moral uncertainty (precautionary principle vs weighted consideration), animal ethics, AI ethics, identity ethics (copies, uploads, simulations), and suffering as moral core. Connected to all five tenets.
+- **Output**: `topics/ethics-of-consciousness.md`
+
+### ✓ 2026-01-16: Unify filter/transmission and quantum selection into a single model
+- **Type**: expand-topic
+- **Notes**: Filter theory explains correlation without production; quantum selection explains causal efficacy. Build a synthesis page: a two-layer architecture (source/field + interface/control), what each metaphor buys, where each is only heuristic.
+- **Result**: Created ~2400 word concept page proposing unified two-layer model: Layer 1 (Source/Field) from filter theory, Layer 2 (Interface/Control) from quantum selection. Explains how layers connect, what each explains, empirical discriminators, and objections/responses. The unified model implements all five tenets.
+- **Output**: `concepts/mind-matter-interface.md`
 
 ### ✓ 2026-01-16: Research QM interpretations beyond MWI
 - **Type**: research-topic
