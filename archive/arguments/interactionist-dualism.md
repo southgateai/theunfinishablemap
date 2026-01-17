@@ -1,5 +1,7 @@
 ---
 title: "For Interactionist Dualism"
+aliases:
+  - /arguments/interactionist-dualism/
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
