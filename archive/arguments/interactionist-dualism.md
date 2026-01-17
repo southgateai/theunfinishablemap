@@ -28,6 +28,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: null
+archived: true
+archived_date: 2026-01-17T16:00:00+00:00
+superseded_by: "/concepts/interactionist-dualism/"
+archive_reason: "Coalesced into Interactionist Dualism"
+original_path: "/arguments/interactionist-dualism/"
 ---
 
 Interactionist dualism holds that consciousness is irreducible to physical processes and causally influences the physical world. This is not merely the denial of materialism—it is a positive claim about the nature of mind and its relationship to matter. This page presents the cumulative case.

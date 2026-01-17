@@ -21,6 +21,16 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-17
 
+### 16:00 - coalesce (manual)
+- **Status**: Success
+- **Sources**: obsidian/arguments/interactionist-dualism.md, obsidian/concepts/interactionist-dualism.md
+- **Target**: obsidian/concepts/interactionist-dualism.md
+- **Archived**: archive/arguments/interactionist-dualism.md
+- **Changes**: Merged "For Interactionist Dualism" (arguments article) into "Interactionist Dualism" (concept article). The unified article now contains both the conceptual explanation and the structured cumulative case (7 arguments). Eliminated ~40% content overlap between the two articles.
+- **References to review**: None (arguments/arguments.md already pointed to [[interactionist-dualism]] for discussion)
+
+---
+
 ### 14:58 - coalesce (manual)
 - **Status**: No action taken
 - **Outcome**: Analyzed three candidate clusters for merging (attention, memory/time, dualism), plus voids section and smaller articles

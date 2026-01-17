@@ -1,9 +1,9 @@
 ---
 title: "Interactionist Dualism"
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-15T23:00:00+00:00
+ai_modified: 2026-01-17T16:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,21 +17,40 @@ concepts:
   - "[[agent-causation]]"
   - "[[emergence]]"
   - "[[mental-causation]]"
+  - "[[philosophical-zombies]]"
+  - "[[knowledge-argument]]"
+  - "[[intentionality]]"
+  - "[[binding-problem]]"
+  - "[[causal-closure]]"
+  - "[[arguments-for-dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism-2026-01-06]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
+  - "[[materialism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: null
+coalesced_from:
+  - "/arguments/interactionist-dualism/"
 ---
 
 Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This distinguishes it from [[epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
 
 This position forms the core of this site's [[tenets|philosophical framework]]. The [[tenets#^dualism|Dualism]] tenet affirms irreducibility; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms causal efficacy; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where such causation could occur.
+
+## The Core Position
+
+Interactionist dualism makes three claims:
+
+1. **Irreducibility**: Consciousness cannot be identified with or reduced to physical properties
+2. **Causal efficacy**: Consciousness genuinely causes physical effects in the brain
+3. **Bidirectional interaction**: Physical brain states influence conscious experience, and conscious states influence physical brain states
+
+The first claim is shared with all forms of dualism, including epiphenomenalism. The second distinguishes interactionism from epiphenomenal views. The third specifies the nature of the mind-body relation: not mere correlation, not one-way causation, but genuine two-way interaction.
 
 ## The Historical Problem
 
@@ -42,6 +61,54 @@ Leibniz sharpened the objection by appealing to conservation of momentum. If min
 For centuries, this "interaction problem" pushed philosophers toward alternatives: parallelism (mind and body don't interact, just run in sync), [[epiphenomenalism]] (body affects mind but not vice versa), or materialism (mind just is body). Interactionism seemed to require either abandoning dualism or accepting mystery.
 
 Yet epiphenomenalism faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[mental-causation|self-stultification argument]] shows that denying mental causation is epistemically self-defeating. Your belief that you're in pain must be caused by your pain—otherwise why would the belief be about that experience at all? This gives positive motivation for interactionism beyond merely answering objections.
+
+## The Cumulative Case for Interactionism
+
+Seven arguments converge on the interactionist conclusion, each addressing a different aspect:
+
+### Argument 1: The Explanatory Gap
+
+Physical explanations describe structure, function, and dynamics—how parts relate and systems evolve. Conscious experience has qualitative, intrinsic character—what it is *like* to see red, feel pain, taste coffee. No description of structure, function, or dynamics entails or explains qualitative character.
+
+This is Joseph Levine's [[explanatory-gap]], strengthened by David Chalmers into the [[hard-problem-of-consciousness|hard problem]]. The gap is not epistemic—not a matter of insufficient data. It is structural. Physics describes relations between quantities; qualia are intrinsic qualities. No amount of relational information yields intrinsic character.
+
+### Argument 2: Conceivability and Zombies
+
+We can coherently conceive of beings physically identical to us but lacking all conscious experience ([[philosophical-zombies]]). Unlike scientific identities (water = H2O), phenomenal concepts give us direct access to their referents. We don't merely describe consciousness from outside—we instantiate it. When we conceive of zombies, we positively grasp a scenario where all physical facts obtain and phenomenal facts do not.
+
+If zombies are conceivable, they are metaphysically possible. If they are possible, consciousness is not necessitated by physical facts. Consciousness is something over and above the physical.
+
+### Argument 3: The Knowledge Argument
+
+Mary knows all physical facts about colour vision while living in a black-and-white room. When Mary sees red for the first time, she learns something new—what red looks like. What Mary learns is not deducible from physical facts. This is Frank Jackson's [[knowledge-argument]].
+
+The knowledge argument targets physicalism specifically. If all facts are physical facts, complete physical knowledge should include all facts. Mary's surprise upon seeing red suggests it doesn't.
+
+### Argument 4: The Unity of Consciousness
+
+Conscious experience is unified—there is a single subject experiencing multiple contents. Physical systems are composed of discrete parts (neurons, molecules, atoms). No physical mechanism explains how discrete parts compose a single unified subject.
+
+William Hasker develops this into an argument for substance dualism. The [[binding-problem]] illustrates: color, shape, and motion are processed in different brain regions, yet we experience one unified object. Neural synchrony and global workspace theories propose mechanisms for *integration*, but integration of information is not identity of subject. Synchronized neurons remain many neurons. A single subject experiencing them remains unexplained.
+
+### Argument 5: Intentionality
+
+Mental states are about things—beliefs are about facts, desires are about outcomes, fears are directed at objects. Physical states are not intrinsically about anything—a rock is not about mountains. No physical account of [[intentionality]] (causal, informational, teleological) successfully reduces aboutness to physical relations.
+
+Franz Brentano called intentionality "the mark of the mental." John Searle's Chinese Room shows that syntax (symbol manipulation) doesn't yield semantics (meaning). A computational system following rules doesn't thereby understand what the symbols mean.
+
+### Argument 6: Self-Stultification of Epiphenomenalism
+
+We discuss consciousness—we write about qualia, debate the hard problem, report our experiences. If consciousness is epiphenomenal (causally inert), our discussions are not caused by consciousness. If our discussions are not caused by consciousness, we have no reason to trust them as accurate reports about consciousness. [[Epiphenomenalism]] undermines itself; consciousness must be causally relevant.
+
+This argument is often overlooked but decisive against epiphenomenal dualism. The very fact that we discuss consciousness proves it is not epiphenomenal. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words.
+
+### Argument 7: Quantum Indeterminacy
+
+Standard quantum mechanics describes probabilities, not certainties, for measurement outcomes. The "measurement problem" shows that quantum mechanics does not specify what triggers collapse. This leaves conceptual room for consciousness to influence which outcome actualizes.
+
+This is the key to interactionism. Classical physics was deterministic—every event had sufficient physical causes, leaving no room for mental causation. But quantum mechanics is indeterministic. The Schrödinger equation governs continuous evolution; collapse into definite outcomes remains unexplained.
+
+No energy injection is required. Consciousness selects among outcomes physics leaves undetermined, all of which conserve energy. This addresses the conservation law objection directly.
 
 ## The Causal Closure Argument
 
@@ -64,15 +131,13 @@ Kim raises a distinct challenge beyond causal closure: the *pairing problem*. Ev
 
 Consider two minds M1 and M2 interacting with two bodies B1 and B2. Both minds intend to raise their hand. M1's intention causes B1's hand to rise; M2's intention causes B2's hand to rise. But *in virtue of what* is M1 paired with B1 rather than B2?
 
-For physical causation, spatial relations provide the answer. The billiard ball strikes *this* ball because they occupy adjacent spatial positions. But if minds are non-spatial (as traditional substance dualism holds), no spatial relation can ground the pairing. Kim concludes that causation requires spatial relations, so non-spatial minds cannot enter into causal relations at all.
+For physical causation, spatial relations provide the answer. The billiard ball strikes *this* ball because they occupy adjacent spatial positions. But if minds are non-spatial (as traditional substance dualism holds), no spatial relation can ground the pairing.
 
 **The spatial location response**: Many contemporary dualists (Hasker, Zimmerman) accept that minds are spatially located—specifically, in the brain region where they interact. M1 is paired with B1 because M1 occupies B1's brain. This dissolves the pairing problem while maintaining that minds are ontologically distinct from bodies.
 
 This response fits naturally with the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
-**Alternative responses**: Andrew Bailey, Joshua Rasmussen, and Luke Van Horn argue that haecceities (primitive "thisness") could ground pairing relations without spatial location. If haecceities exist for physical objects too, the pairing problem generalizes to all causation and isn't specifically a problem for dualism. If they don't exist, we need some other account of what individuates physical causes—and whatever works for physics might work for minds.
-
-The pairing problem is philosophically significant because it challenges substance dualism specifically—property dualism, which doesn't posit separate mental substances, faces no comparable difficulty. But given the site's commitment to [[tenets#^bidirectional-interaction|Bidirectional Interaction]], accepting that consciousness has spatial location (in the brain, where it causally interfaces) seems the most natural resolution.
+**Alternative responses**: Andrew Bailey, Joshua Rasmussen, and Luke Van Horn argue that haecceities (primitive "thisness") could ground pairing relations without spatial location. If haecceities exist for physical objects too, the pairing problem generalizes to all causation and isn't specifically a problem for dualism.
 
 ## Quantum Interactionism
 
@@ -112,6 +177,7 @@ Responses vary:
 - **Stapp**: The Zeno effect doesn't require long coherence times; rapid observation maintains states despite decoherence pressure
 - **Penrose-Hameroff**: Microtubule structure may protect coherence; recent experiments find unexpectedly long coherence times in biological systems
 - **General**: Decoherence calculations assume specific conditions; biological systems may exploit features that extend coherence
+- **Crucially**: Decoherence explains *basis selection*—why we see definite states rather than superpositions—but doesn't explain why *this particular* outcome occurs rather than another. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
 
 This remains an active empirical question. The site takes no position on which quantum mechanism is correct, only that *some* such interface exists.
 
@@ -123,27 +189,17 @@ Most causal explanations appeal to events causing events: one brain state leads 
 
 Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When I decide to speak, it's not that "a decision event" caused "a speaking event"; rather, *I* caused the speaking. The agent is ontologically prior to the events, not a mere sum of them.
 
-E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising causal powers. This reframes the causal closure objection: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical. If consciousness is a substance exercising causal powers at quantum indeterminacies, this is how causation works generally, not a special exception requiring energy injection.
+E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising causal powers. This reframes the causal closure objection: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
 The quantum Zeno mechanism illustrates agent causation in action. When attention holds neural patterns in place through rapid observation, it's not that "observation events" cause "pattern maintenance events"—it's that the conscious subject, through sustained attention, exercises causal power over brain states. The phenomenology of [[mental-effort|mental effort]] confirms this: directing attention feels like *doing* something, not like observing events that happen to correlate with effort.
 
-Agent causation thus provides the philosophical grounding for quantum interactionism. The site's framework specifies *mechanism*; agent-causal philosophy provides *metaphysics*. Together they answer Elizabeth of Bohemia's question: mind affects matter because conscious substances exercise causal powers at points where physics leaves outcomes undetermined.
-
 ## Emergence and the Mechanism Classical Emergentism Lacked
 
-Interactionist dualism can be understood as a form of strong [[emergence]]—consciousness has genuinely novel causal powers not deducible from physics. Timothy O'Connor and Hong Yu Wong develop an influential account where emergent properties possess "fundamentally novel" powers operating through "structural triggering conditions"—latent capacities manifesting when components organize appropriately.
-
-Their framework aligns closely with the site's position. They argue:
-
-> "If one decides to act in the world—perhaps making up one's mind to switch on an electric kettle—strongly emergent consciousness (higher level) is imagined to downwardly cause a resultant state of (lower level) molecular motion."
-
-This is precisely what the Bidirectional Interaction tenet affirms.
+Interactionist dualism can be understood as a form of strong [[emergence]]—consciousness has genuinely novel causal powers not deducible from physics. Timothy O'Connor and Hong Yu Wong develop an influential account where emergent properties possess "fundamentally novel" powers operating through "structural triggering conditions."
 
 Classical British emergentists (Broad, Alexander) accepted similar conclusions but had no mechanism to offer. They accepted strong emergence with "natural piety"—brute facts about what higher-level properties do, without explanation of how. This left their position vulnerable to Kim's exclusion argument: if physics is causally complete, emergent properties have no room to operate.
 
-The site's quantum framework provides what classical emergentism lacked: *where* and *how* emergent causation operates. O'Connor and Wong's "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. But where they leave the mechanism abstract, the site specifies it: consciousness biases probabilities at points where physics is genuinely incomplete.
-
-This makes the position stronger than mere assertion. Kim argues that emergent properties face exclusion by their physical realizers. The quantum response: at quantum indeterminacies, there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes. Consciousness fills the genuine gap.
+The site's quantum framework provides what classical emergentism lacked: *where* and *how* emergent causation operates. Kim argues that emergent properties face exclusion by their physical realizers. The quantum response: at quantum indeterminacies, there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes. Consciousness fills the genuine gap.
 
 ## Property Dualism vs. Substance Dualism
 
@@ -155,7 +211,17 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 
 The distinction matters less than it might seem for interactionism's viability. Both agree that consciousness is not reducible to physics and that mental properties are genuinely different from physical properties. Chalmers himself now expresses preference for substance dualism, partly because it better handles personal identity and partly because property dualism tends toward either panpsychism (with its combination problem) or epiphenomenalism.
 
-This site is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them. The interactionism is the essential commitment; the substance/property question is downstream.
+This site is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
+
+## Objections and Responses
+
+| Objection | Response |
+|-----------|----------|
+| **Pairing problem**: What pairs this mind with this body? | Minds have spatial location—in the brain where they causally interact |
+| **Conservation laws**: Mental causation would violate energy conservation | Consciousness selects among outcomes with equal energy—no energy added |
+| **Exclusion argument**: Physical causes "screen off" mental ones | At quantum indeterminacies, there is no sufficient physical cause to do the excluding |
+| **Parsimony**: Dualism posits two kinds of stuff when one might suffice | A theory that explains nothing is not parsimonious; materialism explains mechanisms but not experience |
+| **Decoherence**: Quantum coherence in brains decoheres too fast | Decoherence doesn't solve the measurement problem—consciousness may bias outcomes even after decoherence |
 
 ## Relation to This Site's Perspective
 
@@ -170,7 +236,9 @@ This framework avoids the main objections to classical interactionism:
 
 ### Empirical Compatibility
 
-Crucially, interactionism predicts exactly the findings of [[neural-correlates-of-consciousness|neural correlates of consciousness (NCC)]] research. If consciousness causally interacts with the brain, we would expect tight correlations between mental states and brain states—and that's what NCC research discovers. The 2025 COGITATE experiment identified the posterior cortical hot zone as the primary locus of conscious content; interactionism interprets this as the likely interface region where consciousness reads and writes physical information. NCC findings don't favour materialism over interactionism. Both predict the correlations; only interactionism explains why those correlations involve something it's like to have the corresponding experiences.
+Crucially, interactionism predicts exactly the findings of [[neural-correlates-of-consciousness|neural correlates of consciousness (NCC)]] research. If consciousness causally interacts with the brain, we would expect tight correlations between mental states and brain states—and that's what NCC research discovers. The 2025 COGITATE experiment identified the posterior cortical hot zone as the primary locus of conscious content; interactionism interprets this as the likely interface region where consciousness reads and writes physical information.
+
+NCC findings don't favour materialism over interactionism. Both predict the correlations; only interactionism explains why those correlations involve something it's like to have the corresponding experiences.
 
 The [[epiphenomenalism|self-stultification argument]] provides positive motivation: if we can accurately report our experiences, consciousness must cause those reports. This requires mental→physical causation, which interactionism provides and epiphenomenalism denies.
 
@@ -184,6 +252,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [[arguments-for-dualism]] — Comprehensive treatment of arguments supporting dualism
 - [[emergence]] — The site's position as strong emergentism with mechanism
 - [[mental-causation]] — The philosophical problem interactionism addresses
 - [[agent-causation]] — The metaphysical framework for how substances exercise causal powers
@@ -192,6 +261,11 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[neural-correlates-of-consciousness]] — Empirical findings compatible with interactionism
 - [[substance-property-dualism]] — The ontological options for dualism
 - [[epiphenomenalism]] — The view this site rejects
+- [[materialism]] — The case against the main alternative
+- [[philosophical-zombies]] — The conceivability argument in detail
+- [[knowledge-argument]] — Mary's Room explained
+- [[binding-problem]] — Why unity is a problem for physicalism
+- [[causal-closure]] — The closure objection and responses
 - [[interactionist-dualism-2026-01-06]] — Detailed research notes
 - [[objections-to-interactionist-dualism-2026-01-15]] — Research on pairing problem, conservation laws, and other objections
 
@@ -201,6 +275,10 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 - Descartes, R. (1641). *Meditations on First Philosophy*.
 - Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
+- Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Stapp, H. P., Schwartz, J. M., & Beauregard, M. (2005). "Quantum theory in neuroscience and psychology." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+- Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
