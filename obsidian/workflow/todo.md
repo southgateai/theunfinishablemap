@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T18:45:00+00:00
+ai_modified: 2026-01-17T20:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on semantic memory and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/semantic-memory-consciousness-2026-01-17.md. Key themes: Tulving's noetic consciousness, TOT/FOK phenomenology, cognitive phenomenology connection, personal semantics as bridge category, automatic vs conscious semantic processing.
-- **Source**: chain (from semantic memory research)
-- **Generated**: 2026-01-17
-
-### P2: Cross-review temporal-consciousness.md considering prospective memory insights
-- **Type**: cross-review
-- **Notes**: New article concepts/prospective-memory.md develops futureward mental time travel as complement to pastward. Review concepts/temporal-consciousness.md for integration with EFT and the "extended present" concept. Add prospective-memory link if valuable.
-- **Source**: chain (from prospective-memory.md)
-- **Generated**: 2026-01-17
-
 ### P2: Cross-review free-will.md considering prospective memory insights
 - **Type**: cross-review
 - **Notes**: Once prospective memory article is written, cross-review free-will.md. Prospective memory (remembering to do things) connects deeply to agency—intentions must be maintained and triggered. The "pop" phenomenon (intentions spontaneously entering awareness) may relate to the phenomenology of volition. EFT's causal influence on decisions supports agent causation.
@@ -74,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review temporal-consciousness.md considering prospective memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prospective-memory.md develops futureward mental time travel as complement to pastward. Review concepts/temporal-consciousness.md for integration with EFT and the "extended present" concept. Add prospective-memory link if valuable.
+- **Result**: Added "Prospective Memory and the Extended Present" subsection covering EFT, futuricity quale, pop phenomenon, pre-made thoughts, and causal influence on decisions. Added prospective-memory to concepts and Further Reading.
+- **Output**: Updated `concepts/temporal-consciousness.md`
+
+### ✓ 2026-01-17: Write article on semantic memory and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/semantic-memory-consciousness-2026-01-17.md. Key themes: Tulving's noetic consciousness, TOT/FOK phenomenology, cognitive phenomenology connection, personal semantics as bridge category, automatic vs conscious semantic processing.
+- **Result**: Created ~2200 word concept page covering Tulving's noetic consciousness framework, TOT/FOK phenomenology, cognitive phenomenology connection, personal semantics bridge, automatic vs conscious semantic processing, AI implications.
+- **Output**: Created `concepts/semantic-memory.md`
 
 ### ✓ 2026-01-17: Research semantic memory and consciousness
 - **Type**: research-topic

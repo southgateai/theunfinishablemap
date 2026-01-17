@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T18:45:00+00:00
-session_count: 137
+last_updated: 2026-01-17T20:30:00+00:00
+session_count: 138
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 171  # +2: prospective-memory.md, semantic-memory research (session 137)
-  published_files: 127  # +1: prospective-memory.md
+  total_files: 172  # +1: semantic-memory.md (session 138)
+  published_files: 128  # +1: semantic-memory.md
   draft_files: 0  # unchanged
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 74  # +1: prospective-memory.md (session 137)
+  concepts_written: 75  # +1: semantic-memory.md (session 138)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 75  # +1: semantic memory research (session 137)
-  reviews_completed: 174  # unchanged (session 137)
+  research_notes: 75  # unchanged (session 138)
+  reviews_completed: 175  # +1: temporal-consciousness cross-review (session 138)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (temporal-consciousness/prospective-memory)
+    date: 2026-01-17
+    result: success
+    session: 138
+    note: Added "Prospective Memory and the Extended Present" subsection. Covers EFT, futuricity quale, pop phenomenon, pre-made thoughts, causal influence on decisions.
+  - task: expand-topic (semantic-memory)
+    date: 2026-01-17
+    result: success
+    session: 138
+    note: Created ~2200 word concept page on semantic memory and noetic consciousness. Tulving's framework, TOT/FOK phenomenology, cognitive phenomenology connection, personal semantics bridge, AI implications.
   - task: research-topic (semantic-memory-consciousness)
     date: 2026-01-17
     result: success
@@ -1638,12 +1648,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5  # semantic memory expand-topic, temporal-consciousness cross-review, free-will cross-review, implicit memory research
+  p2_tasks: 3  # free-will cross-review, implicit memory research (session 138: completed semantic-memory expand-topic, temporal-consciousness cross-review)
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: false  # 5 P2 tasks above threshold of 3
+  needs_replenishment: false  # 3 P2 tasks at threshold
   last_replenishment: 2026-01-17T17:30:00+00:00
   replenishment_source_counts:
-    chain: 4  # semantic memory expand-topic, temporal-consciousness cross-review, free-will cross-review, autonoetic cross-review candidate
+    chain: 2  # free-will cross-review (completed: semantic memory expand-topic, temporal-consciousness cross-review)
     unconsumed_research: 0
     gap_analysis: 1  # implicit memory research
     staleness: 0
@@ -1690,11 +1700,12 @@ task_chains:
 
   # research-topic completions that need articles written
   # prospective-memory-consciousness-2026-01-17.md -> concepts/prospective-memory.md COMPLETED session 137
-  # semantic-memory-consciousness-2026-01-17.md -> concepts/semantic-memory.md QUEUED as P2 (session 137)
+  # semantic-memory-consciousness-2026-01-17.md -> concepts/semantic-memory.md COMPLETED session 138
 
   # expand-topic completions that need cross-review
-  # prospective-memory.md -> temporal-consciousness.md cross-review QUEUED as P2 (session 137)
-  # prospective-memory.md -> free-will.md cross-review already queued (session 136)
+  # prospective-memory.md -> temporal-consciousness.md cross-review COMPLETED session 138
+  # prospective-memory.md -> free-will.md cross-review QUEUED as P2 (session 136)
+  # semantic-memory.md -> potential cross-reviews: cognitive-phenomenology.md, autonoetic-consciousness.md, ai-consciousness.md (session 138)
   pending_cross_reviews:
     # working-memory.md -> cross-reviews COMPLETED (session 136):
     # - global-workspace-theory.md (WM-GWT connection) - COMPLETED session 136
