@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 20:30:00+00:00
+ai_modified: 2026-01-17 23:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review autonoetic-consciousness.md considering semantic memory insights
-- **Type**: cross-review
-- **Notes**: New article concepts/semantic-memory.md develops Tulving's noetic consciousness as complement to autonoetic. Review concepts/autonoetic-consciousness.md to strengthen the anoetic/noetic/autonoetic hierarchy with explicit reference to semantic-memory page. The contrast between knowing and remembering is central.
-- **Source**: chain (from semantic-memory.md)
-- **Generated**: 2026-01-17
-
 ### P2: Research implicit memory and consciousness
 - **Type**: research-topic
 - **Notes**: The site now covers autonoetic (episodic), is researching semantic, and has prospective memory queued. Implicit/procedural memory (skills, conditioning, priming) represents a complementary gap. Key questions: Does procedural learning require consciousness at any stage? What is the phenomenology of skills becoming automatic? How does implicit memory relate to the interface hypothesis?
@@ -63,6 +57,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review working-memory.md considering semantic memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/semantic-memory.md develops Tulving's noetic consciousness and the remember/know paradigm. The working-memory article covers maintenance/manipulation distinction but doesn't connect to semantic retrieval. Semantic retrieval uses WM during search and verification—TOT states may involve WM manipulation of partial phonological representations. Add semantic-memory link and connect remember/know to maintenance/manipulation.
+- **Result**: Added "Semantic Retrieval and Working Memory" section with three subsections: TOT and the Phonological Loop (effortful manipulation), Remember/Know and Maintenance/Manipulation (parallel mapping with table), Semanticization and Maintenance Efficiency (dualist implications). Added semantic-memory and autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/working-memory.md`
+
+### ✓ 2026-01-17: Cross-review autonoetic-consciousness.md considering semantic memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/semantic-memory.md develops Tulving's noetic consciousness as complement to autonoetic. Review concepts/autonoetic-consciousness.md to strengthen the anoetic/noetic/autonoetic hierarchy with explicit reference to semantic-memory page. The contrast between knowing and remembering is central.
+- **Result**: Added new "Remember/Know Distinction" section operationalizing autonoetic/noetic contrast. Expanded noetic consciousness description with TOT/FOK phenomenology. Added semanticization of memories (episodic → semantic transformation). Added semantic-memory and cognitive-phenomenology to concepts and Further Reading.
+- **Output**: Updated `concepts/autonoetic-consciousness.md`
 
 ### ✓ 2026-01-17: Cross-review cognitive-phenomenology.md considering semantic memory insights
 - **Type**: cross-review
