@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 12:30:00+00:00
+ai_modified: 2026-01-17 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[intentionality]]'
 - '[[mind-brain-separation]]'
 - '[[qualia]]'
+- '[[implicit-memory]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -46,6 +47,14 @@ Embodied cognition rests on several interconnected claims:
 Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the site where consciousness and world interpenetrate.
 
 Consider bodily skill. An expert typist doesn't consciously locate keys—the hands "know" where they are. A pianist's fingers find notes through acquired habit, not explicit representation. Merleau-Ponty calls this "motor intentionality": bodily knowledge that is meaningful but not intellectually represented.
+
+### The Dreyfus Model
+
+Hubert Dreyfus developed the phenomenological analysis of skill acquisition into a systematic model charting how consciousness relates to bodily expertise across five stages: novice (following explicit rules), advanced beginner (recognizing patterns), competent (choosing among perspectives), proficient (holistic situational awareness), and expert (fluid action without deliberation). The model illuminates how consciousness *withdraws* from execution details as expertise develops—not eliminating awareness, but shifting to what Tulving called [anoetic consciousness](/concepts/implicit-memory/): unreflective, embodied knowing.
+
+Crucially, the expert retains override capacity. Consciousness can re-engage with automatized skills. And when it does—particularly under pressure—a revealing phenomenon occurs: performance *degrades*. The "choking under pressure" research (Baumeister, Beilock) shows that conscious attention to procedural execution disrupts it. Experts thinking about their technique perform worse than when acting unreflectively.
+
+This provides direct evidence for [bidirectional interaction](/concepts/mental-causation/). If consciousness were epiphenomenal—a mere byproduct—attending to skills couldn't interfere with them. The interference shows consciousness has genuine causal efficacy. Embodied cognition reveals *where* consciousness interfaces with bodily systems; choking reveals that the interface operates bidirectionally.
 
 This phenomenological heritage is significant. Merleau-Ponty, like Husserl, treated lived experience as irreducible. He rejected both Cartesian dualism (mind as separate substance) and reductive materialism (mind as nothing but body). The lived body is a third term. This leaves space for property dualism even while rejecting substance dualism.
 
@@ -111,6 +120,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [intentionality](/concepts/intentionality/) — Motor intentionality and the directedness of embodied action
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of embodied cognition with consciousness science
+- [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [embodied-cognition-extended-mind-2026-01-14](/research/embodied-cognition-extended-mind-2026-01-14/) — Research notes on this topic
 
 ## References

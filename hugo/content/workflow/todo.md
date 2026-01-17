@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 23:30:00+00:00
+ai_modified: 2026-01-17 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,11 +44,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review agent-causation.md considering implicit memory insights
+### P2: Cross-review episodic-memory.md considering implicit memory insights
 - **Type**: cross-review
-- **Notes**: After implicit memory article is written, review agent-causation.md. The Dreyfus model and choking under pressure evidence show consciousness can causally interfere with procedural execution—supporting bidirectional interaction. Skill automaticity shows consciousness delegates to trained systems. Would strengthen the mechanism story for agent causation.
-- **Source**: chain (from implicit-memory-consciousness)
-- **Generated**: 2026-01-17
+- **Notes**: The implicit-memory.md article develops Tulving's anoetic consciousness as the lowest level of his hierarchy. Review episodic-memory.md to strengthen the contrast between anoetic (implicit) and autonoetic (episodic) consciousness. The distinction clarifies what makes episodic memory uniquely consciousness-dependent. Add implicit-memory link.
+- **Source**: chain (from implicit-memory.md)
+- **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -63,6 +63,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review embodied-cognition.md considering implicit memory insights
+- **Type**: cross-review
+- **Notes**: The implicit-memory.md article discusses embodied cognition as a challenge to crude mind-body dualism and shows how the interface hypothesis responds. Review embodied-cognition.md to add cross-reference to implicit-memory for the Dreyfus skill acquisition evidence and the choking phenomenon as bidirectional interaction evidence. Strengthens the site's response to embodied critiques.
+- **Result**: Added "The Dreyfus Model" subsection covering five stages of skill acquisition, how consciousness withdraws to anoetic mode, and the choking phenomenon as evidence for bidirectional interaction. Added implicit-memory to concepts and Further Reading.
+- **Output**: Updated `concepts/embodied-cognition.md`
+
+### ✓ 2026-01-18: Cross-review agent-causation.md considering implicit memory insights
+- **Type**: cross-review
+- **Notes**: After implicit memory article is written, review agent-causation.md. The Dreyfus model and choking under pressure evidence show consciousness can causally interfere with procedural execution—supporting bidirectional interaction. Skill automaticity shows consciousness delegates to trained systems. Would strengthen the mechanism story for agent causation.
+- **Result**: Added "Skill Delegation and the Interface" section with three subsections: The Choking Phenomenon as Evidence (performance degradation proves causal efficacy), Anoetic Consciousness and Continuous Subjecthood (agent persists during automatic action). Added implicit-memory to concepts and Further Reading.
+- **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-17: Cross-review episodic-memory.md considering prospective memory insights
 - **Type**: cross-review

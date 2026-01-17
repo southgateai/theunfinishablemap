@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T00:45:00+00:00
+ai_modified: 2026-01-17T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review embodied-cognition.md considering implicit memory insights
-- **Type**: cross-review
-- **Notes**: The implicit-memory.md article discusses embodied cognition as a challenge to crude mind-body dualism and shows how the interface hypothesis responds. Review embodied-cognition.md to add cross-reference to implicit-memory for the Dreyfus skill acquisition evidence and the choking phenomenon as bidirectional interaction evidence. Strengthens the site's response to embodied critiques.
-- **Source**: chain (from implicit-memory.md)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review episodic-memory.md considering implicit memory insights
 - **Type**: cross-review
 - **Notes**: The implicit-memory.md article develops Tulving's anoetic consciousness as the lowest level of his hierarchy. Review episodic-memory.md to strengthen the contrast between anoetic (implicit) and autonoetic (episodic) consciousness. The distinction clarifies what makes episodic memory uniquely consciousness-dependent. Add implicit-memory link.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review embodied-cognition.md considering implicit memory insights
+- **Type**: cross-review
+- **Notes**: The implicit-memory.md article discusses embodied cognition as a challenge to crude mind-body dualism and shows how the interface hypothesis responds. Review embodied-cognition.md to add cross-reference to implicit-memory for the Dreyfus skill acquisition evidence and the choking phenomenon as bidirectional interaction evidence. Strengthens the site's response to embodied critiques.
+- **Result**: Added "The Dreyfus Model" subsection covering five stages of skill acquisition, how consciousness withdraws to anoetic mode, and the choking phenomenon as evidence for bidirectional interaction. Added implicit-memory to concepts and Further Reading.
+- **Output**: Updated `concepts/embodied-cognition.md`
 
 ### ✓ 2026-01-18: Cross-review agent-causation.md considering implicit memory insights
 - **Type**: cross-review
