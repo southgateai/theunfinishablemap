@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 22:30:00+00:00
+ai_modified: 2026-01-17 19:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,20 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-17
+
+### Session 143 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 143
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+
+### 19:00 - expand-topic (episodic-memory)
+- **Status**: Success
+- **Output**: Created `concepts/episodic-memory.md`
+- **Changes**: Created ~2100 word concept page on episodic memory covering encoding/retrieval distinction, constructive nature of memory (Schacter-Addis hypothesis, false memories, memory as imagination), hippocampal binding and connection to consciousness binding, phenomenology of retrieval (pastness quale, vividness), and personal identity implications. Connected to all five tenets.
+- **Commit**: d12b81d
+
+---
 
 ### 16:00 - coalesce (manual)
 - **Status**: Success

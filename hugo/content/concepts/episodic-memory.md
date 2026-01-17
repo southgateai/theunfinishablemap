@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-17 19:00:00+00:00
+ai_modified: 2026-01-17 23:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -137,6 +137,22 @@ The [remember/know paradigm](/concepts/autonoetic-consciousness/#the-rememberkno
 
 This matters for consciousness theory. If the same information can be accessed with or without accompanying phenomenology, then phenomenology is not an inevitable consequence of information access. Something additional must occur for retrieval to become re-experiencing.
 
+### Involuntary Memory
+
+Memories don't always arrive through deliberate search. **Involuntary memories** emerge spontaneously, triggered by cues processed below awareness—a smell, a song, a bodily posture can make a forgotten scene suddenly present.
+
+This parallels the "pop" phenomenon in [prospective memory](/concepts/prospective-memory/), where intentions spontaneously enter awareness. In both directions of mental time travel, retrieval can occur without conscious effort. You walk past a shop and suddenly remember you need milk (prospective); you hear a song and suddenly you're back at your wedding (episodic). Consciousness bookends both processes—forming the memory or intention, then receiving it back—while something unconscious bridges the gap.
+
+Research on involuntary autobiographical memories (Berntsen, 2010) reveals several patterns:
+
+**Cue-dependence.** Involuntary memories are strongly cue-driven. The cues are often incidental—environmental features not deliberately sought.
+
+**Rehearsal effects.** Frequently rehearsed memories are more likely to pop involuntarily. Just as prospective-memory research shows "pre-made" future scenarios retrieve more readily, well-rehearsed episodic memories become cached for spontaneous access.
+
+**Emotional intensity.** Highly emotional memories—positive and negative—pop more frequently. This may reflect stronger encoding and more distinct cue-associations.
+
+The symmetry between involuntary episodic retrieval and prospective memory's pop phenomenon suggests a unified architecture for spontaneous mental time travel. The same system that can surprise you with memories of the past can surprise you with intentions for the future.
+
 ## Episodic Memory and Personal Identity
 
 The connection between memory and [personal identity](/topics/personal-identity/) has been debated since Locke proposed that personal identity consists in memory continuity—you are identical with your past self if you remember being that person.
@@ -154,6 +170,22 @@ Another response: personal identity may lie less in specific memories than in th
 The capacity for mental time travel—both pastward (episodic memory) and futureward ([prospective memory](/concepts/prospective-memory/))—constitutes what might be called the *extended self*. You are not merely present in this moment but spread across time, connected to a personal past and projected toward a personal future.
 
 This extended self is what Patient KC lost. Without mental time travel, he was confined to the present moment—unable to re-inhabit his past or project into his future. His sense of himself as a being with a history and a trajectory was absent. This suggests the extended self isn't merely useful but constitutive of what it means to be a person.
+
+### Symmetry of Temporal Qualia
+
+Episodic memory and future simulation exhibit parallel but distinct phenomenal structures:
+
+| Feature | Episodic Memory | Future Simulation |
+|---------|-----------------|-------------------|
+| Felt direction | Pastward | Futureward |
+| Temporal quale | Pastness ("this happened") | Futuricity ("this might happen") |
+| Modal status | Occurred (in normal cases) | May or may not occur |
+| Detail richness | Often vivid | Often schematic |
+| Constructive demand | Reconstructive | Fully constructive |
+
+Both involve [autonoetic consciousness](/concepts/autonoetic-consciousness/)—the sense of oneself as the subject of the represented event. Both project the self across time. But they differ in their temporal direction and modal character. Memories (normally) represent what happened; future simulations represent what might happen. This difference appears in phenomenology itself, not just in propositional content about what is represented.
+
+The pastness quale and the futuricity quale are temporal markers that tag experiences without being reducible to their content. A memory of breakfast comes pre-tagged as past; a simulation of tomorrow's meeting comes pre-tagged as possible future. These are phenomenal properties—part of what it is like to remember and what it is like to anticipate. If qualia resist functional reduction, then temporal qualia do too.
 
 ## Relation to Site Perspective
 
@@ -186,3 +218,4 @@ Episodic memory supports several foundational commitments.
 - Moscovitch, M. et al. (2016). Episodic memory and beyond: The hippocampus and neocortex in transformation. *Annual Review of Psychology*, 67, 105-134.
 - Loftus, E.F. (2005). Planting misinformation in the human mind: A 30-year investigation of the malleability of memory. *Learning & Memory*, 12(4), 361-366.
 - Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: the frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.
+- Berntsen, D. (2010). The unbidden past: Involuntary autobiographical memories as a basic mode of remembering. *Current Directions in Psychological Science*, 19(3), 138-142.

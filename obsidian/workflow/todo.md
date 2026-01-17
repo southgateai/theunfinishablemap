@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T19:00:00+00:00
+ai_modified: 2026-01-17T23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review episodic-memory.md considering prospective memory insights
-- **Type**: cross-review
-- **Notes**: The concepts/prospective-memory.md article develops futureward mental time travel and EFT as a unified capacity with pastward episodic retrieval. The site should have an episodic-memory concept page that integrates with prospective-memory. If one doesn't exist, this becomes an expand-topic. Patient KC double deficit shows unified MTT capacity.
-- **Source**: chain (from prospective-memory.md)
-- **Generated**: 2026-01-18
-
 ### P2: Research attention and voluntary control mechanisms
 - **Type**: research-topic
 - **Notes**: The attention-as-interface hypothesis is now well-developed but the mechanisms of voluntary attention control remain underexplored. How does top-down attention work? What is the phenomenology of effortful attention allocation vs automatic capture? This connects to mental-effort.md and agent-causation.md. Would strengthen the causal arrow from consciousness to brain.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review episodic-memory.md considering prospective memory insights
+- **Type**: cross-review
+- **Notes**: The concepts/prospective-memory.md article develops futureward mental time travel and EFT as a unified capacity with pastward episodic retrieval. The site should have an episodic-memory concept page that integrates with prospective-memory. If one doesn't exist, this becomes an expand-topic. Patient KC double deficit shows unified MTT capacity.
+- **Result**: Added "Involuntary Memory" section paralleling prospective memory's pop phenomenon, and "Symmetry of Temporal Qualia" section with comparison table showing pastness vs futuricity phenomenology. Added Berntsen reference on involuntary autobiographical memories.
+- **Output**: Updated `concepts/episodic-memory.md`
 
 ### ✓ 2026-01-17: Create episodic-memory concept page
 - **Type**: expand-topic
