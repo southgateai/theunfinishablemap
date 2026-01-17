@@ -118,7 +118,7 @@ The distinction matters: BP1 is a computational challenge that might yield to ne
 **Alignment with site tenets:**
 - Supports [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—consciousness acts at quantum level
 - Addresses epiphenomenalism—quantum unity enables downward causation
-- Provides mechanism for [interactionist-dualism](/arguments/interactionist-dualism/)
+- Provides mechanism for [interactionist-dualism](/archive/arguments/interactionist-dualism/)
 
 ## Philosophical Implications
 

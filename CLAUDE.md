@@ -209,9 +209,7 @@ AI activity is logged to `obsidian/workflow/changelog.md` with:
 **Daily (2 AM):** `/validate-all`
 
 **Weekly:**
-- Mon/Thu: `/evolve` (standard mode - 2-3 tasks)
-- Tue: `/evolve quick` (single task)
-- Wed: `/evolve quick`
+- Mon-Thu: `/evolve` (1 task each)
 - Fri: `/evolve` (includes pessimistic review if overdue)
 - Sat: `/evolve` (includes optimistic review if overdue)
 

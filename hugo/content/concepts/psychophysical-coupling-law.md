@@ -217,7 +217,7 @@ The site cannot resolve which coupling law is correct—this is an open empirica
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
 - [attention](/concepts/attention/) — The attention-consciousness relationship
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The framework requiring coupling laws
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework requiring coupling laws
 - [tenets](/tenets/) — The site's foundational commitments
 
 ## References

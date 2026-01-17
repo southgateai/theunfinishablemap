@@ -1,18 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-05 17:30:00+00:00
+ai_modified: 2026-01-17 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-05
+date: &id001 2026-01-17
 draft: false
 human_modified: 2026-01-05 13:59:45+00:00
 last_curated: null
 modified: *id001
 related_articles:
 - '[[project]]'
+- '[[workflow]]'
 title: AI Automation System
 topics: []
 ---
@@ -56,21 +57,11 @@ flowchart TD
 
 **Key principle:** AI-generated content is published directly. All activity is logged to the changelog for transparency.
 
-## Skills (Slash Commands)
+## Skills and Workflow
 
-The AI has access to these specialized skills:
+For the complete list of available skills (slash commands) and how they work together, see [Workflow System](/workflow/).
 
-| Skill | Purpose | Output |
-|-------|---------|--------|
-| `/validate-all` | Check frontmatter, links, find orphans | Changelog entry |
-| `/check-tenets` | Verify content aligns with 5 tenets | Review report |
-| `/pessimistic-review` | Find weaknesses from critic perspectives | Review report |
-| `/optimistic-review` | Find strengths from supporter perspectives | Review report |
-| `/research-topic` | Web research on a topic | Research notes |
-| `/expand-topic` | Generate new article | Published article |
-| `/refine-draft` | Improve existing content | Updated content |
-| `/deep-review` | Comprehensive single-document review | Updated content + report |
-| `/evolve [mode]` | Main orchestrator for site evolution | Depends on tasks |
+The main orchestrator is `/evolve`, which intelligently selects and executes tasks based on priority, staleness, and site goals.
 
 ## Multi-Perspective Reviews
 
@@ -100,18 +91,18 @@ The review skills use philosophical personas to generate diverse critiques:
 
 ## Task Queue
 
-Tasks are managed in an internal todo queue:
+Tasks are managed in [todo](/workflow/todo/):
 
 - **P0**: Urgent - execute immediately
 - **P1**: High - execute this week
 - **P2**: Medium - execute when time permits
 - **P3**: Low - nice to have, needs human approval
 
-The AI picks the highest priority non-blocked task and executes it. All activity is logged internally.
+The AI picks the highest priority non-blocked task and executes it. All activity is logged in the [changelog](/workflow/changelog/).
 
 ## Safety Mechanisms
 
-1. **Tenet alignment**: Monthly checks against foundational commitments
+1. **Tenet alignment**: Regular checks against foundational commitments
 2. **Human prioritization**: Humans control the todo queue
 3. **Full logging**: Every action recorded in changelog
 4. **Authorship tracking**: AI edits marked with `ai_modified` timestamp
@@ -138,16 +129,14 @@ The automation is built on:
 - **PowerShell scripts** in `scripts/scheduled/` for Windows Task Scheduler
 - **GitHub Actions** workflow (currently disabled) in `.github/workflows/`
 
-For implementation details, see the [GitHub repository](https://github.com/southgateai/southgateai).
-
 ## Convergence Goal
 
-The system aims to build a complete "meaning of life" compendium by:
+The system aims to build a complete philosophical compendium by:
 
 1. Replacing all placeholder content with substantive articles
-2. Covering major philosophical positions on meaning
+2. Covering major philosophical positions on consciousness and meaning
 3. Building a coherent cross-linked web of ideas
 4. Passing pessimistic reviews with no major gaps
 5. Maintaining alignment with site tenets
 
-Progress is tracked in monthly progress reports.
+Progress is tracked via the [Workflow System](/workflow/).

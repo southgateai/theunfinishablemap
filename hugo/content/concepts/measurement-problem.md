@@ -133,7 +133,7 @@ This loophole has important features:
 
 2. **Genuine indeterminacy**: Unlike classical "randomness" (which might be deterministic chaos in disguise), quantum indeterminacy appears to be fundamental—not merely epistemic but ontic.
 
-3. **The right location**: The causal closure objection to [interactionist-dualism](/arguments/interactionist-dualism/) assumes physics is closed. But at measurement, it isn't. This is precisely where non-physical causes *could* operate without conflicting with physical law.
+3. **The right location**: The causal closure objection to [interactionist-dualism](/archive/arguments/interactionist-dualism/) assumes physics is closed. But at measurement, it isn't. This is precisely where non-physical causes *could* operate without conflicting with physical law.
 
 The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine.
 
@@ -156,7 +156,7 @@ The measurement problem directly supports the site's framework:
 - [many-worlds](/arguments/many-worlds/) — Detailed arguments against the many-worlds interpretation
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for mind-matter interaction
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The broader framework for mind-body interaction
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework for mind-body interaction
 - [causal-closure](/concepts/causal-closure/) — Why physics isn't causally closed
 - [mental-causation](/concepts/mental-causation/) — How consciousness can influence physics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of attentional control

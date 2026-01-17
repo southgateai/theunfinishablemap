@@ -3,6 +3,11 @@ ai_contribution: 100
 ai_generated_date: 2026-01-15
 ai_modified: 2026-01-15 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
+aliases:
+- /arguments/interactionist-dualism/
+archive_reason: Coalesced into Interactionist Dualism
+archived: true
+archived_date: 2026-01-17 16:00:00+00:00
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -23,9 +28,11 @@ human_modified: null
 last_curated: null
 last_deep_review: null
 modified: *id001
+original_path: /arguments/interactionist-dualism/
 related_articles:
 - '[[tenets]]'
 - '[[materialism]]'
+superseded_by: /concepts/interactionist-dualism/
 title: For Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -213,7 +220,7 @@ The arguments directly support the site's foundational [tenets](/tenets/):
 
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive concept treatment
 - [materialism](/arguments/materialism/) — The case against the main alternative
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The position defended here
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position defended here
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
 - [binding-problem](/concepts/binding-problem/) — Why unity is a problem for physicalism

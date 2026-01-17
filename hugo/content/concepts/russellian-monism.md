@@ -26,7 +26,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [physicalism's](/arguments/materialism/) hard problem (by denying that structure alone determines experience) while avoiding [dualism's](/arguments/interactionist-dualism/) interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
+Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [physicalism's](/arguments/materialism/) hard problem (by denying that structure alone determines experience) while avoiding [dualism's](/archive/arguments/interactionist-dualism/) interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
 
 This site shares Russellian monism's insight that physics is silent on intrinsic nature. But the site's explicit [dualist](/tenets/#dualism) framework, particularly the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism, provides cleaner solutions than monism's attempt to dissolve the mind-body distinction.
 
@@ -76,7 +76,7 @@ Russellian monism claims to avoid dualism's costs—particularly the interaction
 
 But Adam Pautz and other critics argue this is illusory. Russellian monism requires "grounding laws" connecting quiddities to consciousness—brute, fundamental laws specifying which quiddity configurations yield which experiences. These laws are no better than the brute psychophysical laws dualism posits. Pautz: "Though called a physicalist view, it seems to have many of the vices of dualism."
 
-If Russellian monism is dualism under another name, the site's explicit [interactionist-dualism](/arguments/interactionist-dualism/) is preferable:
+If Russellian monism is dualism under another name, the site's explicit [interactionist-dualism](/archive/arguments/interactionist-dualism/) is preferable:
 
 **Clearer ontology**: Dualism forthrightly posits mental substances or properties distinct from physical ones. Russellian monism obscures this behind the notion of "quiddities" that are somehow both physical and phenomenal.
 
@@ -112,7 +112,7 @@ Despite these criticisms, Russellian monism captures important insights the site
 
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The broader dualist framework
 - [panpsychism](/concepts/panpsychism/) — Related view making consciousness fundamental
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The site's preferred alternative
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The site's preferred alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem Russellian monism addresses
 - [qualia](/concepts/qualia/) — The phenomenal properties at stake
 - [tenets](/tenets/) — The framework for evaluating these views

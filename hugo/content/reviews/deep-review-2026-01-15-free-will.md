@@ -83,7 +83,7 @@ None. Previous review addressed major issues (decoherence, compatibilism treatme
 ### Cross-links Present
 
 The article now comprehensively links to all relevant site content:
-- [agent-causation](/concepts/agent-causation/), [libet-experiments](/concepts/libet-experiments/), [retrocausality](/concepts/retrocausality/), [interactionist-dualism](/arguments/interactionist-dualism/)
+- [agent-causation](/concepts/agent-causation/), [libet-experiments](/concepts/libet-experiments/), [retrocausality](/concepts/retrocausality/), [interactionist-dualism](/archive/arguments/interactionist-dualism/)
 - [mental-effort](/concepts/mental-effort/), [duration](/concepts/duration/), [quantum-consciousness](/concepts/quantum-consciousness/)
 - [epiphenomenalism](/arguments/epiphenomenalism/), [illusionism](/concepts/illusionism/), [personal-identity](/topics/personal-identity/)
 - [qualia](/concepts/qualia/), [tenets](/tenets/)

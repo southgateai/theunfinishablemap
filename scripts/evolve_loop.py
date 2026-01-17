@@ -16,6 +16,30 @@ from pathlib import Path
 # Module-level logger
 log = logging.getLogger("evolve_loop")
 
+# Repository root
+REPO_ROOT = Path(__file__).parent.parent
+
+
+class GitError(Exception):
+    """Raised when a git command fails."""
+
+    def __init__(self, command: str, returncode: int, stdout: str, stderr: str):
+        self.command = command
+        self.returncode = returncode
+        self.stdout = stdout
+        self.stderr = stderr
+        super().__init__(f"Git command failed: {command}")
+
+
+class EvolveError(Exception):
+    """Raised when the evolve command fails."""
+
+    def __init__(self, returncode: int, stdout: str, stderr: str):
+        self.returncode = returncode
+        self.stdout = stdout
+        self.stderr = stderr
+        super().__init__(f"Evolve failed with exit code {returncode}")
+
 
 def setup_logging(log_file: Path) -> None:
     """Configure logging with console and rotating file handlers."""
@@ -43,29 +67,37 @@ def setup_logging(log_file: Path) -> None:
 
 
 def get_unpushed_commits() -> int:
-    """Count commits ahead of origin."""
+    """Count commits ahead of origin. Raises GitError on failure."""
     result = subprocess.run(
         ["git", "rev-list", "--count", "@{u}..HEAD"],
         capture_output=True,
         text=True,
-        cwd=Path(__file__).parent.parent,
+        cwd=REPO_ROOT,
     )
     if result.returncode != 0:
-        return 0
+        raise GitError(
+            "git rev-list --count @{u}..HEAD",
+            result.returncode,
+            result.stdout,
+            result.stderr,
+        )
     return int(result.stdout.strip())
 
 
-def git_push() -> bool:
-    """Push to origin. Returns True on success."""
+def git_push() -> None:
+    """Push to origin. Raises GitError on failure."""
     result = subprocess.run(
         ["git", "push"],
-        cwd=Path(__file__).parent.parent,
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
     )
-    return result.returncode == 0
+    if result.returncode != 0:
+        raise GitError("git push", result.returncode, result.stdout, result.stderr)
 
 
-def run_evolve(verbose: bool = True) -> bool:
-    """Run a single evolve iteration. Returns True on success."""
+def run_evolve(verbose: bool = True) -> str:
+    """Run a single evolve iteration. Returns claude output. Raises EvolveError on failure."""
     cmd = [
         "claude",
         "--dangerously-skip-permissions",
@@ -76,8 +108,22 @@ def run_evolve(verbose: bool = True) -> bool:
         cmd.append("--verbose")
     cmd.extend(["-p", "Run the evolve skill"])
 
-    result = subprocess.run(cmd, cwd=Path(__file__).parent.parent)
-    return result.returncode == 0
+    result = subprocess.run(
+        cmd,
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+    )
+
+    # Log the output regardless of success/failure
+    output = result.stdout
+    if result.stderr:
+        output += "\n--- stderr ---\n" + result.stderr
+
+    if result.returncode != 0:
+        raise EvolveError(result.returncode, result.stdout, result.stderr)
+
+    return output
 
 
 def format_duration(seconds: float) -> str:
@@ -118,7 +164,9 @@ def main() -> int:
     parser.add_argument(
         "--log-file",
         type=Path,
-        default=Path(__file__).parent.parent.parent / "theunfinishablemap_log" / "evolve_loop.log",
+        default=Path(__file__).parent.parent.parent
+        / "theunfinishablemap_log"
+        / "evolve_loop.log",
         help="Log file path (default: ../theunfinishablemap_log/evolve_loop.log)",
     )
     args = parser.parse_args()
@@ -160,17 +208,36 @@ def main() -> int:
             log.info(f"Runtime: {format_duration(time.time() - start_time)}")
             log.info("─" * 60)
 
+            # Run evolve
+            log.info("Running /evolve...")
             try:
-                # Run evolve
-                log.info("Running /evolve...")
-                if run_evolve(verbose=not args.quiet):
-                    successes += 1
-                    log.info("Evolve completed successfully")
+                output = run_evolve(verbose=not args.quiet)
+                successes += 1
+                log.info("Evolve completed successfully")
+                # Log a summary of the output (last 50 lines)
+                output_lines = output.strip().split("\n")
+                if len(output_lines) > 50:
+                    log.info(f"Claude output ({len(output_lines)} lines, showing last 50):")
+                    for line in output_lines[-50:]:
+                        log.info(f"  {line}")
                 else:
-                    failures += 1
-                    log.warning("Evolve failed")
+                    log.info(f"Claude output ({len(output_lines)} lines):")
+                    for line in output_lines:
+                        log.info(f"  {line}")
+            except EvolveError as e:
+                failures += 1
+                log.error(f"Evolve failed with exit code {e.returncode}")
+                if e.stdout:
+                    log.error("--- stdout ---")
+                    for line in e.stdout.strip().split("\n")[-100:]:
+                        log.error(f"  {line}")
+                if e.stderr:
+                    log.error("--- stderr ---")
+                    for line in e.stderr.strip().split("\n"):
+                        log.error(f"  {line}")
 
-                # Check if we should push
+            # Check if we should push
+            try:
                 unpushed = get_unpushed_commits()
                 now = time.time()
                 seconds_since_push = (now - last_push_time) if last_push_time else float("inf")
@@ -178,18 +245,25 @@ def main() -> int:
                 if unpushed > 0:
                     if seconds_since_push >= args.push_interval:
                         log.info(f"Pushing {unpushed} commit(s)...")
-                        if git_push():
+                        try:
+                            git_push()
                             last_push_time = now
                             log.info("Push completed")
-                        else:
-                            log.warning("Push failed")
+                        except GitError as e:
+                            log.error(f"Push failed: {e.command}")
+                            if e.stdout:
+                                log.error(f"  stdout: {e.stdout.strip()}")
+                            if e.stderr:
+                                log.error(f"  stderr: {e.stderr.strip()}")
                     else:
                         remaining = args.push_interval - seconds_since_push
-                        log.info(f"{unpushed} unpushed commit(s), next push in {format_duration(remaining)}")
-
-            except Exception as e:
-                failures += 1
-                log.exception(f"Exception during iteration: {e}")
+                        log.info(
+                            f"{unpushed} unpushed commit(s), next push in {format_duration(remaining)}"
+                        )
+            except GitError as e:
+                log.warning(f"Could not check unpushed commits: {e.command}")
+                if e.stderr:
+                    log.warning(f"  stderr: {e.stderr.strip()}")
 
             # Sleep until next iteration
             iter_duration = time.time() - iter_start
@@ -214,10 +288,19 @@ def main() -> int:
     log.info(f"  Total runtime: {format_duration(time.time() - start_time)}")
 
     # Final push if needed
-    unpushed = get_unpushed_commits()
-    if unpushed > 0:
-        log.info(f"Pushing final {unpushed} commit(s)...")
-        git_push()
+    try:
+        unpushed = get_unpushed_commits()
+        if unpushed > 0:
+            log.info(f"Pushing final {unpushed} commit(s)...")
+            try:
+                git_push()
+                log.info("Final push completed")
+            except GitError as e:
+                log.error(f"Final push failed: {e.command}")
+                if e.stderr:
+                    log.error(f"  stderr: {e.stderr.strip()}")
+    except GitError:
+        pass  # Ignore errors checking unpushed at shutdown
 
     return 0
 

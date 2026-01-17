@@ -72,7 +72,7 @@ Substance dualism permits survival most straightforwardly: if consciousness is a
 
 Property dualism is more complex. If consciousness is a non-physical property of physical systems, what happens when those systems cease? The property might require a substrate to instantiate it. Yet if the property is genuinely non-physical, the substrate needn't be material—perhaps consciousness could be re-instantiated in a different medium.
 
-The site's [interactionist-dualism](/arguments/interactionist-dualism/) leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
+The site's [interactionist-dualism](/archive/arguments/interactionist-dualism/) leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
 
 ## Near-Death Experiences
 
@@ -158,7 +158,7 @@ What the site claims: given its dualist commitments, survival is a *coherent pos
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Temporary disconnection as a model for death
 - [personal-identity](/topics/personal-identity/) — Why indexical identity matters for survival
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms at the consciousness-physics interface
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The framework that makes survival coherent
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that makes survival coherent
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds significance
 - [death-consciousness-persistence-2026-01-14](/research/death-consciousness-persistence-2026-01-14/) — Detailed research notes
 

@@ -27,7 +27,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [interactionist-dualism](/arguments/interactionist-dualism/)—and this site's framework depends on its rejection.
+Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [interactionist-dualism](/archive/arguments/interactionist-dualism/)—and this site's framework depends on its rejection.
 
 ## The Principle Stated
 
@@ -96,7 +96,7 @@ This means: *not every physical event has a sufficient physical cause*. When a r
 
 If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without violating any physical law. No energy is injected (the outcomes are among those physics already allows). No overdetermination occurs (physics provides necessary but not sufficient causes).
 
-This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/arguments/interactionist-dualism/): the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
+This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/archive/arguments/interactionist-dualism/): the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
 
 This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out.
 
@@ -154,7 +154,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem causal closure creates
 - [emergence](/concepts/emergence/) — The emergentist response to causal closure
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The position that mental causation enables
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position that mental causation enables
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-matter interaction
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view accepting closure forces
 - [free-will](/topics/free-will/) — Implications for agency

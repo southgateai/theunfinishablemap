@@ -25,7 +25,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/arguments/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental.
+The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/archive/arguments/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental.
 
 ## The Problem Stated
 
@@ -122,7 +122,7 @@ The site remains neutral between substance and property dualism, but the quantum
 
 ## Further Reading
 
-- [interactionist-dualism](/arguments/interactionist-dualism/) - The position the pairing problem challenges
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) - The position the pairing problem challenges
 - [causal-closure](/concepts/causal-closure/) - The distinct (but related) closure objection
 - [mental-causation](/concepts/mental-causation/) - The general problem of how minds cause physical effects
 - [substance-property-dualism](/concepts/substance-property-dualism/) - The choice between dualist frameworks

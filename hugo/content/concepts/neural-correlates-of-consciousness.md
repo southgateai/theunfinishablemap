@@ -25,7 +25,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The site's [interactionist dualism](/arguments/interactionist-dualism/) is fully compatible with NCC findings.
+Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The site's [interactionist dualism](/archive/arguments/interactionist-dualism/) is fully compatible with NCC findings.
 
 ## What NCC Research Studies
 
@@ -81,7 +81,7 @@ NCC findings are compatible with all three.
 
 ### Interactionism Predicts Correlations
 
-If consciousness causally interacts with the brain—as [interactionist-dualism](/arguments/interactionist-dualism/) holds—we would expect tight correlations between mental states and brain states. As the Stanford Encyclopedia notes: "Interactionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism."
+If consciousness causally interacts with the brain—as [interactionist-dualism](/archive/arguments/interactionist-dualism/) holds—we would expect tight correlations between mental states and brain states. As the Stanford Encyclopedia notes: "Interactionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism."
 
 NCC research does not favour materialism over interactionism. Both predict exactly the correlations we observe.
 
@@ -141,7 +141,7 @@ These remain philosophical questions. The site holds that consciousness is irred
 - [filter-theory](/concepts/filter-theory/) — The transmission model that reinterprets NCCs as interface points
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Evidence that NCCs indicate interface rather than production
 - [integrated-information-theory](/concepts/integrated-information-theory/) — One major NCC-compatible theory
-- [interactionist-dualism](/arguments/interactionist-dualism/) — How non-physical consciousness could interact with NCC
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How non-physical consciousness could interact with NCC
 - [materialism](/arguments/materialism/) — The opposing framework NCC research does not settle
 
 ## References

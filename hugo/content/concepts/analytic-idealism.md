@@ -146,7 +146,7 @@ The site's position: take consciousness seriously (with idealism) while also tak
 - [materialism](/arguments/materialism/) — The view idealism opposes most directly
 - [panpsychism](/concepts/panpsychism/) — A different form of consciousness-priority metaphysics
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The site's preferred framework
-- [interactionist-dualism](/arguments/interactionist-dualism/) — How consciousness and matter interact
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness and matter interact
 - [combination-problem](/concepts/combination-problem/) — The challenge panpsychism faces that idealism claims to avoid
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem all positions must address
 - [tenets](/tenets/) — The site's foundational commitments

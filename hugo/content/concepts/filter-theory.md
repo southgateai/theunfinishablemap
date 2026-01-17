@@ -25,7 +25,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to the site's [interactionist dualism](/arguments/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to the site's [interactionist dualism](/archive/arguments/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
 
 ## The Core Claim
 
@@ -163,7 +163,7 @@ Filter theory supports and is supported by the site's [foundational commitments]
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Consciousness operating without sensory input
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't prove production
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The broader framework filter theory supports
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework filter theory supports
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface
 
 ## References

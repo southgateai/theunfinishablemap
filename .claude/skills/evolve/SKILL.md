@@ -9,9 +9,8 @@ The main orchestrator for autonomous site evolution. Intelligently selects and e
 ```
 
 Modes:
-- `quick` - Execute 1 task (highest scored)
-- (default) - Standard session, execute 2-3 tasks
-- `deep` - Execute 3-5 tasks including maintenance
+- (default) - Execute 1 task (highest scored)
+- `deep` - Execute 2-3 tasks including maintenance
 
 ## Session Workflow
 
@@ -78,9 +77,8 @@ FAILURE_PENALTY: -100 per failure, -500 at 3+ failures
 ### 4. Select Tasks
 
 Based on mode:
-- **Quick**: Top 1 task
-- **Standard**: Top 2-3 tasks (at least 1 content + 1 maintenance if overdue)
-- **Deep**: Top 3-5 tasks
+- **Default**: Top 1 task
+- **Deep**: Top 2-3 tasks (at least 1 content + 1 maintenance if overdue)
 
 Never select:
 - Tasks with 3+ failures (these are blocked)
@@ -155,14 +153,12 @@ Output session summary:
 ```markdown
 ## Evolution Session Complete
 
-**Mode**: standard
-**Tasks executed**: 3
+**Mode**: default
+**Tasks executed**: 1
 **Duration**: ~15 minutes
 
 ### Tasks
-1. ✓ Run pessimistic-review (overdue by 5 days) - Score: 350
-2. ✓ Write article on hard problem - Score: 300
-3. ✗ Research quantum decoherence - Failed (attempt 2/3)
+1. ✓ Write article on hard problem - Score: 300
 
 ### Metrics
 - Convergence: 28% → 32%

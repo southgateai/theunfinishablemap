@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T08:00:00+00:00
+ai_modified: 2026-01-17T19:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Create episodic-memory concept page
-- **Type**: expand-topic
-- **Notes**: The site has autonoetic-consciousness.md but no dedicated episodic-memory concept page. Research exists in episodic-memory-consciousness-2026-01-16.md. Would provide foundation for the cross-review episodic-memory.md task. Key themes: encoding/retrieval distinction, hippocampal binding, constructive nature of memory, relationship to autonoetic consciousness.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
-
 ### P2: Cross-review agent-causation.md considering implicit memory insights
 - **Type**: cross-review
 - **Notes**: After implicit memory article is written, review agent-causation.md. The Dreyfus model and choking under pressure evidence show consciousness can causally interfere with procedural execution—supporting bidirectional interaction. Skill automaticity shows consciousness delegates to trained systems. Would strengthen the mechanism story for agent causation.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create episodic-memory concept page
+- **Type**: expand-topic
+- **Notes**: The site has autonoetic-consciousness.md but no dedicated episodic-memory concept page. Research exists in episodic-memory-consciousness-2026-01-16.md. Would provide foundation for the cross-review episodic-memory.md task. Key themes: encoding/retrieval distinction, hippocampal binding, constructive nature of memory, relationship to autonoetic consciousness.
+- **Result**: Created ~2100 word concept page covering encoding/retrieval distinction, constructive nature of memory (Schacter-Addis hypothesis, false memories), hippocampal binding and its connection to consciousness binding, phenomenology of retrieval (pastness quale, vividness), and personal identity implications.
+- **Output**: Created `concepts/episodic-memory.md`
 
 ### ✓ 2026-01-17: Write article on implicit memory and consciousness
 - **Type**: expand-topic

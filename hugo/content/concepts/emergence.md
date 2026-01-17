@@ -87,7 +87,7 @@ Each of these features—unity, qualitative character, agency—is what strong e
 
 Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained.
 
-The site advances beyond this. The [quantum framework](/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
+The site advances beyond this. The [quantum framework](/archive/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
 
 **The mechanism:** Consciousness selects among outcomes physics leaves undetermined. Quantum mechanics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
 
@@ -143,7 +143,7 @@ The site's framework can be understood as *emergentist dualism*—consciousness 
 
 ## Further Reading
 
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The site's framework as strong emergentism with mechanism
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The site's framework as strong emergentism with mechanism
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge

@@ -35,7 +35,7 @@ The basic puzzle: if physical events have sufficient physical causes, what room 
 
 Consider your decision to speak. Neuroscience traces the causal chain: motor cortex activation → nerve signals → muscle contraction → sound waves. Each physical event has a physical cause. Where does "your decision" enter?
 
-If the decision is just identical to some brain state, there's no special problem—it's physical causation all the way down. But if mental properties are distinct from physical properties (as [dualism](/arguments/interactionist-dualism/) holds), they seem to be causally excluded by their physical realizers.
+If the decision is just identical to some brain state, there's no special problem—it's physical causation all the way down. But if mental properties are distinct from physical properties (as [dualism](/archive/arguments/interactionist-dualism/) holds), they seem to be causally excluded by their physical realizers.
 
 This is the exclusion problem: mental causes seem to compete with physical causes for the same effects.
 
@@ -167,7 +167,7 @@ The site affirms mental causation because denying it undermines everything we th
 
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The framework that accommodates mental causation
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that accommodates mental causation
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for substance causation

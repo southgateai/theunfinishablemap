@@ -228,7 +228,7 @@ This unified model is the site's most complete answer to how consciousness relat
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How selection operates concretely
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The philosophical framework
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework
 - [tenets](/tenets/) — The site's foundational commitments
 
 ## References

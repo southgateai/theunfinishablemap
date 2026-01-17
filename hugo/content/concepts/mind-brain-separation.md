@@ -148,7 +148,7 @@ The site's [tenets](/tenets/) include [dualism](/tenets/#dualism)—consciousnes
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams as evidence for the filter model
 - [binding-problem](/concepts/binding-problem/)
 - [loss-of-consciousness](/topics/loss-of-consciousness/)
-- [interactionist-dualism](/arguments/interactionist-dualism/)
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 - [qualia](/concepts/qualia/)
 

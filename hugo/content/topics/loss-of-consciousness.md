@@ -106,7 +106,7 @@ The site's [tenets](/tenets/) include both [dualism](/tenets/#dualism)—conscio
 
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 - [near-death-experiences](/concepts/near-death-experiences/)
-- [interactionist-dualism](/arguments/interactionist-dualism/)
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
 - [death-and-consciousness](/topics/death-and-consciousness/)
 
 ## References

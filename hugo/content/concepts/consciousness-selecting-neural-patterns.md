@@ -185,7 +185,7 @@ The remaining tenets are compatible:
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
 - [causal-closure](/concepts/causal-closure/) — The principle selection challenges
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates logical space for consciousness
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The philosophical framework selection implements
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework selection implements
 - [tenets](/tenets/) — The site's foundational commitments
 
 ## References

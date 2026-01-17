@@ -159,7 +159,7 @@ They don't definitively prove:
 
 A materialist could interpret the same findings as complex neural self-modification—one brain state causing another through classical mechanisms. The findings are *compatible* with Stapp's proposal but don't prove it.
 
-What they do establish: mental effort has physical consequences. Whatever the mechanism, something the patient does with their mind changes their brain. This is harder to square with [epiphenomenalism](/arguments/epiphenomenalism/) than with [interactionist-dualism](/arguments/interactionist-dualism/).
+What they do establish: mental effort has physical consequences. Whatever the mechanism, something the patient does with their mind changes their brain. This is harder to square with [epiphenomenalism](/arguments/epiphenomenalism/) than with [interactionist-dualism](/archive/arguments/interactionist-dualism/).
 
 ## Objections and Responses
 
@@ -201,7 +201,7 @@ The site doesn't commit to Stapp's specific proposal over other quantum consciou
 - [attention-as-interface](/concepts/attention-as-interface/) — Formalizes attention as the interface layer between consciousness and neural systems
 - [specious-present](/concepts/specious-present/) — Working memory may underlie the experienced duration of "now"
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms including Stapp's approach
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The philosophical framework combining dualism with causal interaction
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework combining dualism with causal interaction
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The alternative view that consciousness has no causal power
 - [free-will](/topics/free-will/) — Connections between attention, effort, and libertarian free will
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes

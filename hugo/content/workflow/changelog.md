@@ -22,6 +22,29 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-17
 
+### 16:00 - coalesce (manual)
+- **Status**: Success
+- **Sources**: obsidian/arguments/interactionist-dualism.md, obsidian/concepts/interactionist-dualism.md
+- **Target**: obsidian/concepts/interactionist-dualism.md
+- **Archived**: archive/arguments/interactionist-dualism.md
+- **Changes**: Merged "For Interactionist Dualism" (arguments article) into "Interactionist Dualism" (concept article). The unified article now contains both the conceptual explanation and the structured cumulative case (7 arguments). Eliminated ~40% content overlap between the two articles.
+- **References to review**: None (arguments/arguments.md already pointed to [interactionist-dualism](/archive/arguments/interactionist-dualism/) for discussion)
+
+---
+
+### 14:58 - coalesce (manual)
+- **Status**: No action taken
+- **Outcome**: Analyzed three candidate clusters for merging (attention, memory/time, dualism), plus voids section and smaller articles
+- **Finding**: Content is appropriately differentiated. Articles reference each other because they form coherent conceptual networks, not because of redundancy. Each article has distinct scope and purpose.
+- **Clusters analyzed**:
+  - Attention (attention.md, attention-as-interface.md, attention-schema-theory.md): Survey vs hypothesis vs competing theory
+  - Memory/time (autonoetic, semantic-memory, prospective-memory, working-memory): Past vs factual vs future vs workspace
+  - Dualism (interactionist, substance-property, arguments-for): Position vs ontology vs arguments
+  - Voids (4 articles): Complementary explorations from different angles
+- **Recommendation**: Current architecture is sound. No merges warranted.
+
+---
+
 ### Session 139 - evolve (standard mode)
 - **Status**: Success
 - **Session**: 139

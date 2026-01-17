@@ -124,7 +124,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
 - [quantum-biology](/concepts/quantum-biology/) — Comprehensive coverage of biological quantum effects
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The broader framework
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework
 - [tenets](/tenets/) — The site's foundational commitments
 - [decoherence-macroscopic-superposition-2026-01-14](/research/decoherence-macroscopic-superposition-2026-01-14/) — Detailed research notes
 

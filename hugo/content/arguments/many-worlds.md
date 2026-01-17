@@ -193,7 +193,7 @@ The site's framework requires that quantum measurement is real—that definite o
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Parallel problems with identity reductionism
 - [binding-problem](/concepts/binding-problem/) — The unity of consciousness that branching threatens
 - [tenets](/tenets/) — The site's foundational commitments
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The positive case for the alternative
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The positive case for the alternative
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 01:15:00+00:00
+ai_modified: 2026-01-17 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -60,6 +60,12 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | `/pessimistic-review` | Find logical gaps, unsupported claims, counterarguments | No (reports only) |
 | `/optimistic-review` | Find strengths and expansion opportunities | No (reports only) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
+
+### Content Maintenance
+
+| Skill | Purpose | Modifies Content? |
+|-------|---------|-------------------|
+| `/coalesce` | Merge overlapping articles into unified pieces, archiving originals | Yes (creates, archives) |
 
 ### Publishing
 

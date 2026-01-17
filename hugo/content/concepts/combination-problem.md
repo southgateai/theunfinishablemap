@@ -23,7 +23,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The combination problem is the central challenge facing [panpsychism](/concepts/panpsychism/)—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. This site's [interactionist framework](/arguments/interactionist-dualism/) avoids the problem entirely by denying that matter has micro-experiences in the first place.
+The combination problem is the central challenge facing [panpsychism](/concepts/panpsychism/)—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. This site's [interactionist framework](/archive/arguments/interactionist-dualism/) avoids the problem entirely by denying that matter has micro-experiences in the first place.
 
 ## The Problem Stated
 
@@ -117,7 +117,7 @@ The structurally similar challenge at a different level suggests that the gap be
 
 ## This Site's Alternative
 
-The site's [interactionist framework](/arguments/interactionist-dualism/) avoids the combination problem entirely.
+The site's [interactionist framework](/archive/arguments/interactionist-dualism/) avoids the combination problem entirely.
 
 On this view, matter does not have micro-experiences. Consciousness is not ubiquitous but *distinct*—a separate ontological category that interacts with matter rather than constituting it. There's no need to explain how micro-experiences combine because there are no micro-experiences.
 
@@ -162,7 +162,7 @@ The combination problem is not an argument *for* the site's framework, but it sh
 
 - [panpsychism](/concepts/panpsychism/) — The view facing this problem
 - [russellian-monism](/concepts/russellian-monism/) — A related framework also facing combination
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The alternative avoiding the problem
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The alternative avoiding the problem
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
 - [tenets](/tenets/) — The site's foundational commitments

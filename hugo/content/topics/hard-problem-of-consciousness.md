@@ -198,7 +198,7 @@ Empirical research on [neural correlates of consciousness (NCC)](/concepts/neura
 
 Yet NCC research, however sophisticated, cannot solve the hard problem. Finding that colour experience correlates with activity in V4 does not explain why V4 activity *feels like* anything. Correlation is not identity, and even if we establish perfect neural-experiential mappings, the explanatory gap remains: why does this pattern of firing produce *this* qualitative experience rather than nothing at all?
 
-Crucially, NCC findings are compatible with both materialism and [interactionist dualism](/arguments/interactionist-dualism/). If consciousness causally interacts with the brain, we would expect exactly the tight correlations NCC research discovers. The data itself is metaphysically neutral.
+Crucially, NCC findings are compatible with both materialism and [interactionist dualism](/archive/arguments/interactionist-dualism/). If consciousness causally interacts with the brain, we would expect exactly the tight correlations NCC research discovers. The data itself is metaphysically neutral.
 
 ### Empirical Anomalies: Near-Death Experiences
 
@@ -303,7 +303,7 @@ This creates a striking parallel across major frameworks:
 | Idealism | Regularity problem: why does "appearance" follow law-like patterns? |
 | Dualism | Interaction problem: how do distinct substances causally connect? |
 
-Each position faces a deep difficulty. None has solved its respective problem. But the comparison is instructive. The site's [interactionist framework](/arguments/interactionist-dualism/) addresses its challenge—the interaction problem—through the [quantum mechanism](/concepts/quantum-consciousness/). Consciousness selects among outcomes physics leaves undetermined, so no physical law is violated. Neither physicalism nor panpsychism has comparable progress on the hard problem or combination problem respectively. Idealism's regularity problem—explaining why "appearance" behaves lawfully—may ultimately smuggle physical reality back in under another name.
+Each position faces a deep difficulty. None has solved its respective problem. But the comparison is instructive. The site's [interactionist framework](/archive/arguments/interactionist-dualism/) addresses its challenge—the interaction problem—through the [quantum mechanism](/concepts/quantum-consciousness/). Consciousness selects among outcomes physics leaves undetermined, so no physical law is violated. Neither physicalism nor panpsychism has comparable progress on the hard problem or combination problem respectively. Idealism's regularity problem—explaining why "appearance" behaves lawfully—may ultimately smuggle physical reality back in under another name.
 
 See [combination-problem](/concepts/combination-problem/) for detailed treatment of the subject-summing, palette, grain, and structure problems, proposed solutions (phenomenal bonding, cosmopsychism), and why the site's interactionism avoids the problem entirely.
 

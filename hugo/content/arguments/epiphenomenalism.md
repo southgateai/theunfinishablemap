@@ -189,7 +189,7 @@ The arguments against epiphenomenalism directly support the site's framework:
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view examined in detail
 - [mental-causation](/concepts/mental-causation/) — Kim's exclusion argument and responses
 - [causal-closure](/concepts/causal-closure/) — The principle motivating epiphenomenalism
-- [interactionist-dualism](/arguments/interactionist-dualism/) — The positive case for interaction
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The positive case for interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How mental causation could work
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what it shows
 - [tenets](/tenets/) — The site's foundational commitments

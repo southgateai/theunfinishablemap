@@ -79,7 +79,7 @@ The [phenomenology of effort](/concepts/mental-effort/) supports this. Directing
 
 Lowe and O'Connor's substance causation view has profound implications. If all causation is fundamentally substances exercising powers, then consciousness causing physical events isn't metaphysically exceptional—it's how causation works generally.
 
-This reframes the [causal closure objection](/arguments/interactionist-dualism/#the-causal-closure-argument). The objection assumes event causation is fundamental: every physical event must have a prior physical event cause. But if substance causation is fundamental, this assumption fails. Physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
+This reframes the [causal closure objection](/archive/arguments/interactionist-dualism/#the-causal-closure-argument). The objection assumes event causation is fundamental: every physical event must have a prior physical event cause. But if substance causation is fundamental, this assumption fails. Physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
 The site's quantum mechanism specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent—the conscious substance—selects among quantum possibilities. This isn't consciousness "adding" to physical causation; it's consciousness exercising the same kind of causal power that all substances exercise, at points where physics doesn't determine the outcome.
 
@@ -108,7 +108,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The broader free will question and this site's position
-- [interactionist-dualism](/arguments/interactionist-dualism/) — How mind and body interact
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How mind and body interact
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
 - [mental-effort](/concepts/mental-effort/) — The phenomenology supporting agent causation
 - [retrocausality](/concepts/retrocausality/) — How atemporal selection deepens sourcehood
