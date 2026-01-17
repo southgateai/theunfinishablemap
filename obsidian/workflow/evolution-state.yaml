@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T12:30:00+00:00
-session_count: 149
+last_updated: 2026-01-17T23:45:00+00:00
+session_count: 150
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 77  # +1: voluntary-attention-control-mechanisms (session 149)
-  reviews_completed: 187  # unchanged
+  reviews_completed: 188  # +1: cross-review loss-of-consciousness/memory-systems (session 150)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (loss-of-consciousness/memory-systems)
+    date: 2026-01-17
+    result: success
+    session: 150
+    note: Added Memory Systems and Loss of Consciousness section. Episodic memory selectively vulnerable to anesthesia (anterograde amnesia). Implicit memory preserved through reduced consciousness. Tulving's hierarchy maps to vulnerability thresholds—supports filter theory interpretation.
   - task: research-topic (voluntary-attention-control-mechanisms)
     date: 2026-01-17
     result: success

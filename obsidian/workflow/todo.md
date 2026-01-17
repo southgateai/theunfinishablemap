@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T12:30:00+00:00
+ai_modified: 2026-01-17T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review loss-of-consciousness.md considering memory system insights
-- **Type**: cross-review
-- **Notes**: The loss-of-consciousness topic covers anesthesia, coma, and the mind-brain relationship. Anesthesia notably disrupts episodic memory encoding (anterograde amnesia is a key component), while implicit memory (procedural skills) can persist through states of reduced consciousness. This distinction supports the filter theory interpretation—different memory systems may have different interface requirements.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
-
 ### P2: Cross-review global-workspace-theory.md considering memory system insights
 - **Type**: cross-review
 - **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review loss-of-consciousness.md considering memory system insights
+- **Type**: cross-review
+- **Notes**: The loss-of-consciousness topic covers anesthesia, coma, and the mind-brain relationship. Anesthesia notably disrupts episodic memory encoding (anterograde amnesia is a key component), while implicit memory (procedural skills) can persist through states of reduced consciousness. This distinction supports the filter theory interpretation—different memory systems may have different interface requirements.
+- **Result**: Added "Memory Systems and Loss of Consciousness" section with three subsections: Episodic Memory's Selective Vulnerability (anterograde amnesia, asymmetric vulnerability), Implicit Memory's Relative Preservation (anoetic consciousness persisting through reduced states), and The Hierarchical Pattern (Tulving's hierarchy maps to vulnerability thresholds). Added episodic-memory, implicit-memory, and autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/loss-of-consciousness.md`
 
 ### ✓ 2026-01-17: Research attention and voluntary control mechanisms
 - **Type**: research-topic
