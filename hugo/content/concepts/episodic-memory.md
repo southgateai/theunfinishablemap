@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-17 23:30:00+00:00
+ai_modified: 2026-01-17 23:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[autonoetic-consciousness]]'
 - '[[semantic-memory]]'
+- '[[implicit-memory]]'
 - '[[prospective-memory]]'
 - '[[working-memory]]'
 - '[[temporal-consciousness]]'
@@ -119,6 +120,18 @@ The asymmetry also suggests consciousness may be involved differently in each ph
 
 [Autonoetic consciousness](/concepts/autonoetic-consciousness/) describes the distinctive phenomenology of episodic remembering: the sense of re-experiencing, the double presence of self (as rememberer and as protagonist), the felt pastness of the remembered event.
 
+### The Anoetic-Autonoetic Contrast
+
+Tulving's three-level hierarchy illuminates what makes episodic memory phenomenologically distinctive by contrast with other memory forms.
+
+**[Anoetic consciousness](/concepts/implicit-memory/)** ("non-knowing") accompanies procedural and implicit memory—the memory that guides skills and habits. When you type on a keyboard or ride a bicycle, you act without representing yourself as the one acting. Tulving emphasised that anoetic consciousness isn't absent consciousness; it has what he called "non-reflective qualia." There is something it is like to perform a well-learned skill, but that experience lacks the self-referential character of remembering.
+
+**Noetic consciousness** ("knowing") accompanies [semantic memory](/concepts/semantic-memory/)—knowledge of facts and meanings. You know that Paris is in France, and there is phenomenology to this knowing (the tip-of-the-tongue feeling, the satisfaction of retrieval), but you don't re-experience learning it.
+
+**Autonoetic consciousness** ("self-knowing") is what makes episodic memory distinctive. Unlike anoetic and noetic states, autonoetic consciousness involves *representing yourself as the subject of the represented event*. You don't just have information about the past—you project yourself back into it, phenomenally present as both the current rememberer and the past protagonist. This double presence, the felt pastness, the re-experiencing rather than mere retrieval—these are what mark episodic memory as phenomenologically unique.
+
+The contrast with anoetic consciousness is particularly sharp. When implicit memory guides a skilled action, consciousness is present but unreflective—you don't observe yourself acting. When episodic memory reconstructs a past event, consciousness is essentially self-referential—you couldn't have the experience without representing yourself as its subject. The choking phenomenon studied in implicit memory (where conscious attention disrupts automatized skills) has no equivalent in episodic memory because episodic memory *requires* conscious self-attention rather than being disrupted by it.
+
 ### The Pastness Quale
 
 When you remember an event, it comes tagged with pastness—a phenomenal marker that this is something that happened, not something happening now. This pastness isn't inferred; it's immediately present in the experience. You don't conclude "this must be a memory" from its content—the memory arrives already marked as past.
@@ -202,7 +215,8 @@ Episodic memory supports several foundational commitments.
 ## Further Reading
 
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The form of consciousness that enables episodic memory
-- [semantic-memory](/concepts/semantic-memory/) — Knowing without re-experiencing
+- [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and knowing without re-experiencing
+- [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness and skills that don't require self-representation
 - [prospective-memory](/concepts/prospective-memory/) — Memory for the future
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for reconstruction
 - [binding-problem](/concepts/binding-problem/) — How distributed processes produce unity

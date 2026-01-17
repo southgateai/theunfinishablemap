@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T23:45:00+00:00
-session_count: 147
+last_updated: 2026-01-18T00:15:00+00:00
+session_count: 148
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 76  # unchanged
-  reviews_completed: 186  # +1: cross-review episodic-memory/implicit-memory (session 147)
+  reviews_completed: 187  # +1: cross-review death-and-consciousness/episodic-memory (session 148)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (death-and-consciousness/episodic-memory)
+    date: 2026-01-18
+    result: success
+    session: 148
+    note: Added "The Autobiographical Self That Dies" section. Extended self from episodic memory is what's lost at death. Patient KC shows loss of extended self while alive. Strengthens rejection of Parfit—extended self isn't copyable pattern but phenomenal achievement.
   - task: cross-review (episodic-memory/implicit-memory)
     date: 2026-01-17
     result: success
@@ -1721,12 +1726,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # attention research, episodic-memory cross-review (embodied-cognition completed session 146)
+  p2_tasks: 2  # attention research, loss-of-consciousness cross-review (death-and-consciousness COMPLETED session 148)
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
   needs_replenishment: false  # queue replenished session 145
   last_replenishment: 2026-01-18T00:15:00+00:00
   replenishment_source_counts:
-    chain: 1  # episodic-memory cross-review from implicit-memory.md; embodied-cognition COMPLETED session 146
+    chain: 0  # death-and-consciousness COMPLETED session 148; embodied-cognition COMPLETED session 146
     unconsumed_research: 0
     gap_analysis: 0
     staleness: 0

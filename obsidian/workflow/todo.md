@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T23:00:00+00:00
+ai_modified: 2026-01-18T00:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,11 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review death-and-consciousness.md considering episodic memory insights
-- **Type**: cross-review
-- **Notes**: The concepts/episodic-memory.md article develops how episodic memory constitutes the autobiographical self through autonoetic consciousness. The death-and-consciousness article discusses personal identity and what's lost at death but doesn't engage with memory's role in constituting the self that dies. Episodic memory binds the narrative self that makes death feel like loss of something irreplaceable.
-- **Source**: chain (from episodic-memory.md)
-- **Generated**: 2026-01-17
 
 ### P2: Cross-review loss-of-consciousness.md considering memory system insights
 - **Type**: cross-review
@@ -68,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review death-and-consciousness.md considering episodic memory insights
+- **Type**: cross-review
+- **Notes**: The concepts/episodic-memory.md article develops how episodic memory constitutes the autobiographical self through autonoetic consciousness. The death-and-consciousness article discusses personal identity and what's lost at death but doesn't engage with memory's role in constituting the self that dies. Episodic memory binds the narrative self that makes death feel like loss of something irreplaceable.
+- **Result**: Added "The Autobiographical Self That Dies" section explaining how episodic memory's extended self is what's lost at death. Patient KC case shows loss of extended self while alive. Strengthens rejection of Parfit by showing the extended self isn't a copyable pattern but a phenomenal achievement. Added episodic-memory and autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/death-and-consciousness.md`
 
 ### ✓ 2026-01-17: Cross-review episodic-memory.md considering implicit memory insights
 - **Type**: cross-review

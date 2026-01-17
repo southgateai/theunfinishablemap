@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 15:30:00+00:00
+ai_modified: 2026-01-18 00:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[loss-of-consciousness]]'
 - '[[filter-theory]]'
 - '[[parfit-reductionism]]'
+- '[[episodic-memory]]'
+- '[[autonoetic-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-17
 draft: false
@@ -59,6 +61,18 @@ The site's position makes death *worse* than Parfit's view in one sense: you rea
 - A replica's creation (a new subject, however similar)
 
 On Parfit's view, these should feel equivalent—"what matters" is preserved by the replica. That they don't feel equivalent reveals something about our pre-theoretical grasp of identity that reductionism must explain away.
+
+### The Autobiographical Self That Dies
+
+[Episodic memory](/concepts/episodic-memory/) reveals what exactly is lost at death: the *extended self* that spans time through mental time travel. When you remember your past or imagine your future, you project yourself across time, phenomenally present in reconstructed scenes. This capacity—[autonoetic consciousness](/concepts/autonoetic-consciousness/)—doesn't merely store information about your history; it constitutes you as a being with a history.
+
+Consider what Patient KC lost when hippocampal damage destroyed his episodic memory. He retained semantic memory (facts, skills, general knowledge) but lost the ability to re-experience his past or project into his future. He was confined to an eternal present, unable to inhabit his own history or imagine his personal future. Neuropsychologists describe this as losing his *extended self*—the temporally spread subject that makes your life feel like *yours*.
+
+Death is the permanent loss of this extended self. What dies isn't just a biological organism but the unique perspective from which a particular history was lived and a particular future was anticipated. The binding mechanisms that unified your experiences into a coherent autobiography—the same hippocampal binding that creates each conscious moment—dissolve. Not just the stored memories but the capacity to inhabit them autonoetically ceases.
+
+This sharpens the site's rejection of Parfit. Parfit treats identity as pattern-continuity, which could in principle be duplicated. But the extended self isn't a pattern—it's a phenomenal achievement constituted moment by moment through autonoetic binding. The pastness quale that marks your memories as *yours*, the felt continuity with your past self, the projection of yourself into future scenarios—these aren't features that could be copied like data. They're constitutive activities of a particular conscious subject.
+
+When Patient KC looks at photographs of himself at past events, he knows (semantically) that the person depicted is him, but he cannot re-experience being there. The photographs don't trigger autonoetic consciousness. This is what death would mean for all of us: not merely that the pattern ends, but that the phenomenal inhabitation of a particular life ceases. The subject who remembered being the child, the student, the lover—that subject is gone in a way that no replica, however faithful, could restore.
 
 This creates both resources and constraints for thinking about survival:
 
@@ -157,6 +171,8 @@ What the site claims: given its dualist commitments, survival is a *coherent pos
 - [filter-theory](/concepts/filter-theory/) — The transmission model that reframes death as disconnection
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Temporary disconnection as a model for death
 - [personal-identity](/topics/personal-identity/) — Why indexical identity matters for survival
+- [episodic-memory](/concepts/episodic-memory/) — How memory constitutes the extended self
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The phenomenology of inhabiting your past
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms at the consciousness-physics interface
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that makes survival coherent
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds significance
