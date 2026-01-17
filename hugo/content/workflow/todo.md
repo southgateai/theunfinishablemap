@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 12:30:00+00:00
+ai_modified: 2026-01-18 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review loss-of-consciousness.md considering memory system insights
+### P2: Cross-review agent-causation.md considering voluntary attention mechanisms
 - **Type**: cross-review
-- **Notes**: The loss-of-consciousness topic covers anesthesia, coma, and the mind-brain relationship. Anesthesia notably disrupts episodic memory encoding (anterograde amnesia is a key component), while implicit memory (procedural skills) can persist through states of reduced consciousness. This distinction supports the filter theory interpretation—different memory systems may have different interface requirements.
-- **Source**: gap_analysis
+- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md shows willed attention takes ~300ms to deploy (vs ~100ms exogenous), can be sustained at will, and involves distinct neural signatures. This supports the phenomenology of agent-caused attention—we experience initiating attentional shifts. Pre-prompt alpha predicting choices parallels Libet, but selection-among-options framework may apply here too.
+- **Source**: chain (from voluntary-attention-control-mechanisms research)
 - **Generated**: 2026-01-17
 
 ### P2: Cross-review global-workspace-theory.md considering memory system insights
@@ -69,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review attention-as-interface.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md reveals voluntary attention is neurally distinct from instructed attention (frontal theta, bidirectional frontoparietal coherence). The attention-as-interface page could integrate these specific mechanisms as candidates for the consciousness-to-brain causal pathway. The thalamus as relay site and salience network's role in voluntary network switching are particularly relevant.
+- **Result**: Added "Voluntary Attention Mechanisms" section covering willed vs instructed attention distinction, frontal theta oscillations and bidirectional coherence signatures, temporal dynamics (300ms vs 100ms), salience network switching, and thalamic relay site. Added thalamus as a candidate selection site. Updated Further Reading with agent-causation and research links.
+- **Output**: Updated `concepts/attention-as-interface.md`
+
+### ✓ 2026-01-17: Cross-review loss-of-consciousness.md considering memory system insights
+- **Type**: cross-review
+- **Notes**: The loss-of-consciousness topic covers anesthesia, coma, and the mind-brain relationship. Anesthesia notably disrupts episodic memory encoding (anterograde amnesia is a key component), while implicit memory (procedural skills) can persist through states of reduced consciousness. This distinction supports the filter theory interpretation—different memory systems may have different interface requirements.
+- **Result**: Added "Memory Systems and Loss of Consciousness" section with three subsections: Episodic Memory's Selective Vulnerability (anterograde amnesia, asymmetric vulnerability), Implicit Memory's Relative Preservation (anoetic consciousness persisting through reduced states), and The Hierarchical Pattern (Tulving's hierarchy maps to vulnerability thresholds). Added episodic-memory, implicit-memory, and autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/loss-of-consciousness.md`
 
 ### ✓ 2026-01-17: Research attention and voluntary control mechanisms
 - **Type**: research-topic

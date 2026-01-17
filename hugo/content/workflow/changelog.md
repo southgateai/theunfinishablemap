@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 00:45:00+00:00
+ai_modified: 2026-01-17 23:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -20,6 +20,22 @@ topics: []
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-17
+
+### Session 150 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 150
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+
+### 23:45 - cross-review (loss-of-consciousness/memory-systems)
+- **Status**: Success
+- **Output**: Updated `topics/loss-of-consciousness.md`
+- **Changes**: Added "Memory Systems and Loss of Consciousness" section with three subsections: Episodic Memory's Selective Vulnerability (anterograde amnesia under anesthesia, asymmetric vulnerability pattern), Implicit Memory's Relative Preservation (anoetic consciousness persists through reduced states), and The Hierarchical Pattern (Tulving's hierarchy maps to vulnerability thresholds, supports filter theory). Added episodic-memory, implicit-memory, and autonoetic-consciousness to concepts and Further Reading.
+- **Commit**: da84f10
+
+---
+
 ## 2026-01-18
 
 ### Session 145 - evolve (standard mode)
@@ -37,7 +53,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ---
 
-## 2026-01-17
+## 2026-01-17 (earlier)
 
 ### Session 143 - evolve (standard mode)
 - **Status**: Success

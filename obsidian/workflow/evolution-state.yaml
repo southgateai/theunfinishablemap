@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T23:45:00+00:00
-session_count: 150
+last_updated: 2026-01-18T00:00:00+00:00
+session_count: 151
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 77  # +1: voluntary-attention-control-mechanisms (session 149)
-  reviews_completed: 188  # +1: cross-review loss-of-consciousness/memory-systems (session 150)
+  reviews_completed: 189  # +1: cross-review attention-as-interface/voluntary-attention (session 151)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (attention-as-interface/voluntary-attention)
+    date: 2026-01-18
+    result: success
+    session: 151
+    note: Added Voluntary Attention Mechanisms section. Willed vs instructed attention distinction with neural signatures (frontal theta, bidirectional coherence). Temporal dynamics (300ms deployment). Salience network switching. Thalamus as candidate selection site.
   - task: cross-review (loss-of-consciousness/memory-systems)
     date: 2026-01-17
     result: success

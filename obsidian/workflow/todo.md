@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T23:45:00+00:00
+ai_modified: 2026-01-18T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review agent-causation.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md shows willed attention takes ~300ms to deploy (vs ~100ms exogenous), can be sustained at will, and involves distinct neural signatures. This supports the phenomenology of agent-caused attention—we experience initiating attentional shifts. Pre-prompt alpha predicting choices parallels Libet, but selection-among-options framework may apply here too.
+- **Source**: chain (from voluntary-attention-control-mechanisms research)
+- **Generated**: 2026-01-17
+
 ### P2: Cross-review global-workspace-theory.md considering memory system insights
 - **Type**: cross-review
 - **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
@@ -62,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review attention-as-interface.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md reveals voluntary attention is neurally distinct from instructed attention (frontal theta, bidirectional frontoparietal coherence). The attention-as-interface page could integrate these specific mechanisms as candidates for the consciousness-to-brain causal pathway. The thalamus as relay site and salience network's role in voluntary network switching are particularly relevant.
+- **Result**: Added "Voluntary Attention Mechanisms" section covering willed vs instructed attention distinction, frontal theta oscillations and bidirectional coherence signatures, temporal dynamics (300ms vs 100ms), salience network switching, and thalamic relay site. Added thalamus as a candidate selection site. Updated Further Reading with agent-causation and research links.
+- **Output**: Updated `concepts/attention-as-interface.md`
 
 ### ✓ 2026-01-17: Cross-review loss-of-consciousness.md considering memory system insights
 - **Type**: cross-review
