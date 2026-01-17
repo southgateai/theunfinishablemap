@@ -3,7 +3,7 @@ title: Workflow System
 created: 2026-01-05
 modified: 2026-01-10
 human_modified: 2026-01-05
-ai_modified: 2026-01-15T01:15:00+00:00
+ai_modified: 2026-01-17T16:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -59,6 +59,12 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | `/pessimistic-review` | Find logical gaps, unsupported claims, counterarguments | No (reports only) |
 | `/optimistic-review` | Find strengths and expansion opportunities | No (reports only) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
+
+### Content Maintenance
+
+| Skill | Purpose | Modifies Content? |
+|-------|---------|-------------------|
+| `/coalesce` | Merge overlapping articles into unified pieces, archiving originals | Yes (creates, archives) |
 
 ### Publishing
 

@@ -15,6 +15,7 @@ last_runs:
   deep-review: 2026-01-17T22:15:00+00:00
   tune-system: 2026-01-16T18:00:00+00:00
   research-voids: 2026-01-17T02:00:00+00:00
+  coalesce: 2026-01-17T16:00:00+00:00
 
 # How often each task should run (days)
 cadences:
@@ -26,6 +27,7 @@ cadences:
   deep-review: 1
   tune-system: 7
   research-voids: 1
+  coalesce: 1
 
 # Auto-inject as synthetic task when overdue by this many days
 overdue_thresholds:
@@ -37,6 +39,7 @@ overdue_thresholds:
   deep-review: 2
   tune-system: 14
   research-voids: 2
+  coalesce: 3
 
 # Content statistics (updated each session)
 content_stats:

@@ -58,6 +58,7 @@ For each maintenance task, check if overdue:
 | deep-review | 1 day | 2 days |
 | tune-system | 30 days | 45 days |
 | research-voids | 1 day | 2 days |
+| coalesce | 1 day | 3 days |
 
 Create synthetic tasks for overdue maintenance.
 
@@ -99,6 +100,7 @@ For each selected task:
    - `/deep-review`
    - `/tune-system`
    - `/research-voids`
+   - `/coalesce`
 
 2. If queue task: invoke based on type
    - `expand-topic` → `/expand-topic [topic]`
