@@ -1,5 +1,5 @@
 [project]
-name = "southgateai-tools"
+name = "unfinishablemap-tools"
 version = "0.1.0"
 description = "Content management and build tools for The Unfinishable Map"
 readme = "README.md"
