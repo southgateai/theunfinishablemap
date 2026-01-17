@@ -7,16 +7,33 @@
 
 {{ .Content }}
 
-<ul>
-{{ range .Pages }}
-    {{- $ai := .Params.ai_contribution | default 0 -}}
-    {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
-    <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <span class="authorship-badge authorship-{{ $type }}">
-            {{ if eq $type "ai" }}🤖{{ else if eq $type "human" }}👤{{ else }}🤝{{ end }}
-        </span>
-    </li>
+{{ if .Pages }}
+<table class="striped table-sort table-arrows">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Created</th>
+            <th scope="col" class="onload-sort order-by-desc">Modified</th>
+            <th scope="col" class="disable-sort">Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+    {{ range .Pages.ByLastmod.Reverse }}
+        {{- $ai := .Params.ai_contribution | default 0 -}}
+        {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
+        <tr>
+            <td>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <span class="authorship-badge authorship-{{ $type }}">
+                    {{ if eq $type "ai" }}🤖{{ else if eq $type "human" }}👤{{ else }}🤝{{ end }}
+                </span>
+            </td>
+            <td>{{ with .Params.created }}{{ . }}{{ end }}</td>
+            <td>{{ .Lastmod.Format "2006-01-02" }}</td>
+            <td class="summary-cell">{{ .Summary | plainify | truncate 1000 }}</td>
+        </tr>
+    {{ end }}
+    </tbody>
+</table>
 {{ end }}
-</ul>
 {{ end }}

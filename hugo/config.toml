@@ -12,6 +12,9 @@ buildFuture = true
 # Disable default taxonomies (using regular sections instead)
 [taxonomies]
 
+# Summary settings
+summaryLength = 70  # words for auto-summary
+
 # Markup settings
 [markup]
   [markup.goldmark]

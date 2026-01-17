@@ -12,6 +12,9 @@
     <!-- Pico CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 
+    <!-- Sortable tables -->
+    <script src="https://cdn.jsdelivr.net/npm/table-sort-js/table-sort.min.js"></script>
+
     <!-- Custom styles -->
     <style>
         /* Reduce Pico's default sizing to be more compact */
@@ -45,6 +48,35 @@
             border-left: 3px solid #ef4444;
         }
         .archive-notice strong { color: #ef4444; }
+
+        /* List page table styling */
+        .summary-cell {
+            font-size: 0.875rem;
+            color: var(--pico-muted-color);
+            max-width: 600px;
+        }
+        table td:nth-child(2),
+        table td:nth-child(3) {
+            white-space: nowrap;
+            font-size: 0.875rem;
+        }
+
+        /* Sortable table headers */
+        .table-sort th {
+            cursor: pointer;
+        }
+        .table-sort th.disable-sort {
+            cursor: default;
+        }
+        /* Sort direction indicators */
+        .table-sort th.asc::after {
+            content: " ▲";
+            font-size: 0.7em;
+        }
+        .table-sort th.desc::after {
+            content: " ▼";
+            font-size: 0.7em;
+        }
     </style>
 </head>
 <body>
