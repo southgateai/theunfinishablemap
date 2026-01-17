@@ -87,6 +87,34 @@ def convert_obsidian_to_hugo(
 
             converted_files.append(target_file)
 
+    # Process archive directory (parallel to obsidian/)
+    archive_source = obsidian_path.parent / "archive"
+    if archive_source.exists():
+        for sync_dir in sync_dirs:
+            archive_section = archive_source / sync_dir
+            if not archive_section.exists():
+                continue
+
+            archive_target = hugo_content_path / "archive" / sync_dir
+
+            for md_file in archive_section.rglob("*.md"):
+                # Skip draft files if configured
+                if exclude_drafts and "drafts" in md_file.parts:
+                    continue
+
+                # Calculate relative path and target
+                rel_path = md_file.relative_to(archive_section)
+                target_file = archive_target / rel_path
+
+                # Convert the file with content-aware link resolver
+                converted_content = convert_file(md_file, content_index)
+
+                if not dry_run:
+                    target_file.parent.mkdir(parents=True, exist_ok=True)
+                    target_file.write_text(converted_content, encoding="utf-8")
+
+                converted_files.append(target_file)
+
     return converted_files
 
 
@@ -132,6 +160,23 @@ def build_content_index(
 
             # Index by slug (for wikilink lookup)
             index[slug] = url
+
+    # Also index archived content (parallel to obsidian/)
+    archive_path = obsidian_path.parent / "archive"
+    if archive_path.exists():
+        for sync_dir in sync_dirs:
+            archive_section = archive_path / sync_dir
+            if not archive_section.exists():
+                continue
+
+            for md_file in archive_section.rglob("*.md"):
+                if exclude_drafts and "drafts" in md_file.parts:
+                    continue
+
+                page_name = md_file.stem
+                slug = slugify(page_name)
+                url = f"/archive/{sync_dir}/{slug}/"
+                index[slug] = url
 
     return index
 

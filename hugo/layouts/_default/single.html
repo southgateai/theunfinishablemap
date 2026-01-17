@@ -2,6 +2,10 @@
 <article>
     <h1>{{ .Title }}</h1>
 
+    {{ if .Params.archived }}
+        {{ partial "archive-notice.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.showAuthorship }}
         {{ partial "authorship.html" . }}
     {{ end }}

@@ -1,0 +1,7 @@
+<div class="archive-notice">
+    <strong>Archived {{ with .Params.archived_date }}{{ . | time.Format "2006-01-02" }}{{ end }}</strong>
+    <p>This article has been coalesced with others to form a new article by the site automation.</p>
+    {{ with .Params.superseded_by }}
+    <p><a href="{{ . }}">View the current article →</a></p>
+    {{ end }}
+</div>

@@ -48,8 +48,13 @@ obsidian/           # Primary content source (Obsidian vault)
 ├── project/        # Project documentation
 └── workflow/       # AI automation (todo, changelog, reviews)
 
+archive/            # Archived content (preserves URLs for external links)
+├── topics/         # Mirrors obsidian structure
+├── concepts/
+└── ...             # Pages show archive notice linking to replacement
+
 hugo/               # Static site generator
-├── content/        # Synced from Obsidian
+├── content/        # Synced from Obsidian + archive
 ├── layouts/        # HTML templates
 └── data/           # YAML data files
 
@@ -158,6 +163,7 @@ The project includes scheduled AI automation for content development. All AI-gen
 | `/tune-system` | Monthly meta-review: analyze system operation, adjust cadences/thresholds | Yes (state, minor) |
 | `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
+| `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 
 ### Task Queue
 
