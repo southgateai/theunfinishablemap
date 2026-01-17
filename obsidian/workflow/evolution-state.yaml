@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T02:00:00+00:00
-session_count: 132
+last_updated: 2026-01-17T19:00:00+00:00
+session_count: 133
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,9 +40,9 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 166  # +1: autonoetic-consciousness (session 131)
-  published_files: 125  # apophatic-approaches and purpose-and-alignment now published
-  draft_files: 0  # both former drafts now published
+  total_files: 167  # +1: consciousness-working-memory research (session 133)
+  published_files: 125  # unchanged
+  draft_files: 0  # unchanged
   placeholder_files: 0
 
 # Convergence targets - what "done" looks like
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 72  # +1: autonoetic-consciousness (session 131)
+  concepts_written: 72  # unchanged
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 72  # unchanged
-  reviews_completed: 168  # +1: self-and-consciousness cross-review (session 131)
+  research_notes: 73  # +1: consciousness-working-memory (session 133)
+  reviews_completed: 169  # +1: binding-problem cross-review (session 133)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (consciousness-working-memory)
+    date: 2026-01-17
+    result: success
+    session: 133
+    note: WM-consciousness research. WM may underlie specious present (100ms-5s). Activity-silent maintenance suggests storage/manipulation distinction. WM-attention bidirectionality supports interface hypothesis.
+  - task: cross-review (binding-problem/autonoetic-consciousness)
+    date: 2026-01-17
+    result: success
+    session: 133
+    note: Added "Binding and Episodic Memory" section. Hippocampal binding operates in both perception and memory. Autonoetic evidence supports BP2 as consciousness problem. Convergence argument.
   - task: cross-review (temporal-consciousness/autonoetic-consciousness)
     date: 2026-01-17
     result: success
@@ -1578,14 +1588,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # working-memory research (executed 3 of 4: purpose-and-alignment, personal-identity, temporal-consciousness)
+  p2_tasks: 3  # prospective memory research, attention cross-review, specious-present cross-review
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: true  # 1 P2 task = 1 active (below threshold of 3)
-  last_replenishment: 2026-01-17T02:00:00+00:00
+  needs_replenishment: false  # 3 P2 tasks (meets threshold)
+  last_replenishment: 2026-01-17T18:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # autonoetic-consciousness chain tasks completed
-    unconsumed_research: 0  # episodic-memory research fully consumed
-    gap_analysis: 1  # working-memory research remains
+    chain: 2  # attention + specious-present cross-reviews from working memory research
+    unconsumed_research: 0  # all research consumed
+    gap_analysis: 1  # prospective memory research
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T02:00:00+00:00
+ai_modified: 2026-01-17T19:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,11 +37,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research consciousness and working memory
+### P2: Research prospective memory and future-oriented consciousness
 - **Type**: research-topic
-- **Notes**: Complementary to episodic memory research. Working memory's role in sustaining conscious content over the specious present, relationship to attention (the interface layer), and connection to temporal consciousness. Would inform attention-as-interface.md and mental-effort.md.
+- **Notes**: Autonoetic consciousness enables bidirectional mental time travel. The episodic-memory research focused on pastward projection; complementary research on prospective memory (remembering to do things) and future simulation would strengthen the site's coverage of temporal consciousness. How does prospective memory relate to agency and free will? What are the phenomenological differences between remembering and imagining?
 - **Source**: gap_analysis
-- **Generated**: 2026-01-16
+- **Generated**: 2026-01-17
+
+### P2: Cross-review attention.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md develops the WM-attention bidirectional relationship. Review concepts/attention.md to strengthen the interface hypothesis by showing attention and WM are deeply interlinked—the content of WM can direct attention, and attention determines what enters WM.
+- **Source**: chain (from working memory research)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review specious-present.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md proposes WM as neural correlate of the specious present. The 100ms-5s experienced moment corresponds to WM maintenance capacity. Review concepts/specious-present.md to add this connection.
+- **Source**: chain (from working memory research)
+- **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -56,6 +68,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Research consciousness and working memory
+- **Type**: research-topic
+- **Notes**: Complementary to episodic memory research. Working memory's role in sustaining conscious content over the specious present, relationship to attention (the interface layer), and connection to temporal consciousness. Would inform attention-as-interface.md and mental-effort.md.
+- **Result**: Comprehensive research on WM-consciousness relationship. Key findings: WM may underlie specious present (100ms-5s temporal integration), activity-silent maintenance suggests storage/manipulation distinction, WM-attention bidirectionality supports interface hypothesis, episodic buffer binding parallels consciousness binding problem. Identified cross-review candidates.
+- **Output**: Created `research/consciousness-working-memory-2026-01-17.md`
+
+### ✓ 2026-01-17: Cross-review binding-problem.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: The autonoetic-consciousness article discusses hippocampal binding and suggests convergence with the consciousness binding problem. Review concepts/binding-problem.md to add explicit connection between episodic memory binding and phenomenal unity binding. The hippocampus appears in both stories—is this coincidental or revealing?
+- **Result**: Added "Binding and Episodic Memory" section connecting perceptual binding to memory binding. Hippocampal binding operates in both domains—suggests unified mechanism for phenomenal unity. Autonoetic evidence (felt pastness, double presence, re-experiencing) supports BP2 as genuinely a consciousness problem. Added convergence argument: binding and consciousness may be inseparable.
+- **Output**: Updated `concepts/binding-problem.md`
 
 ### ✓ 2026-01-17: Cross-review temporal-consciousness.md considering autonoetic consciousness insights
 - **Type**: cross-review

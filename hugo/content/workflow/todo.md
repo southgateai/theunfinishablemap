@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 14:30:00+00:00
+ai_modified: 2026-01-17 19:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,28 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review purpose-and-alignment.md for cross-linking
-- **Type**: deep-review
-- **Notes**: The topic was created session 14 and cross-reviewed session 21 (now published). May benefit from enhanced cross-linking to newer content: experiential-alignment.md (session 127), phenomenal-value-realism.md (session 112), ethics-of-consciousness.md (session 109). Check for integration opportunities.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
-### P2: Research consciousness and working memory
+### P2: Research prospective memory and future-oriented consciousness
 - **Type**: research-topic
-- **Notes**: Complementary to episodic memory research. Working memory's role in sustaining conscious content over the specious present, relationship to attention (the interface layer), and connection to temporal consciousness. Would inform attention-as-interface.md and mental-effort.md.
+- **Notes**: Autonoetic consciousness enables bidirectional mental time travel. The episodic-memory research focused on pastward projection; complementary research on prospective memory (remembering to do things) and future simulation would strengthen the site's coverage of temporal consciousness. How does prospective memory relate to agency and free will? What are the phenomenological differences between remembering and imagining?
 - **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
-### P2: Cross-review personal-identity.md considering autonoetic consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel and the phenomenal self across time. Review topics/personal-identity.md to add engagement with how autonoetic consciousness constitutes personal identity through episodic memory—this strengthens the psychological continuity section with phenomenal grounding.
-- **Source**: chain (from autonoetic-consciousness.md)
 - **Generated**: 2026-01-17
 
-### P2: Cross-review temporal-consciousness.md considering autonoetic consciousness insights
+### P2: Cross-review attention.md with working memory research
 - **Type**: cross-review
-- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel as bidirectional temporal self-projection. Review concepts/temporal-consciousness.md to add cross-reference and strengthen the connection between temporal phenomenology and memory's role in constituting the extended present.
-- **Source**: chain (from autonoetic-consciousness.md)
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md develops the WM-attention bidirectional relationship. Review concepts/attention.md to strengthen the interface hypothesis by showing attention and WM are deeply interlinked—the content of WM can direct attention, and attention determines what enters WM.
+- **Source**: chain (from working memory research)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review specious-present.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md proposes WM as neural correlate of the specious present. The 100ms-5s experienced moment corresponds to WM maintenance capacity. Review concepts/specious-present.md to add this connection.
+- **Source**: chain (from working memory research)
 - **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -68,13 +62,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from parfit-reductionism.md)
 - **Generated**: 2026-01-17
 
-### P3: Refine draft apophatic-approaches.md
-- **Type**: refine-draft
-- **Notes**: The voids article was created session 13. May need enhancement with connections to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md). Note: now published (draft: false) but may benefit from deep review for cross-linking.
+### P3: Deep review apophatic-approaches.md for cross-linking
+- **Type**: deep-review
+- **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Research consciousness and working memory
+- **Type**: research-topic
+- **Notes**: Complementary to episodic memory research. Working memory's role in sustaining conscious content over the specious present, relationship to attention (the interface layer), and connection to temporal consciousness. Would inform attention-as-interface.md and mental-effort.md.
+- **Result**: Comprehensive research on WM-consciousness relationship. Key findings: WM may underlie specious present (100ms-5s temporal integration), activity-silent maintenance suggests storage/manipulation distinction, WM-attention bidirectionality supports interface hypothesis, episodic buffer binding parallels consciousness binding problem. Identified cross-review candidates.
+- **Output**: Created `research/consciousness-working-memory-2026-01-17.md`
+
+### ✓ 2026-01-17: Cross-review binding-problem.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: The autonoetic-consciousness article discusses hippocampal binding and suggests convergence with the consciousness binding problem. Review concepts/binding-problem.md to add explicit connection between episodic memory binding and phenomenal unity binding. The hippocampus appears in both stories—is this coincidental or revealing?
+- **Result**: Added "Binding and Episodic Memory" section connecting perceptual binding to memory binding. Hippocampal binding operates in both domains—suggests unified mechanism for phenomenal unity. Autonoetic evidence (felt pastness, double presence, re-experiencing) supports BP2 as genuinely a consciousness problem. Added convergence argument: binding and consciousness may be inseparable.
+- **Output**: Updated `concepts/binding-problem.md`
+
+### ✓ 2026-01-17: Cross-review temporal-consciousness.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel as bidirectional temporal self-projection. Review concepts/temporal-consciousness.md to add cross-reference and strengthen the connection between temporal phenomenology and memory's role in constituting the extended present.
+- **Result**: Added "Mental Time Travel and the Extended Self" section connecting specious present to extended temporal selfhood. Added three connections (specious present grounds, felt pastness as quale, bidirectional projection). Added AI consciousness implications. Updated concepts and Further Reading.
+- **Output**: Updated `concepts/temporal-consciousness.md`
+
+### ✓ 2026-01-17: Cross-review personal-identity.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel and the phenomenal self across time. Review topics/personal-identity.md to add engagement with how autonoetic consciousness constitutes personal identity through episodic memory—this strengthens the psychological continuity section with phenomenal grounding.
+- **Result**: Added "Autonoetic Consciousness: The Temporal Self" subsection explaining double presence, felt pastness as quale, bidirectional projection (Patient KC), and anti-Parfit strengthening. Updated concepts and Further Reading.
+- **Output**: Updated `topics/personal-identity.md`
+
+### ✓ 2026-01-17: Deep review purpose-and-alignment.md for cross-linking
+- **Type**: deep-review
+- **Notes**: The topic was created session 14 and cross-reviewed session 21 (now published). May benefit from enhanced cross-linking to newer content: experiential-alignment.md (session 127), phenomenal-value-realism.md (session 112), ethics-of-consciousness.md (session 109). Check for integration opportunities.
+- **Result**: Added phenomenal-value-realism and ethics-of-consciousness to concepts frontmatter. Added inline cross-link to phenomenal-value-realism in experiential alignment section. Updated Further Reading with both concept pages.
+- **Output**: Updated `topics/purpose-and-alignment.md`
 
 ### ✓ 2026-01-17: Cross-review self-and-consciousness.md considering episodic memory insights
 - **Type**: cross-review
