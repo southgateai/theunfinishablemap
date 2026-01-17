@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T16:40:00+00:00
+ai_modified: 2026-01-17T18:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research semantic memory and consciousness
-- **Type**: research-topic
-- **Notes**: Autonoetic consciousness (episodic memory) is now well-covered. Semantic memory (general knowledge) has its own consciousness implications: noetic awareness, tip-of-the-tongue phenomenology, conceptual understanding. How does semantic memory relate to cognitive phenomenology? Does semantic retrieval involve irreducible phenomenology or is it more automatic?
-- **Source**: gap_analysis
+### P2: Write article on semantic memory and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/semantic-memory-consciousness-2026-01-17.md. Key themes: Tulving's noetic consciousness, TOT/FOK phenomenology, cognitive phenomenology connection, personal semantics as bridge category, automatic vs conscious semantic processing.
+- **Source**: chain (from semantic memory research)
 - **Generated**: 2026-01-17
 
-### P2: Write article on prospective memory and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/prospective-memory-consciousness-2026-01-17.md. Key themes: PM types (time/event/activity-based), episodic future thinking, constructive simulation hypothesis, phenomenology of futurity, the "pop" phenomenon, BA10/hippocampus neural overlap with episodic memory, free will connections.
-- **Source**: chain (from prospective memory research)
+### P2: Cross-review temporal-consciousness.md considering prospective memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prospective-memory.md develops futureward mental time travel as complement to pastward. Review concepts/temporal-consciousness.md for integration with EFT and the "extended present" concept. Add prospective-memory link if valuable.
+- **Source**: chain (from prospective-memory.md)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review free-will.md considering prospective memory insights
+- **Type**: cross-review
+- **Notes**: Once prospective memory article is written, cross-review free-will.md. Prospective memory (remembering to do things) connects deeply to agency—intentions must be maintained and triggered. The "pop" phenomenon (intentions spontaneously entering awareness) may relate to the phenomenology of volition. EFT's causal influence on decisions supports agent causation.
+- **Source**: chain (deferred until PM article complete)
+- **Generated**: 2026-01-17
+
+### P2: Research implicit memory and consciousness
+- **Type**: research-topic
+- **Notes**: The site now covers autonoetic (episodic), is researching semantic, and has prospective memory queued. Implicit/procedural memory (skills, conditioning, priming) represents a complementary gap. Key questions: Does procedural learning require consciousness at any stage? What is the phenomenology of skills becoming automatic? How does implicit memory relate to the interface hypothesis?
+- **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -62,6 +74,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Research semantic memory and consciousness
+- **Type**: research-topic
+- **Notes**: Autonoetic consciousness (episodic memory) is now well-covered. Semantic memory (general knowledge) has its own consciousness implications: noetic awareness, tip-of-the-tongue phenomenology, conceptual understanding. How does semantic memory relate to cognitive phenomenology? Does semantic retrieval involve irreducible phenomenology or is it more automatic?
+- **Result**: Comprehensive research on semantic/noetic consciousness. Key findings: Tulving's noetic consciousness accompanies semantic memory (knowing without re-experiencing), TOT/FOK states reveal semantic retrieval phenomenology, cognitive phenomenology debate—is understanding itself phenomenal?, personal semantics bridges episodic/semantic, automatic vs controlled semantic processing.
+- **Output**: Created `research/semantic-memory-consciousness-2026-01-17.md`
+
+### ✓ 2026-01-17: Write article on prospective memory and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/prospective-memory-consciousness-2026-01-17.md. Key themes: PM types (time/event/activity-based), episodic future thinking, constructive simulation hypothesis, phenomenology of futurity, the "pop" phenomenon, BA10/hippocampus neural overlap with episodic memory, free will connections.
+- **Result**: Created ~2200 word concept page covering PM types, EFT and constructive simulation hypothesis, Patient KC double deficit, phenomenology of futurity, the "pop" phenomenon, intention formation and free will, working memory connections, site tenet connections.
+- **Output**: Created `concepts/prospective-memory.md`
 
 ### ✓ 2026-01-17: Research prospective memory and future-oriented consciousness
 - **Type**: research-topic
