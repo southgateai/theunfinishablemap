@@ -3,7 +3,7 @@ title: "Agent Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T10:30:00+00:00
+ai_modified: 2026-01-18T00:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -11,6 +11,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
+  - "[[implicit-memory]]"
 related_articles:
   - "[[tenets]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
@@ -94,6 +95,26 @@ The site's framework satisfies both of Kane's conditions for free will:
 
 The retrocausal dimension (see [[retrocausality]]) adds depth. If consciousness's selection is atemporal—if it determines which temporal history becomes real—then the agent is even more radically the source. Not just "the first cause in this chain" but "the cause of there being this chain at all."
 
+## Skill Delegation and the Interface
+
+A challenge for agent causation: if the agent causes actions, why don't agents consciously control every detail of skilled performance? When I type this sentence, I don't select each keystroke; my fingers "know" where to go. Does this automaticity undermine agent causation?
+
+The [[implicit-memory|implicit memory]] framework resolves this tension. Tulving's Dreyfus model charts how consciousness relates to procedural skills across development. Novices consciously follow explicit rules; experts act fluidly without deliberation. But this progression represents *delegation*, not *absence*. Consciousness trains the procedural system, then withdraws from moment-to-moment execution while retaining override capacity.
+
+### The Choking Phenomenon as Evidence
+
+The "choking under pressure" phenomenon provides striking support for agent causation. When skilled performers consciously attend to automatized actions, performance degrades. The expert golfer thinking about their swing, the concert pianist monitoring finger placement—both perform worse than when acting unreflectively.
+
+This degradation proves consciousness isn't epiphenomenal. If attention were causally inert, attending to skills couldn't interfere with them. The fact that conscious engagement *disrupts* procedural execution demonstrates causal efficacy—precisely what agent causation claims. Consciousness doesn't merely observe action; it can intervene, sometimes unhelpfully.
+
+### Anoetic Consciousness and Continuous Subjecthood
+
+Crucially, even during automatic performance, the agent persists. Tulving associated implicit memory with *anoetic consciousness*: experiential but non-reflective. There remains something it is like to perform a well-practiced skill; the mode is simply different from self-aware deliberation.
+
+This matters for agent causation's metaphysics. The agent—the substance exercising causal powers—continues throughout skilled performance, maintaining the embodied engagement that expert action requires. Automaticity isn't the absence of the agent but a mode of the agent's engagement: consciousness having calibrated the system well enough that moment-to-moment selection becomes unnecessary.
+
+The agent remains the source. They trained the skill, they sustain the embodied context within which it executes, and they retain the capacity to re-engage—as choking demonstrates. Delegation presupposes a delegator.
+
 ## Relation to Site Perspective
 
 Agent causation is the philosophical tradition to which this site belongs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
@@ -111,6 +132,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
 - [[mental-effort]] — The phenomenology supporting agent causation
 - [[retrocausality]] — How atemporal selection deepens sourcehood
+- [[implicit-memory]] — Skill delegation, choking phenomenon, and evidence for causal efficacy
 - [[agent-causation-libertarian-free-will-2026-01-14]] — Detailed research notes
 
 ## References
