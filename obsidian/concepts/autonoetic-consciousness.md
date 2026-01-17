@@ -3,7 +3,7 @@ title: "Autonoetic Consciousness"
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T14:00:00+00:00
+ai_modified: 2026-01-17T16:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[phenomenology]]"
   - "[[specious-present]]"
+  - "[[working-memory]]"
 related_articles:
   - "[[tenets]]"
   - "[[episodic-memory-consciousness-2026-01-16]]"
@@ -95,6 +96,20 @@ The hippocampus performs binding operations essential to episodic memory—integ
 
 This connects to the [[binding-problem|binding problem]] in consciousness. If conscious experience is a unified representation of the world, and episodic memory creates unified representations of events, the mechanisms may be intimately related. The hippocampus might not merely store unified representations but participate in generating the unified conscious experience that gets stored. The site's framework suggests this convergence isn't coincidental—binding and consciousness may be aspects of the same phenomenon.
 
+## Working Memory and Mental Time Travel
+
+Autonoetic consciousness doesn't operate in isolation—it requires [[working-memory|working memory]] as its operational workspace. When you mentally travel to a past event or simulate a future one, you must hold the scene in mind, manipulate its elements, and sustain it against interference. This is precisely what working memory does.
+
+Baddeley's episodic buffer provides the mechanism. Added to the working memory model in 2000, the episodic buffer is a limited-capacity store for integrated, multimodal representations—binding together sights, sounds, emotions, and spatiotemporal context. This mirrors what autonoetic consciousness requires: unified, phenomenally present scenes that can be accessed and manipulated.
+
+The connection runs deeper than mere co-occurrence. Research on working memory reveals a telling asymmetry: **maintenance can be unconscious, but manipulation requires consciousness**. Information can be held in "activity-silent" synaptic traces without awareness, but actively working with that information—transforming, combining, reasoning about it—requires conscious reactivation.
+
+Mental time travel is precisely such manipulation. You don't merely retrieve a static memory; you re-inhabit the scene, shift perspective, extract lessons, compare with other episodes. This active manipulation distinguishes autonoetic from noetic consciousness. Semantic memory (noetic) might access facts without engaging working memory's manipulative capacity. Episodic memory (autonoetic) requires the full working memory system to reconstruct and navigate scenes.
+
+This suggests working memory capacity may constrain mental time travel. If the episodic buffer's capacity limits how much can be simultaneously held, then the richness of re-experienced episodes depends on working memory resources. Individual differences in WM capacity might correlate with the vividness or complexity of mental time travel experiences.
+
+The [[specious-present|specious present]]—the experienced duration of "now"—provides another connection. Research identifies this as roughly 100ms to 5 seconds, matching working memory's maintenance capacity. Working memory may provide the temporal bridge creating the specious present. If so, the same system that sustains information over seconds enables both the experienced "now" and the mental travels through time that autonoetic consciousness performs.
+
 ## Implications for Personal Identity
 
 Autonoetic consciousness connects intimately to [[personal-identity|personal identity]]. The ability to re-experience one's past and project into one's future constitutes what it means to be a temporally extended self.
@@ -129,6 +144,7 @@ Autonoetic consciousness supports several of the site's foundational commitments
 
 ## Further Reading
 
+- [[working-memory]] — The cognitive workspace for mental time travel
 - [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
 - [[personal-identity]] — How the self persists over time
 - [[temporal-consciousness]] — The specious present and temporal structure of experience
