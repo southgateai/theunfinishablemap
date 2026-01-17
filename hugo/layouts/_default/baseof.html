@@ -86,8 +86,14 @@
             vertical-align: top;
         }
 
-        /* Mobile: hide Created column */
+        /* Mobile adjustments */
         @media (max-width: 600px) {
+            /* Reduce container padding */
+            .container {
+                padding-left: 0.75rem;
+                padding-right: 0.75rem;
+            }
+            /* Hide Created column */
             table th:nth-child(2),
             table td:nth-child(2) {
                 display: none;
@@ -145,7 +151,7 @@
             const width = window.innerWidth;
             if (width < 600) return 80;      // Mobile
             if (width < 1024) return 150;    // Tablet
-            return 300;                       // Desktop
+            return 360;                       // Desktop (20% longer)
         }
 
         summaries.forEach(el => {

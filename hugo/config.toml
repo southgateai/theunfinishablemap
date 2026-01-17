@@ -13,7 +13,7 @@ buildFuture = true
 [taxonomies]
 
 # Summary settings
-summaryLength = 70  # words for auto-summary
+summaryLength = 150  # words for auto-summary
 
 # Markup settings
 [markup]
