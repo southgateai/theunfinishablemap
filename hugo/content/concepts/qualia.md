@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-14 13:00:00+00:00
+ai_modified: 2026-01-18 00:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,8 +12,10 @@ concepts:
 - '[[illusionism]]'
 - '[[knowledge-argument]]'
 - '[[inverted-qualia]]'
+- '[[semantic-memory]]'
+- '[[cognitive-phenomenology]]'
 created: 2026-01-07
-date: &id001 2026-01-07
+date: &id001 2026-01-18
 draft: false
 human_modified: null
 last_curated: null
@@ -60,6 +62,26 @@ Qualia resist complete verbal description. How would you explain the taste of co
 ### Directly Apprehensible
 
 Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This direct acquaintance gives qualia a peculiar epistemic status.
+
+## Beyond Sensory Qualia
+
+The paradigm cases of qualia—redness, pain, taste—are sensory. But phenomenology extends beyond sensation into cognition itself, raising the question of whether there are *cognitive qualia*.
+
+### Tip-of-the-Tongue States
+
+Consider the tip-of-the-tongue (TOT) phenomenon. You know a word—can identify its first letter, its syllable count, related words—but the phonological form won't come. The word is frustratingly *almost* there. This state has undeniable phenomenal character: the sense of imminence, the confidence in knowing, the frustration of blocked retrieval.
+
+What makes this a candidate for qualia is that the experience resists functional reduction. The *feeling* of a word approaching consciousness—that distinctive almost-thereness—isn't captured by describing the retrieval mechanism. A complete neural account of TOT wouldn't explain why there's something it's like to have a word on the tip of your tongue.
+
+### Feeling of Knowing
+
+The feeling-of-knowing (FOK) presents a similar case. You can't currently recall an answer but feel confident you would recognise it. Research shows FOK reliably predicts subsequent recognition—the phenomenology tracks something real about memory states. But the subjective quality of *almost knowing* is distinct from the functional access it reflects. You could have the access without the feeling, or (conceivably) the feeling without the access. This dissociability suggests the feeling has its own phenomenal character.
+
+### The Aha Experience
+
+When understanding suddenly arrives—when a proof clicks, a joke lands, a metaphor illuminates—there's a distinctive phenomenal quality. The "aha" moment isn't just accompanying emotion. There's something it's like to grasp a concept that wasn't there a moment before. If this qualitative character is irreducible, understanding itself involves qualia.
+
+These cognitive phenomena connect to the debate over [cognitive phenomenology](/concepts/cognitive-phenomenology/). If liberalism about cognitive phenomenology is correct—if thinking has proprietary phenomenal character beyond sensory accompaniments—then qualia pervade cognition, not just sensation. [Semantic memory](/concepts/semantic-memory/) and its retrieval phenomenology extend the hard problem into domains that seem purely computational. Even "cold" fact retrieval involves warmth: the frustration, the confidence, the satisfaction. These are qualities of experience, not just functional states.
 
 ## Thought Experiments
 
@@ -149,6 +171,8 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 - [functionalism](/arguments/functionalism/) - The view that mental states are functional roles, and why it fails to capture qualia
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - The most sophisticated physicalist response to qualia arguments
 - [illusionism](/concepts/illusionism/) - The radical denial of phenomenal properties
+- [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - The debate over whether thinking has phenomenal character
+- [semantic-memory](/concepts/semantic-memory/) - How cognitive qualia appear in memory retrieval
 - [tenets](/tenets/) - This site's foundational commitments, especially Dualism
 - [materialism](/arguments/materialism/) - The view challenged by the existence of qualia
 
