@@ -3,7 +3,7 @@ title: "Cognitive Phenomenology"
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T03:30:00+00:00
+ai_modified: 2026-01-17T22:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,8 @@ concepts:
   - "[[intentionality]]"
   - "[[qualia]]"
   - "[[introspection]]"
+  - "[[semantic-memory]]"
+  - "[[autonoetic-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-16]]"
@@ -113,6 +115,35 @@ This debate directly concerns [[ai-consciousness]]:
 
 The site's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
 
+## Evidence from Semantic Memory
+
+[[semantic-memory|Semantic memory]] research provides striking empirical support for cognitive phenomenology through phenomena that demonstrate non-sensory phenomenal character.
+
+### Tip-of-the-Tongue States
+
+The tip-of-the-tongue (TOT) phenomenon reveals semantic retrieval's phenomenal character. You are confident you know a word—you can often identify its first letter, syllable count, and related words—but the phonological form won't come. The word is *almost* there.
+
+TOT states have distinctive phenomenal properties:
+- A feeling of imminence—the target hovers just out of reach
+- A sense of correctness when wrong candidates are rejected
+- The satisfaction of resolution when retrieval succeeds
+
+These phenomenal features cannot reduce to sensory imagery. The TOT state often occurs *without* inner imagery—there's no mental picture of the word, yet there's something it's like to be in the state. This is cognitive phenomenology in action: a phenomenal quality accompanying conceptual knowledge rather than sensory experience.
+
+### Feeling of Knowing
+
+Related is the feeling of knowing (FOK)—the metacognitive sense that you know something without being able to retrieve it. When asked a trivia question, you may feel certain you know the answer even before attempting retrieval. This feeling often accurately predicts subsequent retrieval success.
+
+FOK demonstrates that knowledge itself has phenomenal character. Knowing that you know isn't a sensory experience—it's phenomenal access to your own cognitive states. The contrast between high-FOK states (confident you know) and low-FOK states (uncertain whether you know) is phenomenally real and non-sensory.
+
+### Noetic Consciousness
+
+Endel Tulving's distinction between [[autonoetic-consciousness|autonoetic]] (self-knowing) and noetic (just-knowing) consciousness maps directly onto the cognitive phenomenology debate. Noetic consciousness accompanies semantic memory—you are aware of knowing facts without re-experiencing when you learned them. This awareness has phenomenal character distinct from both sensory experience and autonoetic remembering.
+
+The remember/know paradigm operationalises this: when recognising an item, subjects report whether they "remember" it (can recollect the original encounter) or merely "know" it (recognise without recollection). The phenomenal difference is real—subjects can reliably distinguish the states. And the "know" state cannot be sensory, since no sensory memory accompanies it.
+
+Tulving's framework suggests cognitive phenomenology isn't just the experience of active thinking but also the experience of having knowledge—the "background phenomenology" of conceptual capacities ready for deployment.
+
 ## Evidence from Unusual Cases
 
 ### Aphantasia
@@ -143,6 +174,8 @@ The site adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [[semantic-memory]] — TOT/FOK phenomenology and noetic consciousness
+- [[autonoetic-consciousness]] — The contrast between remembering and knowing
 - [[phenomenology]] — The method for investigating conscious experience
 - [[intentionality]] — The "aboutness" of mental states
 - [[introspection]] — Self-knowledge and its reliability
