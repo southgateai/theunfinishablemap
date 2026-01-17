@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 01:00:00+00:00
+ai_modified: 2026-01-17 08:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,6 +50,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
+### P2: Create episodic-memory concept page
+- **Type**: expand-topic
+- **Notes**: The site has autonoetic-consciousness.md but no dedicated episodic-memory concept page. Research exists in episodic-memory-consciousness-2026-01-16.md. Would provide foundation for the cross-review episodic-memory.md task. Key themes: encoding/retrieval distinction, hippocampal binding, constructive nature of memory, relationship to autonoetic consciousness.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-17
+
+### P2: Cross-review agent-causation.md considering implicit memory insights
+- **Type**: cross-review
+- **Notes**: After implicit memory article is written, review agent-causation.md. The Dreyfus model and choking under pressure evidence show consciousness can causally interfere with procedural execution—supporting bidirectional interaction. Skill automaticity shows consciousness delegates to trained systems. Would strengthen the mechanism story for agent causation.
+- **Source**: chain (from implicit-memory-consciousness)
+- **Generated**: 2026-01-17
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -63,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Write article on implicit memory and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/implicit-memory-consciousness-2026-01-18.md. Key themes: Tulving's anoetic consciousness ("non-reflective qualia"), Dreyfus skill acquisition model (rule-following → intuition), choking under pressure as evidence for bidirectional interaction, embodied cognition integration with interface hypothesis. Would complete the memory trilogy (episodic, semantic, implicit).
+- **Result**: Created ~2200 word concept page covering Tulving's anoetic consciousness, Dreyfus skill acquisition model, choking under pressure as evidence for bidirectional interaction, embodied cognition challenge and interface response. Connected to all five tenets.
+- **Output**: Created `concepts/implicit-memory.md`
 
 ### ✓ 2026-01-18: Research implicit memory and consciousness
 - **Type**: research-topic

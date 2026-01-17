@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T01:00:00+00:00
-session_count: 141
+last_updated: 2026-01-17T08:00:00+00:00
+session_count: 142
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -43,8 +43,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 172  # +1: semantic-memory.md (session 138)
-  published_files: 128  # +1: semantic-memory.md
+  total_files: 173  # +1: implicit-memory.md (session 142)
+  published_files: 129  # +1: implicit-memory.md
   draft_files: 0  # unchanged
   placeholder_files: 0
 
@@ -59,12 +59,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 75  # unchanged (session 141)
+  concepts_written: 76  # +1: implicit-memory.md (session 142)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 76  # +1: implicit-memory-consciousness (session 141)
-  reviews_completed: 182  # +2: qualia cross-review, hard-problem cross-review (session 141)
+  research_notes: 76  # unchanged
+  reviews_completed: 182  # unchanged (session 142)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (implicit-memory)
+    date: 2026-01-17
+    result: success
+    session: 142
+    note: Created concept page on implicit memory and anoetic consciousness. Tulving hierarchy, Dreyfus model, choking as bidirectional interaction evidence, embodied cognition and interface response. ~2200 words.
   - task: research-topic (implicit-memory-consciousness)
     date: 2026-01-18
     result: success

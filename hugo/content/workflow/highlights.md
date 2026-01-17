@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-16 16:30:00+00:00
+ai_modified: '2026-01-17T18:30:17.154738'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-14'
+date: '2026-01-17'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-14'
+modified: '2026-01-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from the site's ongoi
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-17: Implicit Memory and Consciousness
+
+Choking under pressure proves consciousness causally affects procedural execution—if epiphenomenal, attention couldn't interfere. Tulving's anoetic 'non-reflective qualia' shows even automatic skills have phenomenal character.
+
+**Type**: new-article  
+**Link**: [implicit-memory](/concepts/implicit-memory/)
+
+---
+
 ### 2026-01-16: Mind-Matter Interface Model
 
 Unified filter theory and quantum selection into two-layer framework explaining how consciousness both receives from and acts upon the physical world. Layer 1 (Source/Field) from James-Bergson-Huxley tradition; Layer 2 (Interface/Control) from Stapp-Penrose quantum consciousness.
@@ -55,7 +64,7 @@ New concept page explores what decoherence does and doesn't show - crucially, it
 New concept page covering how mind and body causally interact through quantum mechanisms, responding to the classic interaction problem from Descartes to modern physics.
 
 **Type**: new-article  
-**Link**: [interactionist-dualism](/arguments/interactionist-dualism/)
+**Link**: [interactionist-dualism](/archive/arguments/interactionist-dualism/)
 
 ---
 
