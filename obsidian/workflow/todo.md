@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
+### P2: Cross-review working-memory.md considering semantic memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/semantic-memory.md develops Tulving's noetic consciousness and the remember/know paradigm. The working-memory article covers maintenance/manipulation distinction but doesn't connect to semantic retrieval. Semantic retrieval uses WM during search and verification—TOT states may involve WM manipulation of partial phonological representations. Add semantic-memory link and connect remember/know to maintenance/manipulation.
+- **Source**: chain (from semantic-memory.md)
+- **Generated**: 2026-01-17
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.

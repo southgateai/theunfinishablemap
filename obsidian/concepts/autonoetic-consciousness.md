@@ -3,7 +3,7 @@ title: "Autonoetic Consciousness"
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T16:20:00+00:00
+ai_modified: 2026-01-17T23:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[phenomenology]]"
   - "[[specious-present]]"
   - "[[working-memory]]"
+  - "[[semantic-memory]]"
+  - "[[cognitive-phenomenology]]"
 related_articles:
   - "[[tenets]]"
   - "[[episodic-memory-consciousness-2026-01-16]]"
@@ -40,7 +42,7 @@ Tulving distinguished three forms of consciousness associated with different mem
 
 **Anoetic consciousness** accompanies procedural memory. When you ride a bicycle or type on a keyboard, you act skillfully without reflective awareness of doing so. There is "something it is like" to perform these skills, but no self-reference, no sense of oneself as the subject of the experience.
 
-**Noetic consciousness** accompanies semantic memory—knowing that Paris is in France, that 2+2=4, that water boils at 100°C. You are aware of knowing these facts, but the awareness doesn't involve re-experiencing when you learned them. The fact is simply available; you don't mentally travel to your fifth-grade geography class to access it.
+**Noetic consciousness** accompanies [[semantic-memory|semantic memory]]—knowing that Paris is in France, that 2+2=4, that water boils at 100°C. You are aware of knowing these facts, but the awareness doesn't involve re-experiencing when you learned them. The fact is simply available; you don't mentally travel to your fifth-grade geography class to access it. Yet noetic consciousness isn't phenomenologically empty. The tip-of-the-tongue phenomenon—frustratingly *almost* retrieving a word—reveals that semantic retrieval has its own qualitative character. The feeling-of-knowing, the "aha" of grasping a concept, the phenomenology of understanding itself—these features suggest that even factual knowledge involves irreducible [[cognitive-phenomenology|cognitive phenomenology]], distinct from but complementary to autonoetic re-experiencing.
 
 **Autonoetic consciousness** accompanies episodic memory. Tulving defined it as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across subjective time." When you remember an episode, you are aware of yourself as having experienced it—you "travel back in time" to re-inhabit the event.
 
@@ -110,6 +112,21 @@ This suggests working memory capacity may constrain mental time travel. If the e
 
 The [[specious-present|specious present]]—the experienced duration of "now"—provides another connection. Research identifies this as roughly 100ms to 5 seconds, matching working memory's maintenance capacity. Working memory may provide the temporal bridge creating the specious present. If so, the same system that sustains information over seconds enables both the experienced "now" and the mental travels through time that autonoetic consciousness performs.
 
+## The Remember/Know Distinction
+
+The contrast between autonoetic and noetic consciousness is operationalized in the *remember/know paradigm*. In recognition memory experiments, participants indicate not just whether they've seen an item before, but *how* they know:
+
+- **Remember responses** indicate autonoetic awareness: the participant recollects specific details from the original encounter—where they were, what they were thinking, the contextual features of encoding.
+- **Know responses** indicate noetic awareness: the participant recognizes the item as familiar but cannot re-experience the original encounter. The knowledge is simply *there*, without temporal projection.
+
+This isn't merely a memory distinction but a consciousness distinction. Remember experiences involve mental time travel to the encoding episode; know experiences don't. The same information can be accessed through either route, but the phenomenology differs fundamentally.
+
+The paradigm reveals interesting dissociations. Amnesic patients may retain know responses while losing remember responses entirely—they recognize items as familiar but cannot re-experience learning them. Conversely, some conditions preserve remember responses for certain content while impairing know responses for other content. This double dissociation supports Tulving's claim that noetic and autonoetic consciousness are genuinely distinct, not points on a single dimension.
+
+The remember/know distinction also illuminates the relationship between episodic and [[semantic-memory|semantic memory]]. Over time, episodic memories can "semanticize"—losing their autonoetic character while retaining their content. You might know that you visited Paris on your honeymoon (semantic) without being able to re-experience specific moments from that trip (episodic). The phenomenology transforms from remembering to knowing, from autonoetic to noetic, while the information persists.
+
+This transformation matters for the site's framework. If memories can shift from autonoetic to noetic while preserving content, then consciousness isn't epiphenomenal to memory—it constitutes the *kind* of memory you have. The same informational content, accessed autonoetically or noetically, is a different experience. Consciousness doesn't just accompany memory; it shapes its very nature.
+
 ## Implications for Personal Identity
 
 Autonoetic consciousness connects intimately to [[personal-identity|personal identity]]. The ability to re-experience one's past and project into one's future constitutes what it means to be a temporally extended self.
@@ -144,6 +161,8 @@ Autonoetic consciousness supports several of the site's foundational commitments
 
 ## Further Reading
 
+- [[semantic-memory]] — Noetic consciousness and the phenomenology of knowing
+- [[cognitive-phenomenology]] — The qualitative character of thought itself
 - [[working-memory]] — The cognitive workspace for mental time travel
 - [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
 - [[personal-identity]] — How the self persists over time
