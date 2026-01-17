@@ -137,15 +137,19 @@
     <!-- Summary truncation for list pages -->
     <script>
     document.addEventListener('DOMContentLoaded', function() {
-        const TRUNCATE_LENGTH = 150;
         const summaries = document.querySelectorAll('.summary-text');
         const expandAllBtn = document.getElementById('expand-all-btn');
         let allExpanded = false;
 
+        function getTruncateLength() {
+            const width = window.innerWidth;
+            if (width < 600) return 80;      // Mobile
+            if (width < 1024) return 150;    // Tablet
+            return 300;                       // Desktop
+        }
+
         summaries.forEach(el => {
             const fullText = el.textContent.trim();
-            if (fullText.length <= TRUNCATE_LENGTH) return;
-
             el.dataset.fullText = fullText;
             el.dataset.expanded = 'false';
             truncate(el);
@@ -153,9 +157,14 @@
 
         function truncate(el) {
             const fullText = el.dataset.fullText;
-            const truncated = fullText.slice(0, TRUNCATE_LENGTH).trim() + '...';
-            el.innerHTML = truncated + ' <span class="expand-toggle">[more]</span>';
+            const len = getTruncateLength();
             el.dataset.expanded = 'false';
+            if (fullText.length <= len) {
+                el.textContent = fullText;
+                return;
+            }
+            const truncated = fullText.slice(0, len).trim() + '...';
+            el.innerHTML = truncated + ' <span class="expand-toggle">[more]</span>';
             el.querySelector('.expand-toggle').addEventListener('click', () => expand(el));
         }
 
@@ -176,6 +185,17 @@
                 this.textContent = allExpanded ? 'Collapse All' : 'Expand All';
             });
         }
+
+        // Re-truncate on resize (debounced)
+        let resizeTimer;
+        window.addEventListener('resize', function() {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(function() {
+                summaries.forEach(el => {
+                    if (el.dataset.expanded === 'false') truncate(el);
+                });
+            }, 250);
+        });
     });
     </script>
 
