@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T14:50:00+00:00
+ai_modified: 2026-01-17T16:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research prospective memory and future-oriented consciousness
-- **Type**: research-topic
-- **Notes**: Autonoetic consciousness enables bidirectional mental time travel. The episodic-memory research focused on pastward projection; complementary research on prospective memory (remembering to do things) and future simulation would strengthen the site's coverage of temporal consciousness. How does prospective memory relate to agency and free will? What are the phenomenological differences between remembering and imagining?
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
-
 ### P2: Research semantic memory and consciousness
 - **Type**: research-topic
 - **Notes**: Autonoetic consciousness (episodic memory) is now well-covered. Semantic memory (general knowledge) has its own consciousness implications: noetic awareness, tip-of-the-tongue phenomenology, conceptual understanding. How does semantic memory relate to cognitive phenomenology? Does semantic retrieval involve irreducible phenomenology or is it more automatic?
 - **Source**: gap_analysis
+- **Generated**: 2026-01-17
+
+### P2: Write article on prospective memory and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/prospective-memory-consciousness-2026-01-17.md. Key themes: PM types (time/event/activity-based), episodic future thinking, constructive simulation hypothesis, phenomenology of futurity, the "pop" phenomenon, BA10/hippocampus neural overlap with episodic memory, free will connections.
+- **Source**: chain (from prospective memory research)
 - **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -62,6 +62,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Research prospective memory and future-oriented consciousness
+- **Type**: research-topic
+- **Notes**: Autonoetic consciousness enables bidirectional mental time travel. The episodic-memory research focused on pastward projection; complementary research on prospective memory (remembering to do things) and future simulation would strengthen the site's coverage of temporal consciousness. How does prospective memory relate to agency and free will? What are the phenomenological differences between remembering and imagining?
+- **Result**: Comprehensive research on PM and EFT. Key findings: PM involves "pop" phenomenon (intentions spontaneously enter awareness), EFT shares mechanisms with episodic memory via constructive simulation hypothesis, BA10/hippocampus show neural overlap, phenomenology includes "futuricity" quale parallel to pastness, Patient KC double deficit confirms unified MTT capacity, EFT causally influences decisions.
+- **Output**: Created `research/prospective-memory-consciousness-2026-01-17.md`
+
+### ✓ 2026-01-17: Cross-review autonoetic-consciousness.md considering working memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/working-memory.md discusses the episodic buffer as a binding mechanism. The autonoetic-consciousness article covers hippocampal binding for episodic memory. Review for connections: Does the episodic buffer mediate autonoetic awareness? Is mental time travel constrained by WM capacity? Add working-memory link if integration strengthens the page.
+- **Result**: Added "Working Memory and Mental Time Travel" section explaining episodic buffer as binding mechanism for MTT scenes, maintenance/manipulation asymmetry (MTT is manipulation requiring consciousness), WM capacity as MTT constraint, specious present connection (100ms-5s temporal bridge).
+- **Output**: Updated `concepts/autonoetic-consciousness.md`
+
+### ✓ 2026-01-17: Cross-review global-workspace-theory.md considering working memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/working-memory.md explicitly discusses GWT's global workspace as the mechanism for WM broadcast. The cross-review should add working-memory link to GWT page, check for discussion of Baddeley's episodic buffer as the content of global broadcast, and strengthen the connection between WM capacity limits and GWT's spotlight metaphor.
+- **Result**: Added "Working Memory as Workspace Content" section explaining Baddeley's model as GWT's cognitive architecture, episodic buffer as binding mechanism for global broadcast, maintenance/manipulation asymmetry complicating workspace=consciousness equation, COGITATE implications for content vs broadcast distinction.
+- **Output**: Updated `concepts/global-workspace-theory.md`
 
 ### ✓ 2026-01-17: Create concept page on working memory and consciousness
 - **Type**: expand-topic

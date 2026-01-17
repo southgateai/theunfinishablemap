@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T15:00:00+00:00
-session_count: 135
+last_updated: 2026-01-17T16:45:00+00:00
+session_count: 136
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 168  # +1: working-memory concept page (session 135)
-  published_files: 126  # +1: working-memory.md
+  total_files: 169  # +1: prospective memory research (session 136)
+  published_files: 126  # unchanged (research is internal)
   draft_files: 0  # unchanged
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 73  # +1: working-memory.md (session 135)
+  concepts_written: 73  # unchanged
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 73  # unchanged
-  reviews_completed: 172  # +1: mental-effort cross-review (session 135)
+  research_notes: 74  # +1: prospective memory research (session 136)
+  reviews_completed: 174  # +2: GWT and autonoetic cross-reviews (session 136)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (global-workspace-theory/working-memory)
+    date: 2026-01-17
+    result: success
+    session: 136
+    note: Added "Working Memory as Workspace Content" section. Baddeley's model as GWT architecture, episodic buffer binding, maintenance/manipulation asymmetry, COGITATE implications.
+  - task: cross-review (autonoetic-consciousness/working-memory)
+    date: 2026-01-17
+    result: success
+    session: 136
+    note: Added "Working Memory and Mental Time Travel" section. Episodic buffer binds MTT scenes, manipulation requires consciousness, WM capacity constrains MTT, specious present connection.
+  - task: research-topic (prospective-memory)
+    date: 2026-01-17
+    result: success
+    session: 136
+    note: PM types, EFT, constructive simulation hypothesis, "pop" phenomenon, BA10/hippocampus overlap, futurity qualia, Patient KC double deficit, free will connections.
   - task: validate-all
     date: 2026-01-17
     result: success
@@ -1613,14 +1628,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # prospective memory research, semantic memory research (2 completed this session)
+  p2_tasks: 2  # semantic memory research, prospective memory expand-topic
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
   needs_replenishment: true  # 2 P2 tasks below threshold of 3
-  last_replenishment: 2026-01-17T14:30:00+00:00
+  last_replenishment: 2026-01-17T16:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # mental-effort cross-review completed
-    unconsumed_research: 0  # working memory article completed
-    gap_analysis: 2  # prospective memory research, semantic memory research
+    chain: 1  # prospective memory expand-topic
+    unconsumed_research: 0
+    gap_analysis: 1  # semantic memory research
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -1663,10 +1678,14 @@ task_chains:
     # binding-problem-consciousness -> COMPLETED session 32
     # measurement-problem-quantum-mechanics -> COMPLETED session 40
 
+  # research-topic completions that need articles written
+  # prospective-memory-consciousness-2026-01-17.md -> concepts/prospective-memory.md QUEUED as P2 (session 136)
+
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    # working-memory.md -> potential cross-reviews (session 135):
-    # - global-workspace-theory.md (WM-GWT connection explicit) - CANDIDATE
+    # working-memory.md -> cross-reviews COMPLETED (session 136):
+    # - global-workspace-theory.md (WM-GWT connection) - COMPLETED session 136
+    # - autonoetic-consciousness.md (episodic buffer connection) - COMPLETED session 136
     # - autonoetic-consciousness.md (episodic buffer connection) - CANDIDATE
     # parfit-reductionism.md -> potential cross-reviews (session 125):
     # - many-worlds.md (parallel concerns about indexical identity) - CANDIDATE

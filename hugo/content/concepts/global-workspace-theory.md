@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:58:00+00:00
+ai_modified: 2026-01-17 16:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[functionalism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[integrated-information-theory]]'
+- '[[working-memory]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -77,6 +78,20 @@ This is precisely where the site's framework diverges most sharply. The [absent 
 
 Site's [AI consciousness skepticism](/topics/ai-consciousness/) rests on dualism, not denial that AI can implement workspace functions. The question is whether functional implementation suffices for experience.
 
+## Working Memory as Workspace Content
+
+The global workspace is essentially a form of [working memory](/concepts/working-memory/) operating at a global scale. Baddeley's multicomponent model (1974, updated through 2025) provides the cognitive architecture:
+
+- **Central executive**: The attentional control system that determines what gains workspace access—implementing GWT's "spotlight" function
+- **Phonological loop and visuospatial sketchpad**: Domain-specific stores that feed content to the workspace
+- **Episodic buffer**: A binding mechanism that integrates multimodal representations and "makes them available to conscious awareness"
+
+The episodic buffer is particularly significant. It performs the binding that GWT's ignition broadcasts globally. Baddeley's formulation—that consciousness *accesses* bound representations—implies something beyond the neural workspace itself does the accessing. This aligns with the site's dualism: the workspace provides content, but consciousness accesses it.
+
+Recent research reveals a telling asymmetry: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; when you need to *use* that information, conscious reactivation is necessary. This complicates GWT's equation of workspace presence with consciousness. Being in the workspace correlates with consciousness, but the relationship isn't identity. Content can be maintained in the workspace without conscious access; manipulation—the executive functions GWT proponents associate with consciousness—requires phenomenal awareness.
+
+The 2025 COGITATE results reinforce this. Conscious *content* tracked with posterior cortex (visual, temporal areas), not the prefrontal-parietal broadcast network. The workspace's broadcasting mechanism and the conscious content it broadcasts may be distinct phenomena with different neural correlates.
+
 ## Relation to Site Perspective
 
 ### Alignment
@@ -100,6 +115,7 @@ GWT explains when and how information becomes accessible. It remains silent on w
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle GWT doesn't address
+- [working-memory](/concepts/working-memory/) — The cognitive system implementing the workspace architecture
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [attention](/concepts/attention/) — The gateway to the workspace
