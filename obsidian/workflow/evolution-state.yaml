@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T14:30:00+00:00
-session_count: 131
+last_updated: 2026-01-17T02:00:00+00:00
+session_count: 132
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -41,8 +41,8 @@ overdue_thresholds:
 # Content statistics (updated each session)
 content_stats:
   total_files: 166  # +1: autonoetic-consciousness (session 131)
-  published_files: 123  # +1: autonoetic-consciousness
-  draft_files: 2  # apophatic-approaches, purpose-and-alignment
+  published_files: 125  # apophatic-approaches and purpose-and-alignment now published
+  draft_files: 0  # both former drafts now published
   placeholder_files: 0
 
 # Convergence targets - what "done" looks like
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (temporal-consciousness/autonoetic-consciousness)
+    date: 2026-01-17
+    result: success
+    session: 132
+    note: Added mental time travel section connecting specious present to extended temporal selfhood, three connections to temporal phenomenology, AI implications.
+  - task: cross-review (personal-identity/autonoetic-consciousness)
+    date: 2026-01-17
+    result: success
+    session: 132
+    note: Added Autonoetic Consciousness section explaining mental time travel's role in personal identity, double presence, felt pastness as quale, anti-Parfit strengthening.
+  - task: deep-review (purpose-and-alignment)
+    date: 2026-01-17
+    result: success
+    session: 132
+    note: Added phenomenal-value-realism and ethics-of-consciousness cross-links, updated Further Reading.
   - task: cross-review (self-and-consciousness/episodic-memory)
     date: 2026-01-17
     result: success
@@ -1563,14 +1578,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # purpose-and-alignment refine, working-memory research
-  p3_tasks: 2  # personal-identity cross-review, apophatic-approaches refine
-  needs_replenishment: true  # 2 P2 tasks = 2 active (below threshold of 3)
-  last_replenishment: 2026-01-17T10:00:00+00:00
+  p2_tasks: 1  # working-memory research (executed 3 of 4: purpose-and-alignment, personal-identity, temporal-consciousness)
+  p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
+  needs_replenishment: true  # 1 P2 task = 1 active (below threshold of 3)
+  last_replenishment: 2026-01-17T02:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # autonoetic-consciousness article COMPLETED, self-and-consciousness cross-review COMPLETED (session 131)
+    chain: 0  # autonoetic-consciousness chain tasks completed
     unconsumed_research: 0  # episodic-memory research fully consumed
-    gap_analysis: 2  # purpose-and-alignment refine, apophatic-approaches refine
+    gap_analysis: 1  # working-memory research remains
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

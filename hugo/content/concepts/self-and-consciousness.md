@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 10:30:00+00:00
+ai_modified: 2026-01-17 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,8 @@ concepts:
 - '[[neurophenomenology]]'
 - '[[binding-problem]]'
 - '[[mind-brain-separation]]'
+- '[[autonoetic-consciousness]]'
+- '[[temporal-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -56,6 +58,32 @@ Unlike the minimal self, the narrative self:
 - Captures what makes each person distinctive
 
 The narrative self presupposes the minimal self. One cannot construct a life story without a basic experiential core having the experiences. The minimal self is "a pre-linguistic presupposition for any narrative practices."
+
+## Autonoetic Consciousness and the Temporal Self
+
+Between the minimal self (always present) and the narrative self (constructed over time) lies a crucial middle layer: the capacity for [autonoetic consciousness](/concepts/autonoetic-consciousness/)—the ability to mentally travel through time, re-experiencing past events and projecting into future scenarios.
+
+Endel Tulving distinguished autonoetic ("self-knowing") consciousness from noetic ("knowing") consciousness. When you remember that Paris is the capital of France, you access the fact without re-experiencing when you learned it—that's noetic awareness. When you remember *your trip* to Paris—the café where you sat, the rain on the windows, the taste of your coffee—you re-live the experience from a first-person perspective. You are simultaneously here now (remembering) and there then (phenomenally present in the remembered scene).
+
+### Mental Time Travel and Self-Constitution
+
+This capacity for mental time travel may be constitutive of the extended self. The minimal self is present in each moment; the narrative self is constructed through interpretation. But the temporal self—the sense of being a person extended through time—may depend on autonoetic consciousness specifically.
+
+Consider: the minimal self provides the "for-me-ness" of each moment. But what connects the minimal self *across* moments into a temporally extended person? Psychological continuity theories say: memory chains. But memory chains, understood as mere information storage, don't explain the phenomenology. When you remember your first day of school, you don't access stored data—you *re-inhabit* the experience. The minimal self of the current moment somehow connects to the minimal self of the remembered moment through phenomenal presence.
+
+This suggests the temporally extended self is constituted not merely by memory storage but by the capacity for re-experiencing. The self that spans a lifetime is not a narrative construction imposed on discrete moments but is phenomenologically constituted through mental time travel. You are the being who can re-live being seven and project being seventy—and this capacity, not just its products, is part of what you are.
+
+### Developmental Implications
+
+Children don't develop full autonoetic consciousness until age 4-5. This explains childhood amnesia: early memories aren't lost but were never encoded autonoetically. The self who would recognize them as "mine"—the temporally extended self that mental time travel presupposes—didn't yet exist.
+
+This timing aligns with the emergence of extended self-awareness more broadly. Children begin to understand that they persist through time, can plan for the future, and have a personal history around the same age. The capacity for mental time travel may be the cognitive achievement that enables extended selfhood—not merely a faculty the extended self uses, but part of what constitutes it.
+
+### Connection to Buddhist Analysis
+
+Buddhist meditation traditions aim to see through constructed selfhood. What they observe at fine temporal scales—*khanika*, the rapid arising and passing of experience—may be the minimal self moment by moment, stripped of autonoetic elaboration. Advanced practitioners report that when mental time travel ceases (neither remembering nor anticipating), only the bare minimal self remains: awareness present in this moment, without extension into past or future.
+
+This contemplative phenomenology supports the layered picture: the minimal self persists in every moment; autonoetic consciousness extends this self through time; narrative identity constructs meaning from the temporal extension. Meditation can suspend the outer layers while revealing the innermost—suggesting the layers are genuinely distinct rather than merely aspects of a single phenomenon.
 
 ## Metzinger's Challenge
 
@@ -145,7 +173,9 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 ## Further Reading
 
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporally extended self
 - [personal-identity](/topics/personal-identity/) — How the self persists over time
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal structure of experience
 - [phenomenology](/concepts/phenomenology/) — The method for investigating conscious experience
 - [binding-problem](/concepts/binding-problem/) — Unity of experience and its relation to selfhood
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Filter theory and the rendering engine analogy
@@ -160,3 +190,4 @@ The filter theory interprets these findings coherently: the narrative self is co
 - Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 - Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

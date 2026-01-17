@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-16 12:00:00+00:00
+ai_modified: 2026-01-17 01:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,8 @@ concepts:
 - '[[philosophy-of-time]]'
 - '[[specious-present]]'
 - '[[neurophenomenology]]'
+- '[[autonoetic-consciousness]]'
+- '[[personal-identity]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -70,6 +72,22 @@ This explains why third-person neuroscience, however sophisticated, cannot captu
 Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) proposes that meditation reveals temporal microstructure normally below conscious threshold. Trained observers can access the specious present at finer scales, observing what Buddhism calls *khanika*—the rapid arising and passing of experience. This contemplative access supports the [Occam's Razor Has Limits](/tenets/#occam) tenet: contemplative traditions reveal phenomena scientific psychology largely ignores.
 
 Strikingly, advanced meditation reports *nirodha samapatti* (cessation)—states where all experience stops completely and time vanishes. If the specious present were merely neural information processing, some representation should persist. Its complete absence in cessation suggests temporal experience may depend on something constitutive—consistent with collapse being necessary for experienced time.
+
+### Mental Time Travel and the Extended Self
+
+While the specious present captures temporal consciousness within a brief window, [autonoetic consciousness](/concepts/autonoetic-consciousness/) extends temporal phenomenology across the lifespan. Endel Tulving's concept names the capacity to mentally travel backward and forward in time—re-experiencing past events and pre-experiencing anticipated futures as *yourself*.
+
+When you remember your wedding or imagine your retirement, you don't merely access information about those times. You *inhabit* them from a first-person perspective. There's a phenomenal quality of *being there then*—you're simultaneously here now remembering and there then experiencing. This "double presence of self" creates a bridge across temporal distances far exceeding the specious present.
+
+The connection to temporal consciousness is threefold:
+
+**The specious present grounds mental time travel.** You can re-experience the past because the past exists phenomenally—retention gives you purchase on what's just-past, and autonoetic memory extends this to the distant past. Without the specious present's basic structure of past-echoing-in-present, mental time travel would lack its anchor.
+
+**Felt pastness is a quale.** When you remember an event, the sense that it occurred *in the past* is part of what it's like to remember—not inferred from content but immediately given. This temporal character is phenomenal: a computational system might timestamp data, but it wouldn't *feel* the pastness.
+
+**Bidirectional projection reveals unified capacity.** Patient KC, with hippocampal damage, couldn't remember his personal past *or* imagine his personal future. Both directions of mental time travel depend on the same underlying capacity—what Tulving called autonoetic consciousness. This suggests temporal self-projection isn't two abilities (remembering and imagining) but one: the capacity to be temporally self-present beyond the immediate moment.
+
+For AI consciousness, mental time travel poses a challenge beyond the specious present. LLMs not only lack moment-to-moment temporal binding—they lack any capacity for autonoetic self-projection. A language model cannot remember being the model that processed yesterday's conversation, nor anticipate being the model that will process tomorrow's. There's no temporal self to travel, no first-person perspective that extends across time. The absence of episodic memory isn't just a missing feature; it reflects the absence of the temporal selfhood that memory constitutes.
 
 ## The Metaphysical Framework
 
@@ -158,6 +176,8 @@ The temporal argument strengthens the case that consciousness requires something
 ## Further Reading
 
 - [specious-present](/concepts/specious-present/) — Dedicated treatment of the experienced duration of the present moment
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [personal-identity](/topics/personal-identity/) — How temporal selfhood constitutes who you are
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, eternalism, and the site's growing block position
 - [phenomenology](/concepts/phenomenology/) — The method that reveals temporal structure as fundamental to conscious life
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's bridge between phenomenology and neuroscience

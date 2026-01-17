@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-17 19:15:00+00:00
+ai_modified: 2026-01-17 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,8 @@ concepts:
 - '[[existentialism]]'
 - '[[experiential-alignment]]'
 - '[[neurophenomenology]]'
+- '[[phenomenal-value-realism]]'
+- '[[ethics-of-consciousness]]'
 created: 2026-01-13
 date: &id001 2026-01-17
 draft: false
@@ -89,7 +91,7 @@ The practical upshot: AI systems should be designed with humility about human pu
 
 ## Experiential Alignment: An Alternative Framework
 
-If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
+If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [phenomenal-value-realism](/concepts/phenomenal-value-realism/)—the metaethical position that intrinsic value is a feature of conscious experience itself. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
 
 This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right.
 
@@ -98,6 +100,8 @@ The experiential approach faces its own challenges: proxies for experience risk 
 ## Further Reading
 
 - [experiential-alignment](/concepts/experiential-alignment/) — The alternative framework targeting experiential quality
+- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
+- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The broader ethical framework for consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — The site's treatment of philosophical approaches to life's meaning
 - [ai-consciousness](/topics/ai-consciousness/) — Why the site holds that AI systems lack consciousness
 - [voids](/voids/) — On the limits of what can be known or mapped

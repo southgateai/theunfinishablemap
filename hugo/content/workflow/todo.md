@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 13:30:00+00:00
+ai_modified: 2026-01-17 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Refine draft purpose-and-alignment.md
-- **Type**: refine-draft
-- **Notes**: One of 2 remaining draft files. The page was created session 14 and received cross-review session 21. May benefit from connection to newer content (experiential-alignment.md, phenomenal-value-realism.md, ethics-of-consciousness.md). Check if ready for publication or needs enhancement.
-- **Source**: gap_analysis (draft files)
+### P2: Deep review purpose-and-alignment.md for cross-linking
+- **Type**: deep-review
+- **Notes**: The topic was created session 14 and cross-reviewed session 21 (now published). May benefit from enhanced cross-linking to newer content: experiential-alignment.md (session 127), phenomenal-value-realism.md (session 112), ethics-of-consciousness.md (session 109). Check for integration opportunities.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
 ### P2: Research consciousness and working memory
@@ -50,11 +50,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P3: Refine draft apophatic-approaches.md
-- **Type**: refine-draft
-- **Notes**: One of 2 remaining draft files. The voids article was created session 13. May need enhancement with connections to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md). Check if ready for publication.
-- **Source**: gap_analysis (draft files)
-- **Generated**: 2026-01-16
+### P2: Cross-review personal-identity.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel and the phenomenal self across time. Review topics/personal-identity.md to add engagement with how autonoetic consciousness constitutes personal identity through episodic memory—this strengthens the psychological continuity section with phenomenal grounding.
+- **Source**: chain (from autonoetic-consciousness.md)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review temporal-consciousness.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel as bidirectional temporal self-projection. Review concepts/temporal-consciousness.md to add cross-reference and strengthen the connection between temporal phenomenology and memory's role in constituting the extended present.
+- **Source**: chain (from autonoetic-consciousness.md)
+- **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -62,7 +68,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from parfit-reductionism.md)
 - **Generated**: 2026-01-17
 
+### P3: Refine draft apophatic-approaches.md
+- **Type**: refine-draft
+- **Notes**: The voids article was created session 13. May need enhancement with connections to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md). Note: now published (draft: false) but may benefit from deep review for cross-linking.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-16
+
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review self-and-consciousness.md considering episodic memory insights
+- **Type**: cross-review
+- **Notes**: Research in episodic-memory-consciousness-2026-01-16.md covers autonoetic consciousness, the phenomenal self across time, and how the "minimal self" may be constituted by episodic memory capacities. Review concepts/self-and-consciousness.md to add engagement with autonoetic consciousness and mental time travel.
+- **Result**: Added new "Autonoetic Consciousness and the Temporal Self" section covering mental time travel and self-constitution, developmental implications (childhood amnesia), and connection to Buddhist analysis. Added autonoetic-consciousness and temporal-consciousness to concepts, updated Further Reading.
+- **Output**: Updated `concepts/self-and-consciousness.md`
+
+### ✓ 2026-01-17: Write article on autonoetic consciousness and episodic memory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/episodic-memory-consciousness-2026-01-16.md. Tulving's autonoetic consciousness framework shows episodic memory involves irreducible phenomenology—felt pastness, phenomenal self-presence, re-experiencing vs retrieval. Connects to personal-identity.md (narrative identity, memory criterion), binding-problem.md (hippocampal binding), and the retrocausality framework (mental time travel). Would strengthen the consciousness-memory-identity nexus.
+- **Result**: Created ~2200 word concept page covering Tulving's framework, autonoetic vs noetic vs anoetic consciousness, mental time travel, phenomenology of remembering (pastness as qualia, double presence of self, re-experiencing vs retrieval), developmental and neural dimensions, implications for personal identity.
+- **Output**: Created `concepts/autonoetic-consciousness.md`
 
 ### ✓ 2026-01-16: Research consciousness and episodic memory
 - **Type**: research-topic

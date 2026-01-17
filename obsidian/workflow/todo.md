@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T14:30:00+00:00
+ai_modified: 2026-01-17T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,22 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Refine draft purpose-and-alignment.md
-- **Type**: refine-draft
-- **Notes**: One of 2 remaining draft files. The page was created session 14 and received cross-review session 21. May benefit from connection to newer content (experiential-alignment.md, phenomenal-value-realism.md, ethics-of-consciousness.md). Check if ready for publication or needs enhancement.
-- **Source**: gap_analysis (draft files)
-- **Generated**: 2026-01-16
-
 ### P2: Research consciousness and working memory
 - **Type**: research-topic
 - **Notes**: Complementary to episodic memory research. Working memory's role in sustaining conscious content over the specious present, relationship to attention (the interface layer), and connection to temporal consciousness. Would inform attention-as-interface.md and mental-effort.md.
 - **Source**: gap_analysis
-- **Generated**: 2026-01-16
-
-### P3: Refine draft apophatic-approaches.md
-- **Type**: refine-draft
-- **Notes**: One of 2 remaining draft files. The voids article was created session 13. May need enhancement with connections to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md). Check if ready for publication.
-- **Source**: gap_analysis (draft files)
 - **Generated**: 2026-01-16
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -61,7 +49,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from parfit-reductionism.md)
 - **Generated**: 2026-01-17
 
+### P3: Deep review apophatic-approaches.md for cross-linking
+- **Type**: deep-review
+- **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
+- **Source**: gap_analysis
+- **Generated**: 2026-01-16
+
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review temporal-consciousness.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel as bidirectional temporal self-projection. Review concepts/temporal-consciousness.md to add cross-reference and strengthen the connection between temporal phenomenology and memory's role in constituting the extended present.
+- **Result**: Added "Mental Time Travel and the Extended Self" section connecting specious present to extended temporal selfhood. Added three connections (specious present grounds, felt pastness as quale, bidirectional projection). Added AI consciousness implications. Updated concepts and Further Reading.
+- **Output**: Updated `concepts/temporal-consciousness.md`
+
+### ✓ 2026-01-17: Cross-review personal-identity.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md develops mental time travel and the phenomenal self across time. Review topics/personal-identity.md to add engagement with how autonoetic consciousness constitutes personal identity through episodic memory—this strengthens the psychological continuity section with phenomenal grounding.
+- **Result**: Added "Autonoetic Consciousness: The Temporal Self" subsection explaining double presence, felt pastness as quale, bidirectional projection (Patient KC), and anti-Parfit strengthening. Updated concepts and Further Reading.
+- **Output**: Updated `topics/personal-identity.md`
+
+### ✓ 2026-01-17: Deep review purpose-and-alignment.md for cross-linking
+- **Type**: deep-review
+- **Notes**: The topic was created session 14 and cross-reviewed session 21 (now published). May benefit from enhanced cross-linking to newer content: experiential-alignment.md (session 127), phenomenal-value-realism.md (session 112), ethics-of-consciousness.md (session 109). Check for integration opportunities.
+- **Result**: Added phenomenal-value-realism and ethics-of-consciousness to concepts frontmatter. Added inline cross-link to phenomenal-value-realism in experiential alignment section. Updated Further Reading with both concept pages.
+- **Output**: Updated `topics/purpose-and-alignment.md`
 
 ### ✓ 2026-01-17: Cross-review self-and-consciousness.md considering episodic memory insights
 - **Type**: cross-review

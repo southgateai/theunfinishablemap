@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-17 13:00:00+00:00
+ai_modified: 2026-01-17 01:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[death-and-consciousness]]'
 - '[[split-brain-consciousness]]'
 - '[[self-and-consciousness]]'
+- '[[autonoetic-consciousness]]'
 - '[[many-worlds]]'
 - '[[parfit-reductionism]]'
 - '[[haecceity]]'
@@ -65,6 +66,20 @@ The minimal self doesn't depend on narrative construction. It is the "for-me-nes
 This distinction matters for personal identity. The narrative view may capture what we care about socially—the story we tell about who we are—while missing what persists *through* fragmented narratives: the minimal self. If narrative identity fragments (as in dementia), something may nonetheless persist: *this* first-person perspective, the same subject having the experiences.
 
 The minimal self provides what the narrative self presupposes. One cannot construct a life story without a basic experiential core having the experiences to narrativize. This suggests personal identity may have layers: a narrative layer that changes dramatically over a lifetime, and a minimal layer—the bare perspectival character of experience—that persists throughout.
+
+### Autonoetic Consciousness: The Temporal Self
+
+Endel Tulving's concept of [autonoetic consciousness](/concepts/autonoetic-consciousness/) adds a crucial dimension: the capacity for mental time travel that constitutes the self across time. When you remember your childhood or imagine your future, you don't merely access information—you *re-inhabit* the past and *pre-inhabit* the future as *you*.
+
+This bears directly on personal identity. Autonoetic consciousness involves:
+
+- **Double presence of self**: You are simultaneously here now remembering and there then experiencing. This creates a phenomenal bridge across temporal distance.
+- **Felt pastness as quale**: The sense that a remembered event occurred *in the past* is part of what it is like to remember—not inferred from content but immediately given.
+- **Bidirectional projection**: The same capacity enables remembering the past and imagining the future. Patient KC, with damaged episodic memory, couldn't plan his future either—both directions of mental time travel were lost together.
+
+For personal identity, this means psychological continuity has a phenomenal character that computational accounts miss. Memory isn't data retrieval; it's *re-experiencing*. The continuity that matters for identity isn't just causal connections between mental states—it's the lived phenomenology of being the same subject across time, which autonoetic consciousness provides.
+
+This strengthens the site's position against Parfit. If what matters in memory is mere information continuity, a perfect upload preserves everything. But if remembering involves *this* subject re-inhabiting *their* past—the same first-person perspective traveling back through time—then information preservation isn't enough. The upload has the data; it lacks the autonoetic presence that makes the memories *mine*.
 
 ## Parfit's Challenge
 
@@ -179,6 +194,7 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The site's detailed critique of Parfit's view
 - [many-worlds](/arguments/many-worlds/) — Why the site rejects many-worlds (the indexical problem is central)
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
 - [meaning-of-life](/topics/meaning-of-life/) — Why personal existence matters
