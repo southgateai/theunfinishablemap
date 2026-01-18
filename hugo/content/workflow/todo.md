@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 20:35:00+00:00
+ai_modified: 2026-01-18 20:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-18
 
-### P2: Write article on quantum coherence in neural systems
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-superposition-brain-consciousness-2026-01-18.md. Recent 2024-2025 experimental evidence significantly strengthens the case: microtubule-stabilizing drugs delay anesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by seven orders of magnitude beyond Tegmark's original calculations. Three protective mechanisms proposed. This directly supports Minimal Quantum Interaction tenet with empirical evidence.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on relational quantum mechanics
 - **Type**: expand-topic
 - **Notes**: Research completed in research/relational-quantum-mechanics-2026-01-18.md. RQM (Rovelli 1996) proposes quantum states are relations between systems, not absolute properties. Explicitly removes special role for consciousness. While this conflicts with site tenets, understanding this interpretation is important for addressing multi-mind collapse problem and providing fair treatment of alternatives to consciousness-causes-collapse.
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write article on quantum coherence in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-superposition-brain-consciousness-2026-01-18.md. Recent 2024-2025 experimental evidence significantly strengthens the case: microtubule-stabilizing drugs delay anesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by seven orders of magnitude beyond Tegmark's original calculations. Three protective mechanisms proposed. This directly supports Minimal Quantum Interaction tenet with empirical evidence.
+- **Result**: Created ~2000 word concept page covering: the Tegmark challenge (10⁻¹³ s calculation), revised estimates (10⁻⁵ to 10⁻⁴ s, seven orders of magnitude longer), four protective mechanisms (hydrophobic interior, Fröhlich coherence, nuclear spin isolation, ordered water), experimental evidence (epothilone B study, tryptophan superradiance, 613 THz oscillation), and how coherence evidence relates to site tenets. Noted that Zeno mechanism may not require sustained coherence.
+- **Output**: Created `concepts/neural-quantum-coherence.md`
 
 ### ✓ 2026-01-18: Cross-review agent-causation.md considering motor-selection parallel
 - **Type**: cross-review
