@@ -3,7 +3,7 @@ title: "Global Workspace Theory"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-18T23:45:00+00:00
+ai_modified: 2026-01-19T04:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[semantic-memory]]"
   - "[[implicit-memory]]"
   - "[[autonoetic-consciousness]]"
+  - "[[dreams-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[global-workspace-theory-2026-01-14]]"
@@ -65,13 +66,22 @@ Ned Block has argued forcefully that these are distinct phenomena. His "overflow
 
 ## The COGITATE Experiment
 
-The 2025 COGITATE study put GWT and [[integrated-information-theory|IIT]] to empirical test. Results were mixed for both theories:
+The April 2025 COGITATE study represents a landmark event in consciousness research: a seven-year adversarial collaboration where GWT and [[integrated-information-theory|IIT]] proponents jointly designed experiments to test their theories. The explicit goal was to produce results that could refute one or both theories.
 
 **GNW predictions challenged:**
-- The expected "ignition" when stimuli disappeared was not observed
+- The expected "ignition" when stimuli disappeared was not observed—a core GNW prediction
 - Prefrontal cortex activated for category recognition but not for specific identity or orientation
+- The general pattern showed limited representation in prefrontal cortex compared to what full global broadcast predicts
 
-**Neither theory emerged unscathed.** This suggests caution about any premature physicalist explanation. The science of consciousness remains unsettled.
+**Neither theory emerged unscathed.** As the researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication.
+
+This outcome supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Neither leading physicalist theory of consciousness fully captures the phenomena. The COGITATE results don't refute physicalism, but they demonstrate that our best scientific theories remain incomplete. The hard problem persists not because we lack clever theories but because the empirical constraints remain weak enough to sustain multiple incompatible accounts.
+
+### Implications for Consciousness Localization
+
+COGITATE confirmed that conscious content tracks with posterior cortex (visual, temporal areas) rather than the prefrontal-parietal broadcast network. This has implications beyond laboratory experiments. [[dreams-and-consciousness|Dreaming]] persists when the posterior hot zone remains active, even during NREM sleep when prefrontal areas are largely offline. If GWT's workspace mechanism were necessary for consciousness, prefrontal deactivation should eliminate experience—yet dreams demonstrate consciousness without full workspace engagement.
+
+The dissociation suggests a refinement: the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself. The filter theory reading remains intact—consciousness may access whatever the posterior cortex provides, with the workspace enabling but not constituting that access.
 
 ## GWT and AI Consciousness
 
@@ -157,6 +167,7 @@ GWT explains when and how information becomes accessible. It remains silent on w
 - [[neural-correlates-of-consciousness]] — The broader research program GWT contributes to
 - [[attention]] — The gateway to the workspace
 - [[functionalism]] — The philosophical framework underlying GWT
+- [[dreams-and-consciousness]] — Dreaming without full workspace engagement
 - [[global-workspace-theory-2026-01-14]] — Detailed research notes
 
 ## References
