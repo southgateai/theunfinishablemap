@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 02:00:00+00:00
+ai_modified: 2026-01-18 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article extending quantum Zeno framework to motor control
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Key angle: motor control is a second domain (beyond attention) where consciousness selects via quantum Zeno. Parallel structures: frontal theta, ~300ms decision time, willed vs instructed distinction. Libet challenge weakened by Schurger (RP is noise) and Sjöberg (SMA resection irrelevant). Desmurget shows intention (parietal) separate from execution (motor). Basal ganglia brake-release offers selection site. Connect to attention-as-interface.md, mental-effort.md, free-will.md.
-- **Source**: chain (from motor-control-quantum-zeno-2026-01-18.md)
-- **Generated**: 2026-01-19
-
-### P2: Cross-review embodied-cognition.md considering implicit-memory insights
-- **Type**: cross-review
-- **Notes**: The implicit-memory.md page covers Dreyfus's skill acquisition model and choking under pressure phenomenon extensively. The embodied-cognition.md page discusses motor skills but could strengthen its argument with Dreyfus's five stages (novice→expert) showing how consciousness withdraws to anoetic mode, and how choking evidences bidirectional interaction.
-- **Source**: chain (from implicit-memory.md)
-- **Generated**: 2026-01-19
-
 ### P2: Research emotional consciousness and valence
 - **Type**: research-topic
 - **Notes**: The site has rich coverage of cognitive aspects (metacognition, memory systems, attention) but lacks dedicated treatment of emotional consciousness. How is valence (positive/negative felt quality) experienced? What is the relationship between emotions and consciousness—are emotions felt qualities requiring phenomenal consciousness, or functional states that could exist without experience? This connects to phenomenal-value-realism.md and ethics-of-consciousness.md.
@@ -81,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review embodied-cognition.md considering implicit-memory insights
+- **Type**: cross-review
+- **Notes**: The implicit-memory.md page covers Dreyfus's skill acquisition model and choking under pressure phenomenon extensively. The embodied-cognition.md page discusses motor skills but could strengthen its argument with Dreyfus's five stages (novice→expert) showing how consciousness withdraws to anoetic mode, and how choking evidences bidirectional interaction.
+- **Result**: Expanded Dreyfus Model section with five-stage table showing consciousness mode transitions (novice→advanced beginner→competent→proficient→expert). Added dedicated "Choking Under Pressure: The Bidirectional Evidence" subsection with explicit monitoring theory (Baumeister, Beilock), four research findings, and strengthened causal chain argument for bidirectional interaction.
+- **Output**: Updated `concepts/embodied-cognition.md`
+
+### ✓ 2026-01-18: Write article extending quantum Zeno framework to motor control
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Key angle: motor control is a second domain (beyond attention) where consciousness selects via quantum Zeno. Parallel structures: frontal theta, ~300ms decision time, willed vs instructed distinction. Libet challenge weakened by Schurger (RP is noise) and Sjöberg (SMA resection irrelevant). Desmurget shows intention (parietal) separate from execution (motor). Basal ganglia brake-release offers selection site. Connect to attention-as-interface.md, mental-effort.md, free-will.md.
+- **Result**: Created ~2400 word concept page extending quantum Zeno mechanism from attention to motor control. Covers attention-motor parallel (frontal theta, ~300ms, willed vs instructed), Libet challenge dissolution via Schurger stochastic model and Sjöberg surgical evidence, Desmurget's parietal-premotor dissociation, basal ganglia brake-release selection mechanism, sense of agency via efference copy.
+- **Output**: Created `concepts/motor-selection.md`
 
 ### ✓ 2026-01-19: Research attention and motor control for quantum Zeno framework
 - **Type**: research-topic

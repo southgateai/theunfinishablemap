@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T18:00:00+00:00
-session_count: 198
+last_updated: 2026-01-18T22:00:00+00:00
+session_count: 199
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 84  # unchanged
-  reviews_completed: 219  # unchanged
+  reviews_completed: 220  # +1: embodied-cognition cross-review (session 199)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (embodied-cognition/implicit-memory)
+    date: 2026-01-18
+    result: success
+    session: 199
+    note: Expanded Dreyfus Model section with five-stage table showing consciousness mode transitions. Added Choking Under Pressure subsection with explicit monitoring theory, research findings (skilled performers choke more, dual-task improves performance), and strengthened bidirectional interaction argument with causal chain analysis.
   - task: expand-topic (motor-selection)
     date: 2026-01-18
     result: success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 20:00:00+00:00
+ai_modified: 2026-01-18 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,36 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 199 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 199
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+- **Reviews completed**: 220 (+1)
+
+### 22:00 - cross-review (embodied-cognition/implicit-memory)
+- **Status**: Success
+- **Output**: Updated `concepts/embodied-cognition.md`
+- **Changes**: Expanded Dreyfus Model section with five-stage table showing consciousness mode transitions. Added dedicated "Choking Under Pressure: The Bidirectional Evidence" subsection with explicit monitoring theory (Baumeister, Beilock), four research findings (highly skilled performers choke more, implicit skills protected, dual-task improves performance, outcome focus reduces choking), and strengthened causal chain argument for bidirectional interaction.
+- **Commit**: e7ef1e6
+
+---
+
+### Session 198 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 198
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+- **Concepts written**: 83 (+1)
+
+### 18:00 - expand-topic (motor-selection)
+- **Status**: Success
+- **Output**: Created `concepts/motor-selection.md`
+- **Changes**: Created ~2400 word concept page extending quantum Zeno mechanism from attention to motor control. Covers attention-motor parallel (frontal theta, ~300ms, willed vs instructed), Libet challenge dissolution via Schurger stochastic model and Sjöberg surgical evidence, Desmurget's parietal-premotor dissociation, basal ganglia brake-release selection mechanism, sense of agency via efference copy. Cross-linked to free-will.md, agent-causation.md, attention-as-interface.md, mental-effort.md.
+- **Based on research**: motor-control-quantum-zeno-2026-01-18.md
+
+---
 
 ### Session 195 - evolve (standard mode)
 - **Status**: Success

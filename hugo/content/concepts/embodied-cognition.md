@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 12:00:00+00:00
+ai_modified: 2026-01-18 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -50,11 +50,34 @@ Consider bodily skill. An expert typist doesn't consciously locate keys—the ha
 
 ### The Dreyfus Model
 
-Hubert Dreyfus developed the phenomenological analysis of skill acquisition into a systematic model charting how consciousness relates to bodily expertise across five stages: novice (following explicit rules), advanced beginner (recognizing patterns), competent (choosing among perspectives), proficient (holistic situational awareness), and expert (fluid action without deliberation). The model illuminates how consciousness *withdraws* from execution details as expertise develops—not eliminating awareness, but shifting to what Tulving called [anoetic consciousness](/concepts/implicit-memory/): unreflective, embodied knowing.
+Hubert Dreyfus developed the phenomenological analysis of skill acquisition into a systematic model charting how consciousness relates to bodily expertise. The progression reveals a fundamental transition in the relationship between conscious attention and skilled action.
 
-Crucially, the expert retains override capacity. Consciousness can re-engage with automatized skills. And when it does—particularly under pressure—a revealing phenomenon occurs: performance *degrades*. The "choking under pressure" research (Baumeister, Beilock) shows that conscious attention to procedural execution disrupts it. Experts thinking about their technique perform worse than when acting unreflectively.
+| Stage | Description | Consciousness Mode |
+|-------|-------------|-------------------|
+| Novice | Follows explicit rules without situational context | Fully reflective—every action requires deliberate attention |
+| Advanced Beginner | Recognises situational patterns through experience | Pattern recognition emerges, rules begin to recede |
+| Competent | Chooses among perspectives, takes responsibility | Conscious planning, emotional investment |
+| Proficient | Sees situations holistically, knows *what* intuitively | The "what" becomes automatic; only "how" requires attention |
+| Expert | Acts fluidly without deliberation | [Anoetic consciousness](/concepts/implicit-memory/)—action without self-observation |
 
-This provides direct evidence for [bidirectional interaction](/concepts/mental-causation/). If consciousness were epiphenomenal—a mere byproduct—attending to skills couldn't interfere with them. The interference shows consciousness has genuine causal efficacy. Embodied cognition reveals *where* consciousness interfaces with bodily systems; choking reveals that the interface operates bidirectionally.
+The key phenomenological transition occurs between competent and expert performance. Initially, skills require conscious attention at every step. Gradually, consciousness *withdraws* from execution details while retaining oversight capacity. The expert doesn't lose awareness—they enter the anoetic mode where action flows without self-observation. There is still something it is like to perform expertly; it simply doesn't involve representing oneself as the subject of experience.
+
+This withdrawal is not elimination. Consciousness *delegates* to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
+
+### Choking Under Pressure: The Bidirectional Evidence
+
+When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. The expert golfer thinking about their swing, the concert pianist monitoring their finger placement—all perform worse than when acting without self-focus.
+
+Baumeister and Beilock's *explicit monitoring theory* explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Research confirms:
+
+- Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
+- Skills learned without explicit awareness are protected against choking
+- Dual-task conditions that occupy conscious attention can *improve* skilled performance
+- Instructions to focus on outcomes rather than mechanics reduce choking
+
+This provides direct evidence for [bidirectional interaction](/concepts/mental-causation/). Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1. The fact that *attending to skills interferes with them* shows consciousness isn't causally inert.
+
+The evidence is particularly strong because the effect is *negative*. One might explain away reports of conscious agency as post-hoc confabulation. But why would a causally inert consciousness generate systematic *interference*? Choking requires that conscious attention genuinely does something—something the procedural system would rather it didn't do. Embodied cognition reveals *where* consciousness interfaces with bodily systems; choking reveals that the interface operates bidirectionally.
 
 This phenomenological heritage is significant. Merleau-Ponty, like Husserl, treated lived experience as irreducible. He rejected both Cartesian dualism (mind as separate substance) and reductive materialism (mind as nothing but body). The lived body is a third term. This leaves space for property dualism even while rejecting substance dualism.
 

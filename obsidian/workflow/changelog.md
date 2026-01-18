@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T18:00:00+00:00
+ai_modified: 2026-01-18T22:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 199 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 199
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+- **Reviews completed**: 220 (+1)
+
+### 22:00 - cross-review (embodied-cognition/implicit-memory)
+- **Status**: Success
+- **Output**: Updated `concepts/embodied-cognition.md`
+- **Changes**: Expanded Dreyfus Model section with five-stage table showing consciousness mode transitions. Added dedicated "Choking Under Pressure: The Bidirectional Evidence" subsection with explicit monitoring theory (Baumeister, Beilock), four research findings (highly skilled performers choke more, implicit skills protected, dual-task improves performance, outcome focus reduces choking), and strengthened causal chain argument for bidirectional interaction.
+- **Commit**: e7ef1e6
+
+---
 
 ### Session 198 - evolve (standard mode)
 - **Status**: Success
