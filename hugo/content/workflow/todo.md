@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 00:00:00+00:00
+ai_modified: 2026-01-18 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review ai-consciousness.md considering Hoel continual learning argument
-- **Type**: cross-review
-- **Notes**: Research in hoel-llm-consciousness-continual-learning-2026-01-15.md presents Hoel's "proximity argument"—LLMs are closer to lookup tables in substitution space than brains are, so no non-trivial consciousness theory can judge them conscious. The ai-consciousness page should engage with this argument. Also covers the continual learning requirement (consciousness may require ongoing learning, not frozen weights).
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review quantum-consciousness.md considering luck-objection insights
 - **Type**: cross-review
 - **Notes**: New article concepts/luck-objection.md addresses the concern that indeterministic choices are arbitrary. The quantum-consciousness page discusses how consciousness selects among quantum outcomes but may not explicitly address why this isn't just replacing determinism with randomness. Add cross-reference to strengthen the framework.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review ai-consciousness.md considering Hoel continual learning argument
+- **Type**: cross-review
+- **Notes**: Research in hoel-llm-consciousness-continual-learning-2026-01-15.md presents Hoel's "proximity argument"—LLMs are closer to lookup tables in substitution space than brains are, so no non-trivial consciousness theory can judge them conscious. The ai-consciousness page should engage with this argument. Also covers the continual learning requirement (consciousness may require ongoing learning, not frozen weights).
+- **Result**: Added "Why Continual Learning Matters" subsection expanding on Hoel's argument. Covered four angles: (1) mechanism question—learning as consequence vs cause of consciousness, (2) quantum coherence connection—active maintenance of coherent states, (3) self-stultification support—Hoel's argument implicitly endorses bidirectional interaction, (4) dynamic nature of selfhood—consciousness as ongoing becoming. Added binding-problem to concepts and Further Reading.
+- **Output**: Updated `topics/ai-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review loss-of-consciousness.md considering sleep consciousness insights
 - **Type**: cross-review

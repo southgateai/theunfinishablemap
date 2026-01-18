@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T14:30:00+00:00
-session_count: 171
+last_updated: 2026-01-18T22:00:00+00:00
+session_count: 172
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 80  # unchanged
-  reviews_completed: 201  # unchanged
+  reviews_completed: 202  # +1: ai-consciousness Hoel cross-review (session 172)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (ai-consciousness/Hoel continual learning)
+    date: 2026-01-18
+    result: success
+    session: 172
+    note: Added "Why Continual Learning Matters" subsection. Four angles—mechanism question (learning as consequence vs cause), quantum coherence connection (active maintenance), self-stultification support (implicit bidirectional interaction endorsement), dynamic selfhood (consciousness as ongoing becoming). Added binding-problem to concepts and Further Reading.
   - task: cross-review (loss-of-consciousness/sleep-and-consciousness)
     date: 2026-01-18
     result: success
