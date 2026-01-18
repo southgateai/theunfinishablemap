@@ -91,6 +91,9 @@ def _git_commit_and_push(title: str) -> bool:
     """
     Commit highlight changes and push to origin.
 
+    Also updates last_git_push in evolution-state.yaml so evolve_loop.py
+    knows a push happened.
+
     Args:
         title: Highlight title for the commit message
 
@@ -124,6 +127,10 @@ def _git_commit_and_push(title: str) -> bool:
         )
 
         logger.info("Committed and pushed highlight")
+
+        # Update last_git_push in evolution state so evolve_loop knows about this push
+        _update_last_git_push()
+
         return True
 
     except subprocess.CalledProcessError as e:
@@ -131,6 +138,22 @@ def _git_commit_and_push(title: str) -> bool:
         if e.stderr:
             logger.error(f"stderr: {e.stderr.decode()}")
         return False
+
+
+def _update_last_git_push() -> None:
+    """Update last_git_push timestamp in evolution-state.yaml."""
+    from datetime import timezone
+
+    from tools.evolution.state import load_state, save_state
+
+    state_path = REPO_ROOT / "obsidian" / "workflow" / "evolution-state.yaml"
+    try:
+        state = load_state(state_path)
+        state.last_git_push = datetime.now(timezone.utc)
+        save_state(state, state_path)
+        logger.info("Updated last_git_push in evolution state")
+    except Exception as e:
+        logger.warning(f"Could not update last_git_push: {e}")
 
 
 def _wait_for_deployment(

@@ -10,7 +10,7 @@ import logging
 import subprocess
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from logging.handlers import TimedRotatingFileHandler
 from pathlib import Path
 
@@ -19,6 +19,7 @@ log = logging.getLogger("evolve_loop")
 
 # Repository root
 REPO_ROOT = Path(__file__).parent.parent
+STATE_PATH = REPO_ROOT / "obsidian" / "workflow" / "evolution-state.yaml"
 
 
 class GitError(Exception):
@@ -105,6 +106,33 @@ def git_push() -> None:
     )
     if result.returncode != 0:
         raise GitError("git push", result.returncode, result.stdout, result.stderr)
+
+
+def get_last_push_time() -> float | None:
+    """Read last_git_push from evolution state. Returns Unix timestamp or None."""
+    try:
+        # Import here to avoid circular imports at module load time
+        from tools.evolution.state import load_state
+
+        state = load_state(STATE_PATH)
+        if state.last_git_push is None:
+            return None
+        return state.last_git_push.timestamp()
+    except Exception as e:
+        log.warning(f"Could not read last_git_push from state: {e}")
+        return None
+
+
+def set_last_push_time() -> None:
+    """Update last_git_push in evolution state to now."""
+    try:
+        from tools.evolution.state import load_state, save_state
+
+        state = load_state(STATE_PATH)
+        state.last_git_push = datetime.now(timezone.utc)
+        save_state(state, STATE_PATH)
+    except Exception as e:
+        log.warning(f"Could not update last_git_push in state: {e}")
 
 
 def run_evolve(verbose: bool = True, timeout_seconds: int = 5400) -> str:
@@ -202,7 +230,9 @@ def main() -> int:
     successes = 0
     failures = 0
     start_time = time.time()
-    last_push_time: float | None = None
+
+    # Read last push time from state (persisted across restarts, shared with tweet-highlight)
+    last_push_time: float | None = get_last_push_time()
 
     log.info("=" * 60)
     log.info("Evolution Loop Started")
@@ -273,6 +303,9 @@ def main() -> int:
             try:
                 unpushed = get_unpushed_commits()
                 now = time.time()
+
+                # Re-read last push time from state in case tweet-highlight pushed
+                last_push_time = get_last_push_time() or last_push_time
                 seconds_since_push = (now - last_push_time) if last_push_time else float("inf")
 
                 if unpushed > 0:
@@ -280,6 +313,7 @@ def main() -> int:
                         log.info(f"Pushing {unpushed} commit(s)...")
                         try:
                             git_push()
+                            set_last_push_time()  # Persist to state file
                             last_push_time = now
                             log.info("Push completed")
                         except GitError as e:

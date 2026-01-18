@@ -168,6 +168,7 @@ The project includes scheduled AI automation for content development. All AI-gen
 | `/replenish-queue [mode]` | Auto-generate tasks when queue is empty (chains, gaps, research) | Yes (todo.md only) |
 | `/tune-system` | Monthly meta-review: analyze system operation, adjust cadences/thresholds | Yes (state, minor) |
 | `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
+| `/tweet-highlight` | Tweet the most recent untweeted highlight. Scheduled for 7am UTC daily. | No (external only) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 
@@ -302,10 +303,10 @@ last_runs:
   new-skill: null  # or initial timestamp
 
 cadences:
-  new-skill: 7  # how often in days
+  new-skill: 168  # how often in hours (168h = 7 days)
 
 overdue_thresholds:
-  new-skill: 3  # inject when overdue by N days
+  new-skill: 72  # inject when overdue by N hours (72h = 3 days)
 ```
 
 #### 4. Update CLAUDE.md Skills Table

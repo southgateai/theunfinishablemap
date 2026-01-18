@@ -110,7 +110,7 @@ def score_task(
 
 def create_synthetic_task(
     skill_name: str,
-    days_overdue: int,
+    hours_overdue: int,
     priority: int = 2,
 ) -> tuple[Task, int]:
     """
@@ -118,7 +118,7 @@ def create_synthetic_task(
 
     Args:
         skill_name: Name of the skill (e.g., 'pessimistic-review')
-        days_overdue: How many days past due
+        hours_overdue: How many hours past due
         priority: Base priority (default P2)
 
     Returns:
@@ -138,7 +138,7 @@ def create_synthetic_task(
     task_type = type_map.get(skill_name, TaskType.OTHER)
 
     task = Task(
-        title=f"Run {skill_name} (overdue by {days_overdue} days)",
+        title=f"Run {skill_name} (overdue by {hours_overdue}h)",
         priority=priority,
         task_type=task_type,
         status=TaskStatus.PENDING,
@@ -148,15 +148,15 @@ def create_synthetic_task(
         line_number=-1,  # Synthetic tasks sort after real ones at same score
     )
 
-    # Staleness bonus: 20 points per day overdue, capped at 150
-    staleness_bonus = min(days_overdue * 20, 150)
+    # Staleness bonus: 1 point per hour overdue (20 per day), capped at 150
+    staleness_bonus = min(hours_overdue, 150)
 
     return task, staleness_bonus
 
 
 def score_synthetic_task(
     skill_name: str,
-    days_overdue: int,
+    hours_overdue: int,
     state: EvolutionState,
 ) -> ScoredTask:
     """
@@ -164,13 +164,13 @@ def score_synthetic_task(
 
     Args:
         skill_name: Name of the skill
-        days_overdue: How many days past due
+        hours_overdue: How many hours past due
         state: Current evolution state
 
     Returns:
         ScoredTask for the synthetic task
     """
-    task, staleness_bonus = create_synthetic_task(skill_name, days_overdue)
+    task, staleness_bonus = create_synthetic_task(skill_name, hours_overdue)
 
     # Base priority score (synthetic tasks are P2 by default)
     base_priority_score = (4 - task.priority) * 100

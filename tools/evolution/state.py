@@ -37,6 +37,7 @@ class Progress:
     concepts_written: int = 0
     arguments_written: int = 0
     questions_written: int = 0
+    voids_written: int = 0
     research_notes: int = 0
     reviews_completed: int = 0
 
@@ -48,6 +49,7 @@ class Quality:
     critical_issues: int = 0
     medium_issues: int = 0
     low_issues: int = 0
+    orphaned_files: int = 0
 
 
 @dataclass
@@ -71,6 +73,8 @@ class EvolutionState:
     last_runs: dict[str, Optional[datetime]]
     cadences: dict[str, int]
     overdue_thresholds: dict[str, int]
+    scheduled_hours: dict[str, int]  # task -> hour (0-23 UTC) when task should run
+    last_git_push: Optional[datetime]  # for rate-limiting pushes across processes
     content_stats: ContentStats
     convergence_targets: ConvergenceTargets
     progress: Progress
@@ -101,6 +105,15 @@ def load_state(path: Path) -> EvolutionState:
     elif last_updated is None:
         last_updated = datetime.now()
 
+    # Parse last_git_push
+    last_git_push = data.get("last_git_push")
+    if isinstance(last_git_push, str):
+        last_git_push = datetime.fromisoformat(last_git_push)
+    elif isinstance(last_git_push, datetime):
+        pass  # already datetime
+    else:
+        last_git_push = None
+
     # Parse recent_tasks
     recent_tasks = []
     for task_data in data.get("recent_tasks", []):
@@ -121,6 +134,8 @@ def load_state(path: Path) -> EvolutionState:
         last_runs=last_runs,
         cadences=data.get("cadences", {}),
         overdue_thresholds=data.get("overdue_thresholds", {}),
+        scheduled_hours=data.get("scheduled_hours", {}),
+        last_git_push=last_git_push,
         content_stats=ContentStats(**data.get("content_stats", {})),
         convergence_targets=ConvergenceTargets(**data.get("convergence_targets", {})),
         progress=Progress(**data.get("progress", {})),
@@ -161,6 +176,8 @@ def save_state(state: EvolutionState, path: Path) -> None:
         "last_runs": last_runs,
         "cadences": state.cadences,
         "overdue_thresholds": state.overdue_thresholds,
+        "scheduled_hours": state.scheduled_hours,
+        "last_git_push": state.last_git_push.isoformat() if state.last_git_push else None,
         "content_stats": {
             "total_files": state.content_stats.total_files,
             "published_files": state.content_stats.published_files,
@@ -179,6 +196,7 @@ def save_state(state: EvolutionState, path: Path) -> None:
             "concepts_written": state.progress.concepts_written,
             "arguments_written": state.progress.arguments_written,
             "questions_written": state.progress.questions_written,
+            "voids_written": state.progress.voids_written,
             "research_notes": state.progress.research_notes,
             "reviews_completed": state.progress.reviews_completed,
         },
@@ -186,6 +204,7 @@ def save_state(state: EvolutionState, path: Path) -> None:
             "critical_issues": state.quality.critical_issues,
             "medium_issues": state.quality.medium_issues,
             "low_issues": state.quality.low_issues,
+            "orphaned_files": state.quality.orphaned_files,
         },
         "failed_tasks": state.failed_tasks,
         "recent_tasks": recent_tasks,

@@ -43,8 +43,12 @@ unfinishablemap/
 │   ├── research/       # AI research notes with sources
 │   ├── workflow/       # AI automation (todo queue, changelog, reviews)
 │   └── project/        # Project documentation
+├── archive/            # Archived content (preserves URLs for external links)
+│   ├── topics/         # Mirrors obsidian structure
+│   ├── concepts/
+│   └── ...             # Pages show archive notice linking to replacement
 ├── hugo/               # Hugo static site
-│   ├── content/        # Synced from Obsidian
+│   ├── content/        # Synced from Obsidian + archive
 │   ├── layouts/        # HTML templates
 │   └── data/           # Structured data (YAML)
 ├── tools/              # Python library modules

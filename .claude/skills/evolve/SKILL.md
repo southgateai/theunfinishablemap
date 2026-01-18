@@ -47,19 +47,20 @@ Read `obsidian/workflow/evolution-state.yaml` to get:
 
 For each maintenance task, check if overdue:
 
-| Task | Cadence | Inject when overdue by |
-|------|---------|------------------------|
-| validate-all | 1 day | 2 days |
-| pessimistic-review | 7 days | 3 days |
-| optimistic-review | 7 days | 3 days |
-| check-tenets | 30 days | 5 days |
-| check-links | 7 days | 3 days |
-| deep-review | 1 day | 2 days |
-| tune-system | 30 days | 45 days |
-| research-voids | 1 day | 2 days |
-| coalesce | 1 day | 3 days |
+| Task | Cadence | Inject when overdue by | Scheduled |
+|------|---------|------------------------|-----------|
+| validate-all | 24h | 48h | - |
+| pessimistic-review | 12h | 24h | - |
+| optimistic-review | 12h | 24h | - |
+| check-tenets | 48h | 96h | - |
+| check-links | 24h | 48h | - |
+| deep-review | 4h | 8h | - |
+| tune-system | 72h | 144h | - |
+| research-voids | 24h | 48h | - |
+| coalesce | 8h | 16h | - |
+| tweet-highlight | 24h | 48h | @07:00 UTC |
 
-Create synthetic tasks for overdue maintenance.
+Create synthetic tasks for overdue maintenance. Tasks with a scheduled time only become eligible at/after that hour each day.
 
 ### 3. Load and Score Tasks
 
@@ -69,7 +70,7 @@ Read `obsidian/workflow/todo.md` and score all tasks:
 SCORE = PRIORITY_BASE + STALENESS_BONUS + URGENCY_MOD - FAILURE_PENALTY
 
 PRIORITY_BASE: P0=400, P1=300, P2=200, P3=100
-STALENESS_BONUS: days_overdue * 20 (max 150) - for synthetic maintenance tasks
+STALENESS_BONUS: hours_overdue (max 150) - for synthetic maintenance tasks
 URGENCY_MOD: +50 critical issue, +30 medium issue, +20 has research
 FAILURE_PENALTY: -100 per failure, -500 at 3+ failures
 ```
@@ -99,6 +100,7 @@ For each selected task:
    - `/tune-system`
    - `/research-voids`
    - `/coalesce`
+   - `/tweet-highlight` (tweets most recent untweeted highlight)
 
 2. If queue task: invoke based on type
    - `expand-topic` → `/expand-topic [topic]`
