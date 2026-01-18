@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 22:30:00+00:00
+ai_modified: 2026-01-19 04:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md and decoherence.md with 2024-2025 experimental findings
-- **Type**: cross-review
-- **Notes**: Research completed in research/quantum-superposition-brain-consciousness-2026-01-18.md. Key updates: (1) 2024 epothilone B study showing microtubule-stabilizing drugs delay anesthetic unconsciousness. (2) 2024 tryptophan superradiance confirmation. (3) 2025 Wiest review in Neuroscience of Consciousness. (4) Revised coherence estimates (10-100 μs). (5) Fisher's Posner molecule hypothesis as alternative mechanism. Update the quantum-consciousness and decoherence pages with these recent findings.
-- **Source**: chain (from quantum-superposition-brain-consciousness-2026-01-18.md)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review attention.md considering meditation modes insights
 - **Type**: cross-review
 - **Notes**: The meditation-and-consciousness-modes.md article develops the FA/OM distinction with specific neural signatures. The attention.md page could integrate this evidence for how attention can be trained and modulated—supporting the interface hypothesis with empirical meditation research.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review quantum-consciousness.md and decoherence.md with 2024-2025 experimental findings
+- **Type**: cross-review
+- **Notes**: Research completed in research/quantum-superposition-brain-consciousness-2026-01-18.md. Key updates: (1) 2024 epothilone B study showing microtubule-stabilizing drugs delay anesthetic unconsciousness. (2) 2024 tryptophan superradiance confirmation. (3) 2025 Wiest review in Neuroscience of Consciousness. (4) Revised coherence estimates (10-100 μs). (5) Fisher's Posner molecule hypothesis as alternative mechanism. Update the quantum-consciousness and decoherence pages with these recent findings.
+- **Result**: Added Fisher's Posner molecule hypothesis section (nuclear spin quantum computing) and comprehensive protective mechanisms section (hydrophobic interior, Fröhlich coherence, nuclear spin isolation, ordered water/actin gel) to quantum-consciousness.md. Added revised coherence estimates table showing 7+ orders of magnitude improvement beyond Tegmark. Expanded 2024-2025 evidence including epothilone B study, tryptophan superradiance, Wiest 2025 review with 613 THz signature. Updated decoherence.md with 2024-2025 Experimental Developments subsection covering all recent neural-specific findings.
+- **Output**: Updated `concepts/quantum-consciousness.md`, `concepts/decoherence.md`
 
 ### ✓ 2026-01-18: Research consciousness and quantum superposition in the brain
 - **Type**: research-topic

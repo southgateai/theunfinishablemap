@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 00:15:00+00:00
+ai_modified: 2026-01-19 04:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ related_articles:
 - '[[tenets]]'
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
 - '[[quantum-biology]]'
+- '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 title: Decoherence and Quantum Biology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -57,7 +58,19 @@ In 2000, physicist Max Tegmark published an influential calculation claiming tha
 
 Hameroff and colleagues responded that Tegmark's calculation was based on an incorrect model. Tegmark assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances far larger than Orch OR actually proposes. When corrected, the calculated coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds.
 
-This debate remains unresolved empirically. No experiment has directly measured quantum coherence times in living neural tissue. But recent advances suggest the story is more complex than Tegmark's early calculation indicated.
+### 2024-2025 Experimental Developments
+
+Recent research has provided more direct evidence:
+
+**August 2024 epothilone B study**: Rats given microtubule-stabilising drugs took over a minute longer to fall unconscious under anaesthesia. If consciousness had nothing to do with microtubule quantum states, stabilising microtubules shouldn't affect consciousness. The study directly tested and confirmed the Orch OR prediction that microtubule integrity affects consciousness.
+
+**2024 tryptophan superradiance**: Researchers confirmed ultraviolet superradiance in mega-networks of tryptophan—an aromatic amino acid that forms part of tubulin. Superradiance is a collective quantum phenomenon where multiple emitters synchronise, demonstrating genuine quantum coherence at room temperature in biologically relevant molecules.
+
+**2025 simulation advances**: Computer modelling found that anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not. This frequency matches Fröhlich coherence predictions—a specific, testable signature that distinguishes quantum consciousness from classical alternatives.
+
+**Fisher's Posner molecule hypothesis**: Matthew Fisher (2015) proposed an entirely different mechanism: phosphorus nuclear spins in Posner molecules (Ca₉(PO₄)₆) could maintain coherence for ~10⁵ seconds—hours, not microseconds. Nuclear spins couple weakly to their environment, potentially bypassing the decoherence challenge entirely.
+
+This debate remains unresolved empirically—no experiment has directly measured quantum coherence times in living neural tissue. But the story is clearly more complex than Tegmark's early calculation indicated, and the burden of proof may be shifting.
 
 ## Quantum Biology: Biology Beating Decoherence
 
@@ -130,9 +143,11 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 
 ## References
 
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
-- Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
+- Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
-- Wiest, O. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, niaf011.
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+- Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+- Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
