@@ -3,7 +3,7 @@ title: "The Luck Objection to Libertarian Free Will"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T23:30:00+00:00
+ai_modified: 2026-01-19T00:00:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[retrocausality]]"
   - "[[interactionist-dualism]]"
+  - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
   - "[[luck-objection-libertarian-free-will-2026-01-17]]"
@@ -119,6 +120,25 @@ The [[mental-effort|phenomenology of effort]] supports the selection picture. If
 But choosing feels effortful. Sustaining attention requires ongoing engagement. William James documented that "sustained voluntary attention is a repetition of successive efforts." The felt cost of concentration corresponds to real causal engagement—consciousness working to hold preferred patterns in place via the [[quantum-consciousness#The Quantum Zeno Effect|quantum Zeno effect]].
 
 This phenomenology distinguishes selection from luck. Lucky events don't feel like achievements; selections do. The agent knows they're doing something, not merely observing random outcomes.
+
+### The Zombie Objection and Its Question-Begging Character
+
+A critic might object: "Phenomenology proves nothing. A [[philosophical-zombies|philosophical zombie]]—physically identical to you but lacking experience—would report the same 'felt effort' while having no actual phenomenology. Your introspective evidence could be misleading."
+
+This objection is question-begging against the site's framework. The site's [[tenets#^dualism|Dualism]] tenet already rejects that zombies are possible. If consciousness is irreducible to physical processes—as the site maintains—then beings physically identical to us cannot lack experience. The zombie scenario is not merely implausible; it is incoherent given dualist commitments.
+
+The dialectical situation:
+
+| Framework | Zombie Status | Phenomenology as Evidence |
+|-----------|---------------|---------------------------|
+| Physicalism | Conceivably possible | Phenomenology might be epiphenomenal |
+| Site's Dualism | Impossible | Phenomenology tracks real causal activity |
+
+If one accepts physicalism, the zombie objection has force—phenomenological reports might not track anything causally relevant. But the luck objection is *already* situated within the debate about libertarian free will, which the site defends from a dualist foundation. Invoking zombies against the phenomenology argument requires the objector to assume physicalism—the very view the site rejects.
+
+Put differently: the zombie objection says "your felt effort might not be real effort." The site's response is "we have independent reasons to hold that consciousness is real and causally efficacious (the arguments for dualism, the rejection of epiphenomenalism). Given those commitments, phenomenology *is* evidential." The objector who presses the zombie point is not engaging with the site's position but assuming its negation.
+
+This doesn't mean the phenomenology argument is circular. The site's dualism rests on independent considerations—the [[hard-problem-of-consciousness|hard problem]], the [[explanatory-gap|explanatory gap]], the [[knowledge-argument|knowledge argument]]. Those arguments establish that consciousness is irreducible. *Given* that foundation, phenomenological evidence about the nature of choice (effortful vs. passive) provides genuine data about how consciousness operates.
 
 ### Reasons-Guided Selection
 
