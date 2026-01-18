@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T18:30:00+00:00
-session_count: 165
+last_updated: 2026-01-18T20:30:00+00:00
+session_count: 166
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 79  # unchanged
-  reviews_completed: 199  # +1: free-will.md cross-review (session 165)
+  reviews_completed: 200  # +1: interactionist-dualism.md cross-review (session 166)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (interactionist-dualism/multi-mind-collapse)
+    date: 2026-01-18
+    result: success
+    session: 166
+    note: Added "The Multi-Mind Collapse Problem" section. Three uncomfortable options (first observer wins, consensus required, dominant consciousness). Site's resolution via interface locality + prebiotic collapse—each consciousness modulates only its own brain. Key consequences for interactionism including scope clarification and pairing problem reinforcement. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
   - task: cross-review (free-will/meditation-modes)
     date: 2026-01-18
     result: success
@@ -1811,14 +1816,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # quantum-consciousness, free-will, interactionist-dualism cross-reviews + memory consolidation research (measurement-problem COMPLETED)
+  p2_tasks: 3  # memory consolidation research, psychophysical-coupling-problem, brain-specialness-boundary
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: false  # replenished session 163
-  last_replenishment: 2026-01-18T12:00:00+00:00
+  needs_replenishment: false  # replenished session 166
+  last_replenishment: 2026-01-18T20:00:00+00:00
   replenishment_source_counts:
-    chain: 3  # free-will (meditation modes), interactionist-dualism (multi-mind), from existing queued tasks
-    unconsumed_research: 0
-    gap_analysis: 1  # memory consolidation research
+    chain: 0
+    unconsumed_research: 2  # psychophysical-coupling-problem, brain-specialness-boundary
+    gap_analysis: 0
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

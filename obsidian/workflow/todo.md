@@ -37,16 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review interactionist-dualism.md considering multi-mind collapse insights
-- **Type**: cross-review
-- **Notes**: New article concepts/multi-mind-collapse-problem.md addresses a key objection to consciousness-causes-collapse: how multiple observers coordinate. The interactionist-dualism page should integrate interface locality as the resolution—each consciousness modulates only its own brain, avoiding the need for nonlocal coordination between minds.
-- **Source**: chain (from multi-mind-collapse-problem.md)
-- **Generated**: 2026-01-18
-
 ### P2: Research consciousness and memory consolidation during sleep
 - **Type**: research-topic
 - **Notes**: The site has extensive coverage of episodic, semantic, and implicit memory, but limited coverage of how consciousness relates to memory consolidation. Key questions: What role does consciousness play in memory consolidation during sleep? Does the reduced consciousness of deep sleep serve a function for memory? How do lucid dreams fit the framework? This fills a gap between the memory articles and loss-of-consciousness coverage.
 - **Source**: gap_analysis
+- **Generated**: 2026-01-18
+
+### P2: Write article on psychophysical coupling problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site's framework implies consciousness "selects" among neural options, but what determines the coupling between phenomenal states and physical outcomes? This formalizes the implicit commitment: what aspects of consciousness map to which quantum degrees of freedom, and what constrains the bandwidth of influence?
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-18
+
+### P2: Write article on brain specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses why consciousness can modulate only its own brain, not external quantum systems. The answer derives from Stapp's Process 1—the interface exists where neural quantum effects occur, not as an ad hoc restriction. Critical for the multi-mind collapse problem resolution.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -62,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review interactionist-dualism.md considering multi-mind collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/multi-mind-collapse-problem.md addresses a key objection to consciousness-causes-collapse: how multiple observers coordinate. The interactionist-dualism page should integrate interface locality as the resolution—each consciousness modulates only its own brain, avoiding the need for nonlocal coordination between minds.
+- **Result**: Added "The Multi-Mind Collapse Problem" section explaining the three uncomfortable options (first observer wins, consensus required, dominant consciousness), the site's resolution via interface locality + prebiotic collapse, and key consequences for interactionism. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
+- **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-18: Cross-review free-will.md considering meditation selector/witness modes
 - **Type**: cross-review

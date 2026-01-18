@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 16:00:00+00:00
+ai_modified: 2026-01-18 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -21,8 +21,11 @@ concepts:
 - '[[binding-problem]]'
 - '[[causal-closure]]'
 - '[[arguments-for-dualism]]'
+- '[[multi-mind-collapse-problem]]'
+- '[[interface-locality]]'
+- '[[prebiotic-collapse]]'
 created: 2026-01-14
-date: &id001 2026-01-17
+date: &id001 2026-01-18
 draft: false
 human_modified: null
 last_curated: null
@@ -139,6 +142,28 @@ For physical causation, spatial relations provide the answer. The billiard ball 
 This response fits naturally with the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
 **Alternative responses**: Andrew Bailey, Joshua Rasmussen, and Luke Van Horn argue that haecceities (primitive "thisness") could ground pairing relations without spatial location. If haecceities exist for physical objects too, the pairing problem generalizes to all causation and isn't specifically a problem for dualism.
+
+## The Multi-Mind Collapse Problem
+
+A related but distinct challenge: if consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) sharpens this: when Alice's consciousness selects among her neural patterns, and Bob's consciousness selects among his, how are these selections reconciled?
+
+Three uncomfortable options arise for naive consciousness-causes-collapse:
+
+1. **First observer wins**—but relativity has no preferred frame, so "first" is observer-relative for spacelike-separated events
+2. **Consensus required**—but this requires either nonlocal coordination or indefinite superposition while awaiting agreement
+3. **Dominant consciousness**—but this requires an arbitrary measure of consciousness intensity
+
+The site's resolution combines [interface-locality](/concepts/interface-locality/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain, modulating collapse locally. External systems collapse through objective physical processes. No coordination is needed because each mind operates on its own substrate.
+
+This resolution emerges naturally from the mechanism itself. Attention—the proposed interface—is neurally implemented. You cannot attend to distant quantum systems the way you attend to your own neural states. The quantum Zeno effect, operating through repeated observation, requires the observer-system coupling that only exists within one's own brain.
+
+Key consequences for interactionism:
+
+- **Intersubjective agreement**: When Alice and Bob both observe a photon, the photon's position was already determined by objective collapse. Their brain states then represent this shared physical fact, each modulated by their own consciousness. Agreement requires no coordination.
+- **Scope clarification**: The Minimal Quantum Interaction tenet is minimal in two senses: mechanism (biasing quantum outcomes rather than injecting energy) and scope (one brain rather than the universe).
+- **Pairing problem reinforced**: Interface locality provides another answer to "what pairs this mind with this body"—the very mechanism of causal influence is spatially bounded by neural embodiment.
+
+The multi-mind resolution transforms a potential objection into further specification of the framework. Classical consciousness-causes-collapse theories (Wigner, von Neumann) left the multi-observer case unclear. Interactionism with interface locality handles it cleanly: consciousness causally matters where it interfaces—namely, its own brain.
 
 ## Quantum Interactionism
 
@@ -267,6 +292,9 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
 - [binding-problem](/concepts/binding-problem/) — Why unity is a problem for physicalism
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
+- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How multiple observers' quantum selections are reconciled
+- [interface-locality](/concepts/interface-locality/) — Why consciousness can only select within its own brain
+- [prebiotic-collapse](/concepts/prebiotic-collapse/) — Objective collapse mechanisms preceding consciousness
 - [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/) — Detailed research notes
 - [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research on pairing problem, conservation laws, and other objections
 
