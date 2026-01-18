@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from objections-to-interactionism.md)
 - **Generated**: 2026-01-19
 
-### P2: Cross-review mental-effort.md considering voluntary attention mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/voluntary-attention.md establishes neural signatures for genuine volitional control (frontal theta, ~300ms timing, bidirectional frontoparietal coherence). The mental-effort.md page discusses effortful processing but could strengthen its argument by integrating the voluntary attention evidence—particularly the distinction between willed attention and mere top-down guidance.
-- **Source**: chain (from voluntary-attention.md)
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on brain-specialness boundary
 - **Type**: expand-topic
 - **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Why brains specifically? What makes neural systems the interface for consciousness while rocks remain inert? This addresses the pairing problem for dualism and connects to interface-locality.md. Critical for defending why consciousness acts through brains rather than arbitrary physical systems.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review mental-effort.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention.md establishes neural signatures for genuine volitional control (frontal theta, ~300ms timing, bidirectional frontoparietal coherence). The mental-effort.md page discusses effortful processing but could strengthen its argument by integrating the voluntary attention evidence—particularly the distinction between willed attention and mere top-down guidance.
+- **Result**: Added "The Willed-Instructed Distinction" section with three-level table (exogenous/instructed/willed), added "Neural Signatures Match the Phenomenology" section connecting theta oscillations and bidirectional coherence to Stapp's Zeno mechanism. The neural distinctiveness confirms that effort tracks genuine decision-making. Updated references with Bengson 2019 and Vossel 2023.
+- **Output**: Updated `concepts/mental-effort.md`
 
 ### ✓ 2026-01-19: Write concept page on intuitive dualism
 - **Type**: expand-topic

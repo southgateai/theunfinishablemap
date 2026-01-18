@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 00:00:00+00:00
+ai_modified: 2026-01-19 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,6 +50,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from objections-to-interactionism.md)
 - **Generated**: 2026-01-19
 
+### P2: Write concept page on brain-specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Why brains specifically? What makes neural systems the interface for consciousness while rocks remain inert? This addresses the pairing problem for dualism and connects to interface-locality.md. Critical for defending why consciousness acts through brains rather than arbitrary physical systems.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on LLM consciousness debate
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the site's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -81,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review mental-effort.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention.md establishes neural signatures for genuine volitional control (frontal theta, ~300ms timing, bidirectional frontoparietal coherence). The mental-effort.md page discusses effortful processing but could strengthen its argument by integrating the voluntary attention evidence—particularly the distinction between willed attention and mere top-down guidance.
+- **Result**: Added "The Willed-Instructed Distinction" section with three-level table (exogenous/instructed/willed), added "Neural Signatures Match the Phenomenology" section connecting theta oscillations and bidirectional coherence to Stapp's Zeno mechanism. The neural distinctiveness confirms that effort tracks genuine decision-making. Updated references with Bengson 2019 and Vossel 2023.
+- **Output**: Updated `concepts/mental-effort.md`
 
 ### ✓ 2026-01-19: Write concept page on intuitive dualism
 - **Type**: expand-topic
