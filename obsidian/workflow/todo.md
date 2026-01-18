@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T21:30:00+00:00
+ai_modified: 2026-01-19T22:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
+### P2: Write concept page on objections to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Comprehensive treatment of 5 major objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses. The interactionist-dualism.md page mentions objections briefly but this material warrants dedicated treatment showing how the site's framework addresses each challenge.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -80,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review ethics-of-consciousness.md considering emotional consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/emotional-consciousness.md covers valence, moral status based on emotional capacity, and valence sentientism vs broad sentientism debate. The ethics-of-consciousness.md topic page should integrate these insights—particularly valence as grounds for moral consideration and the Panksepp vs LeDoux debate's implications for which beings have morally relevant experiences.
+- **Result**: Enhanced ethics-of-consciousness.md with: (1) valence sentientism vs broad sentientism distinction with comparison table, (2) Panksepp vs LeDoux debate implications for animal moral status, (3) pain asymbolia evidence for suffering-nociception distinction, (4) added emotional-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/ethics-of-consciousness.md`
 
 ### ✓ 2026-01-19: Write concept page on emotional consciousness
 - **Type**: expand-topic
