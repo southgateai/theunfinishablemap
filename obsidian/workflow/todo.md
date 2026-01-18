@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Strengthen luck-objection phenomenology argument
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-18 found the phenomenology-based response vulnerable to zombie objection. Engage with the dialectic: site's dualism already rejects zombies, so zombie-based objections are question-begging from site perspective. Make this explicit.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-18
-
 ### P2: Write concept page on downward causation
 - **Type**: expand-topic
 - **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. The site has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Strengthen luck-objection phenomenology argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-18 found the phenomenology-based response vulnerable to zombie objection. Engage with the dialectic: site's dualism already rejects zombies, so zombie-based objections are question-begging from site perspective. Make this explicit.
+- **Result**: Added "The Zombie Objection and Its Question-Begging Character" subsection explaining that zombie-based objections presuppose physicalism, which the site's dualism rejects. Includes dialectical table showing how framework affects phenomenology's evidential status. Links to philosophical-zombies.md and relevant tenet pages.
+- **Output**: Updated `concepts/luck-objection.md`
 
 ### ✓ 2026-01-19: Research emotional consciousness and valence
 - **Type**: research-topic
