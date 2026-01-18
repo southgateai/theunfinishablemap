@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 21:40:00+00:00
+ai_modified: 2026-01-19 00:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write concept page on voluntary attention
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Endogenous (willed) vs exogenous (stimulus-driven) attention distinction is central to site's quantum Zeno framework. The attention.md page covers attention broadly but voluntary control mechanisms deserve dedicated treatment—this is where consciousness "does work" in the brain.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on objections to interactionist dualism
 - **Type**: expand-topic
 - **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Comprehensive treatment of 5 major objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses. The interactionist-dualism.md page mentions objections briefly but this material warrants dedicated treatment showing how the site's framework addresses each challenge.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review hard-problem-of-consciousness.md considering witness consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/witness-consciousness.md provides phenomenological evidence for dualism—the subject-object structure revealed by witness awareness. The hard-problem-of-consciousness.md topic page could integrate this as additional support: if consciousness can observe thoughts as objects, this demonstrates the irreducibility of the observing subject.
+- **Source**: chain (from witness-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on intuitive dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research shows humans process minds and bodies through distinct cognitive systems from infancy. Developmental evidence for early-emerging dualist intuitions. Relevant to Occam's Razor Has Limits tenet—dualism may be cognitively natural, not a folk error to be corrected.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
@@ -81,6 +87,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page on voluntary attention
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Endogenous (willed) vs exogenous (stimulus-driven) attention distinction is central to site's quantum Zeno framework. The attention.md page covers attention broadly but voluntary control mechanisms deserve dedicated treatment—this is where consciousness "does work" in the brain.
+- **Result**: Created ~2000 word concept page covering: endogenous vs exogenous distinction, willed attention as distinct from mere top-down control (citing Bengson 2019, Vossel 2023), neural signatures (frontal theta oscillations, bidirectional frontoparietal coherence, additional frontal recruitment), candidate neural sites (frontoparietal networks, salience network, thalamus), stochastic pre-state challenge with site's response, temporal profile and quantum Zeno connection. Updated cross-references in attention.md, attention-as-interface.md, mental-effort.md, and agent-causation.md.
+- **Output**: Created `concepts/voluntary-attention.md`, updated 4 related articles
+
+### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md considering witness consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/witness-consciousness.md covers sakshi in Advaita Vedanta, Buddhist perspectives on witness, and Krishnamurti's choiceless awareness. The eastern-philosophy-consciousness.md topic page should integrate these insights—particularly the witness tradition's relevance to the site's dualist framework and the subject-object structure of experience.
+- **Result**: Added new "The Witness Tradition" subsection after the "No-Self (Anattā)" section, explaining how both Hindu and Buddhist traditions discuss sakshi (witness consciousness) despite Buddhism's rejection of permanent self. Clarified that Buddhism denies eternal soul-substance but not the phenomenal structure of awareness. Added witness-consciousness, self-and-consciousness, and meditation-and-consciousness-modes to concepts. Added witness-consciousness and meditation-and-consciousness-modes to Further Reading.
+- **Output**: Updated `topics/eastern-philosophy-consciousness.md`
 
 ### ✓ 2026-01-18: Write concept page on witness consciousness
 - **Type**: expand-topic

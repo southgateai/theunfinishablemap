@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-18 22:00:00+00:00
+ai_modified: 2026-01-19 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
+- '[[voluntary-attention]]'
 - '[[implicit-memory]]'
 - '[[attention-as-interface]]'
 - '[[luck-objection]]'

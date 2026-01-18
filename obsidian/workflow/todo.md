@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T23:00:00+00:00
+ai_modified: 2026-01-19T00:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write concept page on voluntary attention
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Endogenous (willed) vs exogenous (stimulus-driven) attention distinction is central to site's quantum Zeno framework. The attention.md page covers attention broadly but voluntary control mechanisms deserve dedicated treatment—this is where consciousness "does work" in the brain.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
 
 ### P2: Write concept page on objections to interactionist dualism
 - **Type**: expand-topic
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page on voluntary attention
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Endogenous (willed) vs exogenous (stimulus-driven) attention distinction is central to site's quantum Zeno framework. The attention.md page covers attention broadly but voluntary control mechanisms deserve dedicated treatment—this is where consciousness "does work" in the brain.
+- **Result**: Created ~2000 word concept page covering: endogenous vs exogenous distinction, willed attention as distinct from mere top-down control (citing Bengson 2019, Vossel 2023), neural signatures (frontal theta oscillations, bidirectional frontoparietal coherence, additional frontal recruitment), candidate neural sites (frontoparietal networks, salience network, thalamus), stochastic pre-state challenge with site's response, temporal profile and quantum Zeno connection. Updated cross-references in attention.md, attention-as-interface.md, mental-effort.md, and agent-causation.md.
+- **Output**: Created `concepts/voluntary-attention.md`, updated 4 related articles
 
 ### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md considering witness consciousness insights
 - **Type**: cross-review

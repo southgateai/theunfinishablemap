@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 21:00:00+00:00
+ai_modified: 2026-01-19 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
 - '[[attention]]'
+- '[[voluntary-attention]]'
 - '[[attention-as-interface]]'
 - '[[specious-present]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -250,6 +251,7 @@ The site doesn't commit to Stapp's specific proposal over other quantum consciou
 ## Further Reading
 
 - [attention](/concepts/attention/) — The attention-consciousness dissociation and why it matters for effort
+- [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures of genuine choice
 - [attention-as-interface](/concepts/attention-as-interface/) — Formalizes attention as the interface layer between consciousness and neural systems
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness (selection vs witnessing)
 - [implicit-memory](/concepts/implicit-memory/) — Skill acquisition and the Dreyfus model of automaticity

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 12:00:00+00:00
+ai_modified: 2026-01-19 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[attention-schema-theory]]'
 - '[[attention-as-interface]]'
 - '[[meditation-and-consciousness-modes]]'
+- '[[voluntary-attention]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -216,6 +217,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
+- [voluntary-attention](/concepts/voluntary-attention/) — The endogenous/willed attention distinction and its neural signatures
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation as evidence for active selection and passive witnessing modes
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism

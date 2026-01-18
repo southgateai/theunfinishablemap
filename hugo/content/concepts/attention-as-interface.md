@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-18 20:00:00+00:00
+ai_modified: 2026-01-19 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention]]'
+- '[[voluntary-attention]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[consciousness-selecting-neural-patterns]]'
@@ -305,6 +306,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 ## Further Reading
 
 - [attention](/concepts/attention/) — General treatment of attention-consciousness relationship
+- [voluntary-attention](/concepts/voluntary-attention/) — The endogenous/willed distinction and neural signatures
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — What consciousness can and cannot select
