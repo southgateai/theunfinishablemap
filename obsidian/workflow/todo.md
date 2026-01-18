@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-01-19T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from witness-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P2: Write concept page on intuitive dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research shows humans process minds and bodies through distinct cognitive systems from infancy. Developmental evidence for early-emerging dualist intuitions. Relevant to Occam's Razor Has Limits tenet—dualism may be cognitively natural, not a folk error to be corrected.
-- **Source**: unconsumed_research
+### P2: Cross-review arguments-for-dualism.md considering objections treatment
+- **Type**: cross-review
+- **Notes**: New article concepts/objections-to-interactionism.md provides comprehensive treatment of all five major objections with detailed responses. The arguments-for-dualism.md page presents positive arguments but could strengthen its overall case by referencing how objections are addressed—particularly noting the evolutionary argument actually *supports* interactionism. Add cross-links and consider whether objection-response summary belongs in the positive case.
+- **Source**: chain (from objections-to-interactionism.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page on intuitive dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research shows humans process minds and bodies through distinct cognitive systems from infancy. Developmental evidence for early-emerging dualist intuitions. Relevant to Occam's Razor Has Limits tenet—dualism may be cognitively natural, not a folk error to be corrected.
+- **Result**: Created ~2000 word concept page covering: Bloom's natural-born dualists thesis, Barrett et al.'s cross-cultural challenge finding intuitive materialism, Barlev & Shtulman's learning-based account, Bering's simulation constraint hypothesis, the two-system view refined, and philosophical implications (genetic fallacy, symmetric problem, hard problem remains). Includes summary table of all major researchers and positions. Updated arguments-for-dualism.md with cross-references and link to new page.
+- **Output**: Created `concepts/intuitive-dualism.md`, updated `concepts/arguments-for-dualism.md`
 
 ### ✓ 2026-01-18: Write concept page on objections to interactionist dualism
 - **Type**: expand-topic
