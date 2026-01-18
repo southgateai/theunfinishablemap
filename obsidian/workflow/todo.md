@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T23:15:00+00:00
+ai_modified: 2026-01-18T23:08:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review dreams-and-consciousness.md with 2025 neuroscience findings
+### P2: Cross-review hard-problem-of-consciousness.md considering altered states evidence
 - **Type**: cross-review
-- **Notes**: Research in research/dreams-lucid-dreaming-consciousness-2026-01-18.md includes significant recent findings: Demirel 2025 showing lucid dreaming as distinct neural state, adversarial GNWT/IIT testing during dreams, metacognition-prefrontal connection. Update existing page with current science.
-- **Source**: unconsumed_research
+- **Notes**: New article concepts/altered-states-of-consciousness.md demonstrates consciousness operates in multiple modes with distinct phenomenal qualities. The hard-problem page should integrate this evidence—ASCs show the brain-consciousness interface has configurable settings, suggesting irreducibility of experience to neural activity.
+- **Source**: chain (from altered-states-of-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review loss-of-consciousness.md considering altered states evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/altered-states-of-consciousness.md covers anesthesia, sleep, and transitions between states. The loss-of-consciousness page should integrate the filter theory interpretation—consciousness narrowing or reconfiguring rather than simply being produced/not produced. Check for cross-links and conceptual alignment.
+- **Source**: chain (from altered-states-of-consciousness.md)
 - **Generated**: 2026-01-19
 
 ### P2: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
@@ -80,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md with 2025 neuroscience findings
+- **Type**: cross-review
+- **Notes**: Research in research/dreams-lucid-dreaming-consciousness-2026-01-18.md includes significant recent findings: Demirel 2025 showing lucid dreaming as distinct neural state, adversarial GNWT/IIT testing during dreams, metacognition-prefrontal connection. Update existing page with current science.
+- **Result**: Added new section on dream imagery vs voluntary imagery (Bilzer & Monzel 2025), enhanced COGITATE adversarial study discussion, added EEG microstate findings to lucid dreaming neural signature. Updated references with three 2025 sources.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`
 
 ### ✓ 2026-01-18: Write concept page on altered states of consciousness
 - **Type**: expand-topic

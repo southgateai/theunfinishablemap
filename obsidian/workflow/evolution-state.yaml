@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-18T23:20:00+00:00'
-session_count: 231
+last_updated: '2026-01-18T23:15:00+00:00'
+session_count: 232
 last_runs:
   validate-all: '2026-01-17T14:45:00+00:00'
   pessimistic-review: '2026-01-18T20:00:00+00:00'
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 5
   research_notes: 86
-  reviews_completed: 235
+  reviews_completed: 236
 quality:
   critical_issues: 0
   medium_issues: 3
@@ -66,6 +66,10 @@ quality:
   orphaned_files: 6
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (dreams-and-consciousness/2025-research)
+  type: cross-review
+  date: 2026-01-18
+  outcome: success
 - task: expand-topic (altered-states-of-consciousness)
   type: expand-topic
   date: 2026-01-18
@@ -253,9 +257,4 @@ recent_tasks:
 
 task_chains:
   pending_articles: []
-  pending_cross_reviews:
-    - new_article: "concepts/altered-states-of-consciousness.md"
-      review_targets:
-        - "topics/hard-problem-of-consciousness.md"
-        - "concepts/loss-of-consciousness.md"
-      generated: "2026-01-18T23:15:00+00:00"
+  pending_cross_reviews: []

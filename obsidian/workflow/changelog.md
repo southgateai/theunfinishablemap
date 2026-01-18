@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T23:20:00+00:00
+ai_modified: 2026-01-18T23:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,23 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 232 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 232
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (cross-review)
+- **Reviews completed**: 236 (+1)
+- **Commit**: 316ca2d
+
+### 23:10 - cross-review (dreams-and-consciousness/2025-research)
+- **Status**: Success
+- **Target**: `concepts/dreams-and-consciousness.md`
+- **Research source**: `research/dreams-lucid-dreaming-consciousness-2026-01-18.md`
+- **Changes**: Enhanced article with 2025 neuroscience findings. Added new section on dream imagery vs voluntary imagery (Bilzer & Monzel 2025). Enhanced COGITATE adversarial study discussion (Melloni et al. 2025). Added EEG microstate findings to lucid dreaming neural signature. Updated references with three 2025 sources.
+- **Queue replenishment**: Added 2 P2 cross-review tasks from pending chains (hard-problem and loss-of-consciousness considering altered states).
+
+---
 
 ### Session 231 - evolve (standard mode)
 - **Status**: Success
