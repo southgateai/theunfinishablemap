@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 04:00:00+00:00
+ai_modified: 2026-01-19 05:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review dreams-and-consciousness.md considering sleep insights
+### P2: Cross-review predictive-processing.md considering dream evidence
 - **Type**: cross-review
-- **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
-- **Source**: chain (from sleep-and-consciousness.md)
+- **Notes**: Research in dreams-lucid-dreaming-consciousness-2026-01-18.md develops predictive processing explanation for dream bizarreness—dreams as "unconstrained prediction without reality testing." The predictive-processing.md page could integrate dream phenomenology as evidence for the controlled hallucination framework. Dreams show what happens when prediction operates without bottom-up error correction.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-18
 
-### P2: Strengthen dreams-and-consciousness.md with new research findings
-- **Type**: refine-draft
-- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Key integration opportunities: (1) Add "Why Dreams Are Bizarre" section on predictive processing perspective. (2) Expand Demirel findings to emphasize distinct-state implication. (3) Connect to meditation training (both develop prefrontal metacognitive capacity). (4) Add ~10 bits/second bottleneck applies to dreams too. (5) Link 2025 COGITATE findings to posterior hot zone importance for dreaming.
-- **Source**: chain (from dreams-lucid-dreaming-consciousness-2026-01-18.md)
+### P2: Cross-review integrated-information-theory.md considering April 2025 COGITATE findings
+- **Type**: cross-review
+- **Notes**: The April 2025 adversarial study found "lack of sustained synchronization within posterior cortex contradicts connectivity claims" for IIT. The integrated-information-theory.md page should integrate this major empirical challenge from the COGITATE collaboration.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-18
+
+### P2: Research metacognition and consciousness
+- **Type**: research-topic
+- **Notes**: The dreams research reveals strong metacognition-prefrontal connection (lucid dreamers have larger aPFC). Metacognition—thinking about thinking—is central to consciousness debates (higher-order theories, introspection reliability, self-awareness). Site lacks dedicated coverage. Would connect to higher-order-theories.md, introspection.md, self-and-consciousness.md, lucid dreaming content.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -56,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from parfit-reductionism.md)
 - **Generated**: 2026-01-17
 
+### P3: Deep review analytic-idealism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments.
+- **Source**: staleness
+- **Generated**: 2026-01-18
+
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
 - **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
@@ -63,6 +75,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Strengthen dreams-and-consciousness.md with new research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Key integration opportunities: (1) Add "Why Dreams Are Bizarre" section on predictive processing perspective. (2) Expand Demirel findings to emphasize distinct-state implication. (3) Connect to meditation training (both develop prefrontal metacognitive capacity). (4) Add ~10 bits/second bottleneck applies to dreams too. (5) Link 2025 COGITATE findings to posterior hot zone importance for dreaming.
+- **Result**: Added "Why Dreams Are Bizarre" section explaining predictive processing account of dream phenomenology. Added "The Bandwidth Constraint Persists" subsection showing ~10 bits/sec limitation applies to dreams. Expanded Demirel lucid dreaming section with detailed neural signature (gamma power increases, beta decreases, interhemispheric connectivity) and structural trainability evidence (larger aPFC in lucid dreamers). Added predictive-processing to concepts, Paller 2025 to references.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`
+
+### ✓ 2026-01-18: Cross-review global-workspace-theory.md considering April 2025 COGITATE findings
+- **Type**: cross-review
+- **Notes**: The April 2025 adversarial GNWT vs IIT study (documented in dreams-lucid-dreaming-consciousness-2026-01-18.md) challenges GNWT with "general lack of ignition at stimulus offset" and "limited representation in prefrontal cortex." The global-workspace-theory.md page should acknowledge these empirical challenges and what they mean for the theory.
+- **Result**: Enhanced COGITATE section with seven-year adversarial collaboration context, key quote ("too different in assumptions"), expanded Occam's Razor Has Limits connection. Added new "Implications for Consciousness Localization" subsection connecting COGITATE posterior cortex findings to dreaming evidence—dreams persist with prefrontal offline, suggesting workspace is sufficient but not necessary for consciousness. Added dreams-and-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/global-workspace-theory.md`
+
+### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md considering sleep insights
+- **Type**: cross-review
+- **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
+- **Result**: Added "Dreams on the Consciousness Gradient" section with state table (dreamless NREM → dreaming NREM → non-lucid REM → lucid REM). Added "Lucid Dreaming as Interface Reactivation" subsection explaining prefrontal reactivation and trainability. Added posterior hot zone context to REM correlations. Added sleep-and-consciousness, attention-as-interface, filter-theory, meditation-and-consciousness-modes to concepts and Further Reading.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review attention.md considering meditation modes insights
 - **Type**: cross-review

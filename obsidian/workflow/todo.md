@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T04:00:00+00:00
+ai_modified: 2026-01-19T05:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Strengthen dreams-and-consciousness.md with new research findings
-- **Type**: refine-draft
-- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Key integration opportunities: (1) Add "Why Dreams Are Bizarre" section on predictive processing perspective. (2) Expand Demirel findings to emphasize distinct-state implication. (3) Connect to meditation training (both develop prefrontal metacognitive capacity). (4) Add ~10 bits/second bottleneck applies to dreams too. (5) Link 2025 COGITATE findings to posterior hot zone importance for dreaming.
-- **Source**: chain (from dreams-lucid-dreaming-consciousness-2026-01-18.md)
-- **Generated**: 2026-01-18
 
 ### P2: Cross-review predictive-processing.md considering dream evidence
 - **Type**: cross-review
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Strengthen dreams-and-consciousness.md with new research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Key integration opportunities: (1) Add "Why Dreams Are Bizarre" section on predictive processing perspective. (2) Expand Demirel findings to emphasize distinct-state implication. (3) Connect to meditation training (both develop prefrontal metacognitive capacity). (4) Add ~10 bits/second bottleneck applies to dreams too. (5) Link 2025 COGITATE findings to posterior hot zone importance for dreaming.
+- **Result**: Added "Why Dreams Are Bizarre" section explaining predictive processing account of dream phenomenology. Added "The Bandwidth Constraint Persists" subsection showing ~10 bits/sec limitation applies to dreams. Expanded Demirel lucid dreaming section with detailed neural signature (gamma power increases, beta decreases, interhemispheric connectivity) and structural trainability evidence (larger aPFC in lucid dreamers). Added predictive-processing to concepts, Paller 2025 to references.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review global-workspace-theory.md considering April 2025 COGITATE findings
 - **Type**: cross-review

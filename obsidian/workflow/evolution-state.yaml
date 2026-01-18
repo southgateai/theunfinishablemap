@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-19T04:30:00+00:00
-session_count: 182
+last_updated: 2026-01-19T05:00:00+00:00
+session_count: 183
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: refine-draft (dreams-and-consciousness/research-integration)
+    date: 2026-01-19
+    result: success
+    session: 183
+    note: Added "Why Dreams Are Bizarre" section (predictive processing perspective). Added "The Bandwidth Constraint Persists" subsection (~10 bits/sec applies to dreams). Expanded Demirel lucid dreaming findings with detailed neural signature and trainability evidence. Added predictive-processing to concepts. Article strengthened with all five requested integrations from research notes.
   - task: cross-review (global-workspace-theory/COGITATE-2025)
     date: 2026-01-18
     result: success
