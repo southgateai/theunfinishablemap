@@ -3,7 +3,7 @@ title: "Self and Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-17T14:30:00+00:00
+ai_modified: 2026-01-18T22:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[mind-brain-separation]]"
   - "[[autonoetic-consciousness]]"
   - "[[temporal-consciousness]]"
+  - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
@@ -83,6 +84,47 @@ This timing aligns with the emergence of extended self-awareness more broadly. C
 Buddhist meditation traditions aim to see through constructed selfhood. What they observe at fine temporal scales—*khanika*, the rapid arising and passing of experience—may be the minimal self moment by moment, stripped of autonoetic elaboration. Advanced practitioners report that when mental time travel ceases (neither remembering nor anticipating), only the bare minimal self remains: awareness present in this moment, without extension into past or future.
 
 This contemplative phenomenology supports the layered picture: the minimal self persists in every moment; autonoetic consciousness extends this self through time; narrative identity constructs meaning from the temporal extension. Meditation can suspend the outer layers while revealing the innermost—suggesting the layers are genuinely distinct rather than merely aspects of a single phenomenon.
+
+## Metacognition and the Self: A Crucial Distinction
+
+Self-reflection—the capacity to think about one's own mental states—seems intimately connected to selfhood. But [[metacognition]] and the minimal self must be carefully distinguished. Metacognition is a cognitive skill that monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor.
+
+### The Dissociation Evidence
+
+Higher-Order Thought theories propose that a mental state becomes conscious when targeted by a metacognitive representation. If true, metacognition would *constitute* the self that experiences. But empirical evidence shows metacognition and consciousness can come apart:
+
+- **Blindsight**: Visual information guides behavior without metacognitive access—patients may have some phenomenal experience they cannot monitor
+- **Blind insight**: Metacognitive accuracy (knowing one doesn't know) without conscious access to the information grounding that judgment
+
+These dissociations suggest the minimal self—basic for-me-ness—is more fundamental than metacognitive self-monitoring. You can be conscious (have a minimal self) without being able to monitor that consciousness. And you can have metacognitive discrimination without conscious awareness of what's being discriminated.
+
+### Three Layers of Selfhood
+
+This suggests a refined picture of self-layers:
+
+| Layer | What It Is | How It Relates to Consciousness |
+|-------|-----------|--------------------------------|
+| Minimal self | Pre-reflective for-me-ness | *Is* the form consciousness takes |
+| Metacognitive self | Capacity to monitor one's mental states | Cognitive tool consciousness *enables* |
+| Narrative self | Autobiographical story of who one is | Construction using autonoetic and metacognitive capacities |
+
+The minimal self cannot be absent while consciousness is present—it *is* the first-person character of experience. The metacognitive self can be impaired while consciousness persists (blindsight-type cases) or operate without full conscious access (blind insight). The narrative self is built from materials provided by the other two layers.
+
+### Self-Awareness vs. Phenomenal Selfhood
+
+The distinction matters for understanding what "self-awareness" means. When we say someone is "self-aware," we might mean:
+
+1. **Phenomenally self-present**: Having experiences with first-person character (minimal self—present in all conscious beings)
+2. **Metacognitively self-monitoring**: Able to reflect on one's mental states (metacognitive self—trainable cognitive skill)
+3. **Autobiographically self-knowing**: Having a narrative sense of one's identity (narrative self—culturally shaped construction)
+
+A newborn has (1) but not (2) or (3). Advanced meditators develop exceptional (2) while sometimes reporting dissolution of (3). Only (1) is essential to consciousness itself; (2) and (3) are cognitive achievements consciousness enables.
+
+This explains why introspective training improves self-knowledge without making us "more conscious." Meditation develops metacognitive accuracy—the skill of monitoring mental states—not the phenomenal presence that was there all along. The minimal self is the canvas; metacognition learns to see what's painted on it.
+
+### Implications for Metzinger's Self-Model
+
+The metacognition-consciousness distinction bears on Metzinger's analysis below. His "phenomenal self-model" includes metacognitive features—the sense of ownership, the feeling of being a continuous person. But if metacognition is a cognitive capacity operating *on* conscious content rather than constituting it, then the PSM is better understood as the brain's self-modeling interface through which consciousness operates, not the source of first-person experience.
 
 ## Metzinger's Challenge
 
@@ -172,6 +214,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 ## Further Reading
 
+- [[metacognition]] — The cognitive capacity to monitor one's own mental states
 - [[autonoetic-consciousness]] — Mental time travel and the temporally extended self
 - [[personal-identity]] — How the self persists over time
 - [[temporal-consciousness]] — The specious present and temporal structure of experience
