@@ -3,7 +3,7 @@ title: "Mental Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-16T00:30:00+00:00
+ai_modified: 2026-01-18T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[emergence]]"
   - "[[quantum-consciousness]]"
   - "[[agent-causation]]"
+  - "[[downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/epiphenomenalism]]"
@@ -166,6 +167,7 @@ The site affirms mental causation because denying it undermines everything we th
 
 - [[arguments/epiphenomenalism]] — The cumulative case against epiphenomenalism (five arguments)
 - [[causal-closure]] — The principle mental causation challenges
+- [[downward-causation]] — How higher-level properties influence lower-level processes
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism

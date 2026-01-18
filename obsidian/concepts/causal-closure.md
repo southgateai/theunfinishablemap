@@ -3,7 +3,7 @@ title: "Causal Closure of the Physical"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T13:30:00+00:00
+ai_modified: 2026-01-18T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[emergence]]"
   - "[[mental-causation]]"
+  - "[[downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -152,6 +153,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 ## Further Reading
 
 - [[mental-causation]] — The philosophical problem causal closure creates
+- [[downward-causation]] — Higher-level causation that closure threatens
 - [[emergence]] — The emergentist response to causal closure
 - [[interactionist-dualism]] — The position that mental causation enables
 - [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction

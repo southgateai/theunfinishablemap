@@ -3,7 +3,7 @@ title: "Emergence"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T23:15:00+00:00
+ai_modified: 2026-01-18T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[materialism]]"
   - "[[panpsychism]]"
   - "[[quantum-consciousness]]"
+  - "[[downward-causation]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -144,6 +145,7 @@ The site's framework can be understood as *emergentist dualism*—consciousness 
 
 - [[interactionist-dualism]] — The site's framework as strong emergentism with mechanism
 - [[causal-closure]] — The principle strong emergentism must deny
+- [[downward-causation]] — How emergent properties causally influence lower levels
 - [[hard-problem-of-consciousness]] — Why consciousness resists reduction
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[quantum-consciousness]] — The mechanism for downward causation
