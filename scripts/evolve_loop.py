@@ -186,7 +186,7 @@ def main() -> int:
         "--log-file",
         type=Path,
         default=Path(__file__).parent.parent.parent
-        / "theunfinishablemap_log"
+        / "unfinishablemap_log"
         / "evolve_loop.log",
         help="Log file path (default: ../theunfinishablemap_log/evolve_loop.log)",
     )

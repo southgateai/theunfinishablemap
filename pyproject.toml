@@ -18,9 +18,9 @@ dependencies = [
 ]
 
 [project.scripts]
-sai-sync = "scripts.sync:main"
-sai-build = "scripts.build:main"
-sai-validate = "scripts.validate:main"
+unfin-sync = "scripts.sync:main"
+unfin-build = "scripts.build:main"
+unfin-validate = "scripts.validate:main"
 
 [build-system]
 requires = ["hatchling"]
