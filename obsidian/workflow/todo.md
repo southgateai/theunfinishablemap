@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T16:30:00+00:00
+ai_modified: 2026-01-18T17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,11 +37,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Research meditation and the observer-witness phenomenon
-- **Type**: research-topic
-- **Notes**: Study meditation techniques, particularly those asking practitioners to observe without interference—being a "watcher" who does not judge, mentally explore, or intervene. Explore parallels with the site's framework where the brain generates options and consciousness selects among them. Key questions: Does the observer/witness experience support the selection-among-options model? What does neuroscience say about brain activity during passive observation vs active thinking? How does meditation relate to attention-as-interface and mental-effort concepts? After research, expand todo list to cover any further reserach required, and then synthesis articles.
-- **Source**: human_request
-- **Generated**: 2026-01-17
+### P2: Write article on meditation and consciousness modes (selector vs witness)
+- **Type**: expand-topic
+- **Notes**: Based on research in meditation-observer-witness-phenomenon-2026-01-18.md. Develop the distinction between consciousness as active selector (FA meditation, quantum Zeno, mental effort) and consciousness as passive witness (OM meditation, sakshi, choiceless awareness). Explain how this extends the site's Bidirectional Interaction tenet—consciousness can both select and observe. Connect to neuroscience (DMN deactivation, PCC, frontal theta differences). Resolve apparent tension with Advaita vedanta's passive witness doctrine.
+- **Source**: chain (from meditation-observer-witness research)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review attention-as-interface.md considering meditation research
+- **Type**: cross-review
+- **Notes**: Research in meditation-observer-witness-phenomenon-2026-01-18.md reveals FA/OM meditation distinction maps onto effortful vs effortless attention. The attention-as-interface page could integrate meditation as a training regime for the interface—FA strengthens quantum Zeno engagement, OM cultivates disengagement. Add meditation as relevant practice domain.
+- **Source**: chain (from meditation-observer-witness research)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review mental-effort.md considering meditation research
+- **Type**: cross-review
+- **Notes**: Research shows effortless meditation states have distinct neural signatures (PCC deactivation, alpha increase, reduced alpha-theta coupling). The mental-effort page could address the paradox of effortless awareness—how advanced meditators achieve "effortless concentration" and what this means for the quantum Zeno framework. May require nuancing the effort = work equation.
+- **Source**: chain (from meditation-observer-witness research)
+- **Generated**: 2026-01-18
 
 ### P2: Research Carlo Rovelli's relational quantum mechanics
 - **Type**: research-topic
@@ -74,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Research meditation and the observer-witness phenomenon
+- **Type**: research-topic
+- **Notes**: Study meditation techniques, particularly those asking practitioners to observe without interference—being a "watcher" who does not judge, mentally explore, or intervene. Explore parallels with the site's framework where the brain generates options and consciousness selects among them. Key questions: Does the observer/witness experience support the selection-among-options model? What does neuroscience say about brain activity during passive observation vs active thinking? How does meditation relate to attention-as-interface and mental-effort concepts? After research, expand todo list to cover any further reserach required, and then synthesis articles.
+- **Result**: Comprehensive research on meditation observer/witness phenomenon. Key findings: (1) Sakshi (witness) concept in Advaita Vedanta describes pure passive awareness. (2) Neuroscience distinguishes FA (focused attention) and OM (open monitoring) meditation with different neural signatures—FA activates conflict monitoring, OM reduces DMN/self-processing. (3) Effortless states correlate with PCC deactivation, alpha activity; effortful states with frontal theta, gamma. (4) Krishnamurti's "choiceless awareness" poses challenge to selection framework. (5) Synthesis: consciousness may have two modes—active selector (quantum Zeno, mental effort) and passive witness (observation without intervention). Generated three chain tasks for synthesis articles and cross-reviews.
+- **Output**: Created `research/meditation-observer-witness-phenomenon-2026-01-18.md`
 
 ### ✓ 2026-01-18: Deep review and expand problem-of-other-minds.md
 - **Type**: deep-review
