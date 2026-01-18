@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 21:30:00+00:00
+ai_modified: 2026-01-18 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on sleep and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. Key themes: consciousness gradations during sleep (dreamless NREM → dreaming NREM → REM → lucid REM), memory consolidation operating outside consciousness channel (~10 bits/second bandwidth bypass), lucid dreaming as interface reactivation, how offline processing differs from conscious processing. Would connect loss-of-consciousness, memory system articles, and binding-problem.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-18
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -57,6 +51,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write article on sleep and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. Key themes: consciousness gradations during sleep (dreamless NREM → dreaming NREM → REM → lucid REM), memory consolidation operating outside consciousness channel (~10 bits/second bandwidth bypass), lucid dreaming as interface reactivation, how offline processing differs from conscious processing. Would connect loss-of-consciousness, memory system articles, and binding-problem.
+- **Result**: Created ~2400 word concept page covering why sleep reduces consciousness (evolutionary puzzle, parallel processing requirement), consciousness gradations during sleep (spectrum from dreamless NREM through lucid REM), sleep vs anesthesia differences, the binding problem during sleep (offline binding without phenomenal unity), memory consolidation without consciousness, and lucid dreaming as interface reactivation. Connected to filter theory, attention-as-interface hypothesis, and all five tenets.
+- **Output**: Created `concepts/sleep-and-consciousness.md`
 
 ### ✓ 2026-01-18: Research consciousness and memory consolidation during sleep
 - **Type**: research-topic
