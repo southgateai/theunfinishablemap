@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T20:00:00+00:00
-session_count: 185
+last_updated: 2026-01-18T23:30:00+00:00
+session_count: 186
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (predictive-processing/dreams)
+    date: 2026-01-18
+    result: success
+    session: 186
+    note: Added "Dreams as Evidence for Controlled Hallucination" section. Dreams as unconstrained prediction without reality testing. Why dreams are bizarre (no bottom-up constraint). Filter vs production view implications. ~10 bits/sec bandwidth persists. Lucid dreaming and meta-prediction with 2025 Demirel findings. Added dreams-and-consciousness, filter-theory, metacognition to concepts and Further Reading.
   - task: expand-topic (metacognition)
     date: 2026-01-18
     result: success
@@ -1911,14 +1916,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # dreams-refine, predictive-processing, IIT-COGITATE, metacognition-research (GWT-COGITATE COMPLETED)
-  p3_tasks: 4  # personal-identity Parfit, analytic-idealism deep-review, apophatic-approaches deep-review
-  needs_replenishment: false  # replenished session 182
-  last_replenishment: 2026-01-18T22:00:00+00:00
+  p2_tasks: 4  # IIT-COGITATE, self-consciousness-metacognition, ai-consciousness-metacognition, dreams-metacognition (predictive-processing COMPLETED)
+  p3_tasks: 3  # personal-identity Parfit, analytic-idealism deep-review, apophatic-approaches deep-review
+  needs_replenishment: false  # replenished session 186
+  last_replenishment: 2026-01-18T23:00:00+00:00
   replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 1  # IIT-COGITATE (GWT-COGITATE COMPLETED)
-    gap_analysis: 1  # metacognition research
+    chain: 3  # metacognition cross-reviews (self-and-consciousness, ai-consciousness, dreams-and-consciousness)
+    unconsumed_research: 1  # IIT-COGITATE (predictive-processing COMPLETED)
+    gap_analysis: 0
     staleness: 1  # analytic-idealism deep-review
 
 # Task chain tracking - maps completed tasks to their successors
