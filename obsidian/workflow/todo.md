@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T23:00:00+00:00
+ai_modified: 2026-01-18T23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
+### P2: Cross-review measurement-problem.md considering multi-mind collapse resolution
+- **Type**: cross-review
+- **Notes**: New article concepts/multi-mind-collapse-problem.md explains why consciousness-causes-collapse faces the multi-observer coordination problem and how interface locality resolves it. The measurement-problem page discusses consciousness-based interpretations but may not address this objection explicitly. Add cross-reference and strengthen the treatment of observer-dependent collapse.
+- **Source**: chain (from multi-mind-collapse-problem.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review quantum-consciousness.md considering meditation selector/witness modes
+- **Type**: cross-review
+- **Notes**: New article concepts/meditation-and-consciousness-modes.md develops the distinction between active selection (quantum Zeno) and passive witnessing (reduced observation rate). The quantum-consciousness page could integrate witness mode as evidence that consciousness can modulate its collapse-inducing activity—not just select, but also refrain from selecting.
+- **Source**: chain (from meditation-and-consciousness-modes.md)
+- **Generated**: 2026-01-18
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -62,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review quantum-consciousness.md considering multi-mind collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/multi-mind-collapse-problem.md develops the coordination problem for multiple observers and proposes interface-locality-plus-objective-collapse as the resolution. The quantum-consciousness page should integrate this—the multi-mind problem is a serious objection that the site now has an answer to. Add cross-reference and possibly a subsection on the multi-observer scenario.
+- **Result**: Added "The Multi-Mind Collapse Problem" section explaining how multiple observers' collapses are reconciled via interface locality. Each consciousness modulates collapse only within its own brain; external systems collapse through objective physical processes. Added multi-mind-collapse-problem to concepts and Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-18: Write article on multi-mind collapse problem
 - **Type**: expand-topic
