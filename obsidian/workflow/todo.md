@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T20:00:00+00:00
+ai_modified: 2026-01-18T21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review mental-effort.md considering meditation research
-- **Type**: cross-review
-- **Notes**: Research shows effortless meditation states have distinct neural signatures (PCC deactivation, alpha increase, reduced alpha-theta coupling). The mental-effort page could address the paradox of effortless awareness—how advanced meditators achieve "effortless concentration" and what this means for the quantum Zeno framework. May require nuancing the effort = work equation.
-- **Source**: chain (from meditation-observer-witness research)
-- **Generated**: 2026-01-18
-
 ### P2: Research Carlo Rovelli's relational quantum mechanics
 - **Type**: research-topic
 - **Notes**: Deep research into relational quantum mechanics (RQM) with focus on multi-observer scenarios. Key problem for the site: if consciousness causes collapse AND there are other minds, multiple minds are selecting from neural firing patterns via collapse. How are these selections reconciled? Does a single collapse affect the waveform everywhere (nonlocality), or can multiple independent collapses coexist (relationalism)? RQM holds that quantum states are always relative to an observer—there is no "view from nowhere." Explore: Does RQM resolve the multi-mind collapse problem? Does it support or undermine the site's quantum-consciousness framework? What happens when two conscious observers measure the same system? After research, produce an article exploring these implications fully.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review mental-effort.md considering meditation research
+- **Type**: cross-review
+- **Notes**: Research shows effortless meditation states have distinct neural signatures (PCC deactivation, alpha increase, reduced alpha-theta coupling). The mental-effort page could address the paradox of effortless awareness—how advanced meditators achieve "effortless concentration" and what this means for the quantum Zeno framework. May require nuancing the effort = work equation.
+- **Result**: Added "The Paradox of Effortless Awareness" section with four subsections: The Challenge (neural correlates of effortless states), Two Modes of Consciousness (active selection vs passive witnessing), Effortless After Effortful (developmental pattern), Implications for the Effort Framework (nuancing rather than contradicting effort = work). Added cross-links to meditation-and-consciousness-modes and implicit-memory.
+- **Output**: Updated `concepts/mental-effort.md`
 
 ### ✓ 2026-01-18: Cross-review attention-as-interface.md considering meditation research
 - **Type**: cross-review
