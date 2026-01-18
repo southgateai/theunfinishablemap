@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T23:30:00+00:00
-session_count: 186
+last_updated: 2026-01-19T00:30:00+00:00
+session_count: 187
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 83  # +1: metacognition-consciousness (session 184)
-  reviews_completed: 210  # +1: global-workspace-theory.md COGITATE cross-review (session 182)
+  reviews_completed: 211  # +1: integrated-information-theory.md COGITATE cross-review (session 187)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (integrated-information-theory/COGITATE)
+    date: 2026-01-19
+    result: success
+    session: 187
+    note: Added "The COGITATE Experiment (2025)" section. Seven-year adversarial collaboration context. IIT predictions challenged (lack of sustained synchronization, missing integration signatures). Neither theory decisively refuted. Implications for falsifiability and Occam's Razor Has Limits. Added global-workspace-theory to concepts and Further Reading.
   - task: cross-review (predictive-processing/dreams)
     date: 2026-01-18
     result: success

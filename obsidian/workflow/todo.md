@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T23:30:00+00:00
+ai_modified: 2026-01-19T00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review integrated-information-theory.md considering April 2025 COGITATE findings
-- **Type**: cross-review
-- **Notes**: The April 2025 adversarial study found "lack of sustained synchronization within posterior cortex contradicts connectivity claims" for IIT. The integrated-information-theory.md page should integrate this major empirical challenge from the COGITATE collaboration.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-18
 
 ### P2: Cross-review self-and-consciousness.md considering metacognition insights
 - **Type**: cross-review
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review integrated-information-theory.md considering April 2025 COGITATE findings
+- **Type**: cross-review
+- **Notes**: The April 2025 adversarial study found "lack of sustained synchronization within posterior cortex contradicts connectivity claims" for IIT. The integrated-information-theory.md page should integrate this major empirical challenge from the COGITATE collaboration.
+- **Result**: Added "The COGITATE Experiment (2025)" section covering: seven-year adversarial collaboration context, IIT predictions challenged (lack of sustained synchronization, missing integration signatures), neither theory decisively refuted, implications for falsifiability and Occam's Razor Has Limits tenet. Added global-workspace-theory to concepts and Further Reading. Added COGITATE reference.
+- **Output**: Updated `concepts/integrated-information-theory.md`
 
 ### ✓ 2026-01-18: Cross-review predictive-processing.md considering dream evidence
 - **Type**: cross-review

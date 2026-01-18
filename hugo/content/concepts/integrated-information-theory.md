@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-09 10:00:00+00:00
+ai_modified: 2026-01-19 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[panpsychism]]'
+- '[[global-workspace-theory]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -97,6 +98,19 @@ A major empirical test, funded by the Templeton Foundation and involving 250 sub
 
 The results were inconclusive but encouraging for IIT. More tests are underway. This represents consciousness science's turn toward empirical discrimination between theories.
 
+### The COGITATE Experiment (2025)
+
+The April 2025 COGITATE study represents a more rigorous test: a seven-year adversarial collaboration where IIT and [GNWT](/concepts/global-workspace-theory/) proponents jointly designed experiments to test their theories. Both camps agreed in advance what results would challenge their respective theories.
+
+**IIT predictions challenged:**
+- The study found a "lack of sustained synchronization within posterior cortex"—contradicting IIT's claims about connectivity patterns during conscious perception
+- The predicted integration signatures in posterior cortical regions were not consistently observed
+- While posterior cortex remained important (as IIT predicts), the specific connectivity patterns IIT requires were missing
+
+**Neither theory emerged unscathed.** The researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication.
+
+This outcome matters for two reasons. First, it demonstrates that IIT's mathematical elegance doesn't translate straightforwardly into testable predictions—the theory remains difficult to falsify even when proponents design the tests. Second, it supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: neither leading physicalist theory of consciousness fully captures the phenomena. The hard problem persists not because we lack clever theories but because consciousness resists reduction to any single physical measure, whether integration (IIT) or broadcast (GNWT).
+
 ## Relation to This Site's Perspective
 
 ### Where IIT Aligns
@@ -136,6 +150,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle IIT addresses
 - [panpsychism](/concepts/panpsychism/) — A related view on consciousness's ubiquity
+- [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
 - [integrated-information-theory-2026-01-07](/research/integrated-information-theory-2026-01-07/) — Detailed research notes
 - [tenets](/tenets/) — This site's alternative framework
 
@@ -146,4 +161,5 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated information theory 3.0. *PLOS Computational Biology*, 10(5), e1003588.
 - Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 - Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
+- COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 - Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.

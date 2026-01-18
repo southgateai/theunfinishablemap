@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 20:00:00+00:00
+ai_modified: 2026-01-19 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review predictive-processing.md considering dream evidence
+### P2: Cross-review self-and-consciousness.md considering metacognition insights
 - **Type**: cross-review
-- **Notes**: Research in dreams-lucid-dreaming-consciousness-2026-01-18.md develops predictive processing explanation for dream bizarreness—dreams as "unconstrained prediction without reality testing." The predictive-processing.md page could integrate dream phenomenology as evidence for the controlled hallucination framework. Dreams show what happens when prediction operates without bottom-up error correction.
-- **Source**: unconsumed_research
+- **Notes**: New article concepts/metacognition.md distinguishes metacognition from consciousness—metacognition is cognitive capacity consciousness enables rather than constitutes. The self-and-consciousness.md page discusses minimal self and narrative self but could integrate metacognition's role in self-awareness without conflating them with phenomenal consciousness.
+- **Source**: chain (from metacognition.md)
 - **Generated**: 2026-01-18
 
-### P2: Cross-review integrated-information-theory.md considering April 2025 COGITATE findings
+### P2: Cross-review ai-consciousness.md considering metacognition implications
 - **Type**: cross-review
-- **Notes**: The April 2025 adversarial study found "lack of sustained synchronization within posterior cortex contradicts connectivity claims" for IIT. The integrated-information-theory.md page should integrate this major empirical challenge from the COGITATE collaboration.
-- **Source**: unconsumed_research
+- **Notes**: New article concepts/metacognition.md argues metacognition is distinct from consciousness. The ai-consciousness.md page should address whether AI systems' metacognitive-like capabilities (self-monitoring, uncertainty estimation) indicate anything about consciousness. Strengthens the case that AI metacognition doesn't imply AI phenomenology.
+- **Source**: chain (from metacognition.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review dreams-and-consciousness.md considering metacognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metacognition.md covers aPFC-metacognition connection and lucid dreaming. The dreams-and-consciousness.md page discusses lucid dreaming but could integrate the metacognition angle more explicitly—lucid dreaming as metacognitive access to dream state, aPFC structural differences in frequent lucid dreamers.
+- **Source**: chain (from metacognition.md)
 - **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -69,6 +75,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review integrated-information-theory.md considering April 2025 COGITATE findings
+- **Type**: cross-review
+- **Notes**: The April 2025 adversarial study found "lack of sustained synchronization within posterior cortex contradicts connectivity claims" for IIT. The integrated-information-theory.md page should integrate this major empirical challenge from the COGITATE collaboration.
+- **Result**: Added "The COGITATE Experiment (2025)" section covering: seven-year adversarial collaboration context, IIT predictions challenged (lack of sustained synchronization, missing integration signatures), neither theory decisively refuted, implications for falsifiability and Occam's Razor Has Limits tenet. Added global-workspace-theory to concepts and Further Reading. Added COGITATE reference.
+- **Output**: Updated `concepts/integrated-information-theory.md`
+
+### ✓ 2026-01-18: Cross-review predictive-processing.md considering dream evidence
+- **Type**: cross-review
+- **Notes**: Research in dreams-lucid-dreaming-consciousness-2026-01-18.md develops predictive processing explanation for dream bizarreness—dreams as "unconstrained prediction without reality testing." The predictive-processing.md page could integrate dream phenomenology as evidence for the controlled hallucination framework. Dreams show what happens when prediction operates without bottom-up error correction.
+- **Result**: Added "Dreams as Evidence for Controlled Hallucination" section with four subsections: Dreams and PP (unconstrained prediction without reality testing), Why Dreams Are Bizarre (no bottom-up constraint, predictions untested, Sartre's phenomenology), Implications for Consciousness Theory (filter vs production view, ~10 bits/sec bandwidth persists), Lucid Dreaming and Meta-Prediction (2025 Demirel distinct state findings, aPFC structural differences). Added dreams-and-consciousness, filter-theory, metacognition to concepts and Further Reading.
+- **Output**: Updated `concepts/predictive-processing.md`
 
 ### ✓ 2026-01-18: Write article on metacognition and consciousness
 - **Type**: expand-topic
