@@ -1,9 +1,9 @@
 ---
 title: "Predictive Processing"
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-14T17:00:00+00:00
+ai_modified: 2026-01-18T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,8 +12,12 @@ concepts:
   - "[[attention]]"
   - "[[functionalism]]"
   - "[[higher-order-theories]]"
+  - "[[dreams-and-consciousness]]"
+  - "[[filter-theory]]"
+  - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
+  - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -94,6 +98,32 @@ Like [[global-workspace-theory|Global Workspace Theory]], PP may explain access 
 
 PP tells a compelling story about *what* reaches awareness and *how* it gets there. It doesn't obviously explain *why* reaching awareness involves experience.
 
+## Dreams as Evidence for Controlled Hallucination
+
+Dreams provide the clearest test case for PP's "controlled hallucination" claim. During dreams, the brain's predictive machinery operates without bottom-up constraint—sensory input is minimal, prediction errors cannot be tested against reality. The result is unconstrained prediction: vivid, immersive, but bizarre.
+
+### Why Dreams Are Bizarre
+
+Under PP, dream bizarreness has a natural explanation. Without environmental input to force updating of the internal model, the brain relies on generated predictions while unable to reliably test them. Middle- to high-level predictions—memories, goals, beliefs—dominate dream content. The predictions feel real because the same neural substrate generates them, but they lack the corrective influence of actual sensory data.
+
+This explains several dream features:
+- **Narrative without logic**: Plot follows associative prediction chains rather than physical constraints
+- **Emotional intensity**: Precision weighting on affective predictions proceeds unchecked
+- **Immersive quality**: The predictions are taken as veridical—there's no competing sensory evidence
+- **Failure of reality testing**: Sartre noted that waking perception is "self-affirming, immune to doubt" while dreaming lacks this quality
+
+### Implications for Consciousness Theory
+
+Dreams don't obviously support either a pure production or pure filter view. PP proponents argue dreams prove the brain generates consciousness—look, it can create experiential worlds without external input. But the [[filter-theory|filter theory]] perspective offers an alternative: dreams show consciousness using the brain's representational capacities when not constrained by sensory filtering. The brain provides the computational format; consciousness brings the experiential richness.
+
+The ~10 bits/second bandwidth constraint persists even during dreams—dream experience unfolds as a "single track of conscious experience" while memory consolidation proceeds unconsciously in parallel across cortical regions. This suggests the limitation is intrinsic to consciousness itself, not merely to sensory processing.
+
+### Lucid Dreaming and Meta-Prediction
+
+Lucid [[dreams-and-consciousness|dreaming]]—becoming aware that one is dreaming while still in the dream—represents a distinctive case. The dreamer generates a meta-level prediction: "this experience is a dream." This prediction, once stabilized, enables controlled navigation of dream content.
+
+The 2025 Demirel findings establish lucid dreaming as a genuinely distinct consciousness state with unique neural signatures (gamma power increases in right temporo-occipital regions, increased interhemispheric connectivity), not merely a blend of waking and REM. Structurally, frequent lucid dreamers have larger anterior prefrontal cortex—the region associated with metacognition and self-reflection. This suggests PP's precision-weighting machinery can be trained to operate reflexively even during sleep.
+
 ## Relation to Site Perspective
 
 PP relates to the site's [[tenets]] in several ways:
@@ -115,6 +145,9 @@ PP relates to the site's [[tenets]] in several ways:
 - [[functionalism]] — The philosophical tradition PP inherits
 - [[attention]] — Central to precision weighting
 - [[hard-problem-of-consciousness]] — What PP doesn't directly address
+- [[dreams-and-consciousness]] — Dreams as unconstrained prediction
+- [[filter-theory]] — Alternative interpretation of dream evidence
+- [[metacognition]] — Lucid dreaming and meta-prediction
 
 ### External Sources
 - Clark, A. (2016). *Surfing Uncertainty*. Oxford University Press.
@@ -122,3 +155,4 @@ PP relates to the site's [[tenets]] in several ways:
 - Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 - Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*.
 - Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness."
+- Demirel, C. et al. (2025). "Electrophysiological Correlates of Lucid Dreaming." *Journal of Neuroscience*, 45(20).
