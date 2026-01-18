@@ -3,7 +3,7 @@ title: "Libet Experiments and the Neuroscience of Volition"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T23:59:00+00:00
+ai_modified: 2026-01-19T00:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,8 @@ concepts:
   - "[[epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
+  - "[[motor-selection]]"
+  - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
@@ -50,6 +52,28 @@ Schurger, Sitt, and Dehaene (2012) challenged the standard interpretation. They 
 **Evidence**: Schurger's model predicts that spontaneous actions should take longer when initiated from lower baseline neural activity, because the noise must accumulate further to reach threshold. This prediction was confirmed. The "Libetus interruptus" experiment—interrupting participants randomly and asking if they felt an urge—found that subjective urges correlated with neural fluctuation levels, not with any goal-directed buildup.
 
 The authors conclude: "This takes the sting out of the Libet argument against free will." If the RP is noise rather than decision, neural activity isn't predicting choices before consciousness—it's just showing that random fluctuations preceded the moment consciousness decided to act.
+
+## Surgical Evidence: The SMA Resection Study
+
+Sjöberg (2024) provides striking clinical evidence against the standard interpretation. Patients with surgical resection of the supplementary motor area (SMA)—the brain region generating the readiness potential—retain their sense of voluntary action.
+
+If the RP reflected genuine volition, removing its neural source should impair the capacity for voluntary movement. It doesn't. Patients with SMA resection can still decide to move and experience their movements as self-initiated. Sjöberg concludes that Libet's findings are "completely irrelevant" to the free will debate.
+
+This surgical evidence strengthens Schurger's critique. The SMA generates motor preparation signals, but preparation is not decision. Whatever contributes to genuine motor selection operates elsewhere—in regions like the parietal cortex where conscious intention emerges (see [[motor-selection|motor selection]]).
+
+## Where Intention Actually Originates
+
+Desmurget's (2009) neurosurgical studies reveal a double dissociation between intention and execution:
+
+| Region | Effect of Stimulation |
+|--------|----------------------|
+| **Inferior parietal** | Conscious intention to move *without* movement |
+| **Inferior parietal** (higher intensity) | False belief of having moved (no EMG activity) |
+| **Premotor cortex** | Actual movement *without* awareness |
+
+The parietal cortex produces the experience of intending; the premotor cortex produces movement. These are separable. The phenomenology of "deciding to move" is distinct from the motor machinery executing movement.
+
+This dissociation matters for interpreting Libet. The RP originates in SMA and premotor regions—*execution* areas. Conscious intention emerges in parietal regions—*selection* areas. Libet measured the wrong signal. He tracked motor preparation, not conscious decision-making.
 
 ## Libet's Own Interpretation: Veto Power
 
@@ -98,10 +122,12 @@ The Libet experiments engage directly with the site's core commitments.
 ## Further Reading
 
 - [[free-will]] — The broader philosophical context
+- [[motor-selection]] — Extending the selection framework from attention to motor control
 - [[retrocausality]] — How backward causation resolves the timing problem
 - [[quantum-consciousness]] — Mechanisms for consciousness at the quantum level
 - [[epiphenomenalism]] — The view these experiments seem to support, and its problems
 - [[interactionist-dualism]] — The framework that makes conscious selection coherent
+- [[agent-causation]] — The metaphysics of conscious causation
 - [[libet-experiments-free-will-2026-01-07]] — Detailed research notes
 
 ## References
@@ -110,5 +136,7 @@ The Libet experiments engage directly with the site's core commitments.
 - Soon, C. S., Brass, M., Heinze, H. J., & Haynes, J. D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Bode, S., He, A. H., Soon, C. S., Trampel, R., Turner, R., & Haynes, J. D. (2011). Tracking the unconscious generation of free decisions using ultra-high field fMRI. *PLoS ONE*, 6(6), e21612.
+- Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+- Desmurget, M., Reilly, K. T., Richard, N., Szathmari, A., Mottolese, C., & Sirigu, A. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 - Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
