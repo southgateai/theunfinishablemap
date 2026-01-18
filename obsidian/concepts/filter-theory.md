@@ -3,7 +3,7 @@ title: "Filter Theory of Consciousness"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T22:30:00+00:00
+ai_modified: 2026-01-19T05:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[loss-of-consciousness]]"
   - "[[near-death-experiences]]"
   - "[[dreams-and-consciousness]]"
+  - "[[brain-specialness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -119,6 +120,10 @@ Filter theory doesn't require locating consciousness spatially. Consciousness mi
 
 This is a fair challenge. How does non-physical consciousness interface with physical brain? The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law.
 
+### "Why brains specifically?"
+
+If consciousness transmits through physical interfaces, why are brains suitable interfaces while rocks are not? The [[brain-specialness]] article identifies five criteria that an interface requires: quantum sensitivity (functionally relevant quantum effects), representational structure (encoding alternatives), attention mechanisms (directed focus), feedback integration (outcome evaluation), and developmental history (co-construction). Brains evolved under selection pressure to meet all five criteria; most physical systems meet none. This explains the specificity of brain-consciousness correlation without reducing consciousness to brain activity.
+
 ### "Isn't 'filtering' just a metaphor?"
 
 Yes, but so is "production." Saying the brain "produces" consciousness is equally metaphorical—we don't know *how* neural activity would produce experience even if it did. The hard problem remains unsolved. Filter theory offers an alternative metaphor that better accommodates certain findings (psychedelic paradox, NDEs, covert consciousness) while remaining equally compatible with the basic neuroimaging data.
@@ -157,6 +162,7 @@ Filter theory supports and is supported by the site's [[tenets|foundational comm
 
 ## Further Reading
 
+- [[brain-specialness]] — Why brains specifically can serve as consciousness interfaces
 - [[mind-brain-separation]] — The rendering engine analogy and faculty division
 - [[loss-of-consciousness]] — Anesthesia, covert consciousness, and the filter interpretation
 - [[near-death-experiences]] — Enhanced experience during brain compromise
