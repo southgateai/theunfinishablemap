@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T01:00:00+00:00
+ai_modified: 2026-01-18T22:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review hard-problem-of-consciousness.md considering witness consciousness evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/witness-consciousness.md provides phenomenological evidence for dualism—the subject-object structure revealed by witness awareness. The hard-problem-of-consciousness.md topic page could integrate this as additional support: if consciousness can observe thoughts as objects, this demonstrates the irreducibility of the observing subject.
-- **Source**: chain (from witness-consciousness.md)
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review arguments-for-dualism.md considering objections treatment
 - **Type**: cross-review
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review hard-problem-of-consciousness.md considering witness consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/witness-consciousness.md provides phenomenological evidence for dualism—the subject-object structure revealed by witness awareness. The hard-problem-of-consciousness.md topic page could integrate this as additional support: if consciousness can observe thoughts as objects, this demonstrates the irreducibility of the observing subject.
+- **Result**: Added "Phenomenological Evidence: The Witness" section after the Explanatory Gap section, explaining how witness consciousness reveals the subject-object structure. Three key observations integrated: the witness cannot become an object, mental contents can become objects, and the witness is unlike physical objects. Added witness-consciousness to concepts frontmatter and Further Reading.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review mental-effort.md considering voluntary attention mechanisms
 - **Type**: cross-review
