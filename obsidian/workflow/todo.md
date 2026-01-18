@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T02:00:00+00:00
+ai_modified: 2026-01-18T18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
+### P2: Cross-review dreams-and-consciousness.md considering sleep insights
+- **Type**: cross-review
+- **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
+- **Source**: chain (from sleep-and-consciousness.md)
+- **Generated**: 2026-01-18
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -62,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review agent-causation.md considering luck-objection response
+- **Type**: cross-review
+- **Notes**: New article concepts/luck-objection.md develops the site's response to the luck objection (consciousness selects rather than receives random outcomes). The agent-causation page mentions the luck objection briefly but could integrate the fuller treatment. Strengthen how agent causation escapes the objection through selection vs randomness.
+- **Result**: Expanded "The Site's Response" section with four-dimension framework from luck-objection article: (1) selection vs randomness (different relationship to indeterminacy), (2) phenomenology of effort (selections feel like achievements), (3) reasons-guided selection (contrastive explicability), (4) retrocausal deepening (prior state is part of what's selected). Added explanation of how this differs from standard agent-causal "the agent caused it" response.
+- **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-19: Cross-review quantum-consciousness.md considering luck-objection insights
 - **Type**: cross-review
