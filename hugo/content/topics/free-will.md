@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-19 02:00:00+00:00
+ai_modified: 2026-01-18 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,7 @@ concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[quantum-consciousness]]'
+- '[[motor-selection]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -35,6 +36,7 @@ related_articles:
 - '[[libet-experiments-free-will-2026-01-07]]'
 - '[[luck-objection-libertarian-free-will-2026-01-17]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
+- '[[motor-control-quantum-zeno-2026-01-18]]'
 title: Free Will and Determinism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -272,6 +274,57 @@ The first-person experience of choosing—directing attention rather than being 
 
 The felt distinction between *directing* and *being pulled* corresponds to different neural circuits. This supports [agent-causation](/concepts/agent-causation/): the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. The experience of effort isn't epiphenomenal decoration—it reflects the additional neural machinery engaged when you genuinely choose.
 
+## Motor Selection: The Second Domain
+
+The neural signatures discussed above apply to attention—where we direct our focus. But [motor control](/concepts/motor-selection/) provides a second domain where the same selection mechanism operates, strengthening the case that consciousness genuinely selects rather than passively observes.
+
+### The Attention-Motor Parallel
+
+Research reveals striking structural parallels between willed attention and willed movement:
+
+| Feature | Willed Attention | Willed Movement |
+|---------|-----------------|-----------------|
+| Neural signature | Frontal theta oscillations | Frontal theta oscillations |
+| Deployment time | ~300ms | ~300ms |
+| Willed vs instructed | Distinct signatures | Distinct signatures |
+| Direction of coherence | Bidirectional frontoparietal | Bidirectional frontoparietal |
+| Phenomenology | Feels effortful | Feels effortful |
+
+This is not coincidental. Both attention and motor control require selection among competing options—what to attend to, what to do. If consciousness contributes by selecting, the mechanism should manifest similarly across domains. The same frontal theta that distinguishes choosing from following instructions in attention also distinguishes voluntary from instructed movement.
+
+### Libet Revisited: Surgical Evidence
+
+The [Schurger model](//#the-neural-noise-critique) reinterprets the readiness potential as noise rather than decision. Recent surgical evidence strengthens this reinterpretation. Sjöberg (2024) studied patients with resection of the supplementary motor area (SMA)—the region generating the RP. If the RP reflected genuine volition, removing its source should impair voluntary action.
+
+It doesn't. Patients with SMA resection retain their sense of voluntary action and ability to initiate movement. Sjöberg concludes that Libet's findings are "completely irrelevant" to the free will debate. The RP tracks motor *preparation*, not conscious *decision*. Consciousness contributes elsewhere.
+
+### Where Intention Actually Originates
+
+Desmurget's 2009 neurosurgical studies reveal where conscious motor intention emerges—and it's not where the RP is generated:
+
+| Region | Effect of Stimulation |
+|--------|----------------------|
+| **Inferior parietal** | Conscious intention to move *without* movement |
+| **Inferior parietal** (higher intensity) | False belief of having moved (no actual movement) |
+| **Premotor cortex** | Actual movement *without* awareness |
+
+This double dissociation separates the phenomenology of deciding from the machinery of executing. Consciousness operates at the *selection* level—choosing what to do—not at the *execution* level—how to do it. The parietal cortex, where intention emerges, is part of the posterior "hot zone" that recent research associates with conscious content.
+
+This explains why we experience choosing to reach for a cup but don't experience choosing individual muscle commands. Consciousness selects actions; execution is delegated. The quantum Zeno mechanism would operate at this selection interface.
+
+### The Basal Ganglia Selection Mechanism
+
+The basal ganglia offer a candidate site for motor selection with architecture that maps directly onto the selection framework:
+
+- **Tonic inhibition**: The basal ganglia continuously suppress motor programs
+- **Direct pathway**: Releases the "brake" on selected action
+- **Indirect pathway**: Maintains brake on competing actions
+- **Result**: One motor program is disinhibited while alternatives remain suppressed
+
+This is precisely a selection mechanism. The brain generates multiple competing motor programs; the basal ganglia determine which one "wins" by selective disinhibition. Consciousness might operate at this selection point—biasing which program is released. The same principle applies to thalamic gating in attention: selective disinhibition rather than direct activation.
+
+Two domains showing the same selection architecture strengthen the case that consciousness genuinely selects. If the attention-Zeno connection were an accident, we wouldn't expect motor control to show identical structure. The parallel suggests a unified mechanism—consciousness selecting wherever the brain provides the right interface.
+
 ## What Free Will Requires
 
 On the site's framework, free will requires:
@@ -381,11 +434,14 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 - [tenets](/tenets/) — The foundational commitments that ground this view
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention may be the selection mechanism
 - [attention](/concepts/attention/) — Voluntary attention and its neural signatures
+- [motor-selection](/concepts/motor-selection/) — Motor control as a second selection domain with parallel neural signatures
 
 ## References
 
 - Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 - Soon, C. S. et al. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
 - Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+- Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
+- Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
 - Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.

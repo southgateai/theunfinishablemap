@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 00:00:00+00:00
+ai_modified: 2026-01-18 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-18
 
-### P2: Cross-review free-will.md considering motor-selection insights
-- **Type**: cross-review
-- **Notes**: New article concepts/motor-selection.md extends quantum Zeno framework from attention to motor control—parallel neural signatures, same ~300ms timing, basal ganglia brake-release selection mechanism. The free-will.md page discusses Libet but could strengthen its case with the motor-selection evidence.
-- **Source**: chain (from motor-selection.md)
-- **Generated**: 2026-01-18
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review free-will.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md extends quantum Zeno framework from attention to motor control—parallel neural signatures, same ~300ms timing, basal ganglia brake-release selection mechanism. The free-will.md page discusses Libet but could strengthen its case with the motor-selection evidence.
+- **Result**: Added "Motor Selection: The Second Domain" section with four subsections: The Attention-Motor Parallel (table showing frontal theta, ~300ms timing, bidirectional coherence parallels), Libet Revisited: Surgical Evidence (Sjöberg 2024 SMA resection doesn't impair volition), Where Intention Actually Originates (Desmurget double dissociation—parietal intention vs premotor execution), The Basal Ganglia Selection Mechanism (brake-release model as selection interface). Added motor-selection to Further Reading. Added Desmurget 2009 and Sjöberg 2024 to References.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-19: Cross-review libet-experiments.md considering motor-selection insights
 - **Type**: cross-review
