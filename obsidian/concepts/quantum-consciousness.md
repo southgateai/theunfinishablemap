@@ -3,7 +3,7 @@ title: "Quantum Consciousness Mechanisms"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-19T04:00:00+00:00
+ai_modified: 2026-01-18T21:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
   - "[[luck-objection]]"
   - "[[quantum-biology]]"
+  - "[[motor-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-consciousness-mechanisms-2026-01-08]]"
@@ -168,6 +169,26 @@ Four candidate coupling laws emerge: attention-bounded selection (James-Stapp), 
 ### Tenet Alignment
 
 Stapp's approach may be the closest match to the site's tenets. It explicitly describes consciousness biasing indeterminate outcomes without violating conservation laws, at the quantum level where physics leaves room.
+
+### Motor Selection: A Second Domain
+
+The attention-based Zeno mechanism finds striking corroboration in [[motor-selection|motor control]]. Recent neuroscience reveals that willed movement shows the same neural signatures as willed attention:
+
+| Feature | Willed Attention | Willed Movement |
+|---------|-----------------|-----------------|
+| Neural signature | Frontal theta oscillations | Frontal theta oscillations |
+| Deployment time | ~300ms | ~300ms |
+| Willed vs instructed | Distinct signatures | Distinct signatures |
+| Direction of coherence | Bidirectional frontoparietal | Bidirectional frontoparietal |
+| Phenomenology | Feels effortful | Feels effortful |
+
+This parallel matters because two independent domains showing identical selection architecture is stronger evidence than one. If consciousness selects via quantum Zeno, we should expect the same mechanism wherever the brain requires genuine choice—and we find exactly that in both attention ("what to attend to") and motor control ("what to do").
+
+The Libet challenge to conscious motor control has been substantially weakened. Schurger's 2012 stochastic accumulator model reinterprets the readiness potential as noise artifact, not unconscious decision. Sjöberg (2024) showed that surgical resection of the supplementary motor area—where the RP is generated—doesn't impair voluntary action, calling Libet's findings "completely irrelevant" to free will. Desmurget's double dissociation (parietal stimulation produces intention without movement; premotor stimulation produces movement without intention) maps directly onto the framework: consciousness contributes at *selection*, not execution.
+
+The basal ganglia offer another candidate selection site for motor control, operating through brake-release disinhibition—parallel to how thalamic gating serves attention. Both present interfaces where consciousness might bias which option is released without controlling downstream execution.
+
+Two domains with matching signatures and parallel mechanisms strengthens confidence that the quantum Zeno framework describes something real—not a mechanism retrofitted to attention alone, but a general principle of conscious selection across neural systems.
 
 ### Response to the Luck Objection
 
@@ -420,6 +441,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 - [[emergence]] — How the quantum framework provides strong emergentism with a mechanism
 - [[measurement-problem]] — Why the measurement problem creates logical space for consciousness
 - [[attention]] — The attention-consciousness dissociation and its implications for Stapp's mechanism
+- [[motor-selection]] — Motor control as a second domain for quantum Zeno selection
 - [[binding-problem]] — How quantum entanglement may solve phenomenal unity
 - [[mental-effort]] — Detailed treatment of phenomenology of effort and Stapp's mechanism
 - [[meditation-and-consciousness-modes]] — Evidence that consciousness can modulate its observation rate
@@ -443,4 +465,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 - Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+- Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+- Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+- Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 - Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness.
