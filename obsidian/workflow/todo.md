@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-01-18T20:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-18
 
+### P2: Write article on quantum coherence in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-superposition-brain-consciousness-2026-01-18.md. Recent 2024-2025 experimental evidence significantly strengthens the case: microtubule-stabilizing drugs delay anesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by seven orders of magnitude beyond Tegmark's original calculations. Three protective mechanisms proposed. This directly supports Minimal Quantum Interaction tenet with empirical evidence.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on relational quantum mechanics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/relational-quantum-mechanics-2026-01-18.md. RQM (Rovelli 1996) proposes quantum states are relations between systems, not absolute properties. Explicitly removes special role for consciousness. While this conflicts with site tenets, understanding this interpretation is important for addressing multi-mind collapse problem and providing fair treatment of alternatives to consciousness-causes-collapse.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review quantum-interpretations.md with recent RQM research
+- **Type**: cross-review
+- **Notes**: New research in research/relational-quantum-mechanics-2026-01-18.md provides detailed analysis of Rovelli's relational interpretation. The quantum-interpretations.md page should integrate RQM as a significant alternative that explicitly removes consciousness from measurement, explaining why the site's framework prefers collapse interpretations.
+- **Source**: chain (from relational-quantum-mechanics research)
+- **Generated**: 2026-01-19
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -66,6 +84,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
+
+### P3: Write concept page on phenomenal unity
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-18 identified opportunity. The binding problem page exists but phenomenal *unity*—why separate processes become one experience—deserves dedicated treatment. Connects to quantum entanglement providing genuine holism.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
+### P3: Research consciousness and creativity
+- **Type**: research-topic
+- **Notes**: Optimistic review 2026-01-18 identified opportunity. If consciousness selects among options, does it also generate genuinely novel possibilities? Bergson's creative duration suggests consciousness contributes more than selection. Would strengthen Bidirectional Interaction tenet.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
 
 ## Completed Tasks
 
