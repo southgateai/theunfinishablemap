@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T12:00:00+00:00
+ai_modified: 2026-01-18T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review higher-order-theories.md with metacognition dissociation evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/metacognition.md presents empirical dissociation evidence (blindsight, blind insight) challenging HOT theory. The higher-order-theories.md page critiques HOT philosophically but could strengthen the case with this neural evidence that metacognition and consciousness come apart. Add Maniscalco-Lau findings and aPFC-consciousness separation evidence.
-- **Source**: chain (from metacognition.md)
-- **Generated**: 2026-01-18
 
 ### P2: Cross-review episodic-memory.md considering sleep consciousness insights
 - **Type**: cross-review
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review higher-order-theories.md with metacognition dissociation evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/metacognition.md presents empirical dissociation evidence (blindsight, blind insight) challenging HOT theory. The higher-order-theories.md page critiques HOT philosophically but could strengthen the case with this neural evidence that metacognition and consciousness come apart. Add Maniscalco-Lau findings and aPFC-consciousness separation evidence.
+- **Result**: Added "Empirical Dissociation Evidence" section with four subsections: Blindsight Revisited (Maniscalco-Lau 2012 alternative interpretation), Blind Insight (inverse dissociation—metacognition without conscious access), Neural Separation (aPFC tACS impairs metacognition while preserving perception), and summary table showing four dissociation patterns. Added metacognition to Further Reading and Maniscalco-Lau to References.
+- **Output**: Updated `concepts/higher-order-theories.md`
 
 ### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md considering metacognition insights
 - **Type**: cross-review

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T12:30:00+00:00
-session_count: 190
+last_updated: 2026-01-18T22:30:00+00:00
+session_count: 191
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 83  # +1: metacognition-consciousness (session 184)
-  reviews_completed: 214  # +1: dreams-and-consciousness.md metacognition cross-review (session 190)
+  reviews_completed: 215  # +1: higher-order-theories.md metacognition cross-review (session 191)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (higher-order-theories/metacognition)
+    date: 2026-01-18
+    result: success
+    session: 191
+    note: Added "Empirical Dissociation Evidence" section with four subsections—Blindsight Revisited (Maniscalco-Lau 2012), Blind Insight inverse dissociation, Neural Separation (aPFC tACS study), and dissociation table. Added metacognition to Further Reading and Maniscalco-Lau to References. HOT's identity claim challenged by empirical separability.
   - task: cross-review (dreams-and-consciousness/metacognition)
     date: 2026-01-18
     result: success

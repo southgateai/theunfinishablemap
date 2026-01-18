@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 20:00:00+00:00
+ai_modified: 2026-01-18 22:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -73,6 +73,41 @@ Ned Block argues that "the higher-order approach to consciousness is defunct." H
 
 As Farrell (2018) argues, "ambitious" higher-order theories fail to account for what-it-is-like-ness. We can conceive of creatures with the right higher-order representations who nevertheless lack phenomenal consciousness entirely—[zombies](/arguments/functionalism/) with sophisticated metacognition.
 
+## Empirical Dissociation Evidence
+
+Recent neuroscience provides empirical challenges to HOT beyond the philosophical objections. If consciousness just *is* being represented by a higher-order thought, consciousness and [metacognition](/concepts/metacognition/) should not come apart. But they do.
+
+### Blindsight Revisited
+
+Blindsight—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. But Maniscalco and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information about internal visual response rather than absence of visual consciousness entirely. On this view, some phenomenology persists while metacognitive access fails.
+
+Either interpretation challenges HOT. If Maniscalco-Lau are right, consciousness can occur without the metacognitive representation HOT requires—the higher-order thought fails to target the first-order state, yet experience continues. If the standard interpretation is right, the challenge shifts but remains: first-order states drive behavior without higher-order representation.
+
+### Blind Insight: The Inverse Dissociation
+
+More damaging is the inverse case. In certain paradigms, subjects show metacognitive sensitivity—their confidence tracks accuracy—even when first-order performance is at chance. They "know they don't know" without consciously perceiving what they don't know.
+
+This "blind insight" directly contradicts HOT. If consciousness *is* being represented by a higher-order thought, then accurate metacognition should guarantee conscious access to what's being monitored. But subjects can metacognitively discriminate their uncertainty about stimuli they cannot consciously report. The metacognitive machinery operates on information unavailable to phenomenal experience.
+
+### Neural Separation
+
+The dissociation extends to neural architecture. Metacognitive judgments converge on the anterior prefrontal cortex (aPFC), anatomically and functionally distinct from sensory processing regions. A 2025 study demonstrated causally that transcranial alternating current stimulation (tACS) over aPFC impairs metacognitive accuracy while leaving first-order perception intact.
+
+This is not what HOT predicts. If consciousness were constituted by higher-order representation, disrupting the metacognitive substrate should eliminate or degrade conscious experience itself. Instead, perception continues normally—subjects see as well as before—while their ability to report confidence in what they see degrades. The systems that produce experience and the systems that reflect on experience are neurally separable.
+
+### What the Evidence Shows
+
+The empirical picture suggests consciousness and metacognition are related but distinct:
+
+| Pattern | Consciousness | Metacognition | Example |
+|---------|--------------|---------------|---------|
+| Normal | Present | Present | Ordinary perception |
+| Blindsight | Debated | Absent | V1 damage |
+| Blind insight | Absent | Present | Subliminal discrimination with accurate confidence |
+| aPFC disruption | Present | Impaired | tACS over frontopolar cortex |
+
+First-order theorists (Block, Lamme) explain this naturally: phenomenal consciousness involves sensory processing directly; metacognition provides *access* to that experience. HOT struggles because its core claim—consciousness *is* higher-order representation—predicts the two should be inseparable.
+
 ## Connection to Self-Reference
 
 HOT connects to this site's [self-reference-paradox](/voids/self-reference-paradox/) in interesting ways. The theory requires consciousness to be inherently self-referential—awareness involves being aware of one's own states. This creates familiar puzzles:
@@ -121,6 +156,7 @@ The hard problem remains hard.
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
+- [metacognition](/concepts/metacognition/) — The cognitive capacity HOT conflates with consciousness
 - [self-reference-paradox](/voids/self-reference-paradox/) — The recursive structure HOT requires
 - [functionalism](/arguments/functionalism/) — The philosophical framework underlying HOT
 - [ai-consciousness](/topics/ai-consciousness/) — Where HOT's implications meet the site's skepticism
@@ -128,9 +164,10 @@ The hard problem remains hard.
 
 ## References
 
-- Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
+- Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
 - Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
+- Brown, R. (2025). *Consciousness as Representing One's Mind*. Oxford University Press.
 - Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206.
 - Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
-- Brown, R. (2025). *Consciousness as Representing One's Mind*. Oxford University Press.
-- Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
+- Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+- Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.

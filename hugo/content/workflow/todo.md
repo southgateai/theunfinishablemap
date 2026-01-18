@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 00:30:00+00:00
+ai_modified: 2026-01-18 22:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review dreams-and-consciousness.md considering metacognition insights
+### P2: Cross-review episodic-memory.md considering sleep consciousness insights
 - **Type**: cross-review
-- **Notes**: New article concepts/metacognition.md covers aPFC-metacognition connection and lucid dreaming. The dreams-and-consciousness.md page discusses lucid dreaming but could integrate the metacognition angle more explicitly—lucid dreaming as metacognitive access to dream state, aPFC structural differences in frequent lucid dreamers.
-- **Source**: chain (from metacognition.md)
+- **Notes**: The sleep-and-consciousness.md article explains how memory consolidation during sleep operates outside the conscious ~10 bits/second bandwidth. The episodic-memory.md page could integrate this—how sleep consolidation enables episodic memory formation while bypassing conscious experience, and the dissociation between encoding (conscious) and consolidation (unconscious).
+- **Source**: chain (from sleep-and-consciousness.md)
 - **Generated**: 2026-01-18
 
-### P2: Cross-review higher-order-theories.md with metacognition dissociation evidence
+### P2: Research attention and motor control for quantum Zeno framework
+- **Type**: research-topic
+- **Notes**: The attention-as-interface and mental-effort pages develop the quantum Zeno mechanism for attention, but motor control offers another domain where consciousness selects among neural options. How does voluntary movement initiation relate to the selection framework? Libet's experiments touched this, but motor preparation and execution may have its own quantum signature. This could strengthen the bidirectional interaction tenet with motor evidence.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-18
+
+### P2: Cross-review introspection.md considering metacognition insights
 - **Type**: cross-review
-- **Notes**: New article concepts/metacognition.md presents empirical dissociation evidence (blindsight, blind insight) challenging HOT theory. The higher-order-theories.md page critiques HOT philosophically but could strengthen the case with this neural evidence that metacognition and consciousness come apart. Add Maniscalco-Lau findings and aPFC-consciousness separation evidence.
+- **Notes**: The metacognition.md page argues metacognition is a cognitive capacity consciousness enables rather than constitutes. The introspection.md page discusses first-person access but could integrate the metacognition distinction more explicitly—introspection as a metacognitive skill operating on phenomenal states.
 - **Source**: chain (from metacognition.md)
 - **Generated**: 2026-01-18
 
@@ -69,6 +75,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review higher-order-theories.md with metacognition dissociation evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/metacognition.md presents empirical dissociation evidence (blindsight, blind insight) challenging HOT theory. The higher-order-theories.md page critiques HOT philosophically but could strengthen the case with this neural evidence that metacognition and consciousness come apart. Add Maniscalco-Lau findings and aPFC-consciousness separation evidence.
+- **Result**: Added "Empirical Dissociation Evidence" section with four subsections: Blindsight Revisited (Maniscalco-Lau 2012 alternative interpretation), Blind Insight (inverse dissociation—metacognition without conscious access), Neural Separation (aPFC tACS impairs metacognition while preserving perception), and summary table showing four dissociation patterns. Added metacognition to Further Reading and Maniscalco-Lau to References.
+- **Output**: Updated `concepts/higher-order-theories.md`
+
+### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md considering metacognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metacognition.md covers aPFC-metacognition connection and lucid dreaming. The dreams-and-consciousness.md page discusses lucid dreaming but could integrate the metacognition angle more explicitly—lucid dreaming as metacognitive access to dream state, aPFC structural differences in frequent lucid dreamers.
+- **Result**: Added "Lucid Dreaming as Metacognitive Awakening" section. Developed the enabling vs constitutive argument—non-lucid dreams are conscious but lack metacognitive access, proving metacognition operates *on* phenomenal content rather than creating it. Explained aPFC structural differences (Baird 2018) and HOT theory implications (non-lucid dreams as counterexample). Added metacognition and higher-order-theories to concepts and Further Reading.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review ai-consciousness.md considering metacognition implications
 - **Type**: cross-review
