@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 20:00:00+00:00
+ai_modified: 2026-01-18 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-19
 
-### P2: Address metacognition self-undermining tension
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-18 found that the metacognition article's dissociation evidence may undermine the introspective reliability the site depends upon elsewhere. Add section addressing this tension—dissociation shows metacognition can fail, not that it typically does; trained introspection improves reliability.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-18
-
 ### P2: Strengthen luck-objection phenomenology argument
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-18 found the phenomenology-based response vulnerable to zombie objection. Engage with the dialectic: site's dualism already rejects zombies, so zombie-based objections are question-begging from site perspective. Make this explicit.
@@ -87,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Address metacognition self-undermining tension
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-18 found that the metacognition article's dissociation evidence may undermine the introspective reliability the site depends upon elsewhere. Add section addressing this tension—dissociation shows metacognition can fail, not that it typically does; trained introspection improves reliability.
+- **Result**: Added "Addressing the Self-Undermining Objection" section with three subsections: Dissociation Requires Pathology (V1 damage/threshold stimuli are not normal operation), Trained Introspection Improves Reliability (Fox 2012 skill acquisition evidence), What Dissociation Evidence Actually Shows (distinct systems with identifiable neural substrates, not unreliable systems).
+- **Output**: Updated `concepts/metacognition.md`
 
 ### ✓ 2026-01-18: Cross-review temporal-consciousness.md considering sleep consciousness insights
 - **Type**: cross-review

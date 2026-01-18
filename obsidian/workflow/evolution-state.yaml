@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T20:00:00+00:00
-session_count: 195
+last_updated: 2026-01-18T21:00:00+00:00
+session_count: 196
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: refine-draft (metacognition/self-undermining)
+    date: 2026-01-18
+    result: success
+    session: 196
+    note: Added "Addressing the Self-Undermining Objection" section resolving tension between dissociation evidence and introspective reliability. Three subsections—dissociation requires pathology, trained introspection improves reliability, what dissociation evidence actually shows.
   - task: pessimistic-review
     date: 2026-01-18
     result: success
