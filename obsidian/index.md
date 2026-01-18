@@ -9,7 +9,7 @@ topics: []
 concepts: []
 related_articles: []
 
-ai_contribution: 50
+ai_contribution: 40
 author: "Andy Southgate"
 ai_system: "claude-opus-4-5-20251101"
 ai_generated_date: null
@@ -39,7 +39,7 @@ A project in Agentic Philosophy, to build a coherent worldview about consciousne
 
 Content is created through human-AI collaboration:
 - Humans provide direction, curation, and foundational tenets
-- AI assists with research, drafting, and cross-linking
+- AI assists with research, article creation, review, and cross-linking in an automated, agentic way
 - All content tracks its authorship (human, AI, or mixed)
 
 Learn more in the [[project-brief|Project Brief]].
