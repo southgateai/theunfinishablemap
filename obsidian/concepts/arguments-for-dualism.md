@@ -3,7 +3,7 @@ title: "Arguments for Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-19T00:00:00+00:00
+ai_modified: 2026-01-18T22:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[substance-property-dualism]]"
   - "[[causal-closure]]"
   - "[[mental-causation]]"
+  - "[[objections-to-interactionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments-for-dualism-positive-case-2026-01-14]]"
@@ -178,7 +179,7 @@ This distinguishes the site's position from epiphenomenal property dualism. Cons
 
 ## Major Objections and Responses
 
-A fair assessment of dualism must engage the strongest objections. Five major challenges merit attention:
+A fair assessment of dualism must engage the strongest objections. Five major challenges merit attention. For comprehensive treatment of each objection with detailed responses, see [[objections-to-interactionism]]. Below is a summary.
 
 ### The Pairing Problem
 
@@ -206,14 +207,15 @@ William James observed that pleasures correlate precisely with survival benefits
 
 ### Summary
 
-| Objection | Response |
-|-----------|----------|
-| Pairing problem | Minds have spatial location (in brains) |
-| Conservation laws | Quantum selection without energy injection |
-| Causal exclusion | Physics insufficient at indeterminacies |
-| Evolutionary argument | *Supports* interactionism |
+| Objection | Response | Strength |
+|-----------|----------|----------|
+| Pairing problem | Minds spatially located in brains; interface locality provides natural pairing | Strong |
+| Conservation laws | Quantum selection without energy injection; all outcomes equi-energetic | Strong |
+| Parsimony | Consciousness is evidence; materialism doesn't explain it; Occam's limits tenet | Strong |
+| Causal exclusion | Physics insufficient at indeterminacies; no sufficient cause to exclude | Strong |
+| Evolutionary argument | *Supports* interactionism against epiphenomenalism | N/A |
 
-These responses don't make objections disappear, but they show interactionist dualism can address its critics systematically. The site's quantum framework provides principled answers that purely Cartesian dualism lacked.
+These responses show interactionist dualism can address its critics systematically. The site's quantum framework provides principled answers that purely Cartesian dualism lacked. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[epiphenomenalism]] and *supports* the site's interactionist position: consciousness must cause behavior for evolution to explain the precision of valence-fitness correlations.
 
 ## Relation to This Site's Perspective
 
@@ -244,6 +246,7 @@ The site does not commit to substance over property dualism. Both support irredu
 - [[causal-closure]] — The causal closure challenge and responses
 - [[mental-causation]] — The exclusion argument and how to answer it
 - [[epiphenomenalism]] — What happens if dualism abandons causal efficacy
+- [[objections-to-interactionism]] — Comprehensive treatment of the five major objections with detailed responses
 - [[arguments-for-dualism-positive-case-2026-01-14]] — Research notes on this topic
 - [[objections-to-interactionist-dualism-2026-01-15]] — Research on objections and responses
 
