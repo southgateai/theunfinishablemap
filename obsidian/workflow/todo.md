@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:30:00+00:00
+ai_modified: 2026-01-18T23:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review episodic-memory.md considering sleep consciousness insights
-- **Type**: cross-review
-- **Notes**: The sleep-and-consciousness.md article explains how memory consolidation during sleep operates outside the conscious ~10 bits/second bandwidth. The episodic-memory.md page could integrate this—how sleep consolidation enables episodic memory formation while bypassing conscious experience, and the dissociation between encoding (conscious) and consolidation (unconscious).
-- **Source**: chain (from sleep-and-consciousness.md)
-- **Generated**: 2026-01-18
-
 ### P2: Research attention and motor control for quantum Zeno framework
 - **Type**: research-topic
 - **Notes**: The attention-as-interface and mental-effort pages develop the quantum Zeno mechanism for attention, but motor control offers another domain where consciousness selects among neural options. How does voluntary movement initiation relate to the selection framework? Libet's experiments touched this, but motor preparation and execution may have its own quantum signature. This could strengthen the bidirectional interaction tenet with motor evidence.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review episodic-memory.md considering sleep consciousness insights
+- **Type**: cross-review
+- **Notes**: The sleep-and-consciousness.md article explains how memory consolidation during sleep operates outside the conscious ~10 bits/second bandwidth. The episodic-memory.md page could integrate this—how sleep consolidation enables episodic memory formation while bypassing conscious experience, and the dissociation between encoding (conscious) and consolidation (unconscious).
+- **Result**: Added "Memory Consolidation: The Unconscious Phase" section with four subsections: Bypassing the Conscious Bottleneck (~10 bits/sec bandwidth, parallel replay, schema integration), The Encoding-Consolidation Dissociation (phase table showing encoding=conscious, consolidation=unconscious, retrieval=conscious), Computational Binding Without Phenomenal Binding, What Consolidation Reveals (hard problem sharpened by complex-computation-without-experience). Added sleep-and-consciousness to concepts and Further Reading. Added Meister 2024 reference.
+- **Output**: Updated `concepts/episodic-memory.md`
 
 ### ✓ 2026-01-18: Cross-review higher-order-theories.md with metacognition dissociation evidence
 - **Type**: cross-review
