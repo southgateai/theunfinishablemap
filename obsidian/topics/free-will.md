@@ -3,7 +3,7 @@ title: "Free Will and Determinism"
 created: 2026-01-08
 modified: 2026-01-13
 human_modified: null
-ai_modified: 2026-01-17T21:45:00+00:00
+ai_modified: 2026-01-18T18:30:00+00:00
 last_deep_review: 2026-01-15T14:30:00+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ concepts:
   - "[[moral-responsibility]]"
   - "[[prospective-memory]]"
   - "[[autonoetic-consciousness]]"
+  - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
@@ -174,6 +175,53 @@ E.J. Lowe's argument is especially relevant: if all causation is fundamentally s
 
 The [[mental-effort|phenomenology of effort]] supports the agent-causal picture. If choices were merely random quantum fluctuations, there would be no phenomenology of effort—no sense of the agent working to maintain focus. The felt cost of concentration reflects genuine causal engagement by the agent, not passive observation of random events. The agent is the source.
 
+## The Capacity to Suspend Selection
+
+The site's framework emphasizes that consciousness *selects*—it chooses among quantum possibilities. But [[meditation-and-consciousness-modes|meditation research]] reveals an additional dimension: consciousness can also *refrain from selecting*. This extends what free will means.
+
+### Witness Mode as an Aspect of Agency
+
+Meditation traditions distinguish two modes of consciousness:
+
+| Mode | Description | Neural Signature |
+|------|-------------|------------------|
+| **Active selection** | Consciousness engages, chooses, holds patterns stable | Frontal theta, ACC activation |
+| **Passive witnessing** | Consciousness observes without intervention | Alpha activity, PCC deactivation |
+
+Open monitoring meditation cultivates the witness mode—awareness without selection. Thoughts arise and pass without the meditator choosing among them or pushing any away.
+
+This isn't mere inactivity. It's a *capacity*—the ability to disengage the selection mechanism while remaining aware. The meditator exercises agency in entering and maintaining witness mode. Paradoxically, choosing not to choose is itself a choice.
+
+### Why This Extends Free Will
+
+Standard accounts of libertarian free will focus on the capacity to select otherwise. The free agent could have chosen B instead of A. But meditation reveals a second dimension: the agent can choose *whether to engage at all*.
+
+Consider Krishnamurti's "choiceless awareness"—perception without preference or compulsion. If such a state is achievable (as contemplative traditions claim), then agency includes:
+
+1. **Selecting among options** (standard libertarian free will)
+2. **Refraining from selection** (witness mode)
+3. **Choosing which mode to operate in** (meta-level agency)
+
+This third level—choosing whether to be a chooser—represents a form of freedom beyond what most free will discussions consider. The agent isn't just free to choose A or B; the agent is free to suspend the entire selection apparatus.
+
+### Implications for the Luck Objection
+
+The [[#The Luck Objection|luck objection]] asks: if a choice is undetermined, what makes it the agent's rather than a random fluctuation? The meditation research strengthens the agent-causal response.
+
+In active selection mode, consciousness exercises effort. In witness mode, consciousness exercises *restraint*. Both require the agent's participation—both feel like something. Random neural fluctuations lack this dual phenomenology. The agent can demonstrate authorship not just by selecting but by deliberately *not* selecting—entering a state where options arise and pass without intervention.
+
+A passive recipient of random quantum events couldn't choose to be passive. The very capacity for witness mode shows consciousness does something rather than merely receiving outcomes.
+
+### The Developmental Pattern
+
+Meditation research shows that effortless witnessing follows effortful practice. Beginners struggle to maintain stable attention; advanced practitioners describe effortlessness. This pattern reveals something about the architecture of agency.
+
+Initial selection training builds neural infrastructure. Through repeated exercise, the mechanisms supporting voluntary attention strengthen. Eventually, less continuous intervention is required. The skilled meditator's effortlessness reflects mastery, not absence of capacity.
+
+This maps onto skill acquisition generally. Novice drivers consciously monitor every action; experts drive automatically. But the expert retains the *capacity* for conscious intervention—and can exercise it when circumstances demand. Similarly, the advanced meditator's witness mode isn't loss of selective capacity but sophisticated exercise of it.
+
+The free will question isn't just whether we can select but whether we have *mastery* over the selecting apparatus itself—the ability to engage it, disengage it, and choose which mode serves the moment.
+
 ## What Free Will Requires
 
 On the site's framework, free will requires:
@@ -277,6 +325,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 - [[retrocausality]] — How backward causation resolves the timing problem
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
 - [[mental-effort]] — How the phenomenology of effort supports bidirectional interaction
+- [[meditation-and-consciousness-modes]] — How witness mode extends the picture of agency
 - [[causal-closure]] — The principle that mental causation challenges
 - [[epiphenomenalism]] — The alternative view and why it fails
 - [[tenets]] — The foundational commitments that ground this view
