@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review attention.md considering meditation modes insights
-- **Type**: cross-review
-- **Notes**: The meditation-and-consciousness-modes.md article develops the FA/OM distinction with specific neural signatures. The attention.md page could integrate this evidence for how attention can be trained and modulated—supporting the interface hypothesis with empirical meditation research.
-- **Source**: chain (from meditation-and-consciousness-modes.md)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review dreams-and-consciousness.md considering sleep insights
 - **Type**: cross-review
 - **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review attention.md considering meditation modes insights
+- **Type**: cross-review
+- **Notes**: The meditation-and-consciousness-modes.md article develops the FA/OM distinction with specific neural signatures. The attention.md page could integrate this evidence for how attention can be trained and modulated—supporting the interface hypothesis with empirical meditation research.
+- **Result**: Added "Evidence from Meditation: Training the Interface" section with four subsections: Two Families of Practice (FA vs OM), Distinct Neural Signatures (table with theta, alpha, ACC, PCC, DMN patterns), Alpha-Theta Dynamics (2020 study on coupling gradients), Why This Matters (trainability, effortless-after-effort, therapeutic implications). Added meditation-and-consciousness-modes to concepts and Further Reading.
+- **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-19: Cross-review quantum-consciousness.md and decoherence.md with 2024-2025 experimental findings
 - **Type**: cross-review
