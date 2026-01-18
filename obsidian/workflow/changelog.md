@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T21:15:00+00:00
+ai_modified: 2026-01-18T21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 208 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 208
+- **Mode**: standard (1 task)
+- **Tasks executed**: 2 (expand-topic + cross-review combined)
+- **Concepts written**: 85 (+1)
+- **Commit**: b83afca
+
+### 21:00 - expand-topic (relational-quantum-mechanics)
+- **Status**: Success
+- **Output**: Created `concepts/relational-quantum-mechanics.md`
+- **Changes**: Created ~2000 word concept page explaining Rovelli's relational interpretation of quantum mechanics. Covers: the core idea (physical properties as relations between systems), how RQM dissolves the measurement problem by relativizing collapse, challenges (intersubjectivity, solipsism, locality), what RQM removes (consciousness's special role), and why understanding RQM matters even for those who reject it. Includes comparison table with consciousness-causes-collapse approaches. Also updated `concepts/quantum-interpretations.md` with improved RQM section clarifying "observer" means any physical system, updated comparison table to show "Low" site compatibility, added relational-quantum-mechanics and multi-mind-collapse-problem to frontmatter and Further Reading.
+
+---
 
 ### 21:15 - coalesce (no action)
 - **Status**: No candidates found

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 20:50:00+00:00
+ai_modified: 2026-01-18 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,18 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-18
 
-### P2: Write concept page on relational quantum mechanics
-- **Type**: expand-topic
-- **Notes**: Research completed in research/relational-quantum-mechanics-2026-01-18.md. RQM (Rovelli 1996) proposes quantum states are relations between systems, not absolute properties. Explicitly removes special role for consciousness. While this conflicts with site tenets, understanding this interpretation is important for addressing multi-mind collapse problem and providing fair treatment of alternatives to consciousness-causes-collapse.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
-### P2: Cross-review quantum-interpretations.md with recent RQM research
-- **Type**: cross-review
-- **Notes**: New research in research/relational-quantum-mechanics-2026-01-18.md provides detailed analysis of Rovelli's relational interpretation. The quantum-interpretations.md page should integrate RQM as a significant alternative that explicitly removes consciousness from measurement, explaining why the site's framework prefers collapse interpretations.
-- **Source**: chain (from relational-quantum-mechanics research)
-- **Generated**: 2026-01-19
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -93,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on relational quantum mechanics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/relational-quantum-mechanics-2026-01-18.md. RQM (Rovelli 1996) proposes quantum states are relations between systems, not absolute properties. Explicitly removes special role for consciousness. While this conflicts with site tenets, understanding this interpretation is important for addressing multi-mind collapse problem and providing fair treatment of alternatives to consciousness-causes-collapse.
+- **Result**: Created ~2000 word concept page explaining RQM's core idea (physical properties as relations), how it dissolves the measurement problem, challenges (intersubjectivity, solipsism, locality), what RQM removes (consciousness's special role), and why understanding RQM matters even for those who reject it. Includes comparison table with consciousness-causes-collapse. Also updated quantum-interpretations.md with improved RQM section, updated comparison table, and added relational-quantum-mechanics to Further Reading.
+- **Output**: Created `concepts/relational-quantum-mechanics.md`, updated `concepts/quantum-interpretations.md`
+
+### ✓ 2026-01-18: Cross-review quantum-interpretations.md with recent RQM research
+- **Type**: cross-review
+- **Notes**: New research in research/relational-quantum-mechanics-2026-01-18.md provides detailed analysis of Rovelli's relational interpretation. The quantum-interpretations.md page should integrate RQM as a significant alternative that explicitly removes consciousness from measurement, explaining why the site's framework prefers collapse interpretations.
+- **Result**: Completed as part of the expand-topic task above. Updated RQM section to clarify that "observer" means any physical system, added Rovelli quote, explained conflict with Bidirectional Interaction tenet, added link to new relational-quantum-mechanics concept page. Updated comparison table to show "Low" site compatibility. Added relational-quantum-mechanics and multi-mind-collapse-problem to frontmatter and Further Reading.
+- **Output**: Updated `concepts/quantum-interpretations.md`
 
 ### ✓ 2026-01-18: Write article on quantum coherence in neural systems
 - **Type**: expand-topic
