@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T21:00:00+00:00
-session_count: 157
+last_updated: 2026-01-18T22:00:00+00:00
+session_count: 158
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -63,7 +63,7 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 78  # +1: meditation-observer-witness (session 154)
+  research_notes: 79  # +1: relational-quantum-mechanics (session 158)
   reviews_completed: 193  # +1: cross-review mental-effort/meditation (session 157)
 
 # Quality metrics (from last validation)
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (relational-quantum-mechanics)
+    date: 2026-01-18
+    result: success
+    session: 158
+    note: Comprehensive research on Rovelli's RQM. Key finding—RQM explicitly removes consciousness from any role, treating measurement as ordinary physical interaction. Conflicts with site tenets. However, RQM's perspectivalism offers interesting resolution to multi-mind collapse problem (facts relative to each observer). Identified four options for multi-mind problem. Generated chain task for article on multi-mind collapse problem.
   - task: cross-review (mental-effort/meditation)
     date: 2026-01-18
     result: success
@@ -1786,6 +1791,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # relational-quantum-mechanics-2026-01-18.md -> QUEUED as expand-topic (multi-mind collapse problem) session 158. Chain task added to todo.md.
     # meditation-observer-witness-phenomenon-2026-01-18.md -> COMPLETED as concepts/meditation-and-consciousness-modes.md (session 155). Cross-reviews for attention-as-interface.md and mental-effort.md remain queued.
     # voluntary-attention-control-mechanisms-2026-01-17.md -> could enhance attention.md or attention-as-interface.md (session 149)
     # episodic-memory-consciousness-2026-01-16.md -> concepts/autonoetic-consciousness.md COMPLETED session 131, self-and-consciousness.md cross-review COMPLETED session 131
