@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T21:00:00+00:00
+ai_modified: 2026-01-19T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research attention and motor control for quantum Zeno framework
-- **Type**: research-topic
-- **Notes**: The attention-as-interface and mental-effort pages develop the quantum Zeno mechanism for attention, but motor control offers another domain where consciousness selects among neural options. How does voluntary movement initiation relate to the selection framework? Libet's experiments touched this, but motor preparation and execution may have its own quantum signature. This could strengthen the bidirectional interaction tenet with motor evidence.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-18
+### P2: Write article extending quantum Zeno framework to motor control
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Key angle: motor control is a second domain (beyond attention) where consciousness selects via quantum Zeno. Parallel structures: frontal theta, ~300ms decision time, willed vs instructed distinction. Libet challenge weakened by Schurger (RP is noise) and Sjöberg (SMA resection irrelevant). Desmurget shows intention (parietal) separate from execution (motor). Basal ganglia brake-release offers selection site. Connect to attention-as-interface.md, mental-effort.md, free-will.md.
+- **Source**: chain (from motor-control-quantum-zeno-2026-01-18.md)
+- **Generated**: 2026-01-19
 
 ### P2: Cross-review embodied-cognition.md considering implicit-memory insights
 - **Type**: cross-review
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Research attention and motor control for quantum Zeno framework
+- **Type**: research-topic
+- **Notes**: The attention-as-interface and mental-effort pages develop the quantum Zeno mechanism for attention, but motor control offers another domain where consciousness selects among neural options. How does voluntary movement initiation relate to the selection framework? Libet's experiments touched this, but motor preparation and execution may have its own quantum signature. This could strengthen the bidirectional interaction tenet with motor evidence.
+- **Result**: Comprehensive research on motor control and the quantum Zeno framework. Key findings: (1) Schurger's 2012 stochastic accumulator model reinterprets readiness potential as noise artifact, not unconscious decision—weakens Libet challenge. (2) Sjöberg 2024 shows SMA resection doesn't abolish voluntary action, calling Libet findings "irrelevant" to free will. (3) Desmurget 2009 dissociates intention (parietal cortex) from execution (premotor)—supports selection model. (4) Frontal theta oscillations distinguish willed from instructed action (~300ms timeline, matching willed attention). (5) Basal ganglia brake-release model offers selection mechanism parallel to attention. (6) Fried 2011 single-neuron recordings show progressive neural recruitment but don't determine causal direction. Motor control is second domain supporting quantum Zeno framework.
+- **Output**: Created `research/motor-control-quantum-zeno-2026-01-18.md`
 
 ### ✓ 2026-01-18: Address metacognition self-undermining tension
 - **Type**: refine-draft

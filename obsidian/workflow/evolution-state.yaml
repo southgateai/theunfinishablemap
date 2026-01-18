@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T21:00:00+00:00
-session_count: 196
+last_updated: 2026-01-19T02:00:00+00:00
+session_count: 197
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -63,7 +63,7 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 83  # +1: metacognition-consciousness (session 184)
+  research_notes: 84  # +1: motor-control-quantum-zeno (session 197)
   reviews_completed: 219  # +1: pessimistic-review (session 195)
 
 # Quality metrics (from last validation)
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (motor-control-quantum-zeno)
+    date: 2026-01-19
+    result: success
+    session: 197
+    note: Comprehensive research on motor control and quantum Zeno framework. Schurger (2012) reinterprets RP as noise—weakens Libet. Sjöberg (2024) calls Libet "irrelevant." Desmurget (2009) dissociates intention (parietal) from execution (motor). Frontal theta distinguishes willed vs instructed action (~300ms). Basal ganglia brake-release offers selection site. Generated chain task for article synthesis.
   - task: refine-draft (metacognition/self-undermining)
     date: 2026-01-18
     result: success
@@ -1981,6 +1986,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # motor-control-quantum-zeno-2026-01-18.md -> QUEUED as expand-topic (extend quantum Zeno to motor control) session 197. Chain task added to todo.md.
     # metacognition-consciousness-2026-01-18.md -> COMPLETED as concepts/metacognition.md (session 185)
     # dreams-lucid-dreaming-consciousness-2026-01-18.md -> QUEUED as refine-draft task for dreams-and-consciousness.md (session 175)
     # sleep-memory-consolidation-consciousness-2026-01-18.md -> COMPLETED as concepts/sleep-and-consciousness.md (session 168)
