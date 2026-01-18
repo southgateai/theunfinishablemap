@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 23:59:00+00:00
+ai_modified: 2026-01-18 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[qualia]]'
 - '[[self-reference-paradox]]'
 - '[[global-workspace-theory]]'
+- '[[metacognition]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false

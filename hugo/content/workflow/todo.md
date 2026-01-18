@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 12:00:00+00:00
+ai_modified: 2026-01-18 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-18
 
-### P2: Write article on metacognition and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/metacognition-consciousness-2026-01-18.md. Key angle: "Metacognition: The Cognitive Layer Above Consciousness"—argue metacognition is distinct cognitive capacity consciousness enables rather than constitutes. Cover HOT critique (metacognition ≠ consciousness), aPFC neural substrate (lucid dreaming connection), trainability (meditation), metamemory phenomenology (TOT/FOK). Connect to higher-order-theories.md, introspection.md, dreams-and-consciousness.md, meditation-and-consciousness-modes.md.
-- **Source**: chain (from metacognition research)
-- **Generated**: 2026-01-18
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write article on metacognition and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/metacognition-consciousness-2026-01-18.md. Key angle: "Metacognition: The Cognitive Layer Above Consciousness"—argue metacognition is distinct cognitive capacity consciousness enables rather than constitutes. Cover HOT critique (metacognition ≠ consciousness), aPFC neural substrate (lucid dreaming connection), trainability (meditation), metamemory phenomenology (TOT/FOK). Connect to higher-order-theories.md, introspection.md, dreams-and-consciousness.md, meditation-and-consciousness-modes.md.
+- **Result**: Created ~2200 word concept page arguing metacognition is cognitive capacity consciousness enables rather than constitutes. Covers HOT critique, dissociation evidence (blindsight, blind insight), aPFC neural substrate, lucid dreaming connection, trainability (Fox 2012 meditation study), metamemory phenomena (TOT, FOK), animal metacognition. Added metacognition to concepts in higher-order-theories.md and introspection.md.
+- **Output**: Created `concepts/metacognition.md`
 
 ### ✓ 2026-01-18: Research metacognition and consciousness
 - **Type**: research-topic

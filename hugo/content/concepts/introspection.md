@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 16:00:00+00:00
+ai_modified: 2026-01-18 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[neurophenomenology]]'
 - '[[qualia]]'
 - '[[mysterianism]]'
+- '[[metacognition]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false

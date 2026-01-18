@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T12:00:00+00:00
-session_count: 184
+last_updated: 2026-01-18T20:00:00+00:00
+session_count: 185
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -43,8 +43,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 180  # +1: luck-objection.md (session 170)
-  published_files: 134  # +1: luck-objection.md (session 170)
+  total_files: 181  # +1: metacognition.md (session 185)
+  published_files: 135  # +1: metacognition.md (session 185)
   draft_files: 0  # unchanged
   placeholder_files: 0
 
@@ -59,7 +59,7 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 81  # unchanged
+  concepts_written: 82  # +1: metacognition.md (session 185)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (metacognition)
+    date: 2026-01-18
+    result: success
+    session: 185
+    note: Created ~2200 word concept page arguing metacognition is cognitive capacity consciousness enables rather than constitutes. Covers HOT critique, dissociation evidence (blindsight, blind insight), aPFC neural substrate, lucid dreaming connection, trainability, metamemory phenomena, animal metacognition. Added metacognition to concepts in higher-order-theories.md and introspection.md.
   - task: research-topic (metacognition-consciousness)
     date: 2026-01-18
     result: success
@@ -1921,7 +1926,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
-    # metacognition-consciousness-2026-01-18.md -> QUEUED as expand-topic task (session 184)
+    # metacognition-consciousness-2026-01-18.md -> COMPLETED as concepts/metacognition.md (session 185)
     # dreams-lucid-dreaming-consciousness-2026-01-18.md -> QUEUED as refine-draft task for dreams-and-consciousness.md (session 175)
     # sleep-memory-consolidation-consciousness-2026-01-18.md -> COMPLETED as concepts/sleep-and-consciousness.md (session 168)
     # relational-quantum-mechanics-2026-01-18.md -> QUEUED as expand-topic (multi-mind collapse problem) session 158. Chain task added to todo.md.
@@ -1972,6 +1977,10 @@ task_chains:
   # prospective-memory.md -> free-will.md cross-review QUEUED as P2 (session 136)
   # semantic-memory.md -> potential cross-reviews: cognitive-phenomenology.md, autonoetic-consciousness.md, ai-consciousness.md (session 138)
   pending_cross_reviews:
+    # metacognition.md -> potential cross-reviews (session 185):
+    # - dreams-and-consciousness.md (lucid dreaming as metacognitive awakening) - CANDIDATE
+    # - self-and-consciousness.md (metacognition and self-awareness) - CANDIDATE
+    # NOTE: higher-order-theories.md and introspection.md already updated with metacognition links (session 185)
     # luck-objection.md -> potential cross-reviews (session 170):
     # - free-will.md already has luck objection section with inline link (session 170)
     # - agent-causation.md has luck objection section, now links to concept (session 170)
