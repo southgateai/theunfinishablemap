@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 22:00:00+00:00
+ai_modified: 2026-01-19 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,6 +50,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-18
 
+### P2: Cross-review free-will.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md extends quantum Zeno framework from attention to motor control—parallel neural signatures, same ~300ms timing, basal ganglia brake-release selection mechanism. The free-will.md page discusses Libet but could strengthen its case with the motor-selection evidence.
+- **Source**: chain (from motor-selection.md)
+- **Generated**: 2026-01-18
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -69,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review libet-experiments.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md presents major reinterpretation of Libet findings—Schurger's stochastic accumulator model reinterprets readiness potential as noise not decision, Sjöberg 2024 calls Libet findings "irrelevant" after SMA resection preserved voluntary action. The libet-experiments.md page should integrate these contemporary critiques.
+- **Result**: Added two new sections: "Surgical Evidence: The SMA Resection Study" (Sjöberg 2024 clinical evidence that SMA resection doesn't impair voluntary action) and "Where Intention Actually Originates" (Desmurget 2009 parietal-premotor dissociation showing RP tracks preparation not decision). Added motor-selection and agent-causation to concepts and Further Reading. Strengthened argument that Libet measured the wrong signal.
+- **Output**: Updated `concepts/libet-experiments.md`
 
 ### ✓ 2026-01-18: Cross-review embodied-cognition.md considering implicit-memory insights
 - **Type**: cross-review

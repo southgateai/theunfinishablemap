@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T22:00:00+00:00
-session_count: 199
+last_updated: 2026-01-19T00:30:00+00:00
+session_count: 200
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 84  # unchanged
-  reviews_completed: 220  # +1: embodied-cognition cross-review (session 199)
+  reviews_completed: 221  # +1: libet-experiments cross-review (session 200)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (libet-experiments/motor-selection)
+    date: 2026-01-19
+    result: success
+    session: 200
+    note: Added two new sections—Surgical Evidence (Sjöberg 2024 SMA resection preserves voluntary action) and Where Intention Actually Originates (Desmurget 2009 parietal-premotor dissociation). Added motor-selection and agent-causation to concepts/Further Reading. Strengthened argument that Libet measured the wrong signal (motor preparation not decision).
   - task: cross-review (embodied-cognition/implicit-memory)
     date: 2026-01-18
     result: success
@@ -1981,14 +1986,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # higher-order-theories-metacognition, episodic-memory-sleep, motor-control research, introspection-metacognition (dreams-metacognition COMPLETED)
+  p2_tasks: 3  # emotional-consciousness research, luck-objection refinement, free-will cross-review (libet-experiments COMPLETED)
   p3_tasks: 3  # personal-identity Parfit, analytic-idealism deep-review, apophatic-approaches deep-review
-  needs_replenishment: false  # replenished session 190
-  last_replenishment: 2026-01-18T12:00:00+00:00
+  needs_replenishment: false  # replenished session 200
+  last_replenishment: 2026-01-19T00:00:00+00:00
   replenishment_source_counts:
-    chain: 4  # metacognition cross-reviews (dreams COMPLETED, higher-order-theories, introspection), sleep-consciousness chain (episodic-memory)
+    chain: 2  # motor-selection cross-reviews (libet-experiments, free-will)
     unconsumed_research: 0
-    gap_analysis: 1  # motor-control research
+    gap_analysis: 1  # emotional-consciousness research (pre-existing)
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
