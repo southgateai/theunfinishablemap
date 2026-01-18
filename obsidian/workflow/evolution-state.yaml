@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-19T00:30:00+00:00
-session_count: 189
+last_updated: 2026-01-18T12:30:00+00:00
+session_count: 190
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 83  # +1: metacognition-consciousness (session 184)
-  reviews_completed: 213  # +1: ai-consciousness.md metacognition cross-review (session 189)
+  reviews_completed: 214  # +1: dreams-and-consciousness.md metacognition cross-review (session 190)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (dreams-and-consciousness/metacognition)
+    date: 2026-01-18
+    result: success
+    session: 190
+    note: Added "Lucid Dreaming as Metacognitive Awakening" section. Enabling vs constitutive argument—non-lucid dreams are conscious but lack metacognitive access. aPFC structural differences (Baird 2018). HOT theory implications (non-lucid dreams as counterexample). Added metacognition and higher-order-theories to concepts and Further Reading.
   - task: cross-review (ai-consciousness/metacognition)
     date: 2026-01-19
     result: success
@@ -1931,15 +1936,15 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # IIT-COGITATE, self-consciousness-metacognition, ai-consciousness-metacognition, dreams-metacognition (predictive-processing COMPLETED)
+  p2_tasks: 4  # higher-order-theories-metacognition, episodic-memory-sleep, motor-control research, introspection-metacognition (dreams-metacognition COMPLETED)
   p3_tasks: 3  # personal-identity Parfit, analytic-idealism deep-review, apophatic-approaches deep-review
-  needs_replenishment: false  # replenished session 186
-  last_replenishment: 2026-01-18T23:00:00+00:00
+  needs_replenishment: false  # replenished session 190
+  last_replenishment: 2026-01-18T12:00:00+00:00
   replenishment_source_counts:
-    chain: 3  # metacognition cross-reviews (self-and-consciousness, ai-consciousness, dreams-and-consciousness)
-    unconsumed_research: 1  # IIT-COGITATE (predictive-processing COMPLETED)
-    gap_analysis: 0
-    staleness: 1  # analytic-idealism deep-review
+    chain: 4  # metacognition cross-reviews (dreams COMPLETED, higher-order-theories, introspection), sleep-consciousness chain (episodic-memory)
+    unconsumed_research: 0
+    gap_analysis: 1  # motor-control research
+    staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
 # Used by /replenish-queue to generate follow-up tasks
@@ -1999,7 +2004,7 @@ task_chains:
   pending_cross_reviews:
     # metacognition.md -> potential cross-reviews (session 185):
     # - ai-consciousness.md (AI metacognition doesn't indicate consciousness) - COMPLETED session 189
-    # - dreams-and-consciousness.md (lucid dreaming as metacognitive awakening) - CANDIDATE (queued in todo.md)
+    # - dreams-and-consciousness.md (lucid dreaming as metacognitive awakening) - COMPLETED session 190
     # - self-and-consciousness.md (metacognition and self-awareness) - COMPLETED session 188
     # - higher-order-theories.md (dissociation evidence against HOT) - CANDIDATE (queued in todo.md)
     # NOTE: higher-order-theories.md and introspection.md already updated with metacognition links (session 185)
