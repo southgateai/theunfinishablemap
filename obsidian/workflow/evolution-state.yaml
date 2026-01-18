@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T19:30:00+00:00
-session_count: 201
+last_updated: 2026-01-18T21:45:00+00:00
+session_count: 202
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 84  # unchanged
-  reviews_completed: 222  # +1: free-will cross-review (session 201)
+  reviews_completed: 223  # +1: quantum-consciousness cross-review (session 202)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (quantum-consciousness/motor-selection)
+    date: 2026-01-18
+    result: success
+    session: 202
+    note: Added "Motor Selection: A Second Domain" subsection to Quantum Zeno section. Comparison table (willed attention vs willed movement), explanation of two-domain evidence strengthening Zeno case, Libet challenge dissolution summary (Schurger, Sjöberg, Desmurget), basal ganglia as parallel selection site. Added motor-selection to concepts/Further Reading, three new references.
   - task: cross-review (free-will/motor-selection)
     date: 2026-01-18
     result: success

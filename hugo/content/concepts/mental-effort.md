@@ -13,6 +13,7 @@ concepts:
 - '[[specious-present]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[implicit-memory]]'
+- '[[motor-selection]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false

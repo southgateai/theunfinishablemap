@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 19:30:00+00:00
+ai_modified: 2026-01-18 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -68,7 +68,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
+### P2: Cross-review agent-causation.md considering motor-selection parallel
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md establishes that motor control has the same selection architecture as attention—frontal theta, ~300ms, willed vs instructed distinction. The agent-causation.md page mentions motor-selection in frontmatter but could strengthen its argument by explicitly discussing how two independent domains showing identical selection signatures supports agent-causal framework.
+- **Source**: chain (from motor-selection.md)
+- **Generated**: 2026-01-18
+
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review quantum-consciousness.md considering motor-selection evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md demonstrates motor control as a second domain (beyond attention) where quantum Zeno selection operates—parallel neural signatures (frontal theta), same ~300ms timing, basal ganglia selection mechanism. The quantum-consciousness.md page discusses attention-based Zeno mechanism but doesn't yet incorporate motor control as corroborating evidence for the framework.
+- **Result**: Added "Motor Selection: A Second Domain" subsection to the Quantum Zeno Effect (Stapp) section. Included comparison table (willed attention vs willed movement), explanation of why two domains strengthen the case, summary of Libet challenge dissolution (Schurger, Sjöberg, Desmurget), and basal ganglia as parallel selection site to thalamic gating. Added motor-selection to concepts and Further Reading. Added Schurger 2012, Sjöberg 2024, and Desmurget 2009 to References.
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review free-will.md considering motor-selection insights
 - **Type**: cross-review

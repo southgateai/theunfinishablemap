@@ -11,6 +11,7 @@ concepts:
 - '[[implicit-memory]]'
 - '[[attention-as-interface]]'
 - '[[luck-objection]]'
+- '[[motor-selection]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false

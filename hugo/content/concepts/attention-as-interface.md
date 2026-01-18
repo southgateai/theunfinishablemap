@@ -12,6 +12,7 @@ concepts:
 - '[[psychophysical-coupling-law]]'
 - '[[interface-locality]]'
 - '[[meditation-and-consciousness-modes]]'
+- '[[motor-selection]]'
 created: 2026-01-17
 date: &id001 2026-01-18
 draft: false
