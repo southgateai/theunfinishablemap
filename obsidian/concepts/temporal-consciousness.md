@@ -3,7 +3,7 @@ title: "Temporal Consciousness"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-17T20:15:00+00:00
+ai_modified: 2026-01-18T16:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,8 @@ concepts:
   - "[[autonoetic-consciousness]]"
   - "[[prospective-memory]]"
   - "[[personal-identity]]"
+  - "[[sleep-and-consciousness]]"
+  - "[[dreams-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-consciousness-2026-01-14]]"
@@ -167,6 +169,39 @@ If merely characteristic, radically different temporal architectures might suppo
 
 The site's framework suggests the former. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible. If temporal binding is constitutive of consciousness, this adds another dimension to irreducibility. It's not just that qualia can't be functionally defined, but that the temporal structure of experience can't be replicated by systems lacking appropriate dynamics.
 
+## Sleep and the Modulation of Temporal Experience
+
+[[sleep-and-consciousness|Sleep]] provides a natural laboratory for understanding temporal consciousness. During sleep, the specious present doesn't merely persist with different content—it transforms, shrinks, and sometimes vanishes entirely.
+
+### When Time Disappears
+
+Dreamless NREM sleep creates a remarkable phenomenological datum: seven hours can pass with no temporal experience whatsoever. Upon waking from dreamless sleep, there is no sense of duration having elapsed—time doesn't feel compressed or stretched; it simply wasn't there. The interval between falling asleep and waking feels instantaneous, not because it was brief but because there was no one home to experience it.
+
+This contrasts with dreaming, where time is experienced but distorted. Dream narratives that feel hours long may occur during minutes of REM. The ~10 bits/second bandwidth constraint persists in dreams—conscious experience maintains its narrow bottleneck—but the subjective-objective time relationship becomes uncoupled.
+
+The metaphysical implications are striking. If the specious present is consciousness experiencing real temporal passage (as A-theorists hold), what happens when the specious present vanishes? One possibility: consciousness genuinely withdraws, and no temporal experience occurs because no collapse happens in the posterior hot zone that correlates with dreaming. Another: temporal experience continues but isn't consolidated into memory, making it retrospectively inaccessible. The phenomenology favors the first interpretation—dreamless sleep doesn't feel like forgotten experience but like no experience at all.
+
+### The Temporal Spectrum in Sleep
+
+| State | Temporal Phenomenology | Specious Present Status |
+|-------|------------------------|------------------------|
+| Waking | Normal flow, ~100-750ms specious present | Fully engaged |
+| Drowsiness | Slowed, expanded, hypnagogic discontinuities | Fragmenting |
+| NREM (dreamless) | Absent—time vanishes | Offline |
+| NREM (dreaming) | Thought-like, less vivid temporal structure | Partially engaged |
+| REM (non-lucid) | Distorted, uncoupled from clock time | Engaged without metacognition |
+| Lucid REM | Variable—can attend to dream time or waking time | Engaged with metacognition |
+
+This gradient reveals that temporal consciousness isn't binary. The specious present can be fully engaged, partially engaged, fragmenting, or entirely offline—suggesting modular components that can dissociate.
+
+### Implications for the Site's Framework
+
+Sleep's temporal phenomenology supports the [[tenets#^dualism|Dualism]] tenet. If consciousness were identical to neural computation, some temporal experience should persist during dreamless NREM—the brain remains active, oscillations continue, homeostatic processes proceed. But there's nothing it's like to undergo NREM slow-wave sleep. Complex computation without temporal experience suggests computation and experience are distinct.
+
+For the [[time-collapse-and-agency|collapse framework]], dreamless sleep may represent a state where the consciousness-collapse mechanism is completely disengaged. No collapse means no temporal facts being constituted, which means no specious present, which means no experienced time. Memory consolidation during NREM proceeds computationally but doesn't enter experienced time because it doesn't involve the collapse process that constitutes temporal flow.
+
+The trainability of temporal awareness further supports [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. Lucid dreaming demonstrates that metacognitive access to temporal experience during sleep can be developed through practice—the interface between consciousness and temporal structure is plastic, not fixed.
+
 ## Collapse and the Origin of Temporal Flow
 
 A deeper question lurks behind the phenomenology: why does time flow at all? The site's [[collapse-and-time|analysis of collapse and the arrow of time]] suggests consciousness may be implicated not just in experiencing temporal flow but in constituting it.
@@ -201,6 +236,8 @@ The temporal argument strengthens the case that consciousness requires something
 - [[collapse-and-time]] — How consciousness may participate in time's arrow via quantum collapse
 - [[duration]] — Bergson's durée and the qualitative character of lived time
 - [[time-collapse-and-agency]] — The site's full treatment of time, collapse, and conscious agency
+- [[sleep-and-consciousness]] — How sleep modulates and can eliminate temporal experience
+- [[dreams-and-consciousness]] — Dream phenomenology and temporal distortion
 - [[ai-consciousness]] — Why the site holds AI systems are not conscious
 - [[functionalism]] — The theory that mental states are functional roles
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-matter interaction
