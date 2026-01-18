@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 14:30:00+00:00
+ai_modified: 2026-01-18 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P1: Research meditation and the observer-witness phenomenon
+- **Type**: research-topic
+- **Notes**: Study meditation techniques, particularly those asking practitioners to observe without interference—being a "watcher" who does not judge, mentally explore, or intervene. Explore parallels with the site's framework where the brain generates options and consciousness selects among them. Key questions: Does the observer/witness experience support the selection-among-options model? What does neuroscience say about brain activity during passive observation vs active thinking? How does meditation relate to attention-as-interface and mental-effort concepts? After research, expand todo list to cover any further reserach required, and then synthesis articles.
+- **Source**: human_request
+- **Generated**: 2026-01-17
+
+### P2: Research Carlo Rovelli's relational quantum mechanics
+- **Type**: research-topic
+- **Notes**: Deep research into relational quantum mechanics (RQM) with focus on multi-observer scenarios. Key problem for the site: if consciousness causes collapse AND there are other minds, multiple minds are selecting from neural firing patterns via collapse. How are these selections reconciled? Does a single collapse affect the waveform everywhere (nonlocality), or can multiple independent collapses coexist (relationalism)? RQM holds that quantum states are always relative to an observer—there is no "view from nowhere." Explore: Does RQM resolve the multi-mind collapse problem? Does it support or undermine the site's quantum-consciousness framework? What happens when two conscious observers measure the same system? After research, produce an article exploring these implications fully.
+- **Source**: human_request
+- **Generated**: 2026-01-17
+
 ### P2: Cross-review global-workspace-theory.md considering memory system insights
 - **Type**: cross-review
 - **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
@@ -63,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Deep review and expand problem-of-other-minds.md
+- **Type**: deep-review
+- **Notes**: The article currently omits a key epistemic argument: if there were no other conscious minds, we would be born into a world with no knowledge of consciousness as a concept and no mention of it in established discourse. The very existence of consciousness as a topic of discussion, with its extensive philosophical literature and common-sense acceptance, is evidence that multiple conscious beings have independently discovered and communicated about their inner experience. Expand the article to include this "argument from discourse" or "argument from conceptual inheritance."
+- **Result**: Added "The Argument from Discourse" section presenting the epistemic argument that consciousness discourse itself evidences other minds. Cross-cultural vocabulary convergence (Sanskrit *chit*, Greek *nous*, phenomenological *qualia*), the counterfactual of zombie-world lacking the concept, three supporting points (doesn't rely on behavioral similarity, addresses sample-of-one problem, explains genuine disagreement possibility).
+- **Output**: Updated `concepts/problem-of-other-minds.md`
 
 ### ✓ 2026-01-17: Cross-review agent-causation.md considering voluntary attention mechanisms
 - **Type**: cross-review

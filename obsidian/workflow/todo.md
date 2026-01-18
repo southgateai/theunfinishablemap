@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T14:30:00+00:00
+ai_modified: 2026-01-18T16:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: human_request
 - **Generated**: 2026-01-17
 
-### P1: Deep review and expand problem-of-other-minds.md
-- **Type**: deep-review
-- **Notes**: The article currently omits a key epistemic argument: if there were no other conscious minds, we would be born into a world with no knowledge of consciousness as a concept and no mention of it in established discourse. The very existence of consciousness as a topic of discussion, with its extensive philosophical literature and common-sense acceptance, is evidence that multiple conscious beings have independently discovered and communicated about their inner experience. Expand the article to include this "argument from discourse" or "argument from conceptual inheritance."
-- **Source**: human_request
-- **Generated**: 2026-01-17
-
 ### P2: Research Carlo Rovelli's relational quantum mechanics
 - **Type**: research-topic
 - **Notes**: Deep research into relational quantum mechanics (RQM) with focus on multi-observer scenarios. Key problem for the site: if consciousness causes collapse AND there are other minds, multiple minds are selecting from neural firing patterns via collapse. How are these selections reconciled? Does a single collapse affect the waveform everywhere (nonlocality), or can multiple independent collapses coexist (relationalism)? RQM holds that quantum states are always relative to an observer—there is no "view from nowhere." Explore: Does RQM resolve the multi-mind collapse problem? Does it support or undermine the site's quantum-consciousness framework? What happens when two conscious observers measure the same system? After research, produce an article exploring these implications fully.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Deep review and expand problem-of-other-minds.md
+- **Type**: deep-review
+- **Notes**: The article currently omits a key epistemic argument: if there were no other conscious minds, we would be born into a world with no knowledge of consciousness as a concept and no mention of it in established discourse. The very existence of consciousness as a topic of discussion, with its extensive philosophical literature and common-sense acceptance, is evidence that multiple conscious beings have independently discovered and communicated about their inner experience. Expand the article to include this "argument from discourse" or "argument from conceptual inheritance."
+- **Result**: Added "The Argument from Discourse" section presenting the epistemic argument that consciousness discourse itself evidences other minds. Cross-cultural vocabulary convergence (Sanskrit *chit*, Greek *nous*, phenomenological *qualia*), the counterfactual of zombie-world lacking the concept, three supporting points (doesn't rely on behavioral similarity, addresses sample-of-one problem, explains genuine disagreement possibility).
+- **Output**: Updated `concepts/problem-of-other-minds.md`
 
 ### ✓ 2026-01-17: Cross-review agent-causation.md considering voluntary attention mechanisms
 - **Type**: cross-review
