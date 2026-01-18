@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 22:00:00+00:00
+ai_modified: 2026-01-19 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review loss-of-consciousness.md considering sleep consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/sleep-and-consciousness.md develops sleep as a distinct consciousness-reduction state. The loss-of-consciousness page covers anesthesia, coma, but sleep deserves its own treatment—different mechanism (evolved, reversible, preserves integration-segregation) vs pathological/pharmacological states. Add cross-reference and possibly a subsection.
-- **Source**: chain (from sleep-and-consciousness.md)
-- **Generated**: 2026-01-18
-
 ### P2: Research dreams and lucid dreaming for consciousness framework
 - **Type**: research-topic
 - **Notes**: The site has dreams-and-consciousness.md but it's sparse. Sleep-and-consciousness.md mentions lucid dreaming as interface reactivation. A deeper research dive could explore: What do dreams reveal about consciousness without normal sensory input? How do lucid dreams demonstrate voluntary interface engagement during sleep? What does dream phenomenology suggest about consciousness requirements? This would strengthen the dreams concept page.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-18
+
+### P2: Cross-review ai-consciousness.md considering Hoel continual learning argument
+- **Type**: cross-review
+- **Notes**: Research in hoel-llm-consciousness-continual-learning-2026-01-15.md presents Hoel's "proximity argument"—LLMs are closer to lookup tables in substitution space than brains are, so no non-trivial consciousness theory can judge them conscious. The ai-consciousness page should engage with this argument. Also covers the continual learning requirement (consciousness may require ongoing learning, not frozen weights).
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-18
+
+### P2: Cross-review quantum-consciousness.md considering luck-objection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/luck-objection.md addresses the concern that indeterministic choices are arbitrary. The quantum-consciousness page discusses how consciousness selects among quantum outcomes but may not explicitly address why this isn't just replacing determinism with randomness. Add cross-reference to strengthen the framework.
+- **Source**: chain (from luck-objection.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review free-will.md considering agent-causation neural signatures
+- **Type**: cross-review
+- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md identified specific neural signatures of willed attention (frontal theta, 300ms deployment, bidirectional coherence). The free-will page discusses phenomenology of volition but could be strengthened with these empirical findings showing willed action is neurally distinct from instructed action.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
@@ -63,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review loss-of-consciousness.md considering sleep consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/sleep-and-consciousness.md develops sleep as a distinct consciousness-reduction state. The loss-of-consciousness page covers anesthesia, coma, but sleep deserves its own treatment—different mechanism (evolved, reversible, preserves integration-segregation) vs pathological/pharmacological states. Add cross-reference and possibly a subsection.
+- **Result**: Added comprehensive "Sleep: The Evolved Consciousness Reduction" section with four subsections: Sleep Versus Anesthesia (2025 thalamic pattern findings, integration-segregation preservation), Consciousness Gradations During Sleep (posterior hot zone dynamics, graded vs binary), Why Sleep Reduces Consciousness (~10 bits/sec bandwidth, voluntary disengagement for maintenance), and The Binding Problem During Sleep (computational vs phenomenal binding dissociation). Updated frontmatter with sleep-and-consciousness and binding-problem links. Enhanced temporal vanishing section with sleep gradation cross-reference.
+- **Output**: Updated `topics/loss-of-consciousness.md`
 
 ### ✓ 2026-01-18: Write concept article on the luck objection to libertarian free will
 - **Type**: expand-topic
