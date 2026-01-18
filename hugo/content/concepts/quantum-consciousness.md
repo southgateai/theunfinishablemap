@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-17 23:30:00+00:00
+ai_modified: 2026-01-18 23:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ concepts:
 - '[[emergence]]'
 - '[[psychophysical-coupling-law]]'
 - '[[interface-locality]]'
+- '[[multi-mind-collapse-problem]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -196,6 +197,20 @@ This preserves:
 
 The prebiotic problem thus doesn't refute quantum consciousness theories—it refines them, clarifying that consciousness is not the *sole* source of collapse but a participant in collapse processes where the right neural interfaces exist.
 
+## The Multi-Mind Collapse Problem
+
+A related objection: if consciousness causes collapse, whose consciousness counts when multiple observers are involved? If Alice and Bob both measure a quantum system, and Alice's consciousness collapses it to outcome A while Bob's consciousness collapses it to outcome B, what actually happens? This [multi-mind collapse problem](/concepts/multi-mind-collapse-problem/) seems to require either nonlocal coordination between minds (violating locality) or some arbitrary priority rule (whose collapse "wins").
+
+The site's resolution follows from the same [interface-locality](/concepts/interface-locality/) principle that addresses the brain-boundary question. Consciousness can only modulate collapse within neural systems already integrated into its control loop. Alice's consciousness selects among Alice's neural patterns; Bob's consciousness selects among Bob's. Neither can affect the other's brain or external quantum systems.
+
+For shared observations, the [objective-collapse-plus-modulation](/concepts/prebiotic-collapse/) framework applies:
+
+1. **External systems collapse physically.** A photon at a beam splitter produces a definite outcome through objective collapse, regardless of observers.
+2. **Neural systems collapse with modulation.** Within each brain, that mind's consciousness biases which neural patterns representing the observation become actual.
+3. **Agreement emerges naturally.** Since both observers are processing the same physical fact (the already-collapsed photon position), their brain states—though independently modulated—represent the same external reality.
+
+The multi-mind problem, like the prebiotic problem, thus refines rather than refutes quantum consciousness theories. It clarifies that consciousness doesn't cause *universal* collapse—it modulates collapse *locally* within its own neural interface. This respects locality, avoids coordination paradoxes, and preserves bidirectional interaction where it matters: in the brain where experience actually happens.
+
 ## Time-Symmetric Interpretations: Atemporal Selection
 
 A distinct approach to consciousness's role in collapse comes from time-symmetric quantum mechanics. Aharonov's Two-State Vector Formalism (TSVF), Cramer's transactional interpretation, and related frameworks describe quantum systems with boundary conditions at both past and future. In these views, "collapse" isn't a moment when superposition ends—it's the satisfaction of constraints across time.
@@ -274,6 +289,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 - [retrocausality](/concepts/retrocausality/) — Another quantum approach to consciousness-physics interface
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may be constitutive of temporal structure
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the site resolves the "collapse before minds" problem
+- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How multiple observers are reconciled under interface locality
 - [locality](/concepts/locality/) — Addresses spatial objections to quantum consciousness
 - [tenets](/tenets/) — The site's foundational commitments
 - [quantum-consciousness-mechanisms-2026-01-08](/research/quantum-consciousness-mechanisms-2026-01-08/) — Detailed research notes

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 00:30:00+00:00
+ai_modified: 2026-01-18 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering multi-mind collapse resolution
-- **Type**: cross-review
-- **Notes**: New article concepts/multi-mind-collapse-problem.md explains why consciousness-causes-collapse faces the multi-observer coordination problem and how interface locality resolves it. The measurement-problem page discusses consciousness-based interpretations but may not address this objection explicitly. Add cross-reference and strengthen the treatment of observer-dependent collapse.
-- **Source**: chain (from multi-mind-collapse-problem.md)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review quantum-consciousness.md considering meditation selector/witness modes
 - **Type**: cross-review
 - **Notes**: New article concepts/meditation-and-consciousness-modes.md develops the distinction between active selection (quantum Zeno) and passive witnessing (reduced observation rate). The quantum-consciousness page could integrate witness mode as evidence that consciousness can modulate its collapse-inducing activity—not just select, but also refrain from selecting.
 - **Source**: chain (from meditation-and-consciousness-modes.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review free-will.md considering meditation selector/witness modes
+- **Type**: cross-review
+- **Notes**: New article concepts/meditation-and-consciousness-modes.md develops the distinction between active selection and passive witnessing. The free-will page could integrate the capacity to suspend selection as an aspect of agency—not just choosing among options, but choosing whether to choose at all. This extends libertarian free will beyond mere selection.
+- **Source**: chain (from meditation-and-consciousness-modes.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review interactionist-dualism.md considering multi-mind collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/multi-mind-collapse-problem.md addresses a key objection to consciousness-causes-collapse: how multiple observers coordinate. The interactionist-dualism page should integrate interface locality as the resolution—each consciousness modulates only its own brain, avoiding the need for nonlocal coordination between minds.
+- **Source**: chain (from multi-mind-collapse-problem.md)
+- **Generated**: 2026-01-18
+
+### P2: Research consciousness and memory consolidation during sleep
+- **Type**: research-topic
+- **Notes**: The site has extensive coverage of episodic, semantic, and implicit memory, but limited coverage of how consciousness relates to memory consolidation. Key questions: What role does consciousness play in memory consolidation during sleep? Does the reduced consciousness of deep sleep serve a function for memory? How do lucid dreams fit the framework? This fills a gap between the memory articles and loss-of-consciousness coverage.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -63,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review measurement-problem.md considering multi-mind collapse resolution
+- **Type**: cross-review
+- **Notes**: New article concepts/multi-mind-collapse-problem.md explains why consciousness-causes-collapse faces the multi-observer coordination problem and how interface locality resolves it. The measurement-problem page discusses consciousness-based interpretations but may not address this objection explicitly. Add cross-reference and strengthen the treatment of observer-dependent collapse.
+- **Result**: Added "The Multi-Observer Coordination Problem" subsection to the Observer Problem section. Explains the three uncomfortable options (first observer wins, consensus required, dominant consciousness) and the site's resolution via interface locality + objective collapse. Each consciousness modulates only its own brain; external reality determined by physical objective collapse. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
+- **Output**: Updated `concepts/measurement-problem.md`
 
 ### ✓ 2026-01-19: Cross-review neural-correlates-of-consciousness.md considering memory insights
 - **Type**: cross-review

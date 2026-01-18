@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-15 22:10:00+00:00
+ai_modified: 2026-01-18 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,9 @@ concepts:
 - '[[causal-closure]]'
 - '[[mental-causation]]'
 - '[[mental-effort]]'
+- '[[multi-mind-collapse-problem]]'
+- '[[interface-locality]]'
+- '[[prebiotic-collapse]]'
 created: 2026-01-14
 date: &id001 2026-01-16
 draft: false
@@ -119,6 +122,22 @@ Experiments have tested Wigner's friend scenarios using photons as "observers." 
 
 The observer problem remains exactly where it started: we know measurements yield definite results, but we don't know what physical conditions are sufficient for "measurement" to occur.
 
+### The Multi-Observer Coordination Problem
+
+Consciousness-based interpretations face a further challenge: if consciousness causes collapse, what happens when multiple minds observe the same system? Alice measures a photon's position; so does Bob. If Alice's consciousness collapses the wavefunction to outcome A and Bob's to outcome B, how is this reconciled?
+
+This "[multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)" generates several uncomfortable options:
+
+- **First observer wins**: But relativity provides no absolute temporal ordering for spacelike-separated measurements.
+- **Consensus required**: But this requires either nonlocal coordination between minds or indefinite superposition until all observers agree.
+- **Dominant consciousness**: But this requires an unmeasurable hierarchy of observer "strength."
+
+The site's resolution combines [interface-locality](/concepts/interface-locality/) with [objective collapse](/concepts/prebiotic-collapse/). Consciousness doesn't cause collapse universally—it *modulates* collapse specifically within neural systems. External reality (the photon's position) is determined by physical objective collapse. Each consciousness then modulates only its own brain's response to that already-determined external fact.
+
+This dissolves the coordination problem: Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. There is no point where their selections must be reconciled because they operate on entirely different substrates. Agreement between observers reflects the fact that external reality was determined by physics, not that multiple consciousnesses somehow coordinated their selections.
+
+This resolution preserves consciousness's causal efficacy while avoiding the paradoxes of universal consciousness-collapse. The scope is local—one brain—but the significance is not diminished: consciousness modulating neural patterns is the mechanism for mental causation, free will, and the entire subjective domain.
+
 ## The Causal Closure Loophole
 
 The measurement problem reveals a genuine gap in physical explanation—and this gap is exactly where [mental-causation](/concepts/mental-causation/) becomes possible.
@@ -160,6 +179,9 @@ The measurement problem directly supports the site's framework:
 - [causal-closure](/concepts/causal-closure/) — Why physics isn't causally closed
 - [mental-causation](/concepts/mental-causation/) — How consciousness can influence physics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of attentional control
+- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How multiple observers' collapses are reconciled
+- [interface-locality](/concepts/interface-locality/) — Why consciousness can only select within its own brain
+- [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed outcomes before minds existed
 - [tenets](/tenets/) — The site's foundational commitments
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-18 00:00:00+00:00
+ai_modified: 2026-01-18 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,8 +11,9 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling-law]]'
 - '[[interface-locality]]'
+- '[[meditation-and-consciousness-modes]]'
 created: 2026-01-17
-date: &id001 2026-01-17
+date: &id001 2026-01-18
 draft: false
 human_modified: null
 last_curated: null
@@ -21,6 +22,7 @@ related_articles:
 - '[[tenets]]'
 - '[[attention-as-interface-hypothesis-2026-01-16]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
+- '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 title: Attention as Interface Hypothesis
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -172,6 +174,55 @@ A critical feature of the interface is its bandwidth limitation. Conscious proce
 
 The bandwidth constraint connects to the [psychophysical coupling law](/concepts/psychophysical-coupling-law/) that specifies what consciousness can and cannot do. Attention provides the channel; bandwidth limits what flows through it.
 
+## Meditation as Interface Training
+
+Meditation practice provides a unique window onto the attention interface. Contemplative traditions have developed systematic methods for both strengthening and disengaging the interface—methods that neuroscience confirms produce distinct brain signatures.
+
+### Focused Attention Meditation
+
+Focused attention (FA) meditation—concentration on a single object like the breath or a mantra—trains the selection mechanism. The meditator repeatedly notices when attention wanders and redirects it to the chosen object. This is interface training: strengthening the capacity to select.
+
+The neural signature of FA meditation shows:
+- Frontal theta oscillations (effortful control)
+- ACC activation (conflict monitoring)
+- Dorsal attention network engagement
+- Alpha-theta harmonic coupling
+
+From the quantum Zeno perspective, FA meditation practices *holding*—sustaining observation on a target, allowing the Zeno effect to stabilize desired neural patterns. Advanced concentrative states may represent maximally efficient Zeno engagement, where the meditator can maintain extended attention with increasingly refined effort.
+
+### Open Monitoring Meditation
+
+Open monitoring (OM) meditation—non-reactive awareness of whatever arises—cultivates a different relationship to the interface. Rather than selecting a focus, the meditator receives all contents equally without preference or intervention.
+
+The neural signature differs markedly:
+- PCC deactivation (correlated with effortlessness)
+- DMN quieting (reduced self-referential processing)
+- Increased alpha activity (relaxed awareness)
+- Reduced alpha-theta coupling
+
+OM meditation reveals that consciousness need not engage the selection mechanism. The interface can be released. This corresponds to what contemplative traditions call "witness consciousness" or *sakshi*—pure observation without intervention.
+
+### Two Modes, One Interface
+
+The FA/OM distinction suggests consciousness has two modes of relating to the attention interface:
+
+| Mode | Practice | Interface State | Zeno Mechanism |
+|------|----------|-----------------|----------------|
+| Active selection | FA meditation | Engaged | High observation rate |
+| Passive witnessing | OM meditation | Disengaged | Reduced observation |
+
+This extends the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness can influence matter through attention—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection. The [meditation and consciousness modes](/concepts/meditation-and-consciousness-modes/) page develops this distinction in detail.
+
+The two modes have different phenomenology: FA feels effortful; OM feels effortless. A neurofeedback study found that when experienced meditators reported "not efforting," their posterior cingulate cortex deactivated. Subjective effortlessness corresponds to measurable neural disengagement.
+
+### The Krishnamurti Challenge
+
+Jiddu Krishnamurti advocated "choiceless awareness"—observation without the observer selecting or judging. This poses a challenge to a selection-based framework: if true awareness is choiceless, doesn't emphasizing selection miss something essential?
+
+The interface hypothesis offers a response: selection is consciousness's *capacity*, not its *essence*. Just as the capacity to speak doesn't require constant speaking, the capacity to select doesn't require constant selection. OM meditation and choiceless awareness reveal what consciousness is when not engaged in selection—but the existence of this mode presupposes the capacity that FA meditation strengthens.
+
+Alternatively, Krishnamurti may describe selection without ego—where the distorting lens of self-interest is removed, and selection serves clarity rather than craving. The interface remains operative; what changes is the quality of its use.
+
 ## Relation to Major Theories
 
 ### Global Workspace Theory
@@ -259,8 +310,10 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 - [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — The formal constraints on mind-matter interaction
 - [interface-locality](/concepts/interface-locality/) — Why selection is restricted to the brain
 - [agent-causation](/concepts/agent-causation/) — How consciousness initiates action
+- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selector vs witness modes in meditation
 - [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/) — Detailed research notes
 - [voluntary-attention-control-mechanisms-2026-01-17](/research/voluntary-attention-control-mechanisms-2026-01-17/) — Research on willed attention mechanisms
+- [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/) — Research on meditation and observer/witness states
 
 ## References
 
