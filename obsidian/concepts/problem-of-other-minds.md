@@ -1,9 +1,9 @@
 ---
 title: "Problem of Other Minds"
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-14T23:50:00+00:00
+ai_modified: 2026-01-18T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-18T16:30:00+00:00
 ---
 
 How can I know that you are conscious? I have direct access to my own experience—the felt quality of seeing red, the ache of sadness, the taste of coffee. But my access to your mental life is entirely indirect. I observe your behavior, hear your words, perhaps scan your brain. None of this shows me *your* experience from the inside. The asymmetry is stark: first-person certainty about my own consciousness, third-person inference about yours.
@@ -72,6 +72,26 @@ This approach dissolves the skeptical problem rather than solving it. The proble
 A recent alternative holds that we perceive other minds directly. When I see your face contort in anger, I don't infer your anger from the contortion—I see the anger itself. Mental properties are available in experience, not hidden behind behavior.
 
 This captures how interpersonal understanding actually feels: immediate, perceptual, not inferential. Yet what exactly do we perceive? If I perceive your anger by seeing your expression, I seem to perceive the expression, not the feeling itself. The approach may relocate rather than resolve the problem.
+
+### The Argument from Discourse
+
+A powerful but underappreciated argument approaches the problem from a different angle: the very existence of consciousness as a concept in human discourse provides evidence for other minds.
+
+Consider what would happen if you were the only conscious being in a world of philosophical zombies. You would be born into a world where the concept of consciousness does not exist in language, philosophy, or common understanding. No one would have written about qualia, the hard problem, or what it's like to be something. The word "consciousness" would have no established meaning beyond functional descriptions of alertness or attention. You would have to invent the concept from scratch, and when you tried to explain it to others, they would have no idea what you meant—not because the topic is difficult, but because they have no referent for your words.
+
+Instead, we find the opposite. The concept of consciousness pervades human discourse across cultures and throughout history. Philosophical traditions worldwide have developed sophisticated vocabularies for inner experience: Sanskrit has *chit* and *anubhava*, Greek has *phronesis* and *nous*, phenomenology has *qualia* and *intentionality*. Religious traditions speak of souls, spirits, and the felt presence of divine encounter. Ordinary language overflows with mental predicates: "I feel," "she believes," "he fears," "they hope."
+
+This conceptual inheritance is evidence. The rich, cross-cultural vocabulary for inner experience suggests that many minds have independently discovered and communicated about their subjective states. The convergence is striking: minds in different bodies, different cultures, different centuries have arrived at similar distinctions (sensation vs. thought, belief vs. desire, consciousness vs. unconsciousness). This convergence would be a remarkable coincidence if only one being were actually experiencing anything.
+
+The argument has significant force:
+
+**It doesn't rely on behavioral similarity.** The argument from analogy infers your consciousness from bodily resemblance. The argument from discourse infers from *conceptual* resemblance—the fact that you deploy mental concepts in ways that presuppose you know what they refer to.
+
+**It addresses the sample-of-one problem.** While I might generalize rashly from my single case, the conceptual inheritance provides independent confirmation. Others have articulated distinctions I recognize, named experiences I hadn't labeled, and identified problems I face. This mutual illumination suggests genuine intersubjectivity.
+
+**It explains the possibility of miscommunication.** If consciousness discourse were mere social convention without shared referent, there would be no genuine disagreement about consciousness—just talking past each other. But philosophical debates about qualia, the hard problem, and the nature of experience exhibit genuine disagreement. People argue because they're pointing at the same phenomenon and disagreeing about its nature.
+
+The argument isn't conclusive—one could imagine an elaborate evolutionary or cultural explanation for consciousness discourse that doesn't require actual consciousness in speakers. But such explanations strain credulity. The simplest hypothesis is that others talk about consciousness because they, like you, have it.
 
 ## The Dualist's Dilemma
 
