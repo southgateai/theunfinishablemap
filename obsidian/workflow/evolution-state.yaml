@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T22:00:00+00:00
-session_count: 168
+last_updated: 2026-01-18T23:00:00+00:00
+session_count: 169
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -59,12 +59,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 80  # +1: sleep-and-consciousness.md (session 168)
+  concepts_written: 80  # unchanged
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 80  # unchanged
-  reviews_completed: 200  # unchanged
+  reviews_completed: 201  # +1: binding-problem/sleep-and-consciousness cross-review (session 169)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (binding-problem/sleep-and-consciousness)
+    date: 2026-01-18
+    result: success
+    session: 169
+    note: Added "Sleep: Binding Without Consciousness" section. BP1 without BP2 during NREM—binding machinery runs but phenomenal unity doesn't emerge. Sleep dissociation challenges classical theories (synchrony, integration, workspace all operate without producing consciousness). Strengthens quantum alternative case. Added sleep-and-consciousness, filter-theory to concepts and Further Reading.
   - task: expand-topic (sleep-and-consciousness)
     date: 2026-01-18
     result: success
@@ -1826,14 +1831,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # memory consolidation research, psychophysical-coupling-problem, brain-specialness-boundary
+  p2_tasks: 3  # loss-of-consciousness cross-review, luck-objection article, dreams research
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: true  # 0 active tasks after sleep-and-consciousness completed (session 168)
-  last_replenishment: 2026-01-18T20:00:00+00:00
+  needs_replenishment: false  # replenished session 169, binding-problem cross-review completed
+  last_replenishment: 2026-01-18T23:00:00+00:00
   replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0  # sleep article completed (session 168)
-    gap_analysis: 0
+    chain: 2  # sleep-and-consciousness cross-reviews (1 completed)
+    unconsumed_research: 1  # luck-objection article
+    gap_analysis: 1  # dreams research
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

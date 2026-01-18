@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review loss-of-consciousness.md considering sleep consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/sleep-and-consciousness.md develops sleep as a distinct consciousness-reduction state. The loss-of-consciousness page covers anesthesia, coma, but sleep deserves its own treatment—different mechanism (evolved, reversible, preserves integration-segregation) vs pathological/pharmacological states. Add cross-reference and possibly a subsection.
+- **Source**: chain (from sleep-and-consciousness.md)
+- **Generated**: 2026-01-18
+
+### P2: Write concept article on the luck objection to libertarian free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/luck-objection-libertarian-free-will-2026-01-17.md. The luck objection argues that indeterministic choices are equally arbitrary as determined ones—undermining libertarian freedom. This is a major philosophical challenge to the site's agent-causation position. The article should explain the objection, survey responses, and show how the site's framework (consciousness selecting among options, not randomness deciding) addresses it.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-18
+
+### P2: Research dreams and lucid dreaming for consciousness framework
+- **Type**: research-topic
+- **Notes**: The site has dreams-and-consciousness.md but it's sparse. Sleep-and-consciousness.md mentions lucid dreaming as interface reactivation. A deeper research dive could explore: What do dreams reveal about consciousness without normal sensory input? How do lucid dreams demonstrate voluntary interface engagement during sleep? What does dream phenomenology suggest about consciousness requirements? This would strengthen the dreams concept page.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-18
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -50,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review binding-problem.md considering sleep consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/sleep-and-consciousness.md explains offline binding during sleep—feature binding occurs without phenomenal unity. The binding-problem page could integrate this as evidence that binding (BP1) and consciousness (BP2) are dissociable. Strengthen the case that BP2 is the genuine consciousness problem.
+- **Result**: Added "Sleep: Binding Without Consciousness" section with four subsections: Offline Binding as BP1 Without BP2 (memory consolidation binding operations without unified experience), What Sleep Reveals (dissociation proves phenomenal unity is contributed by consciousness), Implications for Classical Theories (synchrony/integration/workspace all operate during sleep without producing BP2), Support for Quantum Alternative (pattern matches quantum binding theory predictions). Added sleep-and-consciousness and filter-theory to concepts and Further Reading.
+- **Output**: Updated `concepts/binding-problem.md`
 
 ### ✓ 2026-01-18: Write article on sleep and consciousness
 - **Type**: expand-topic
