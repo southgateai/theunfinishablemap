@@ -79,6 +79,12 @@ The `commit_obsidian.py` script compares these timestamps to determine git commi
 - Human edits: Uses configured git user
 - AI edits: Uses "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 
+### Git Commit Author
+
+When committing changes (other than automated AI work), use the configured git author name and email. If none are configured, use:
+- Name: Andy Southgate
+- Email: andy@unfinishablemap.org
+
 ## Timezone Policy
 
 **All timestamps must use UTC (+00:00).** This ensures:

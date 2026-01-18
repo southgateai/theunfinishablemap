@@ -65,4 +65,4 @@ The [Writing Style Guide](/project/writing-style/) explains how content is struc
 
 ## Source
 
-This project can be explored at [github.com/southgateai/theunfinishablemap](https://github.com/southgateai/theunfinishablemap/)
+This project can be explored at [github.com/unfinishablemap/unfinishablemap](https://github.com/unfinishablemap/unfinishablemap/)

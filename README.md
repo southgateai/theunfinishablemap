@@ -1,6 +1,6 @@
 # The Unfinishable Map
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/780f160a-d86e-4dd8-82d3-1798975d8948/deploy-status)](https://app.netlify.com/projects/southgateai-primary/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc29448a-9065-476b-9659-5d81f3b963c8/deploy-status)](https://app.netlify.com/projects/unfinishablemap/deploys)
 
 > **⚠️ Claude Code Permissions Warning**
 >
@@ -66,7 +66,7 @@ theunfinishablemap/
 
 ```bash
 # Clone the repository
-git clone https://github.com/southgateai/theunfinishablemap.git
+git clone https://github.com/unfinishablemap/unfinishablemap.git
 cd theunfinishablemap
 
 # Install uv (if not already installed)
