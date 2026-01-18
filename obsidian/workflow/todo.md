@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:51:00+00:00
+ai_modified: 2026-01-19T00:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review purpose-and-alignment.md considering emotional consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/emotional-consciousness.md discusses valence as intrinsic phenomenal property and its connection to phenomenal-value-realism.md. The purpose-and-alignment.md topic lists emotional-consciousness in related_articles but should be reviewed for integration opportunities—particularly whether experiential alignment should weight valenced states specially.
-- **Source**: chain (from emotional-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Research altered states of consciousness
 - **Type**: research-topic
 - **Notes**: Optimistic review 2026-01-18 identified opportunity. Systematic treatment of how consciousness varies across states—psychedelics, flow, hypnosis, anesthesia transitions. Different states may reflect different modes of quantum-level interaction, relevant to Minimal Quantum Interaction tenet.
 - **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
+### P2: Cross-review dreams-and-consciousness.md with 2025 neuroscience findings
+- **Type**: cross-review
+- **Notes**: Research in research/dreams-lucid-dreaming-consciousness-2026-01-18.md includes significant recent findings: Demirel 2025 showing lucid dreaming as distinct neural state, adversarial GNWT/IIT testing during dreams, metacognition-prefrontal connection. Update existing page with current science.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
+- **Type**: cross-review
+- **Notes**: Research in research/implicit-memory-consciousness-2026-01-18.md develops choking under pressure as direct empirical evidence for consciousness causally affecting neural processes—conscious attention disrupts automatic skills. Update existing basic page with this evidence supporting Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -80,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review purpose-and-alignment.md considering emotional consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/emotional-consciousness.md discusses valence as intrinsic phenomenal property and its connection to phenomenal-value-realism.md. The purpose-and-alignment.md topic lists emotional-consciousness in related_articles but should be reviewed for integration opportunities—particularly whether experiential alignment should weight valenced states specially.
+- **Result**: Added new "The Special Weight of Valence" subsection to Experiential Alignment section explaining why valence deserves special weight in alignment. Added comparison table (preference learning vs broad experiential vs valence-weighted). Integrated hedonic account, valence sentientism, and core affect research. Added emotional-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/purpose-and-alignment.md`
 
 ### ✓ 2026-01-19: Cross-review animal-consciousness.md considering emotional consciousness evidence
 - **Type**: cross-review

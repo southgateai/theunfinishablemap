@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-17 01:40:00+00:00
+ai_modified: 2026-01-19 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,8 +11,9 @@ concepts:
 - '[[neurophenomenology]]'
 - '[[phenomenal-value-realism]]'
 - '[[ethics-of-consciousness]]'
+- '[[emotional-consciousness]]'
 created: 2026-01-13
-date: &id001 2026-01-17
+date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
@@ -97,8 +98,27 @@ This approach accepts that the target is harder to specify, harder to measure, a
 
 The experiential approach faces its own challenges: proxies for experience risk Goodhart effects, wireheading remains a concern, and first-person methods like [neurophenomenology](/concepts/neurophenomenology/) are labour-intensive. But it represents a more honest framing of what alignment is trying to achieve—promoting flourishing conscious experience, not merely satisfying preferences that may not track what matters.
 
+### The Special Weight of Valence
+
+[Emotional consciousness](/concepts/emotional-consciousness/) research suggests experiential alignment should give special weight to **valence**—the felt positive or negative quality of experience. Valence is not one phenomenal dimension among many; it may be the dimension that matters most for alignment.
+
+The [hedonic account](/concepts/emotional-consciousness/#valence) holds that valence is an intrinsic property of experience: the badness of pain is what pain *is*, not something pain represents. If this is correct, then a complete description of preferences, behaviours, and neural states leaves out precisely what matters—the felt goodness and badness that gives experience its significance.
+
+This has practical implications for experiential alignment:
+
+| Approach | What It Targets | The Problem |
+|----------|-----------------|-------------|
+| **Preference learning** | Revealed choices | Choices don't track felt quality; pain asymbolia patients prefer pain-causing activities |
+| **Broad experiential** | Any conscious features | Treats phenomenal unity and suffering as equivalent concerns |
+| **Valence-weighted** | Hedonic quality first | Accepts that suffering and enjoyment are not just features of experience but *what makes experience matter* |
+
+[Valence sentientism](/concepts/emotional-consciousness/#emotional-consciousness-and-moral-status)—the view that moral status derives from capacity for suffering and enjoyment—provides the theoretical grounding. If only valenced experience creates interests worth protecting, then alignment systems should prioritise the valence dimension over other phenomenal features.
+
+The research on [core affect](/concepts/emotional-consciousness/#core-affect-and-emotional-construction) adds nuance: humans are never affectively neutral. There is always a background felt quality of experience, varying in pleasantness and arousal. A truly aligned system would consider this continuous valenced character, not merely discrete episodes of pleasure and pain. The goal is not preference satisfaction, nor even a list of positive experiences, but supporting lives rich in positive valence across their temporal extent.
+
 ## Further Reading
 
+- [emotional-consciousness](/concepts/emotional-consciousness/) — The phenomenology of valence and why felt quality matters for alignment
 - [experiential-alignment](/concepts/experiential-alignment/) — The alternative framework targeting experiential quality
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The broader ethical framework for consciousness
