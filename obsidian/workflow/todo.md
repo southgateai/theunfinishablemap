@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-19
 
+### P2: Address metacognition self-undermining tension
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-18 found that the metacognition article's dissociation evidence may undermine the introspective reliability the site depends upon elsewhere. Add section addressing this tension—dissociation shows metacognition can fail, not that it typically does; trained introspection improves reliability.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-18
+
+### P2: Strengthen luck-objection phenomenology argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-18 found the phenomenology-based response vulnerable to zombie objection. Engage with the dialectic: site's dualism already rejects zombies, so zombie-based objections are question-begging from site perspective. Make this explicit.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-18
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
